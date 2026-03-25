@@ -1,14 +1,14 @@
-# Alinéa
+# En Clair
 
 **Le droit et l'économie, sans le jargon.**
 
-Alinéa est un média numérique indépendant propulsé par l'intelligence artificielle, sous direction éditoriale humaine. Il produit de l'analyse juridique et économique de qualité professionnelle — sourcée, vérifiable, actionnable — à destination des dirigeants, DRH, DAF et décideurs.
+En Clair est un média numérique indépendant propulsé par l'intelligence artificielle, sous direction éditoriale humaine. Il produit de l'analyse juridique et économique de qualité professionnelle — sourcée, vérifiable, actionnable — à destination des dirigeants, DRH, DAF et décideurs.
 
 ## La thèse
 
 Les éditeurs juridiques traditionnels (Dalloz, LexisNexis, Lefebvre) facturent 3 000 à 15 000 €/an pour de l'information juridique destinée aux juristes. Les médias économiques grand public (Les Echos, Challenges) ne vont pas assez en profondeur sur le droit.
 
-**Alinéa se positionne entre les deux** : la profondeur d'un éditeur juridique, l'accessibilité d'un média business, le format d'une newsletter moderne — à un coût de production quasi nul grâce à l'IA.
+**En Clair se positionne entre les deux** : la profondeur d'un éditeur juridique, l'accessibilité d'un média business, le format d'une newsletter moderne — à un coût de production quasi nul grâce à l'IA.
 
 ## Le positionnement
 
@@ -44,7 +44,7 @@ Chaque article cite ses sources avec les références exactes (numéro de pourvo
 ## Structure du projet
 
 ```
-alinea-media/
+enclair-media/
 ├── src/
 │   ├── app/                    # Pages Next.js (App Router)
 │   │   ├── page.tsx            # Homepage
@@ -114,5 +114,5 @@ Le site est accessible sur `http://localhost:3000`.
 
 ## Licence
 
-Contenu éditorial © Alinéa / DAIRIA Avocats — Tous droits réservés.
+Contenu éditorial © En Clair / DAIRIA Avocats — Tous droits réservés.
 Code source sous licence MIT.

@@ -1,7 +1,7 @@
 {
-  "name": "alinea-media",
+  "name": "enclair-media",
   "version": "1.0.0",
-  "description": "Alinéa — Le droit et l'économie, sans le jargon",
+  "description": "En Clair — Le droit et l'économie, sans le jargon",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

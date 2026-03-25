@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="font-bold text-alinea-950 text-lg" style={{ fontFamily: "var(--font-serif)" }}>
-              Alinéa
+              En Clair
             </h3>
             <p className="mt-2 text-sm text-alinea-500 leading-relaxed">
               Le droit et l&apos;économie qui comptent.<br />
@@ -25,7 +25,7 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold text-alinea-700 text-sm uppercase tracking-wide">À propos</h4>
             <p className="mt-3 text-sm text-alinea-500 leading-relaxed">
-              Alinéa est un média indépendant propulsé par l&apos;intelligence artificielle,
+              En Clair est un média indépendant propulsé par l&apos;intelligence artificielle,
               sous direction éditoriale humaine. Chaque source est vérifiable.
               Chaque analyse est sourcée.
             </p>
@@ -35,7 +35,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-6 border-t border-alinea-100 text-center text-xs text-alinea-400">
-          © {new Date().getFullYear()} Alinéa — Tous droits réservés
+          © {new Date().getFullYear()} En Clair — Tous droits réservés
         </div>
       </div>
     </footer>

@@ -29,7 +29,7 @@ export default function NewsletterForm() {
   return (
     <div id="newsletter" className="bg-alinea-950 rounded-xl p-8 md:p-12 text-center">
       <h2 className="text-2xl md:text-3xl font-bold text-white" style={{ fontFamily: "var(--font-serif)" }}>
-        Recevez Alinéa chaque semaine
+        Recevez En Clair chaque semaine
       </h2>
       <p className="mt-3 text-alinea-400 max-w-lg mx-auto">
         Le brief juridique et économique pour les dirigeants qui n&apos;ont pas le temps de lire le Journal Officiel.
@@ -38,7 +38,7 @@ export default function NewsletterForm() {
 
       {status === "success" ? (
         <div className="mt-6 bg-emerald-900/30 border border-emerald-700 rounded-lg p-4 max-w-md mx-auto">
-          <p className="text-emerald-300 font-medium">Bienvenue dans Alinéa. Premier brief à venir.</p>
+          <p className="text-emerald-300 font-medium">Bienvenue dans En Clair. Premier brief à venir.</p>
         </div>
       ) : (
         <form onSubmit={handleSubmit} className="mt-6 flex flex-col sm:flex-row gap-3 max-w-md mx-auto">

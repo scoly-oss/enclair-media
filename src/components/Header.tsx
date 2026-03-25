@@ -7,7 +7,7 @@ export default function Header() {
         <Link href="/" className="flex items-center gap-3">
           <div className="flex flex-col">
             <span className="text-2xl font-bold tracking-tight text-alinea-950" style={{ fontFamily: "var(--font-serif)" }}>
-              Alinéa
+              En Clair
             </span>
             <span className="text-xs text-alinea-500 tracking-wide uppercase">
               Droit · Économie · Décisions

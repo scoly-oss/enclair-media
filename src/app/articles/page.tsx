@@ -2,8 +2,8 @@ import { getAllArticles } from "@/lib/articles";
 import ArticleCard from "@/components/ArticleCard";
 
 export const metadata = {
-  title: "Articles — Alinéa",
-  description: "Toutes les analyses juridiques et économiques d'Alinéa.",
+  title: "Articles — En Clair",
+  description: "Toutes les analyses juridiques et économiques d'En Clair.",
 };
 
 export default function ArticlesPage() {

@@ -4,11 +4,11 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Alinéa — Le droit et l'économie, sans le jargon",
+  title: "En Clair — Le droit et l'économie, sans le jargon",
   description:
     "Le brief juridique et économique pour les dirigeants. Droit social, jurisprudence, analyse économique — sourcé, clair, actionnable.",
   openGraph: {
-    title: "Alinéa",
+    title: "En Clair",
     description: "Le droit et l'économie qui comptent. Sans le jargon.",
     type: "website",
     locale: "fr_FR",

@@ -15,8 +15,8 @@ export default function Home() {
           className="text-4xl md:text-5xl font-bold text-alinea-950 leading-tight"
           style={{ fontFamily: "var(--font-serif)" }}
         >
-          Le droit et l&apos;économie<br />
-          <span className="text-accent-dark">sans le jargon.</span>
+          Le droit et l&apos;économie,<br />
+          <span className="text-accent-dark">en clair.</span>
         </h1>
         <p className="mt-4 text-lg text-alinea-600 max-w-2xl mx-auto">
           Chaque semaine, l&apos;essentiel du droit social, de la jurisprudence et de l&apos;actualité

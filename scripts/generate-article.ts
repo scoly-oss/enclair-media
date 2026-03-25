@@ -1,6 +1,6 @@
 #!/usr/bin/env npx ts-node
 /**
- * Alinéa — Pipeline de génération d'articles
+ * En Clair — Pipeline de génération d'articles
  *
  * Ce script est conçu pour être appelé par Claude (via Claude Code ou Agent SDK)
  * pour produire des articles sourcés à partir des bases juridiques.
@@ -159,6 +159,6 @@ ${s.action}
 export type { ArticleFrontmatter, ArticleTemplate };
 export { VEILLE_TOPICS, slugify, generateMarkdown };
 
-console.log("Alinéa — Pipeline de génération");
+console.log("En Clair — Pipeline de génération");
 console.log(`${VEILLE_TOPICS.length} catégories de veille configurées`);
 console.log("Catégories :", VEILLE_TOPICS.map(t => t.name).join(", "));
