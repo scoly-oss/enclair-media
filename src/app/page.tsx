@@ -1,6 +1,7 @@
 import { getAllArticles } from "@/lib/articles";
 import ArticleCard from "@/components/ArticleCard";
 import NewsletterForm from "@/components/NewsletterForm";
+import ServicesCTA from "@/components/ServicesCTA";
 
 export default function Home() {
   const articles = getAllArticles();
@@ -54,6 +55,9 @@ export default function Home() {
           </div>
         </section>
       )}
+
+      {/* Services CTA */}
+      <ServicesCTA />
 
       {/* Value proposition */}
       <section className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-14">

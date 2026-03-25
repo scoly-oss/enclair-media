@@ -18,6 +18,9 @@ export default function Header() {
           <Link href="/articles" className="hover:text-alinea-900 transition-colors">
             Articles
           </Link>
+          <Link href="/a-propos" className="hover:text-alinea-900 transition-colors">
+            À propos
+          </Link>
           <Link href="#newsletter" className="bg-alinea-950 text-white px-4 py-2 rounded-md text-sm hover:bg-alinea-800 transition-colors">
             S&apos;abonner
           </Link>
