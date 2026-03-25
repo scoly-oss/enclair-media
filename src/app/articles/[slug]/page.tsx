@@ -28,43 +28,54 @@ export default async function ArticlePage({ params }: Props) {
   if (!article) notFound();
 
   return (
-    <div className="mx-auto max-w-3xl px-4 py-10">
-      <div className="mb-6">
-        <div className="flex items-center gap-3 mb-3">
-          <span className={`text-xs font-medium px-2 py-0.5 rounded ${getCategoryColor(article.category)}`}>
+    <div className="mx-auto max-w-[680px] px-6 py-12 md:py-16">
+      {/* Header */}
+      <header className="mb-12">
+        <div className="flex items-center gap-3 mb-5">
+          <span className={`text-[12px] font-medium px-2.5 py-1 rounded-full ${getCategoryColor(article.category)}`}>
             {getCategoryLabel(article.category)}
           </span>
-          <time className="text-sm text-alinea-400">{article.date}</time>
-          <span className="text-sm text-alinea-400">· {article.readTime}</span>
+          <span className="text-[13px] text-alinea-400">{article.date}</span>
+          <span className="text-[13px] text-alinea-400">· {article.readTime}</span>
         </div>
+
         <h1
-          className="text-3xl md:text-4xl font-bold text-alinea-950 leading-tight"
+          className="text-3xl md:text-[2.75rem] font-bold text-alinea-950 leading-[1.15] tracking-tight"
           style={{ fontFamily: "var(--font-serif)" }}
         >
           {article.title}
         </h1>
-        <p className="mt-3 text-lg text-alinea-600">{article.excerpt}</p>
-      </div>
 
+        <p className="mt-5 text-lg md:text-xl text-alinea-500 leading-relaxed">
+          {article.excerpt}
+        </p>
+      </header>
+
+      {/* Content */}
       <article
-        className="prose prose-lg max-w-none"
+        className="prose max-w-none"
         dangerouslySetInnerHTML={{ __html: article.contentHtml }}
       />
 
+      {/* Sources */}
       {article.sources && article.sources.length > 0 && (
-        <div className="mt-10 pt-6 border-t border-alinea-200">
-          <h3 className="text-sm font-semibold text-alinea-400 uppercase tracking-wide mb-3">Sources</h3>
-          <ul className="space-y-1 text-sm text-alinea-500">
+        <div className="mt-16 pt-8 border-t border-alinea-100">
+          <h3 className="text-[12px] font-medium text-alinea-400 uppercase tracking-[0.12em] mb-4">
+            Sources
+          </h3>
+          <ul className="space-y-2">
             {article.sources.map((source, i) => (
-              <li key={i}>
-                [{i + 1}] {source}
+              <li key={i} className="text-[14px] text-alinea-500 leading-relaxed">
+                <span className="text-alinea-400">[{i + 1}]</span>{" "}
+                {source}
               </li>
             ))}
           </ul>
         </div>
       )}
 
-      <div className="mt-12">
+      {/* Newsletter */}
+      <div className="mt-20">
         <NewsletterForm />
       </div>
     </div>
