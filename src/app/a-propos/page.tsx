@@ -43,20 +43,23 @@ export default function AProposPage() {
           en analyse.
         </p>
 
-        <h2 style={{ fontFamily: "var(--font-serif)" }}>Qui est derrière</h2>
+        <h2 style={{ fontFamily: "var(--font-serif)" }}>Qui sommes-nous</h2>
         <p>
-          En Clair est édité par <strong>DAIRIA Avocats</strong>, cabinet spécialisé en droit social.
-          Direction de la publication : Sofiane Coly et Loïc Guitton, avocats au Barreau de Lyon.
+          En Clair est un média indépendant fondé par des avocats en droit social.
+          Notre rédaction combine l&apos;expertise juridique de praticiens en exercice avec
+          la puissance de l&apos;intelligence artificielle pour produire du contenu fiable à un rythme
+          que les rédactions traditionnelles ne peuvent pas tenir.
         </p>
         <p>
-          Ce média est né d&apos;un constat simple : nos clients nous posent chaque semaine les mêmes
-          questions sur les évolutions du droit du travail. Plutôt que de répondre un par un,
-          nous avons décidé de répondre à tous — publiquement, gratuitement, et sans jargon.
+          Directeur de la publication :{" "}
+          <a href="https://sofianecoly.com" target="_blank" rel="noopener noreferrer">Sofiane Coly</a>,
+          avocat au Barreau de Lyon.
         </p>
 
-        <h2 style={{ fontFamily: "var(--font-serif)" }}>L&apos;écosystème</h2>
+        <h2 style={{ fontFamily: "var(--font-serif)" }}>Nos recommandations</h2>
         <p>
-          En Clair fait partie d&apos;un écosystème de services pour les dirigeants et les DRH :
+          Parce que l&apos;information ne suffit pas toujours, nous recommandons des professionnels
+          de confiance pour passer à l&apos;action :
         </p>
       </div>
 
@@ -64,34 +67,34 @@ export default function AProposPage() {
         <Link
           href="https://dairia-avocats.fr"
           target="_blank"
-          className="block border border-blue-200 rounded-xl p-5 hover:bg-blue-50 transition-all"
+          className="block border border-alinea-200 rounded-xl p-5 hover:bg-alinea-50 transition-all"
         >
-          <h3 className="font-bold text-alinea-950">DAIRIA Avocats</h3>
-          <p className="mt-1 text-sm text-alinea-600">
-            Contentieux prud&apos;homal, licenciements, négociations collectives.
-            Le cabinet qui défend les employeurs.
+          <h3 className="font-semibold text-alinea-950">Contentieux prud&apos;homal</h3>
+          <p className="mt-1 text-sm text-alinea-500">
+            Un cabinet d&apos;avocats spécialisé en droit social
+            pour accompagner les employeurs.
           </p>
         </Link>
         <Link
           href="https://dairia-ia.fr"
           target="_blank"
-          className="block border border-purple-200 rounded-xl p-5 hover:bg-purple-50 transition-all"
+          className="block border border-alinea-200 rounded-xl p-5 hover:bg-alinea-50 transition-all"
         >
-          <h3 className="font-bold text-alinea-950">DAIRIA IA</h3>
-          <p className="mt-1 text-sm text-alinea-600">
-            Intelligence artificielle appliquée au droit. Automatisation,
-            veille, analyse de conformité.
+          <h3 className="font-semibold text-alinea-950">IA &amp; conformité</h3>
+          <p className="mt-1 text-sm text-alinea-500">
+            Des solutions d&apos;intelligence artificielle pour automatiser
+            la veille et la conformité RH.
           </p>
         </Link>
         <Link
           href="https://gerermesatmp.fr"
           target="_blank"
-          className="block border border-emerald-200 rounded-xl p-5 hover:bg-emerald-50 transition-all"
+          className="block border border-alinea-200 rounded-xl p-5 hover:bg-alinea-50 transition-all"
         >
-          <h3 className="font-bold text-alinea-950">GérerMesAT/MP</h3>
-          <p className="mt-1 text-sm text-alinea-600">
-            Optimisation des taux AT/MP, contestation des décisions,
-            audit de vos cotisations.
+          <h3 className="font-semibold text-alinea-950">Optimisation AT/MP</h3>
+          <p className="mt-1 text-sm text-alinea-500">
+            Audit et contestation des taux de cotisation
+            accidents du travail et maladies professionnelles.
           </p>
         </Link>
       </div>

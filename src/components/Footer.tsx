@@ -30,7 +30,11 @@ export default function Footer() {
               Chaque analyse est sourcée.
             </p>
             <p className="mt-3 text-xs text-alinea-400">
-              Éditeur : DAIRIA Avocats · Direction de la publication : Sofiane Coly
+              Direction de la publication :{" "}
+              <a href="https://sofianecoly.com" target="_blank" rel="noopener noreferrer" className="underline hover:text-alinea-600">
+                Sofiane Coly
+              </a>
+              {" "}· Avocat au Barreau de Lyon
             </p>
           </div>
         </div>
