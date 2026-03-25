@@ -1,77 +1,109 @@
 ---
 title: "Forfait jours nul = heures supplémentaires dues : le risque que 80% des PME ignorent"
-excerpt: "La nullité du forfait jours ouvre droit à un rappel d'heures supplémentaires sur 3 ans. Les conditions pour que votre convention tienne — et ce qui se passe quand elle ne tient pas."
+excerpt: "La nullité du forfait jours ouvre droit à un rappel d'heures supplémentaires sur 3 ans. Votre convention tient-elle la route ? Voici comment vérifier."
 date: "2026-03-20"
 category: "droit-social"
 tags: ["forfait-jours", "heures-supplementaires", "convention-collective", "cadres"]
 readTime: "6 min"
 sources:
+  - "Article L.3121-64 du Code du travail (vérifié sur Légifrance, en vigueur depuis le 22/12/2017)"
   - "Cass. soc., 2 avril 2025, n°23-23.975"
   - "Cass. soc., 14 mai 2025, n°24-12.508"
   - "Cass. soc., 13 novembre 2025, n°23-23.535"
   - "Cass. soc., 28 janvier 2026, n°24-11.307"
-  - "Article L.3121-64 du Code du travail"
 ---
 
-Vous avez des cadres au forfait jours. Ils ne pointent pas. Ils gèrent leur emploi du temps. Tout va bien — jusqu'au jour où l'un d'eux part et conteste sa convention de forfait devant les prud'hommes.
+Vous avez des cadres au forfait jours. Ils ne pointent pas. Ils gèrent leur emploi du temps comme des grands. Tout roule — jusqu'au jour où l'un d'eux part et conteste sa convention de forfait aux prud'hommes.
 
-Si la convention est déclarée nulle, le salarié bascule rétroactivement sur un régime horaire de 35 heures. Et il peut réclamer un rappel d'heures supplémentaires sur 3 ans, majorations incluses. L'addition ? Rarement en dessous de 30 000 euros. Souvent bien au-dessus.
+**La question que vous devez vous poser maintenant** : est-ce que ma convention de forfait jours tiendrait devant un juge ?
 
-## Pourquoi les forfaits jours sautent
+Si la réponse est "je ne sais pas" ou "probablement", lisez ce qui suit. Parce que si elle est déclarée nulle, votre cadre bascule rétroactivement sur un régime de 35 heures. Et il peut réclamer un rappel d'heures supplémentaires sur 3 ans.
 
-La chambre sociale de la Cour de cassation annule des conventions de forfait en jours à un rythme soutenu. En 2025-2026, au moins quatre arrêts confirment cette tendance.
+L'addition ? Rarement en dessous de 30 000 €. Souvent bien au-dessus.
 
-Les motifs sont toujours les mêmes :
+## Pourquoi les forfaits jours sautent en série
 
-### L'accord collectif est insuffisant
+La chambre sociale casse des conventions de forfait en jours à un rythme soutenu. En 2025-2026, au moins quatre arrêts le confirment. Les motifs sont toujours les mêmes.
 
-L'article L.3121-64 du Code du travail impose que l'accord collectif qui autorise le recours au forfait jours contienne des garanties précises :
-- Modalités de suivi de la charge de travail
-- Entretien annuel obligatoire sur la charge de travail, l'articulation vie pro/perso, et la rémunération
-- Droit à la déconnexion
+### Votre accord collectif est-il suffisant ?
 
-Si votre convention collective de branche ou votre accord d'entreprise ne prévoit pas ces garanties, **toutes les conventions individuelles de forfait conclues sur ce fondement sont nulles.** Ce n'est pas un risque théorique — c'est le fondement de la majorité des contentieux actuels.
+L'article L.3121-64 du Code du travail est très précis. L'accord collectif qui autorise le forfait jours **doit** contenir :
 
-### La convention individuelle est mal rédigée
+- Les modalités de **suivi régulier de la charge de travail** par l'employeur
+- Les modalités de **communication périodique** entre employeur et salarié sur la charge de travail, l'articulation vie pro/vie perso, la rémunération et l'organisation du travail
+- Les modalités d'exercice du **droit à la déconnexion**
 
-Même avec un bon accord collectif, la convention individuelle signée par le salarié doit :
-- Être écrite (avenant au contrat de travail)
-- Mentionner le nombre de jours travaillés dans l'année
-- Faire référence à l'accord collectif applicable
+Votre convention collective de branche ne prévoit pas tout ça ? **Toutes les conventions individuelles de forfait conclues sur ce fondement sont nulles.** Ce n'est pas théorique — c'est le motif principal des contentieux actuels.
 
-Une clause vague du type "le salarié est soumis à un forfait jours" sans précision du nombre de jours ou de l'accord de référence est insuffisante.
+> Posez-vous la question : avez-vous lu votre accord de branche ou d'entreprise sur le forfait jours ? Savez-vous ce qu'il contient exactement ?
 
-### L'employeur ne respecte pas les garanties en pratique
+### Votre avenant individuel est-il complet ?
 
-Avoir un bon accord et une bonne convention ne suffit pas. Encore faut-il appliquer les garanties :
-- **L'entretien annuel a-t-il eu lieu ?** Si vous ne pouvez pas prouver qu'un entretien spécifique sur la charge de travail a été tenu, la convention peut être privée d'effet.
-- **Le suivi de la charge est-il effectif ?** Des RTT accordés ne valent pas suivi de la charge de travail.
+Même avec un bon accord collectif, l'avenant signé par le salarié doit :
 
-## Ce que dit la jurisprudence récente
+- Être **écrit** (pas juste une mention dans le contrat initial)
+- Mentionner le **nombre de jours travaillés** dans l'année (maximum 218 jours)
+- Faire **référence à l'accord collectif** applicable
 
-**Cass. soc., 14 mai 2025, n°24-12.508** : Un salarié obtient la nullité de sa convention de forfait et réclame des heures supplémentaires. La Cour d'appel le déboute malgré la nullité. La Cour de cassation casse : **une fois la convention nulle, le salarié est en droit de prétendre au paiement des heures supplémentaires.** La nullité n'est pas un constat platonique — elle a des conséquences financières immédiates.
+Une clause vague du type "le salarié est soumis à un forfait jours" sans précision ? Insuffisante.
 
-**Cass. soc., 13 novembre 2025, n°23-23.535** : Le salarié demande la nullité du forfait jours. L'employeur argue que des jours de RTT ont été accordés et que le salarié avait lui-même candidaté à un départ volontaire. La Cour de cassation ne retient pas ces arguments : **le bénéfice de RTT ne démontre pas que l'employeur a effectivement contrôlé la charge de travail.**
+### Appliquez-vous réellement les garanties ?
 
-## Le chiffrage du risque
+Avoir un bon accord et un bon avenant ne suffit pas. C'est dans l'exécution que ça se joue.
 
-Prenons un cadre au forfait jours qui travaille en réalité 45 heures par semaine (ce qui est courant) :
+**Cass. soc., 13 novembre 2025, n°23-23.535** : l'employeur argue que des jours de repos ont été accordés au salarié. La Cour de cassation ne retient pas l'argument. **Le bénéfice de jours de repos ne démontre pas que l'employeur a effectivement contrôlé la charge de travail.**
 
-- 10 heures supplémentaires par semaine × 47 semaines = 470 heures/an
-- Les 8 premières heures supplémentaires par semaine sont majorées à 25%, les suivantes à 50%
-- Sur un salaire de base de 4 000 € brut/mois (taux horaire ~26 €)
-- Rappel annuel estimé : **~16 000 €**
-- Sur 3 ans de prescription : **~48 000 €**
+Autrement dit : donner des jours off ne vous protège pas. Ce qui vous protège, c'est de **prouver** que vous avez suivi la charge.
 
-Ajoutez l'indemnité pour travail dissimulé (6 mois de salaire) si le juge considère que l'employeur a sciemment omis de décompter les heures, et vous atteignez **70 000 à 80 000 €**.
+## Le chiffrage — pour que ce soit concret
 
-## Les 4 vérifications à faire maintenant
+Prenons un cadre au forfait jours qui travaille en réalité 45 heures par semaine (courant, soyons honnêtes) :
 
-1. **Votre accord collectif de branche est-il conforme ?** Vérifiez qu'il contient les clauses de suivi de charge, d'entretien annuel et de déconnexion exigées par L.3121-64.
-2. **Vos avenants individuels sont-ils complets ?** Nombre de jours, référence à l'accord, signature du salarié.
-3. **Les entretiens annuels de charge de travail ont-ils lieu ?** Et sont-ils distincts de l'entretien d'évaluation classique ?
-4. **Le suivi est-il documenté ?** Un tableau de décompte des jours travaillés et des repos, renseigné régulièrement, est le minimum.
+| Donnée | Calcul |
+|--------|--------|
+| Heures supp par semaine | 10h (45h - 35h) |
+| Semaines travaillées/an | 47 |
+| Heures supp annuelles | 470h |
+| Majoration moyenne | ~30% (25% pour les 8 premières, 50% ensuite) |
+| Salaire de base | 4 000 € brut/mois (taux horaire ~26 €) |
+| **Rappel annuel estimé** | **~16 000 €** |
+| **Sur 3 ans de prescription** | **~48 000 €** |
+
+Ajoutez l'indemnité pour travail dissimulé (6 mois de salaire = 24 000 €) si le juge considère que vous avez sciemment omis de décompter les heures.
+
+**Total potentiel : 70 000 à 80 000 €. Par salarié.**
+
+## Votre plan d'action — à faire cette semaine
+
+Pas le mois prochain. Cette semaine. Voici les 4 vérifications à mener :
+
+### 1. Vérifiez votre accord collectif
+
+Allez chercher votre convention de branche ou votre accord d'entreprise. Lisez la partie sur le forfait jours. Est-ce que les 3 garanties de L.3121-64 y figurent (suivi de charge, communication périodique, déconnexion) ? Si non, vous avez un problème structurel.
+
+### 2. Sortez vos avenants individuels
+
+Pour chaque cadre en forfait jours, vérifiez : nombre de jours mentionné ? Référence à l'accord ? Signature ? Si un seul avenant est incomplet, c'est une bombe à retardement.
+
+### 3. L'entretien annuel de charge de travail a-t-il eu lieu ?
+
+Attention : ce n'est **pas** l'entretien d'évaluation annuel classique. C'est un entretien **spécifique** sur la charge de travail, l'articulation vie pro/perso, et la rémunération. Distinct. Documenté. Signé.
+
+Si vous ne pouvez pas produire ce document devant un juge, la convention peut être privée d'effet.
+
+### 4. Mettez en place un suivi documenté
+
+Un tableau de décompte des jours travaillés et des jours de repos, renseigné régulièrement par le salarié et visé par le manager. C'est le minimum. Certaines entreprises utilisent un logiciel de gestion des temps — c'est encore mieux.
+
+## Les questions à vous poser
+
+- Combien de cadres avez-vous en forfait jours ?
+- Leur avenant est-il complet et signé ?
+- L'entretien charge de travail a-t-il eu lieu cette année ?
+- Si un cadre partait demain et contestait, auriez-vous les preuves ?
+
+Si vous avez répondu "non" ou "je ne sais pas" à ne serait-ce qu'une de ces questions, vous êtes exposé.
 
 ---
 
-*Le forfait jours est un outil de flexibilité précieux — à condition d'être juridiquement blindé. Quand il ne l'est pas, c'est le contentieux le plus rentable pour un salarié qui part : peu de preuves à apporter (c'est à l'employeur de prouver), et un chiffrage mécaniquement élevé.*
+*Le forfait jours est un outil de flexibilité précieux — à condition d'être juridiquement solide. Quand il ne l'est pas, c'est le contentieux le plus rentable pour un salarié qui part : peu de preuves à apporter de son côté, et un chiffrage mécaniquement élevé du vôtre.*

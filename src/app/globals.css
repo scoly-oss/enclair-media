@@ -116,19 +116,47 @@ body {
 
 .prose table {
   width: 100%;
-  margin: 2em 0;
-  border-collapse: collapse;
-  font-size: 0.95rem;
+  margin: 2.5em 0;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  border: 1px solid var(--color-alinea-200);
+  border-radius: 8px;
+  overflow: hidden;
 }
 
 .prose th, .prose td {
-  padding: 0.75rem 1rem;
-  border-bottom: 1px solid var(--color-alinea-200);
+  padding: 0.85rem 1.2rem;
+  border-bottom: 1px solid var(--color-alinea-100);
   text-align: left;
+  vertical-align: top;
+}
+
+.prose tr:last-child td {
+  border-bottom: none;
 }
 
 .prose th {
   font-weight: 600;
-  color: var(--color-alinea-950);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-alinea-600);
   background: var(--color-alinea-50);
+  border-bottom: 1px solid var(--color-alinea-200);
+}
+
+.prose tr:hover td {
+  background: var(--color-alinea-50);
+}
+
+/* Responsive tables */
+@media (max-width: 640px) {
+  .prose table {
+    font-size: 0.82rem;
+  }
+  .prose th, .prose td {
+    padding: 0.6rem 0.8rem;
+  }
 }
