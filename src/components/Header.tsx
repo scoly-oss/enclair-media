@@ -16,6 +16,9 @@ export default function Header() {
           </span>
         </Link>
         <nav className="hidden md:flex items-center gap-8 text-[15px] text-alinea-500">
+          <Link href="/rubriques" className="hover:text-alinea-900 transition-colors">
+            Rubriques
+          </Link>
           <Link href="/articles" className="hover:text-alinea-900 transition-colors">
             Articles
           </Link>
