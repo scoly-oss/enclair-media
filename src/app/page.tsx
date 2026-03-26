@@ -12,7 +12,7 @@ export default function Home() {
       {/* Hero */}
       <section className="text-center py-20 md:py-28">
         <p className="text-[13px] font-medium text-accent-dark uppercase tracking-[0.15em] mb-6">
-          Pour les dirigeants, DRH, DAF et experts-comptables
+          Pour les dirigeantes et dirigeants, DRH, DAF et experts-comptables
         </p>
         <h1
           className="text-4xl md:text-[3.5rem] font-bold text-alinea-950 leading-[1.1] tracking-tight"

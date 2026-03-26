@@ -37,10 +37,10 @@ export default function AProposPage() {
           et qui n&apos;ont pas le temps de lire le Journal Officiel :
         </p>
         <ul>
-          <li><strong>Dirigeants et patrons de PME/ETI</strong> — vous signez les contrats, vous portez le risque</li>
+          <li><strong>Dirigeantes et dirigeants de PME/ETI</strong> — vous signez les contrats, vous portez le risque</li>
           <li><strong>DRH et responsables RH</strong> — vous gérez les situations au quotidien</li>
           <li><strong>DAF</strong> — vous chiffrez les provisions et les risques sociaux</li>
-          <li><strong>Experts-comptables</strong> — vous accompagnez vos clients sur la paie et le social</li>
+          <li><strong>Expertes-comptables et experts-comptables</strong> — vous accompagnez vos clients sur la paie et le social</li>
         </ul>
         <p>
           En Clair est votre allié. Pas un journal. Pas un service juridique.
