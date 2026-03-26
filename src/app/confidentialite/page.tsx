@@ -1,8 +1,28 @@
 import Link from "next/link";
+import type { Metadata } from "next";
 
-export const metadata = {
-  title: "Politique de confidentialité — En Clair",
-  description: "Comment En Clair collecte, utilise et protège vos données personnelles.",
+export const metadata: Metadata = {
+  title: "Politique de confidentialité",
+  description:
+    "Comment En Clair collecte, utilise et protège vos données personnelles. RGPD, droits d'accès, désinscription.",
+  alternates: {
+    canonical: "/confidentialite",
+  },
+  openGraph: {
+    title: "Politique de confidentialité — En Clair",
+    description:
+      "Comment En Clair collecte, utilise et protège vos données personnelles.",
+    type: "website",
+    url: "https://enclair.media/confidentialite",
+    locale: "fr_FR",
+    siteName: "En Clair",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Politique de confidentialité — En Clair",
+    description:
+      "Comment En Clair collecte, utilise et protège vos données personnelles.",
+  },
 };
 
 export default function ConfidentialitePage() {

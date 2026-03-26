@@ -1,8 +1,28 @@
 import NewsletterForm from "@/components/NewsletterForm";
+import type { Metadata } from "next";
 
-export const metadata = {
-  title: "À propos — En Clair",
-  description: "En Clair est le média qui vous montre ce qui peut vous coûter cher — avant que ça vous coûte cher.",
+export const metadata: Metadata = {
+  title: "À propos",
+  description:
+    "En Clair est le média qui vous montre ce qui peut vous coûter cher — avant que ça vous coûte cher. Fondé par Sofiane Coly, avocat en droit social.",
+  alternates: {
+    canonical: "/a-propos",
+  },
+  openGraph: {
+    title: "À propos — En Clair",
+    description:
+      "En Clair est le média qui vous montre ce qui peut vous coûter cher — avant que ça vous coûte cher.",
+    type: "website",
+    url: "https://enclair.media/a-propos",
+    locale: "fr_FR",
+    siteName: "En Clair",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "À propos — En Clair",
+    description:
+      "En Clair est le média qui vous montre ce qui peut vous coûter cher — avant que ça vous coûte cher.",
+  },
 };
 
 export default function AProposPage() {

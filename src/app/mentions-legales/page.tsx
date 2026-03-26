@@ -1,8 +1,28 @@
 import Link from "next/link";
+import type { Metadata } from "next";
 
-export const metadata = {
-  title: "Mentions légales — En Clair",
-  description: "Mentions légales du site enclair.media, éditeur, hébergeur et conditions d'utilisation.",
+export const metadata: Metadata = {
+  title: "Mentions légales",
+  description:
+    "Mentions légales du site enclair.media — éditeur, hébergeur, propriété intellectuelle et conditions d'utilisation.",
+  alternates: {
+    canonical: "/mentions-legales",
+  },
+  openGraph: {
+    title: "Mentions légales — En Clair",
+    description:
+      "Mentions légales du site enclair.media, éditeur, hébergeur et conditions d'utilisation.",
+    type: "website",
+    url: "https://enclair.media/mentions-legales",
+    locale: "fr_FR",
+    siteName: "En Clair",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Mentions légales — En Clair",
+    description:
+      "Mentions légales du site enclair.media, éditeur, hébergeur et conditions d'utilisation.",
+  },
 };
 
 export default function MentionsLegalesPage() {

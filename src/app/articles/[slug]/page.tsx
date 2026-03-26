@@ -3,6 +3,8 @@ import { notFound } from "next/navigation";
 import NewsletterForm from "@/components/NewsletterForm";
 import type { Metadata } from "next";
 
+const BASE_URL = "https://enclair.media";
+
 interface Props {
   params: Promise<{ slug: string }>;
 }
@@ -16,9 +18,30 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const article = await getArticleBySlug(slug);
   if (!article) return {};
+
+  const url = `${BASE_URL}/articles/${slug}`;
+
   return {
-    title: `${article.title} — En Clair`,
+    title: article.title,
     description: article.excerpt,
+    alternates: {
+      canonical: `/articles/${slug}`,
+    },
+    openGraph: {
+      title: article.title,
+      description: article.excerpt,
+      type: "article",
+      url,
+      locale: "fr_FR",
+      siteName: "En Clair",
+      publishedTime: article.date,
+      authors: ["Sofiane Coly"],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description: article.excerpt,
+    },
   };
 }
 
@@ -27,8 +50,36 @@ export default async function ArticlePage({ params }: Props) {
   const article = await getArticleBySlug(slug);
   if (!article) notFound();
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: article.title,
+    description: article.excerpt,
+    datePublished: article.date,
+    author: {
+      "@type": "Person",
+      name: "Sofiane Coly",
+      url: "https://sofianecoly.com",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "En Clair",
+      url: BASE_URL,
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `${BASE_URL}/articles/${slug}`,
+    },
+    inLanguage: "fr-FR",
+  };
+
   return (
     <div className="mx-auto max-w-[680px] px-6 py-12 md:py-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
       {/* Header */}
       <header className="mb-12">
         <div className="flex items-center gap-3 mb-5">
