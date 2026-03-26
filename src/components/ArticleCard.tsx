@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArticleMeta, getCategoryLabel, getCategoryColor } from "@/lib/articles";
+import { ArticleMeta, getCategoryLabel, getCategoryColor } from "@/lib/types";
 
 interface Props {
   article: ArticleMeta;

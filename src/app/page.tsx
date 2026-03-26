@@ -5,7 +5,7 @@ import NewsletterForm from "@/components/NewsletterForm";
 export default function Home() {
   const articles = getAllArticles();
   const featured = articles[0];
-  const rest = articles.slice(1);
+  const recent = articles.slice(1, 7); // 6 derniers articles seulement
 
   return (
     <div className="mx-auto max-w-3xl px-6">
@@ -44,16 +44,24 @@ export default function Home() {
 
       <hr className="border-alinea-100 mb-16" />
 
-      {/* Articles */}
-      {rest.length > 0 && (
+      {/* Articles — 6 derniers seulement */}
+      {recent.length > 0 && (
         <section className="mb-20">
           <p className="text-[13px] font-medium text-alinea-400 uppercase tracking-[0.12em] mb-8">
             Dernières analyses
           </p>
           <div className="space-y-12">
-            {rest.map((article) => (
+            {recent.map((article) => (
               <ArticleCard key={article.slug} article={article} />
             ))}
+          </div>
+          <div className="text-center mt-12">
+            <a
+              href="/articles"
+              className="inline-block border border-alinea-200 text-alinea-700 px-8 py-3.5 rounded-xl text-[14px] font-medium hover:bg-alinea-50 hover:border-alinea-300 transition-colors"
+            >
+              Voir toutes les analyses →
+            </a>
           </div>
         </section>
       )}
