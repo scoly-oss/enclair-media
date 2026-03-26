@@ -11,16 +11,19 @@ export default function Home() {
     <div className="mx-auto max-w-3xl px-6">
       {/* Hero */}
       <section className="text-center py-20 md:py-28">
+        <p className="text-[13px] font-medium text-accent-dark uppercase tracking-[0.15em] mb-6">
+          Pour les dirigeants, DRH, DAF et experts-comptables
+        </p>
         <h1
           className="text-4xl md:text-[3.5rem] font-bold text-alinea-950 leading-[1.1] tracking-tight"
           style={{ fontFamily: "var(--font-serif)" }}
         >
-          Le droit et l&apos;économie,<br />
-          <span className="text-accent-dark">en clair.</span>
+          Ce qui peut vous coûter cher<br />
+          <span className="text-accent-dark">— avant que ça vous coûte cher.</span>
         </h1>
         <p className="mt-6 text-lg md:text-xl text-alinea-500 max-w-xl mx-auto leading-relaxed">
-          Chaque semaine, l&apos;essentiel du droit social, de la jurisprudence
-          et de l&apos;actualité économique — décrypté pour ceux qui décident.
+          Droit social, paie, jurisprudence, réformes — chaque semaine,
+          les risques que vous ne voyez pas et les décisions que vous devez prendre.
         </p>
       </section>
 
@@ -55,32 +58,53 @@ export default function Home() {
         </section>
       )}
 
-      {/* Value prop — minimal */}
+      {/* Value prop — disease awareness */}
       <section className="grid grid-cols-1 md:grid-cols-3 gap-10 py-16 mb-10 border-t border-alinea-100">
         <div>
-          <p className="text-alinea-400 text-lg mb-2">§</p>
-          <h3 className="font-semibold text-alinea-950 text-[15px] mb-2">Sources vérifiables</h3>
+          <p className="text-accent-dark text-lg mb-2">⚠️</p>
+          <h3 className="font-semibold text-alinea-950 text-[15px] mb-2">Les risques que vous ignorez</h3>
           <p className="text-[15px] text-alinea-500 leading-relaxed">
-            Chaque article cite ses sources. Articles de loi, décisions
-            de justice, textes officiels. Tout est traçable.
+            Forfait jours nul, consultation CSE oubliée, CDD requalifié —
+            chaque article révèle un risque concret que vous pouvez éviter.
           </p>
         </div>
         <div>
-          <p className="text-alinea-400 text-lg mb-2">⚡</p>
-          <h3 className="font-semibold text-alinea-950 text-[15px] mb-2">Réactivité</h3>
+          <p className="text-accent-dark text-lg mb-2">⚖️</p>
+          <h3 className="font-semibold text-alinea-950 text-[15px] mb-2">Sourcé. Vérifiable.</h3>
           <p className="text-[15px] text-alinea-500 leading-relaxed">
-            Décrets, arrêts, réformes — analysés dans les heures
-            qui suivent leur publication.
+            Numéros de pourvoi, articles du Code du travail, décrets —
+            chaque affirmation est traçable sur Légifrance.
           </p>
         </div>
         <div>
-          <p className="text-alinea-400 text-lg mb-2">→</p>
-          <h3 className="font-semibold text-alinea-950 text-[15px] mb-2">Actionnable</h3>
+          <p className="text-accent-dark text-lg mb-2">🎯</p>
+          <h3 className="font-semibold text-alinea-950 text-[15px] mb-2">Ce que vous devez faire lundi</h3>
           <p className="text-[15px] text-alinea-500 leading-relaxed">
-            Pas de théorie. Chaque analyse dit ce que ça change
-            concrètement pour votre entreprise.
+            Pas de théorie. Chaque analyse se termine par une action
+            concrète applicable dans votre entreprise.
           </p>
         </div>
+      </section>
+
+      {/* Apprendre CTA */}
+      <section className="mb-20 border border-accent/20 rounded-2xl p-8 md:p-12 bg-accent/5 text-center">
+        <p className="text-accent-dark text-sm font-semibold uppercase tracking-[0.12em] mb-3">Nouveau</p>
+        <h2
+          className="text-2xl md:text-3xl font-bold text-alinea-950 tracking-tight"
+          style={{ fontFamily: "var(--font-serif)" }}
+        >
+          Testez vos réflexes juridiques
+        </h2>
+        <p className="mt-4 text-alinea-500 max-w-md mx-auto leading-relaxed text-[15px]">
+          Quizz, cas pratiques, mises en situation — évaluez vos connaissances
+          en droit social et identifiez vos angles morts. Gratuit.
+        </p>
+        <a
+          href="/apprendre"
+          className="inline-block mt-6 bg-accent-dark text-white px-6 py-3 rounded-xl text-[15px] font-semibold hover:bg-accent transition-colors"
+        >
+          Commencer un quizz →
+        </a>
       </section>
     </div>
   );
