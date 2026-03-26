@@ -100,15 +100,15 @@ const questions: Question[] = [
     insight: "Depuis le 1er janvier 2019, tout CSE doit désigner un référent harcèlement sexuel (art. L.2314-1). Dans les entreprises de 250+, l'employeur doit aussi désigner un référent RH (art. L.1153-5-1).",
   },
   {
-    question: "Les entretiens professionnels obligatoires (tous les 2 ans) sont-ils réalisés et formalisés pour chaque salarié ?",
+    question: "Les entretiens de parcours professionnel (ex-entretiens professionnels) sont-ils réalisés selon la nouvelle périodicité ?",
     category: "Formation",
     options: [
-      { label: "Oui, à jour pour tous les salariés", score: 0 },
-      { label: "Pour la plupart, quelques retards", score: 1 },
-      { label: "On les fait quand on peut", score: 2 },
-      { label: "Non, ou très partiellement", score: 3 },
+      { label: "Oui, on a intégré la réforme d'octobre 2025 (1 an après embauche, puis tous les 4 ans)", score: 0 },
+      { label: "On fait encore des entretiens tous les 2 ans (ancien rythme)", score: 1 },
+      { label: "On les fait quand on peut, sans calendrier précis", score: 2 },
+      { label: "Non, ou je ne connais pas la réforme", score: 3 },
     ],
-    insight: "Dans les entreprises de 50+, l'absence d'entretien professionnel sur 6 ans déclenche un abondement correctif de 3 000€ par salarié sur le CPF (art. L.6315-1). C'est automatique.",
+    insight: "La loi du 24 octobre 2025 a tout changé : l'entretien professionnel devient l'entretien de parcours professionnel (art. L.6315-1 réécrit). Périodicité : dans l'année suivant l'embauche, puis tous les 4 ans (plus 2 ans). État des lieux récapitulatif tous les 8 ans (plus 6). L'abondement CPF de 3 000€ reste mais exige désormais 2 conditions cumulatives : pas d'entretien ET pas de formation non obligatoire (Cass. soc. 21 janv. 2026, n°24-12.972). Mise en conformité obligatoire avant le 1er octobre 2026.",
   },
   {
     question: "Votre règlement intérieur a-t-il été déposé au greffe du conseil de prud'hommes et transmis à l'inspection du travail ?",
