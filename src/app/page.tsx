@@ -18,8 +18,8 @@ export default function Home() {
           className="text-4xl md:text-[3.5rem] font-bold text-alinea-950 leading-[1.1] tracking-tight"
           style={{ fontFamily: "var(--font-serif)" }}
         >
-          Ce qui peut vous coûter cher<br />
-          <span className="text-accent-dark">— avant que ça vous coûte cher.</span>
+          Ce qui va vous coûter cher<br />
+          <span className="text-accent-dark">— si personne ne vous le dit.</span>
         </h1>
         <p className="mt-6 text-lg md:text-xl text-alinea-500 max-w-xl mx-auto leading-relaxed">
           Droit social, paie, jurisprudence, réformes — chaque semaine,
