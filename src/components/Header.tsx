@@ -32,6 +32,9 @@ export default function Header() {
           <Link href="/rubriques" className="hover:text-alinea-900 transition-colors">
             Rubriques
           </Link>
+          <Link href="/modeles" className="hover:text-alinea-900 transition-colors">
+            Modèles
+          </Link>
           <Link href="/a-propos" className="hover:text-alinea-900 transition-colors">
             À propos
           </Link>
@@ -67,6 +70,9 @@ export default function Header() {
             </Link>
             <Link href="/rubriques" onClick={() => setMenuOpen(false)} className="text-[15px] text-alinea-600 hover:text-alinea-900 py-2">
               Rubriques
+            </Link>
+            <Link href="/modeles" onClick={() => setMenuOpen(false)} className="text-[15px] text-alinea-600 hover:text-alinea-900 py-2">
+              Modèles
             </Link>
             <Link href="/a-propos" onClick={() => setMenuOpen(false)} className="text-[15px] text-alinea-600 hover:text-alinea-900 py-2">
               À propos

@@ -1,4 +1,5 @@
 import { getAllArticles } from "@/lib/articles";
+import { modeles } from "@/data/modeles";
 import type { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -44,5 +45,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.3,
     },
     ...articleEntries,
+    {
+      url: `${baseUrl}/modeles`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.8,
+    },
+    ...modeles.map((m) => ({
+      url: `${baseUrl}/modeles/${m.slug}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    })),
   ];
 }
