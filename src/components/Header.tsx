@@ -36,7 +36,7 @@ export default function Header() {
             À propos
           </Link>
           <Link
-            href="#newsletter"
+            href="/#newsletter"
             className="bg-alinea-950 text-white px-5 py-2.5 rounded-lg text-[14px] font-medium hover:bg-alinea-800 transition-colors"
           >
             S&apos;abonner
@@ -72,7 +72,7 @@ export default function Header() {
               À propos
             </Link>
             <Link
-              href="#newsletter"
+              href="/#newsletter"
               onClick={() => setMenuOpen(false)}
               className="bg-alinea-950 text-white px-5 py-3 rounded-lg text-[14px] font-medium text-center hover:bg-alinea-800 transition-colors"
             >

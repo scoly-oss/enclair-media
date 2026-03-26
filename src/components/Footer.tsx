@@ -41,19 +41,28 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-12 pt-6 border-t border-alinea-100 flex flex-col md:flex-row md:justify-between text-[13px] text-alinea-400">
+        <div className="mt-12 pt-6 border-t border-alinea-100 flex flex-col gap-3 md:flex-row md:justify-between text-[13px] text-alinea-400">
           <span>© {new Date().getFullYear()} En Clair — Tous droits réservés</span>
-          <span className="mt-1 md:mt-0">
-            Direction de la publication :{" "}
+          <div className="flex gap-4 flex-wrap">
+            <a href="/mentions-legales" className="hover:text-alinea-600 transition-colors">Mentions légales</a>
+            <a href="/confidentialite" className="hover:text-alinea-600 transition-colors">Confidentialité</a>
             <a
               href="https://sofianecoly.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="underline underline-offset-2 hover:text-alinea-600 transition-colors"
+              className="hover:text-alinea-600 transition-colors"
             >
               Sofiane Coly
             </a>
-          </span>
+            <a
+              href="https://dairia-avocats.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-alinea-600 transition-colors"
+            >
+              DAIRIA Avocats
+            </a>
+          </div>
         </div>
       </div>
     </footer>
