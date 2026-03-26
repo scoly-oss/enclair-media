@@ -2,13 +2,16 @@ import { NextRequest, NextResponse } from "next/server";
 import { Redis } from "@upstash/redis";
 import { Ratelimit } from "@upstash/ratelimit";
 
-const redis = Redis.fromEnv();
+function getRedis() {
+  return Redis.fromEnv();
+}
 
-// Rate limiting: 3 requests per minute per IP
-const ratelimit = new Ratelimit({
-  redis,
-  limiter: Ratelimit.slidingWindow(3, "60 s"),
-});
+function getRatelimit() {
+  return new Ratelimit({
+    redis: getRedis(),
+    limiter: Ratelimit.slidingWindow(3, "60 s"),
+  });
+}
 
 const EMAIL_REGEX =
   /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/;
@@ -17,7 +20,7 @@ export async function POST(req: NextRequest) {
   try {
     // Rate limiting
     const ip = req.headers.get("x-forwarded-for") ?? "unknown";
-    const { success } = await ratelimit.limit(ip);
+    const { success } = await getRatelimit().limit(ip);
     if (!success) {
       return NextResponse.json({ error: "Trop de requêtes. Réessayez dans une minute." }, { status: 429 });
     }
@@ -47,14 +50,14 @@ export async function POST(req: NextRequest) {
     }
 
     // Check if already subscribed — same response to prevent enumeration
-    const exists = await redis.sismember("subscribers", normalized);
+    const exists = await getRedis().sismember("subscribers", normalized);
     if (exists) {
       return NextResponse.json({ message: "Inscription réussie" });
     }
 
     // Store subscriber with RGPD-compliant consent proof
-    await redis.sadd("subscribers", normalized);
-    await redis.hset(`subscriber:${normalized}`, {
+    await getRedis().sadd("subscribers", normalized);
+    await getRedis().hset(`subscriber:${normalized}`, {
       email: normalized,
       subscribedAt: new Date().toISOString(),
       consentAt: new Date().toISOString(),
@@ -82,8 +85,8 @@ export async function DELETE(req: NextRequest) {
     const normalized = email.toLowerCase().trim();
 
     // Remove from set and delete metadata
-    await redis.srem("subscribers", normalized);
-    await redis.del(`subscriber:${normalized}`);
+    await getRedis().srem("subscribers", normalized);
+    await getRedis().del(`subscriber:${normalized}`);
 
     return NextResponse.json({ message: "Désinscription effectuée" });
   } catch {
