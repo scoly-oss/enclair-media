@@ -71,6 +71,35 @@ export async function POST(req: NextRequest) {
       active: "true",
     });
 
+    // Count total subscribers
+    const totalSubscribers = await redis.scard("subscribers");
+
+    // Notify Sofiane of new subscriber
+    try {
+      await fetch("https://api.resend.com/emails", {
+        method: "POST",
+        headers: {
+          "Authorization": `Bearer ${process.env.RESEND_API_KEY}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          from: "En Clair <newsletter@enclair.media>",
+          to: "s.coly@dairia-avocats.com",
+          subject: `🎉 Nouvel abonné En Clair (#${totalSubscribers})`,
+          html: `<div style="font-family:Georgia,serif;max-width:500px;margin:0 auto;padding:32px;">
+            <h2 style="color:#1a1a1a;margin:0 0 16px;">Nouvel abonné !</h2>
+            <div style="background:#f8f7f4;border-radius:12px;padding:20px;margin-bottom:20px;">
+              <p style="margin:0 0 8px;color:#333;font-size:16px;"><strong>${normalized}</strong></p>
+              <p style="margin:0;color:#888;font-size:14px;">${new Date().toLocaleString("fr-FR", { timeZone: "Europe/Paris" })}</p>
+            </div>
+            <p style="color:#888;font-size:14px;margin:0;">Total abonnés : <strong style="color:#1a1a1a;">${totalSubscribers}</strong></p>
+          </div>`,
+        }),
+      });
+    } catch {
+      // Don't fail the subscription if notification fails
+    }
+
     return NextResponse.json({ message: "Inscription réussie" });
   } catch (error) {
     console.error("Newsletter error:", error instanceof Error ? error.message : "Unknown");
