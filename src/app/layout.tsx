@@ -4,12 +4,12 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "En Clair — Le droit et l'économie, sans le jargon",
+  title: "En Clair — Ce qui peut vous coûter cher, avant que ça vous coûte cher",
   description:
-    "Le brief juridique et économique pour les dirigeants. Droit social, jurisprudence, analyse économique — sourcé, clair, actionnable.",
+    "Droit social, paie, jurisprudence — le brief hebdo pour les dirigeants, DRH, DAF et experts-comptables qui veulent voir les risques avant de les payer.",
   openGraph: {
     title: "En Clair",
-    description: "Le droit et l'économie qui comptent. Sans le jargon.",
+    description: "Ce qui peut vous coûter cher — avant que ça vous coûte cher. Le brief juridique pour ceux qui décident.",
     type: "website",
     locale: "fr_FR",
   },

@@ -35,8 +35,8 @@ export default function NewsletterForm() {
         Recevez En Clair chaque semaine
       </h2>
       <p className="mt-4 text-alinea-400 max-w-md mx-auto leading-relaxed text-[15px]">
-        Le brief juridique et économique pour les dirigeants
-        qui n&apos;ont pas le temps de lire le Journal Officiel.
+        Les risques juridiques que vous ne voyez pas, les décisions que vous devez prendre
+        — chaque semaine, pour les dirigeants, DRH, DAF et experts-comptables.
       </p>
       <p className="mt-1 text-alinea-500 text-[13px]">
         Gratuit · Sans spam · Désinscription en un clic
