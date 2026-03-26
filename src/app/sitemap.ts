@@ -3,7 +3,7 @@ import type { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getAllArticles();
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://enclair-media.vercel.app";
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://enclair.media";
 
   const articleEntries = articles.map((article) => ({
     url: `${baseUrl}/articles/${article.slug}`,
