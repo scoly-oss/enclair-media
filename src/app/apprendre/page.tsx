@@ -82,9 +82,9 @@ export default function ApprendrePage() {
         </p>
       </section>
 
-      {/* Risk score teaser */}
+      {/* Risk score CTA */}
       <section className="mb-16 bg-alinea-950 rounded-2xl p-8 md:p-10 text-center">
-        <p className="text-accent text-sm font-semibold uppercase tracking-[0.12em] mb-2">Bientôt</p>
+        <p className="text-accent text-sm font-semibold uppercase tracking-[0.12em] mb-2">Nouveau</p>
         <h2
           className="text-xl md:text-2xl font-bold text-white tracking-tight"
           style={{ fontFamily: "var(--font-serif)" }}
@@ -92,13 +92,16 @@ export default function ApprendrePage() {
           Votre score de risque social
         </h2>
         <p className="mt-3 text-alinea-400 max-w-md mx-auto text-[15px] leading-relaxed">
-          Répondez à 20 questions sur vos pratiques RH.
+          20 questions sur vos pratiques RH.
           En Clair calcule votre score de risque et vous dit précisément où vous êtes exposé.
         </p>
-        <div className="mt-6 inline-flex items-center gap-2 bg-alinea-800/50 border border-alinea-700/50 rounded-xl px-5 py-2.5 text-alinea-400 text-[14px]">
-          <span>🔒</span>
-          <span>Disponible en avril 2026</span>
-        </div>
+        <a
+          href="/apprendre/score-risque"
+          className="inline-block mt-6 bg-accent text-alinea-950 px-6 py-3 rounded-xl text-[15px] font-semibold hover:bg-accent-light transition-colors"
+        >
+          Calculer mon score →
+        </a>
+        <p className="mt-3 text-alinea-500 text-[12px]">Gratuit · Anonyme · 5 minutes</p>
       </section>
 
       {/* Quizz grid */}
