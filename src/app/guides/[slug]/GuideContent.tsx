@@ -23,7 +23,12 @@ function splitContent(html: string, lineCount = 30): { preview: string; rest: st
 }
 
 export default function GuideContent({ contentHtml, slug, title }: GuideContentProps) {
-  const [unlocked, setUnlocked] = useState(false);
+  const [unlocked, setUnlocked] = useState(() => {
+    if (typeof window !== "undefined") {
+      return localStorage.getItem("enclair_subscribed") === "true";
+    }
+    return false;
+  });
   const [email, setEmail] = useState("");
   const [consent, setConsent] = useState(false);
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
@@ -49,6 +54,7 @@ export default function GuideContent({ contentHtml, slug, title }: GuideContentP
       if (res.ok) {
         setStatus("success");
         setUnlocked(true);
+        localStorage.setItem("enclair_subscribed", "true");
       } else if (res.status === 429) {
         setErrorMsg("Trop de requêtes. Réessayez dans une minute.");
         setStatus("error");
