@@ -71,7 +71,7 @@ export default function Footer() {
               DAIRIA IA
             </a>
             <a
-              href="https://gerermesatmp.fr"
+              href="https://gerermesatmp.com"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-alinea-600 transition-colors"

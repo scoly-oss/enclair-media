@@ -24,7 +24,7 @@ Fondateur de DAIRIA Avocats (https://dairia-avocats.com) et DAIRIA IA (https://d
 ## Écosystème DAIRIA
 - DAIRIA Avocats (https://dairia-avocats.com) : cabinet de droit social côté employeur
 - DAIRIA IA (https://dairia.ai) : assistant juridique IA pour employeurs
-- GérerMesATMP (https://gerermesatmp.fr) : outil de gestion des accidents du travail
+- GérerMesATMP (https://gerermesatmp.com) : outil de gestion des accidents du travail
 - Sofiane Coly (https://sofianecoly.com) : site personnel du fondateur
 
 ## Contact

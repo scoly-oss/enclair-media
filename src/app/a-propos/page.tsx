@@ -118,7 +118,7 @@ export default function AProposPage() {
         <ul>
           <li><a href="https://dairia-avocats.com" target="_blank" rel="noopener noreferrer"><strong>DAIRIA Avocats</strong></a> — Cabinet de droit social côté employeur</li>
           <li><a href="https://dairia.ai" target="_blank" rel="noopener noreferrer"><strong>DAIRIA IA</strong></a> — Assistant juridique IA pour employeurs, à 90&nbsp;€/mois</li>
-          <li><a href="https://gerermesatmp.fr" target="_blank" rel="noopener noreferrer"><strong>GérerMesATMP</strong></a> — Outil de gestion des accidents du travail et maladies professionnelles</li>
+          <li><a href="https://gerermesatmp.com" target="_blank" rel="noopener noreferrer"><strong>GérerMesATMP</strong></a> — Outil de gestion des accidents du travail et maladies professionnelles</li>
           <li><a href="https://sofianecoly.com" target="_blank" rel="noopener noreferrer"><strong>Sofiane Coly</strong></a> — Site personnel du fondateur</li>
         </ul>
       </div>
