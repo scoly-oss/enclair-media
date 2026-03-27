@@ -26,6 +26,9 @@ export default function Header() {
           <Link href="/articles" className="hover:text-alinea-900 transition-colors">
             Articles
           </Link>
+          <Link href="/guides" className="hover:text-alinea-900 transition-colors">
+            Guides
+          </Link>
           <Link href="/apprendre" className="hover:text-alinea-900 transition-colors font-medium text-accent-dark">
             Apprendre
           </Link>
@@ -64,6 +67,9 @@ export default function Header() {
           <div className="mx-auto max-w-3xl px-6 py-4 flex flex-col gap-4">
             <Link href="/articles" onClick={() => setMenuOpen(false)} className="text-[15px] text-alinea-600 hover:text-alinea-900 py-2">
               Articles
+            </Link>
+            <Link href="/guides" onClick={() => setMenuOpen(false)} className="text-[15px] text-alinea-600 hover:text-alinea-900 py-2">
+              Guides
             </Link>
             <Link href="/apprendre" onClick={() => setMenuOpen(false)} className="text-[15px] font-medium text-accent-dark py-2">
               Apprendre

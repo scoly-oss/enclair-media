@@ -1,9 +1,11 @@
 import { getAllArticles } from "@/lib/articles";
+import { getAllGuides } from "@/lib/guides";
 import { modeles } from "@/data/modeles";
 import type { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getAllArticles();
+  const guides = getAllGuides();
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://enclair.media";
 
   const articleEntries = articles.map((article) => ({
@@ -45,6 +47,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.3,
     },
     ...articleEntries,
+    {
+      url: `${baseUrl}/guides`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.8,
+    },
+    ...guides.map((guide) => ({
+      url: `${baseUrl}/guides/${guide.slug}`,
+      lastModified: new Date(guide.date),
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
+    })),
     {
       url: `${baseUrl}/modeles`,
       lastModified: new Date(),
