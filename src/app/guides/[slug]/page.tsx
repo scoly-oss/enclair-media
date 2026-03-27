@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import NewsletterForm from "@/components/NewsletterForm";
 import type { Metadata } from "next";
 import TableOfContents from "./TableOfContents";
+import GuideContent from "./GuideContent";
 
 const BASE_URL = "https://enclair.media";
 
@@ -111,10 +112,11 @@ export default async function GuidePage({ params }: Props) {
         <TableOfContents headings={headings} />
       )}
 
-      {/* Content */}
-      <article
-        className="prose max-w-none"
-        dangerouslySetInnerHTML={{ __html: contentWithIds }}
+      {/* Content with paywall */}
+      <GuideContent
+        contentHtml={contentWithIds}
+        slug={slug}
+        title={guide.title}
       />
 
       {/* Sources */}
@@ -133,28 +135,6 @@ export default async function GuidePage({ params }: Props) {
           </ul>
         </div>
       )}
-
-      {/* PDF CTA */}
-      <div className="mt-16 border border-alinea-200 rounded-2xl p-8 text-center bg-alinea-50/50">
-        <p className="text-[13px] font-medium text-alinea-400 uppercase tracking-[0.12em] mb-2">
-          Garder ce guide sous la main
-        </p>
-        <h3
-          className="text-xl font-bold text-alinea-950"
-          style={{ fontFamily: "var(--font-serif)" }}
-        >
-          Télécharger ce guide en PDF
-        </h3>
-        <p className="mt-3 text-alinea-500 text-[15px]">
-          Imprimable, partageable avec votre équipe RH.
-        </p>
-        <button
-          disabled
-          className="inline-block mt-5 bg-alinea-300 text-white px-6 py-3 rounded-xl text-[14px] font-medium cursor-not-allowed"
-        >
-          Bientôt disponible
-        </button>
-      </div>
 
       {/* Newsletter */}
       <div className="mt-20">
