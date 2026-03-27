@@ -4,8 +4,8 @@ import crypto from "crypto";
 const RESEND_API_KEY = process.env.RESEND_API_KEY || "";
 const CRON_SECRET = process.env.CRON_SECRET || "";
 const UNSUBSCRIBE_SECRET = process.env.CRON_SECRET || "enclair-unsub-secret";
+const TEST_EMAIL = "s.coly@dairia-avocats.com";
 
-// WordPress API for En Clair articles (category 658)
 const WP_API_URL =
   "https://dairia-blog.bl-nk.io/wp-json/wp/v2/posts?categories=658&per_page=5&orderby=date&order=desc";
 
@@ -16,46 +16,6 @@ interface WPPost {
   link: string;
   date: string;
 }
-
-// --- Redis helpers ---
-
-async function getRedis() {
-  const { Redis } = await import("@upstash/redis");
-  return Redis.fromEnv();
-}
-
-async function getSubscribers(): Promise<string[]> {
-  const redis = await getRedis();
-  const members = await redis.smembers("subscribers");
-  return (members as string[]).filter(
-    (email) => typeof email === "string" && email.includes("@")
-  );
-}
-
-// --- WordPress fetch ---
-
-async function getLatestArticlesFromWP(): Promise<WPPost[]> {
-  try {
-    const res = await fetch(WP_API_URL, {
-      headers: { "User-Agent": "EnClair-Newsletter/1.0" },
-      next: { revalidate: 0 },
-    });
-    if (!res.ok) {
-      console.error(`WordPress API error: ${res.status} ${res.statusText}`);
-      return [];
-    }
-    const posts: WPPost[] = await res.json();
-    // Filter to posts from the last 7 days
-    const oneWeekAgo = new Date();
-    oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
-    return posts.filter((p) => new Date(p.date) >= oneWeekAgo);
-  } catch (error) {
-    console.error("Failed to fetch WordPress articles:", error);
-    return [];
-  }
-}
-
-// --- Helpers ---
 
 function stripHtml(html: string): string {
   return html
@@ -88,8 +48,6 @@ function getUnsubscribeUrl(email: string): string {
   return `https://enclair.media/api/unsubscribe?email=${encodeURIComponent(email)}&token=${token}`;
 }
 
-// --- Juridical tips for "Le saviez-vous ?" ---
-
 const juridicalTips = [
   {
     tip: "Un licenciement notifié avant l'entretien préalable est nul, même si le motif est réel et sérieux.",
@@ -107,38 +65,12 @@ const juridicalTips = [
     tip: "L'employeur doit organiser un entretien professionnel tous les 2 ans, distinct de l'entretien annuel d'évaluation.",
     source: "Art. L.6315-1 du Code du travail",
   },
-  {
-    tip: "Le télétravail ne peut pas être imposé par l'employeur sauf circonstances exceptionnelles (pandémie, force majeure).",
-    source: "Art. L.1222-11 du Code du travail",
-  },
-  {
-    tip: "Une clause de non-concurrence sans contrepartie financière est nulle et ne peut produire aucun effet.",
-    source: "Cass. soc., 10 juillet 2002",
-  },
-  {
-    tip: "Le solde de tout compte signé sans réserve peut être dénoncé dans les 6 mois suivant sa signature.",
-    source: "Art. L.1234-20 du Code du travail",
-  },
-  {
-    tip: "L'indemnité légale de licenciement se calcule sur les 12 ou 3 derniers mois de salaire, au plus avantageux pour le salarié.",
-    source: "Art. R.1234-4 du Code du travail",
-  },
-  {
-    tip: "Un CDD ne peut être renouvelé que 2 fois, dans la limite de 18 mois au total (sauf exceptions).",
-    source: "Art. L.1243-13 du Code du travail",
-  },
-  {
-    tip: "L'absence de visite médicale d'embauche cause nécessairement un préjudice au salarié.",
-    source: "Cass. soc., 17 octobre 2018",
-  },
 ];
 
 function getRandomTip(): { tip: string; source: string } {
   const weekNumber = Math.floor(Date.now() / (7 * 24 * 60 * 60 * 1000));
   return juridicalTips[weekNumber % juridicalTips.length];
 }
-
-// --- Email template ---
 
 function buildNewsletterHTML(
   articles: WPPost[],
@@ -183,23 +115,28 @@ function buildNewsletterHTML(
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>En Clair #${issueNumber}</title>
-  <!--[if mso]><noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript><![endif]-->
+  <title>En Clair #${issueNumber} [TEST]</title>
 </head>
 <body style="margin:0;padding:0;background-color:#f5f4f0;font-family:Georgia,'Times New Roman',serif;-webkit-font-smoothing:antialiased;">
 
-<!-- Preheader -->
 <div style="display:none;font-size:1px;color:#f5f4f0;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden;">
-  En Clair #${issueNumber} — Le brief juridique de la semaine${articles.length > 0 ? ` : ${stripHtml(articles[0].title.rendered)}` : ""}
+  [TEST] En Clair #${issueNumber} — Le brief juridique de la semaine
 </div>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="background-color:#f5f4f0;">
   <tr><td align="center" style="padding:24px 16px;">
 
-    <!-- Main container -->
-    <table width="600" cellpadding="0" cellspacing="0" style="background-color:#ffffff;border-radius:8px;overflow:hidden;max-width:600px;" class="responsive-table">
+    <!-- Test banner -->
+    <table width="600" cellpadding="0" cellspacing="0" style="max-width:600px;">
+      <tr><td style="padding:12px 20px;background-color:#fff3cd;border-radius:8px 8px 0 0;text-align:center;">
+        <p style="margin:0;font-size:13px;color:#856404;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;">
+          MODE TEST — Cet email n'a ete envoye qu'a ${TEST_EMAIL}
+        </p>
+      </td></tr>
+    </table>
 
-      <!-- HEADER -->
+    <table width="600" cellpadding="0" cellspacing="0" style="background-color:#ffffff;border-radius:0 0 8px 8px;overflow:hidden;max-width:600px;">
+
       <tr><td style="padding:36px 32px 28px;border-bottom:3px solid #1a1a1a;">
         <table width="100%" cellpadding="0" cellspacing="0">
           <tr>
@@ -211,21 +148,18 @@ function buildNewsletterHTML(
         </table>
       </td></tr>
 
-      <!-- INTRO -->
       <tr><td style="padding:28px 32px 8px;">
         <p style="margin:0;font-size:16px;color:#333;line-height:1.65;font-family:Georgia,'Times New Roman',serif;">
           ${articles.length > 0 ? `Bonjour,<br><br>Voici les ${articles.length} article${articles.length > 1 ? "s" : ""} a ne pas manquer cette semaine. Bonne lecture.` : "Bonjour,<br><br>Semaine calme cote actualite juridique. On revient vendredi prochain avec du contenu frais."}
         </p>
       </td></tr>
 
-      <!-- ARTICLES -->
       <tr><td style="padding:24px 32px 8px;">
         <table width="100%" cellpadding="0" cellspacing="0">
           ${articleBlocks}
         </table>
       </td></tr>
 
-      <!-- LE SAVIEZ-VOUS ? -->
       <tr><td style="padding:8px 32px 28px;">
         <table width="100%" cellpadding="0" cellspacing="0" style="background-color:#faf9f6;border-radius:8px;border-left:4px solid #c8a97e;">
           <tr><td style="padding:20px 24px;">
@@ -236,12 +170,10 @@ function buildNewsletterHTML(
         </table>
       </td></tr>
 
-      <!-- CTA -->
       <tr><td style="padding:0 32px 32px;text-align:center;">
-        <a href="https://enclair.media?utm_source=newsletter&utm_medium=email&utm_campaign=enclair_${issueNumber}" style="display:inline-block;padding:14px 36px;background-color:#1a1a1a;color:#ffffff;text-decoration:none;font-size:15px;font-weight:600;border-radius:8px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;">Tous les articles &rarr;</a>
+        <a href="https://enclair.media?utm_source=newsletter&utm_medium=email&utm_campaign=test" style="display:inline-block;padding:14px 36px;background-color:#1a1a1a;color:#ffffff;text-decoration:none;font-size:15px;font-weight:600;border-radius:8px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;">Tous les articles &rarr;</a>
       </td></tr>
 
-      <!-- FOOTER -->
       <tr><td style="padding:24px 32px;background-color:#faf9f6;border-top:1px solid #eee;">
         <table width="100%" cellpadding="0" cellspacing="0">
           <tr><td style="text-align:center;">
@@ -268,167 +200,74 @@ function buildNewsletterHTML(
 </html>`;
 }
 
-// --- Send via Resend ---
-
-async function sendBatch(
-  emails: string[],
-  subject: string,
-  htmlTemplate: (email: string) => string
-): Promise<{ sent: number; failed: number; errors: string[] }> {
-  const batchSize = 50;
-  let sent = 0;
-  let failed = 0;
-  const errors: string[] = [];
-
-  for (let i = 0; i < emails.length; i += batchSize) {
-    const batch = emails.slice(i, i + batchSize);
-
-    // Resend batch API: send individually for per-recipient unsubscribe links
-    const promises = batch.map(async (email) => {
-      try {
-        const res = await fetch("https://api.resend.com/emails", {
-          method: "POST",
-          headers: {
-            Authorization: `Bearer ${RESEND_API_KEY}`,
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({
-            from: "En Clair <newsletter@enclair.media>",
-            to: [email],
-            subject,
-            html: htmlTemplate(email),
-            headers: {
-              "List-Unsubscribe": `<${getUnsubscribeUrl(email)}>`,
-              "List-Unsubscribe-Post": "List-Unsubscribe=One-Click",
-            },
-          }),
-        });
-
-        if (!res.ok) {
-          const errorBody = await res.text();
-          console.error(`Resend error for ${email}: ${res.status} ${errorBody}`);
-          errors.push(`${email}: ${res.status}`);
-          failed++;
-        } else {
-          sent++;
-        }
-      } catch (error) {
-        console.error(`Send error for ${email}:`, error);
-        errors.push(`${email}: ${error instanceof Error ? error.message : "unknown"}`);
-        failed++;
-      }
-    });
-
-    await Promise.all(promises);
-
-    // Small delay between batches to avoid rate limits
-    if (i + batchSize < emails.length) {
-      await new Promise((resolve) => setTimeout(resolve, 1000));
-    }
-  }
-
-  return { sent, failed, errors };
-}
-
-// --- Main handler ---
-
 export async function GET(req: NextRequest) {
-  // Vercel Cron sends GET requests with Authorization header
   const authHeader = req.headers.get("authorization");
   if (authHeader !== `Bearer ${CRON_SECRET}`) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
   try {
-    // 1. Get subscribers
-    const subscribers = await getSubscribers();
-    if (subscribers.length === 0) {
-      console.log("Newsletter: no subscribers found");
-      return NextResponse.json({ message: "No subscribers", sent: 0 });
+    // Fetch articles from WordPress
+    const res = await fetch(WP_API_URL, {
+      headers: { "User-Agent": "EnClair-Newsletter/1.0" },
+    });
+    let articles: WPPost[] = [];
+    if (res.ok) {
+      const posts: WPPost[] = await res.json();
+      const oneWeekAgo = new Date();
+      oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
+      articles = posts.filter((p) => new Date(p.date) >= oneWeekAgo);
     }
-    console.log(`Newsletter: ${subscribers.length} subscribers found`);
 
-    // 2. Get articles from WordPress
-    const articles = await getLatestArticlesFromWP();
-    console.log(`Newsletter: ${articles.length} articles from WordPress`);
+    // Use a test issue number (don't increment the real counter)
+    const testIssueNum = 999;
 
-    // 3. Get issue number
-    const redis = await getRedis();
-    const issueNum = (await redis.incr("newsletter:issue_number")) as number;
-    console.log(`Newsletter: issue #${issueNum}`);
-
-    // 4. Build subject
-    const subject =
+    const subject = `[TEST] En Clair #${testIssueNum} — ${
       articles.length > 0
-        ? `En Clair #${issueNum} — ${stripHtml(articles[0].title.rendered)}`
-        : `En Clair #${issueNum} — Votre brief juridique hebdomadaire`;
+        ? stripHtml(articles[0].title.rendered)
+        : "Votre brief juridique hebdomadaire"
+    }`;
 
-    // 5. Send to all subscribers
-    const result = await sendBatch(subscribers, subject, (email) =>
-      buildNewsletterHTML(articles, issueNum, email)
-    );
+    const html = buildNewsletterHTML(articles, testIssueNum, TEST_EMAIL);
 
-    console.log(
-      `Newsletter #${issueNum}: ${result.sent} sent, ${result.failed} failed`
-    );
+    // Send only to test email
+    const sendRes = await fetch("https://api.resend.com/emails", {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${RESEND_API_KEY}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        from: "En Clair <newsletter@enclair.media>",
+        to: [TEST_EMAIL],
+        subject,
+        html,
+      }),
+    });
 
-    // 6. Notify Sofiane
-    try {
-      await fetch("https://api.resend.com/emails", {
-        method: "POST",
-        headers: {
-          Authorization: `Bearer ${RESEND_API_KEY}`,
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          from: "En Clair <newsletter@enclair.media>",
-          to: "s.coly@dairia-avocats.com",
-          subject: `Newsletter #${issueNum} envoyee — ${result.sent}/${subscribers.length} abonnes`,
-          html: `<div style="font-family:Georgia,serif;max-width:500px;margin:0 auto;padding:32px;">
-            <h2 style="color:#1a1a1a;margin:0 0 16px;">Newsletter #${issueNum} envoyee</h2>
-            <div style="background:#f8f7f4;border-radius:12px;padding:20px;margin-bottom:20px;">
-              <p style="margin:0 0 8px;color:#333;font-size:16px;"><strong>${result.sent}</strong> emails envoyes sur <strong>${subscribers.length}</strong> abonnes</p>
-              <p style="margin:0 0 8px;color:#333;font-size:14px;">${articles.length} article(s) inclus</p>
-              ${result.failed > 0 ? `<p style="margin:0;color:#c00;font-size:14px;">${result.failed} echec(s) : ${result.errors.slice(0, 5).join(", ")}</p>` : '<p style="margin:0;color:#2a9d2a;font-size:14px;">Aucun echec</p>'}
-            </div>
-          </div>`,
-        }),
-      });
-    } catch (notifError) {
-      console.error("Failed to notify Sofiane:", notifError);
+    if (!sendRes.ok) {
+      const errorBody = await sendRes.text();
+      console.error("Test send failed:", errorBody);
+      return NextResponse.json(
+        { error: "Failed to send test email", details: errorBody },
+        { status: 500 }
+      );
     }
 
-    // 7. Log to Redis
-    await redis.hset(`newsletter:log:${issueNum}`, {
-      sentAt: new Date().toISOString(),
-      totalSubscribers: subscribers.length,
-      sent: result.sent,
-      failed: result.failed,
+    return NextResponse.json({
+      message: `Test newsletter sent to ${TEST_EMAIL}`,
       articlesCount: articles.length,
       subject,
     });
-
-    return NextResponse.json({
-      message: `Newsletter #${issueNum} sent`,
-      sent: result.sent,
-      failed: result.failed,
-      totalSubscribers: subscribers.length,
-      articlesCount: articles.length,
-      issue: issueNum,
-    });
   } catch (error) {
-    console.error("Newsletter send error:", error);
+    console.error("Test newsletter error:", error);
     return NextResponse.json(
-      {
-        error: "Newsletter send failed",
-        details: error instanceof Error ? error.message : "Unknown error",
-      },
+      { error: "Failed", details: error instanceof Error ? error.message : "Unknown" },
       { status: 500 }
     );
   }
 }
 
-// Also support POST for manual triggers
 export async function POST(req: NextRequest) {
   return GET(req);
 }
