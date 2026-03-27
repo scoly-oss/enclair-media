@@ -76,13 +76,13 @@ export default function GuideContent({ contentHtml, slug, title }: GuideContentP
             <p className="text-[15px] text-teal-800 font-medium mb-3">
               Guide complet déverrouillé
             </p>
-            <a
-              href={`/guides/${slug}/pdf`}
-              className="inline-block px-6 py-3 text-white font-medium rounded-xl text-[14px] transition-colors hover:opacity-90"
+            <button
+              onClick={() => window.print()}
+              className="inline-block px-6 py-3 text-white font-medium rounded-xl text-[14px] transition-colors hover:opacity-90 cursor-pointer"
               style={{ backgroundColor: "#1D627A" }}
             >
               Télécharger le PDF
-            </a>
+            </button>
           </div>
         )}
       </>
