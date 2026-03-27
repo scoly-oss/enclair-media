@@ -1,11 +1,5 @@
-import fs from "fs";
-import path from "path";
-import matter from "gray-matter";
-import { remark } from "remark";
-import remarkGfm from "remark-gfm";
-import html from "remark-html";
-
-const guidesDirectory = path.join(process.cwd(), "content/guides");
+const WP_API = "https://dairia-blog.bl-nk.io/wp-json/wp/v2";
+const GUIDES_CATEGORY = 1000;
 
 export interface GuideMeta {
   slug: string;
@@ -15,38 +9,60 @@ export interface GuideMeta {
   tags: string[];
   readTime: string;
   sources?: string[];
+  featuredImage?: string;
 }
 
 export interface Guide extends GuideMeta {
   contentHtml: string;
 }
 
-export function getAllGuides(): GuideMeta[] {
-  if (!fs.existsSync(guidesDirectory)) return [];
-  const fileNames = fs.readdirSync(guidesDirectory);
-  const guides = fileNames
-    .filter((f) => f.endsWith(".md"))
-    .map((fileName) => {
-      const slug = fileName.replace(/\.md$/, "");
-      const fullPath = path.join(guidesDirectory, fileName);
-      const fileContents = fs.readFileSync(fullPath, "utf8");
-      const { data } = matter(fileContents);
-      return { slug, ...data } as GuideMeta;
-    });
-  return guides.sort((a, b) => (a.date < b.date ? 1 : -1));
+function stripHtml(html: string): string {
+  return html.replace(/<[^>]+>/g, "").replace(/&rsquo;/g, "'").replace(/&lsquo;/g, "'").replace(/&nbsp;/g, " ").replace(/&#8217;/g, "'").replace(/&#8216;/g, "'").trim();
+}
+
+function estimateReadTime(html: string): string {
+  const words = stripHtml(html).split(/\s+/).length;
+  return `${Math.max(1, Math.round(words / 200))} min`;
+}
+
+export async function getAllGuides(): Promise<GuideMeta[]> {
+  const res = await fetch(
+    `${WP_API}/posts?categories=${GUIDES_CATEGORY}&per_page=100&orderby=date&order=desc&_fields=id,slug,title,excerpt,date,_embedded&_embed`,
+    { next: { revalidate: 300 } }
+  );
+  if (!res.ok) return [];
+  const posts = await res.json();
+  return posts.map((p: any) => ({
+    slug: p.slug,
+    title: stripHtml(p.title.rendered),
+    excerpt: stripHtml(p.excerpt.rendered).slice(0, 160),
+    date: p.date.split("T")[0],
+    tags: [],
+    readTime: "5 min",
+    featuredImage: p._embedded?.["wp:featuredmedia"]?.[0]?.source_url || undefined,
+  }));
 }
 
 export async function getGuideBySlug(slug: string): Promise<Guide | null> {
-  const fullPath = path.join(guidesDirectory, `${slug}.md`);
-  if (!fs.existsSync(fullPath)) return null;
-  const fileContents = fs.readFileSync(fullPath, "utf8");
-  const { data, content } = matter(fileContents);
-  const processedContent = await remark()
-    .use(remarkGfm)
-    .use(html, { sanitize: false })
-    .process(content);
-  const contentHtml = processedContent.toString();
-  return { slug, contentHtml, ...data } as Guide;
+  const res = await fetch(
+    `${WP_API}/posts?slug=${slug}&categories=${GUIDES_CATEGORY}&_fields=id,slug,title,excerpt,date,content,_embedded&_embed`,
+    { next: { revalidate: 300 } }
+  );
+  if (!res.ok) return null;
+  const posts = await res.json();
+  if (!posts.length) return null;
+  const p = posts[0];
+  const contentHtml = p.content.rendered;
+  return {
+    slug: p.slug,
+    title: stripHtml(p.title.rendered),
+    excerpt: stripHtml(p.excerpt.rendered).slice(0, 160),
+    date: p.date.split("T")[0],
+    tags: [],
+    readTime: estimateReadTime(contentHtml),
+    contentHtml,
+    featuredImage: p._embedded?.["wp:featuredmedia"]?.[0]?.source_url || undefined,
+  };
 }
 
 /**

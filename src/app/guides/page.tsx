@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
 };
 
-export default function GuidesPage() {
-  const guides = getAllGuides();
+export default async function GuidesPage() {
+  const guides = await getAllGuides();
   return <GuidesClient guides={guides} />;
 }
