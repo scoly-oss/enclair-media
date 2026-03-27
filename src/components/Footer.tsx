@@ -62,6 +62,22 @@ export default function Footer() {
             >
               DAIRIA Avocats
             </a>
+            <a
+              href="https://dairia.ai"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-alinea-600 transition-colors"
+            >
+              DAIRIA IA
+            </a>
+            <a
+              href="https://gerermesatmp.fr"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-alinea-600 transition-colors"
+            >
+              GérerMesATMP
+            </a>
           </div>
         </div>
       </div>

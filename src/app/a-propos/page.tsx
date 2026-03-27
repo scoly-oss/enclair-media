@@ -109,6 +109,18 @@ export default function AProposPage() {
           <a href="https://sofianecoly.com" target="_blank" rel="noopener noreferrer">Sofiane Coly</a>,
           avocat au Barreau de Lyon.
         </p>
+
+        <h2 style={{ fontFamily: "var(--font-serif)" }}>L&apos;écosystème DAIRIA</h2>
+        <p>
+          En Clair fait partie d&apos;un ensemble d&apos;outils et de services conçus pour
+          les employeurs qui veulent maîtriser leurs risques juridiques :
+        </p>
+        <ul>
+          <li><a href="https://dairia-avocats.com" target="_blank" rel="noopener noreferrer"><strong>DAIRIA Avocats</strong></a> — Cabinet de droit social côté employeur</li>
+          <li><a href="https://dairia.ai" target="_blank" rel="noopener noreferrer"><strong>DAIRIA IA</strong></a> — Assistant juridique IA pour employeurs, à 90&nbsp;€/mois</li>
+          <li><a href="https://gerermesatmp.fr" target="_blank" rel="noopener noreferrer"><strong>GérerMesATMP</strong></a> — Outil de gestion des accidents du travail et maladies professionnelles</li>
+          <li><a href="https://sofianecoly.com" target="_blank" rel="noopener noreferrer"><strong>Sofiane Coly</strong></a> — Site personnel du fondateur</li>
+        </ul>
       </div>
 
       <div className="mt-12">
