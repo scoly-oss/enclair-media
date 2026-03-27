@@ -12,7 +12,7 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  const guides = getAllGuides();
+  const guides = await getAllGuides();
   return guides.map((g) => ({ slug: g.slug }));
 }
 
