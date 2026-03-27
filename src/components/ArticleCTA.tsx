@@ -22,7 +22,7 @@ const ctas = {
   atmp: {
     text: "Vos cotisations AT/MP sont trop élevées ?",
     sub: "GérerMesAT/MP analyse votre taux, identifie les leviers et conteste pour vous.",
-    href: "https://gerermesatmp.fr",
+    href: "https://gerermesatmp.com",
     label: "Faire un diagnostic",
     bg: "bg-emerald-50 border-emerald-200",
   },

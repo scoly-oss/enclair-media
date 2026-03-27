@@ -26,7 +26,7 @@ const resources = [
     description:
       "Votre taux de cotisation accidents du travail est peut-être trop élevé. Un audit peut identifier des leviers d'économie.",
     cta: "Faire un diagnostic",
-    href: "https://gerermesatmp.fr",
+    href: "https://gerermesatmp.com",
     icon: "→",
     color: "border-alinea-200 hover:border-alinea-300",
     bgHover: "hover:bg-alinea-50",
