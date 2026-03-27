@@ -1,0 +1,61 @@
+{
+  "chapter": 12,
+  "title": "Épargne salariale",
+  "questions": [
+    {
+      "question": "Que deviennent les plans d'épargne entreprise (PEE) du cédant lors du transfert ?",
+      "options": [
+        "Ils sont automatiquement clôturés",
+        "Ils sont mis en cause et survivent temporairement, le cessionnaire devant négocier un accord de substitution",
+        "Ils sont transférés intégralement au cessionnaire",
+        "Les salariés perdent leurs avoirs"
+      ],
+      "correct": 1,
+      "explanation": "Le PEE mis en place par accord collectif est mis en cause par le transfert. Il survit pendant le délai de préavis + 12 mois (art. L.2261-14). Le cessionnaire doit négocier un accord de substitution ou intégrer les salariés dans son propre PEE."
+    },
+    {
+      "question": "Les avoirs des salariés sur le PEE du cédant sont-ils protégés ?",
+      "options": [
+        "Non, ils sont perdus si le PEE est résilié",
+        "Oui, les avoirs sont la propriété des salariés et restent disponibles selon les conditions de déblocage",
+        "Partiellement, seuls les avoirs de plus de 5 ans sont protégés",
+        "Cela dépend de l'organisme gestionnaire"
+      ],
+      "correct": 1,
+      "explanation": "Les avoirs placés dans le PEE sont la propriété personnelle des salariés. Le transfert d'entreprise n'affecte pas ces droits. Les salariés conservent leurs avoirs et les conditions de déblocage restent inchangées."
+    },
+    {
+      "question": "Le cessionnaire doit-il maintenir l'abondement versé par le cédant dans le cadre du PEE ?",
+      "options": [
+        "Oui, l'abondement est un droit acquis définitif",
+        "Non, l'abondement dépend de la politique du cessionnaire et de l'accord en vigueur",
+        "Oui, pendant une durée minimale de 3 ans",
+        "Non, l'abondement est toujours supprimé lors d'un transfert"
+      ],
+      "correct": 1,
+      "explanation": "L'abondement n'est pas un avantage individuel acquis. Il dépend de l'accord instituant le PEE. Pendant la période de survie, les modalités d'abondement du cédant s'appliquent. Ensuite, c'est l'accord du cessionnaire qui prévaut."
+    },
+    {
+      "question": "Le PERCO (ou PER collectif) du cédant suit-il les mêmes règles que le PEE en cas de transfert ?",
+      "options": [
+        "Non, le PERCO est intransférable",
+        "Oui, le PER collectif (ex-PERCO) suit les mêmes règles de mise en cause et de survie",
+        "Non, le PERCO est automatiquement conservé sans limite de durée",
+        "Oui, mais avec une période de survie réduite à 6 mois"
+      ],
+      "correct": 1,
+      "explanation": "Le PER collectif (successeur du PERCO depuis la loi PACTE) suit les mêmes règles que le PEE en matière de transfert : mise en cause de l'accord, période de survie de 15 mois, et nécessité d'un accord de substitution."
+    },
+    {
+      "question": "Les cas de déblocage anticipé de l'épargne salariale incluent-ils le transfert d'entreprise ?",
+      "options": [
+        "Oui, le transfert est un cas légal de déblocage anticipé",
+        "Non, le transfert n'est pas un cas de déblocage anticipé prévu par la loi",
+        "Oui, mais uniquement pour les salariés de plus de 50 ans",
+        "Oui, si le CSE en fait la demande"
+      ],
+      "correct": 1,
+      "explanation": "Le transfert d'entreprise au sens de L.1224-1 ne figure pas parmi les cas de déblocage anticipé prévus par les articles L.3324-10 (participation) et R.3334-4 (PEE). Les avoirs restent bloqués selon les conditions normales."
+    }
+  ]
+}

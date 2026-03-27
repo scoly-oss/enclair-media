@@ -1,0 +1,61 @@
+{
+  "chapter": 3,
+  "title": "Information des syndicats et des salariés",
+  "questions": [
+    {
+      "question": "Dans une entreprise de moins de 250 salariés faisant l'objet d'une cession, quel est le délai minimal d'information des salariés avant la vente ?",
+      "options": [
+        "15 jours",
+        "1 mois",
+        "2 mois",
+        "3 mois"
+      ],
+      "correct": 2,
+      "explanation": "L'article L.23-10-1 du Code de commerce impose un délai d'information de 2 mois avant la vente pour les entreprises de moins de 250 salariés, afin de permettre aux salariés de présenter une offre de reprise."
+    },
+    {
+      "question": "Les organisations syndicales représentatives doivent-elles être informées d'un projet de transfert ?",
+      "options": [
+        "Non, seul le CSE est compétent",
+        "Oui, dans le cadre de la négociation obligatoire",
+        "Oui, elles sont informées au même titre que le CSE lorsque le transfert affecte les conditions d'emploi",
+        "Uniquement si un accord collectif le prévoit"
+      ],
+      "correct": 2,
+      "explanation": "Les délégués syndicaux doivent être informés lorsque le projet de transfert a un impact sur les conditions d'emploi et peut conduire à une négociation sur les conséquences sociales de l'opération."
+    },
+    {
+      "question": "Le droit d'information préalable des salariés en cas de cession s'applique-t-il à toutes les entreprises ?",
+      "options": [
+        "Oui, sans aucune condition de taille",
+        "Non, uniquement aux entreprises de moins de 250 salariés sans CSE",
+        "Non, uniquement aux entreprises de moins de 250 salariés",
+        "Non, uniquement aux entreprises de plus de 50 salariés"
+      ],
+      "correct": 2,
+      "explanation": "Le droit d'information préalable des salariés prévu par la loi Hamon (art. L.23-10-1 et L.23-10-7 du Code de commerce) concerne les entreprises de moins de 250 salariés."
+    },
+    {
+      "question": "Quelle est la sanction en cas de défaut d'information préalable des salariés lors d'une cession ?",
+      "options": [
+        "La nullité automatique de la cession",
+        "La cession peut être annulée par le juge à la demande d'un salarié",
+        "Une amende pénale de 10 000 euros",
+        "Aucune, l'obligation est purement informative"
+      ],
+      "correct": 1,
+      "explanation": "Le défaut d'information préalable peut entraîner l'annulation de la cession à la demande de tout salarié intéressé (art. L.23-10-4 du Code de commerce), bien que cette sanction ait été assouplie par le Conseil constitutionnel."
+    },
+    {
+      "question": "L'information des salariés sur le transfert doit-elle inclure le prix de cession ?",
+      "options": [
+        "Oui, obligatoirement",
+        "Non, le prix est confidentiel et ne fait pas partie des informations obligatoires",
+        "Oui, mais uniquement pour les entreprises de plus de 50 salariés",
+        "Oui, si le CSE en fait la demande"
+      ],
+      "correct": 1,
+      "explanation": "L'obligation d'information des salariés porte sur le projet de cession lui-même, mais pas sur le prix ni sur les conditions financières détaillées, qui restent confidentielles entre les parties."
+    }
+  ]
+}

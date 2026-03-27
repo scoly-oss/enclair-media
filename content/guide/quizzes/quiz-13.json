@@ -1,0 +1,61 @@
+{
+  "chapter": 13,
+  "title": "Chartes et règlement intérieur",
+  "questions": [
+    {
+      "question": "Le règlement intérieur du cédant est-il transféré au cessionnaire ?",
+      "options": [
+        "Non, le règlement intérieur est strictement personnel à l'entreprise",
+        "Oui, il est transféré et continue de s'appliquer jusqu'à ce que le cessionnaire le modifie ou le remplace",
+        "Oui, mais uniquement pour les dispositions disciplinaires",
+        "Non, il est automatiquement remplacé par celui du cessionnaire au jour du transfert"
+      ],
+      "correct": 1,
+      "explanation": "Le règlement intérieur, acte unilatéral de l'employeur, est transféré avec l'entité économique. Il continue de s'appliquer aux salariés transférés jusqu'à ce que le cessionnaire le modifie, le remplace ou l'intègre dans son propre règlement."
+    },
+    {
+      "question": "La charte informatique du cédant lie-t-elle le cessionnaire ?",
+      "options": [
+        "Non, les chartes n'ont aucune valeur juridique",
+        "Oui, si elle est annexée au règlement intérieur, elle suit le même régime",
+        "Uniquement si les salariés l'ont signée individuellement",
+        "Non, sauf si le cessionnaire l'adopte expressément"
+      ],
+      "correct": 1,
+      "explanation": "Lorsque la charte informatique est annexée au règlement intérieur (art. L.1321-5 du Code du travail), elle acquiert une valeur contraignante et suit le même régime que le règlement intérieur lors du transfert."
+    },
+    {
+      "question": "Le cessionnaire peut-il modifier immédiatement le règlement intérieur transféré ?",
+      "options": [
+        "Oui, sans aucune formalité",
+        "Oui, mais en respectant la procédure de modification : consultation du CSE, transmission à l'inspection du travail, dépôt au greffe",
+        "Non, il doit attendre 12 mois",
+        "Oui, avec un simple affichage dans l'entreprise"
+      ],
+      "correct": 1,
+      "explanation": "La modification du règlement intérieur obéit à la procédure prévue par les articles L.1321-4 et suivants : consultation du CSE, communication à l'inspecteur du travail, dépôt au greffe du conseil de prud'hommes et affichage."
+    },
+    {
+      "question": "Une charte éthique ou code de conduite du cédant a-t-elle la même portée qu'un règlement intérieur ?",
+      "options": [
+        "Oui, toujours",
+        "Non, sauf si elle contient des dispositions relevant du règlement intérieur (discipline, hygiène, sécurité)",
+        "Oui, si elle a été validée par le CSE",
+        "Non, elle n'a jamais de valeur contraignante"
+      ],
+      "correct": 1,
+      "explanation": "Une charte éthique n'a la portée d'un règlement intérieur que si elle contient des prescriptions générales et permanentes en matière de discipline, d'hygiène ou de sécurité (Cass. soc., 8 décembre 2009). Dans ce cas, elle doit suivre la procédure du règlement intérieur."
+    },
+    {
+      "question": "Si le cessionnaire dispose déjà d'un règlement intérieur, lequel s'applique aux salariés transférés ?",
+      "options": [
+        "Le règlement du cédant exclusivement",
+        "Le règlement du cessionnaire s'applique, sous réserve d'harmonisation et de respect des droits acquis des salariés transférés",
+        "Le plus favorable des deux",
+        "Aucun, un nouveau règlement doit être rédigé"
+      ],
+      "correct": 1,
+      "explanation": "En pratique, le cessionnaire appliquera son propre règlement intérieur aux salariés transférés, mais devra veiller à l'harmonisation et au respect de la procédure de modification si des changements substantiels affectent les conditions de travail."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "chapter": 6,
+  "title": "Accords et conventions collectifs",
+  "questions": [
+    {
+      "question": "Que devient la convention collective du cédant après le transfert d'entreprise ?",
+      "options": [
+        "Elle cesse immédiatement de s'appliquer",
+        "Elle continue de s'appliquer pendant une période de survie puis est mise en cause",
+        "Elle s'applique définitivement chez le cessionnaire",
+        "Elle est automatiquement remplacée par celle du cessionnaire"
+      ],
+      "correct": 1,
+      "explanation": "L'article L.2261-14 du Code du travail prévoit que la convention collective mise en cause continue de produire ses effets pendant un délai de survie (préavis + 12 mois), le temps qu'un accord de substitution soit négocié."
+    },
+    {
+      "question": "Quelle est la durée maximale de survie d'un accord collectif mis en cause par un transfert ?",
+      "options": [
+        "6 mois",
+        "12 mois après le préavis de 3 mois, soit 15 mois au total",
+        "24 mois",
+        "Il n'y a pas de limite de durée"
+      ],
+      "correct": 1,
+      "explanation": "La convention mise en cause continue de s'appliquer pendant le préavis (3 mois) puis pendant 12 mois supplémentaires, soit 15 mois au total, à défaut de conclusion d'un accord de substitution (art. L.2261-14)."
+    },
+    {
+      "question": "Qu'est-ce qu'un « accord de substitution » ?",
+      "options": [
+        "Un accord signé entre le cédant et le cessionnaire",
+        "Un accord collectif négocié chez le cessionnaire pour remplacer les dispositions de l'accord mis en cause",
+        "Un accord individuel signé avec chaque salarié transféré",
+        "Un accord d'entreprise du cédant modifié pour le transfert"
+      ],
+      "correct": 1,
+      "explanation": "L'accord de substitution est un accord collectif négocié au sein de l'entreprise cessionnaire avec les organisations syndicales représentatives, destiné à remplacer les dispositions de la convention mise en cause (art. L.2261-14)."
+    },
+    {
+      "question": "À défaut d'accord de substitution à l'issue du délai de survie, que se passe-t-il ?",
+      "options": [
+        "Les salariés perdent tous leurs avantages",
+        "Les salariés conservent les avantages individuels acquis",
+        "La convention du cédant s'applique indéfiniment",
+        "Le juge fixe les nouvelles conditions"
+      ],
+      "correct": 1,
+      "explanation": "À défaut d'accord de substitution, les salariés conservent les avantages individuels qu'ils ont acquis en application de la convention mise en cause, intégrés à leur contrat de travail (art. L.2261-14, al. 2)."
+    },
+    {
+      "question": "Si le cédant et le cessionnaire relèvent de la même branche professionnelle, y a-t-il mise en cause de la convention collective ?",
+      "options": [
+        "Oui, systématiquement",
+        "Non, la même convention de branche continue de s'appliquer sans mise en cause",
+        "Oui, mais uniquement pour les accords d'entreprise",
+        "Non, sauf décision contraire du CSE"
+      ],
+      "correct": 1,
+      "explanation": "Si les deux entreprises relèvent de la même convention de branche, celle-ci continue de s'appliquer sans mise en cause. En revanche, les accords d'entreprise du cédant sont, eux, mis en cause par le transfert."
+    }
+  ]
+}

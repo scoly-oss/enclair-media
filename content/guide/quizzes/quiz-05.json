@@ -1,0 +1,61 @@
+{
+  "chapter": 5,
+  "title": "Le sort des contrats de travail",
+  "questions": [
+    {
+      "question": "Lors d'un transfert d'entreprise, que deviennent les contrats de travail en cours ?",
+      "options": [
+        "Ils sont rompus et de nouveaux contrats sont conclus",
+        "Ils subsistent automatiquement avec le nouvel employeur",
+        "Ils sont suspendus pendant 3 mois",
+        "Le salarié choisit s'il souhaite poursuivre ou non"
+      ],
+      "correct": 1,
+      "explanation": "L'article L.1224-1 dispose que tous les contrats de travail en cours au jour du transfert subsistent entre le nouvel employeur et le personnel, avec maintien de l'ensemble des droits et obligations."
+    },
+    {
+      "question": "L'ancienneté du salarié est-elle conservée après le transfert ?",
+      "options": [
+        "Non, elle repart à zéro chez le cessionnaire",
+        "Oui, l'ancienneté acquise chez le cédant est intégralement reprise",
+        "Partiellement, seule la moitié est reprise",
+        "Oui, mais uniquement pour le calcul des congés payés"
+      ],
+      "correct": 1,
+      "explanation": "Le transfert de plein droit du contrat de travail implique la reprise intégrale de l'ancienneté acquise chez le cédant, qui sera prise en compte pour tous les droits liés à l'ancienneté (indemnité de licenciement, préavis, etc.)."
+    },
+    {
+      "question": "Un salarié peut-il refuser son transfert chez le nouvel employeur ?",
+      "options": [
+        "Oui, le transfert est toujours soumis à l'accord du salarié",
+        "Non, le transfert s'impose au salarié car L.1224-1 est d'ordre public",
+        "Oui, à condition de donner un préavis de 2 mois",
+        "Non, sauf s'il est en période d'essai"
+      ],
+      "correct": 1,
+      "explanation": "L'article L.1224-1 étant d'ordre public, le salarié ne peut pas s'opposer au transfert de son contrat. Son refus constitue une démission ou peut justifier un licenciement pour cause réelle et sérieuse par le cessionnaire."
+    },
+    {
+      "question": "Les clauses du contrat de travail sont-elles maintenues après le transfert ?",
+      "options": [
+        "Non, le cessionnaire peut librement les modifier",
+        "Oui, toutes les clauses contractuelles sont transférées à l'identique",
+        "Seule la rémunération est maintenue",
+        "Les clauses sont maintenues uniquement pendant 12 mois"
+      ],
+      "correct": 1,
+      "explanation": "Le transfert de plein droit emporte le maintien de l'ensemble des clauses contractuelles : rémunération, qualification, durée du travail, clause de non-concurrence, etc. Le cessionnaire ne peut les modifier sans l'accord du salarié."
+    },
+    {
+      "question": "Qui est responsable des dettes salariales antérieures au transfert ?",
+      "options": [
+        "Le cessionnaire exclusivement",
+        "Le cédant exclusivement",
+        "Le cédant et le cessionnaire sont solidairement responsables en cas de redressement judiciaire",
+        "L'AGS (assurance garantie des salaires) uniquement"
+      ],
+      "correct": 2,
+      "explanation": "En principe, le cessionnaire reprend les obligations du cédant à l'égard des salariés. En cas de procédure collective, la solidarité entre cédant et cessionnaire peut être mise en jeu pour les créances salariales antérieures (art. L.1224-2)."
+    }
+  ]
+}

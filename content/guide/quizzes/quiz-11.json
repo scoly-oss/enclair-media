@@ -1,0 +1,61 @@
+{
+  "chapter": 11,
+  "title": "Participation",
+  "questions": [
+    {
+      "question": "L'accord de participation du cédant est-il automatiquement transféré au cessionnaire ?",
+      "options": [
+        "Oui, il est transféré de plein droit",
+        "Non, il est mis en cause par le transfert et survit temporairement",
+        "Oui, mais uniquement si le cessionnaire n'a pas déjà un accord de participation",
+        "Non, il cesse immédiatement"
+      ],
+      "correct": 1,
+      "explanation": "L'accord de participation du cédant est mis en cause par le transfert, comme tout accord collectif. Il survit pendant le délai de préavis (3 mois) + 12 mois, conformément à l'article L.2261-14 du Code du travail."
+    },
+    {
+      "question": "Si le cessionnaire atteint le seuil de 50 salariés grâce aux salariés transférés, que doit-il faire ?",
+      "options": [
+        "Rien, le seuil s'apprécie uniquement au 31 décembre",
+        "Mettre en place un accord de participation dans un délai de 3 ans",
+        "Mettre en place un accord de participation immédiatement",
+        "Verser une prime exceptionnelle aux salariés"
+      ],
+      "correct": 1,
+      "explanation": "L'article L.3322-1 du Code du travail impose la participation obligatoire aux entreprises d'au moins 50 salariés. Si le seuil est atteint ou franchi suite au transfert, le cessionnaire dispose d'un délai pour mettre en place un accord (art. L.3322-1 et D.3322-1)."
+    },
+    {
+      "question": "Les droits à participation acquis par les salariés chez le cédant sont-ils conservés ?",
+      "options": [
+        "Non, ils sont perdus lors du transfert",
+        "Oui, les droits acquis restent disponibles selon les conditions de déblocage",
+        "Partiellement, seules les sommes non encore bloquées sont conservées",
+        "Cela dépend de l'accord entre cédant et cessionnaire"
+      ],
+      "correct": 1,
+      "explanation": "Les droits à participation déjà acquis par les salariés (sommes placées ou en attente) leur restent acquis. Le transfert d'entreprise ne remet pas en cause les droits individuels des salariés sur la réserve spéciale de participation."
+    },
+    {
+      "question": "Pendant la période de survie de l'accord de participation du cédant, le cessionnaire doit-il verser la participation ?",
+      "options": [
+        "Non, la participation est suspendue pendant la survie",
+        "Oui, selon les modalités prévues par l'accord mis en cause",
+        "Oui, mais selon les modalités de l'accord du cessionnaire",
+        "Non, sauf si le CSE en fait la demande"
+      ],
+      "correct": 1,
+      "explanation": "Pendant la période de survie de l'accord mis en cause, le cessionnaire doit calculer et verser la participation selon les modalités prévues par cet accord, pour les salariés transférés."
+    },
+    {
+      "question": "À défaut d'accord de substitution, que devient la participation pour les salariés transférés ?",
+      "options": [
+        "Ils ne bénéficient plus d'aucune participation",
+        "La participation légale de droit commun s'applique si le seuil de 50 salariés est atteint",
+        "Les avantages individuels acquis s'appliquent",
+        "Le cessionnaire verse une indemnité compensatrice"
+      ],
+      "correct": 1,
+      "explanation": "À défaut d'accord de substitution, c'est le régime légal de participation qui s'applique si l'entreprise cessionnaire atteint le seuil d'effectif requis. La formule légale de calcul de la réserve spéciale de participation prend le relais."
+    }
+  ]
+}

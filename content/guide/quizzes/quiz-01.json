@@ -1,0 +1,61 @@
+{
+  "chapter": 1,
+  "title": "Le processus de transfert d'entreprise",
+  "questions": [
+    {
+      "question": "Quel article du Code du travail régit le transfert automatique des contrats de travail lors d'un transfert d'entreprise ?",
+      "options": [
+        "L.1221-1",
+        "L.1224-1",
+        "L.1231-1",
+        "L.1235-1"
+      ],
+      "correct": 1,
+      "explanation": "L'article L.1224-1 du Code du travail dispose que « lorsque survient une modification dans la situation juridique de l'employeur, tous les contrats de travail en cours subsistent entre le nouvel employeur et le personnel de l'entreprise »."
+    },
+    {
+      "question": "Quelle est la condition essentielle pour qu'un transfert d'entreprise soit caractérisé au sens de L.1224-1 ?",
+      "options": [
+        "Un accord écrit entre les deux employeurs",
+        "Le transfert d'une entité économique autonome conservant son identité",
+        "L'accord préalable de chaque salarié concerné",
+        "Une décision de justice autorisant le transfert"
+      ],
+      "correct": 1,
+      "explanation": "La jurisprudence exige le transfert d'une entité économique autonome, définie comme un ensemble organisé de moyens poursuivant un objectif propre, et qui conserve son identité après le transfert (CJCE, 11 mars 1997, Süzen)."
+    },
+    {
+      "question": "Parmi les opérations suivantes, laquelle ne constitue PAS un transfert d'entreprise au sens de L.1224-1 ?",
+      "options": [
+        "Une fusion-absorption",
+        "Une cession de fonds de commerce",
+        "La simple perte d'un marché sans reprise de moyens",
+        "Un apport partiel d'actif"
+      ],
+      "correct": 2,
+      "explanation": "La simple perte d'un marché de prestation de services, sans reprise par le nouveau prestataire des moyens d'exploitation significatifs (personnel, matériel), ne caractérise pas le transfert d'une entité économique autonome (Cass. soc., 27 mai 2009)."
+    },
+    {
+      "question": "Qu'entend-on par « entité économique autonome » ?",
+      "options": [
+        "Toute société disposant d'un numéro SIRET",
+        "Un ensemble organisé de personnes et d'éléments corporels ou incorporels poursuivant un objectif propre",
+        "Un établissement distinct au sens du CSE",
+        "Une unité économique et sociale (UES)"
+      ],
+      "correct": 1,
+      "explanation": "L'entité économique autonome est définie par la jurisprudence européenne et française comme un ensemble organisé de personnes et d'éléments corporels ou incorporels permettant l'exercice d'une activité économique qui poursuit un objectif propre (Directive 2001/23/CE, art. 1)."
+    },
+    {
+      "question": "Le transfert d'entreprise au sens de L.1224-1 s'applique-t-il de plein droit ?",
+      "options": [
+        "Non, il nécessite un accord collectif",
+        "Non, il nécessite l'accord individuel de chaque salarié",
+        "Oui, il s'applique automatiquement, sans formalité",
+        "Oui, mais uniquement après validation par l'inspection du travail"
+      ],
+      "correct": 2,
+      "explanation": "L'article L.1224-1 est d'ordre public : le transfert des contrats de travail s'opère de plein droit, automatiquement, sans qu'il soit besoin de l'accord des salariés ni d'aucune formalité particulière."
+    }
+  ]
+}

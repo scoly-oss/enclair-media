@@ -1,0 +1,61 @@
+{
+  "chapter": 2,
+  "title": "La consultation du CSE",
+  "questions": [
+    {
+      "question": "À quel moment le CSE doit-il être consulté en cas de transfert d'entreprise ?",
+      "options": [
+        "Après la réalisation du transfert",
+        "Avant la décision définitive de transfert",
+        "Uniquement si les salariés en font la demande",
+        "Dans les 15 jours suivant le transfert"
+      ],
+      "correct": 1,
+      "explanation": "L'article L.2312-8 du Code du travail impose que le CSE soit consulté avant toute décision de l'employeur ayant un impact sur les conditions de travail, ce qui inclut le projet de transfert d'entreprise."
+    },
+    {
+      "question": "Quel est le fondement légal de la consultation du CSE en cas de modification de l'organisation économique de l'entreprise ?",
+      "options": [
+        "L.2312-8 du Code du travail",
+        "L.1224-1 du Code du travail",
+        "L.2314-1 du Code du travail",
+        "L.1233-30 du Code du travail"
+      ],
+      "correct": 0,
+      "explanation": "L'article L.2312-8 dispose que le CSE est informé et consulté sur les questions intéressant l'organisation, la gestion et la marche générale de l'entreprise, ce qui couvre les opérations de transfert."
+    },
+    {
+      "question": "Que risque l'employeur s'il ne consulte pas le CSE avant le transfert ?",
+      "options": [
+        "Le transfert est automatiquement annulé",
+        "Il s'expose au délit d'entrave et à la nullité de la procédure",
+        "Rien, la consultation est facultative",
+        "Une simple amende administrative de 500 euros"
+      ],
+      "correct": 1,
+      "explanation": "Le défaut de consultation du CSE constitue un délit d'entrave (art. L.2317-1) passible de sanctions pénales. Il peut également entraîner la suspension de l'opération par le juge des référés."
+    },
+    {
+      "question": "Chez le cessionnaire (repreneur), le CSE doit-il également être consulté ?",
+      "options": [
+        "Non, seul le CSE du cédant est concerné",
+        "Oui, le CSE du cessionnaire doit aussi être informé et consulté",
+        "Uniquement si le cessionnaire emploie plus de 300 salariés",
+        "Uniquement en cas de fusion"
+      ],
+      "correct": 1,
+      "explanation": "Le CSE du cessionnaire doit également être consulté dès lors que l'intégration de nouveaux salariés impacte l'organisation et les conditions de travail de l'entreprise d'accueil (art. L.2312-8)."
+    },
+    {
+      "question": "Dans quel délai le CSE doit-il rendre son avis à défaut d'accord ?",
+      "options": [
+        "8 jours",
+        "1 mois (2 mois si recours à un expert)",
+        "3 mois",
+        "Aucun délai, il dispose d'un temps illimité"
+      ],
+      "correct": 1,
+      "explanation": "En l'absence d'accord, le CSE dispose d'un mois pour rendre son avis, porté à 2 mois en cas de recours à un expert (art. R.2312-6 du Code du travail). À défaut, il est réputé avoir rendu un avis négatif."
+    }
+  ]
+}

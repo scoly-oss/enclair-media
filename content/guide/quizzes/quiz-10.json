@@ -1,0 +1,61 @@
+{
+  "chapter": 10,
+  "title": "AGIRC-ARRCO",
+  "questions": [
+    {
+      "question": "Les droits à retraite complémentaire AGIRC-ARRCO des salariés sont-ils affectés par le transfert ?",
+      "options": [
+        "Oui, les points acquis sont perdus",
+        "Non, les droits acquis sont conservés et transférés",
+        "Partiellement, seuls les points des 5 dernières années sont conservés",
+        "Cela dépend de l'accord entre les deux employeurs"
+      ],
+      "correct": 1,
+      "explanation": "Les droits à retraite complémentaire (points AGIRC-ARRCO) sont des droits personnels du salarié, intégralement conservés. Le transfert d'entreprise n'a aucun impact sur les points déjà acquis par le salarié."
+    },
+    {
+      "question": "Le cessionnaire doit-il adhérer à la même institution AGIRC-ARRCO que le cédant ?",
+      "options": [
+        "Oui, obligatoirement",
+        "Non, il peut choisir librement son institution de rattachement",
+        "Non, mais les salariés transférés conservent leur institution d'origine pendant 12 mois",
+        "Cela dépend du nombre de salariés transférés"
+      ],
+      "correct": 1,
+      "explanation": "Le cessionnaire n'est pas tenu d'adhérer à la même institution que le cédant. Les salariés seront affiliés à l'institution du cessionnaire, sans impact sur leurs droits acquis qui sont gérés par le régime unifié AGIRC-ARRCO."
+    },
+    {
+      "question": "Les taux de cotisation retraite complémentaire peuvent-ils changer après le transfert ?",
+      "options": [
+        "Non, ils sont identiques pour toutes les entreprises",
+        "Oui, les taux contractuels (part supra-obligatoire) peuvent différer chez le cessionnaire",
+        "Non, les taux sont fixés par la loi et ne peuvent jamais varier",
+        "Oui, mais uniquement à la baisse"
+      ],
+      "correct": 1,
+      "explanation": "Si les taux obligatoires AGIRC-ARRCO sont uniformes, les taux contractuels ou conventionnels de cotisation (part supra-obligatoire) peuvent varier entre le cédant et le cessionnaire, selon les accords collectifs en vigueur."
+    },
+    {
+      "question": "Le cessionnaire reprend-il les éventuels arriérés de cotisations retraite complémentaire du cédant ?",
+      "options": [
+        "Oui, en application de L.1224-2 du Code du travail",
+        "Non, les cotisations sociales relèvent exclusivement du cédant",
+        "Uniquement si le cédant est en procédure collective",
+        "Oui, mais plafonné à 12 mois d'arriérés"
+      ],
+      "correct": 0,
+      "explanation": "L'article L.1224-2 du Code du travail prévoit que le cessionnaire est tenu, à l'égard des salariés dont les contrats sont transférés, aux obligations qui incombaient à l'ancien employeur, ce qui peut inclure les arriérés de cotisations."
+    },
+    {
+      "question": "Depuis la fusion AGIRC-ARRCO au 1er janvier 2019, quel est l'impact sur le transfert ?",
+      "options": [
+        "La distinction cadres/non-cadres pour la retraite complémentaire a été supprimée",
+        "Le transfert n'est plus possible pour les salariés de plus de 55 ans",
+        "Le régime unifié simplifie la gestion car il n'y a plus qu'un seul régime de retraite complémentaire",
+        "Aucun impact, les deux régimes distincts continuent de coexister"
+      ],
+      "correct": 2,
+      "explanation": "La fusion AGIRC-ARRCO au 1er janvier 2019 a créé un régime unifié de retraite complémentaire. Cela simplifie la gestion lors d'un transfert car il n'y a plus de différence de régime entre cadres et non-cadres pour la retraite complémentaire."
+    }
+  ]
+}

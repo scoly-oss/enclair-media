@@ -1,0 +1,61 @@
+{
+  "chapter": 7,
+  "title": "Usages et engagements unilatéraux",
+  "questions": [
+    {
+      "question": "Les usages d'entreprise du cédant sont-ils automatiquement transférés au cessionnaire ?",
+      "options": [
+        "Oui, ils sont transférés de plein droit comme les contrats de travail",
+        "Non, les usages ne sont jamais transférés",
+        "Oui, mais uniquement s'ils sont écrits",
+        "Oui, sauf si le cessionnaire les dénonce selon la procédure régulière"
+      ],
+      "correct": 3,
+      "explanation": "Les usages d'entreprise sont transférés au cessionnaire dans le cadre de L.1224-1, mais celui-ci peut les dénoncer en respectant la procédure classique : information du CSE, notification individuelle aux salariés, et respect d'un délai de prévenance suffisant."
+    },
+    {
+      "question": "Quelle est la procédure de dénonciation d'un usage par le cessionnaire ?",
+      "options": [
+        "Une simple décision unilatérale suffit",
+        "Information du CSE, notification individuelle à chaque salarié, délai de prévenance",
+        "Un accord du CSE à la majorité des deux tiers",
+        "Une décision validée par l'inspection du travail"
+      ],
+      "correct": 1,
+      "explanation": "La dénonciation régulière d'un usage suppose trois conditions cumulatives : information préalable des représentants du personnel (CSE), notification individuelle à chaque salarié concerné, et respect d'un délai de prévenance suffisant (Cass. soc., 25 février 1988)."
+    },
+    {
+      "question": "Un engagement unilatéral de l'employeur cédant lie-t-il le cessionnaire ?",
+      "options": [
+        "Non, les engagements unilatéraux sont strictement personnels",
+        "Oui, le cessionnaire est tenu par les engagements unilatéraux du cédant",
+        "Uniquement s'ils figurent dans un document écrit",
+        "Uniquement s'ils ont été appliqués pendant plus de 5 ans"
+      ],
+      "correct": 1,
+      "explanation": "Les engagements unilatéraux de l'employeur sont transférés au cessionnaire dans le cadre de L.1224-1, au même titre que les usages. Le cessionnaire peut toutefois les dénoncer selon la procédure applicable."
+    },
+    {
+      "question": "Qu'est-ce qui distingue un usage d'une clause contractuelle ?",
+      "options": [
+        "Rien, ce sont des notions identiques",
+        "L'usage est une pratique répétée, fixe et générale ; la clause contractuelle est un engagement individuel intégré au contrat",
+        "L'usage est toujours plus favorable que le contrat",
+        "La clause contractuelle peut être dénoncée unilatéralement, pas l'usage"
+      ],
+      "correct": 1,
+      "explanation": "L'usage d'entreprise est caractérisé par trois conditions : constance (répétition), fixité (critères objectifs) et généralité (bénéfice à tous les salariés ou une catégorie). Contrairement à une clause contractuelle, il peut être dénoncé unilatéralement."
+    },
+    {
+      "question": "Le cessionnaire peut-il dénoncer un usage dès le jour du transfert ?",
+      "options": [
+        "Oui, immédiatement et sans formalité",
+        "Oui, mais en respectant la procédure de dénonciation avec un délai de prévenance",
+        "Non, il doit attendre un an après le transfert",
+        "Non, il doit attendre l'avis conforme du CSE"
+      ],
+      "correct": 1,
+      "explanation": "Le cessionnaire peut engager la procédure de dénonciation dès le transfert, mais il doit respecter les conditions de forme (information CSE + notification individuelle) et accorder un délai de prévenance suffisant aux salariés."
+    }
+  ]
+}

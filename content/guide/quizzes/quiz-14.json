@@ -1,0 +1,61 @@
+{
+  "chapter": 14,
+  "title": "Récapitulatif — Le transfert d'entreprise de A à Z",
+  "questions": [
+    {
+      "question": "Parmi les éléments suivants, lequel N'EST PAS transféré de plein droit lors d'un transfert d'entreprise ?",
+      "options": [
+        "Les contrats de travail en cours",
+        "L'ancienneté des salariés",
+        "Le numéro SIRET de l'entreprise",
+        "Les usages d'entreprise"
+      ],
+      "correct": 2,
+      "explanation": "Le numéro SIRET est propre à chaque établissement et n'est pas transféré. En revanche, les contrats de travail (L.1224-1), l'ancienneté et les usages d'entreprise sont transférés au cessionnaire."
+    },
+    {
+      "question": "Quel est l'ordre chronologique correct des étapes d'un transfert d'entreprise ?",
+      "options": [
+        "Transfert → Consultation CSE → Information des salariés → Négociation d'accords",
+        "Consultation CSE → Information des salariés protégés → Autorisation inspection du travail → Transfert effectif",
+        "Information des salariés → Transfert → Consultation CSE → Négociation",
+        "Autorisation inspection → Consultation CSE → Transfert → Information des salariés"
+      ],
+      "correct": 1,
+      "explanation": "La procédure type comprend : consultation préalable du CSE (L.2312-8), information et demande d'autorisation pour les salariés protégés, puis transfert effectif avec maintien des contrats de travail (L.1224-1)."
+    },
+    {
+      "question": "Après le transfert, pendant combien de temps les accords collectifs du cédant continuent-ils de produire leurs effets ?",
+      "options": [
+        "6 mois",
+        "12 mois",
+        "15 mois (3 mois de préavis + 12 mois de survie)",
+        "Indéfiniment"
+      ],
+      "correct": 2,
+      "explanation": "Les accords collectifs mis en cause survivent pendant un délai maximal de 15 mois : 3 mois de préavis + 12 mois de survie, conformément à l'article L.2261-14 du Code du travail."
+    },
+    {
+      "question": "Quelle affirmation est FAUSSE concernant le transfert d'entreprise ?",
+      "options": [
+        "Le transfert des contrats de travail est d'ordre public",
+        "Le salarié peut refuser le transfert de son contrat",
+        "Le cessionnaire reprend les obligations du cédant envers les salariés",
+        "Les droits à retraite complémentaire sont conservés"
+      ],
+      "correct": 1,
+      "explanation": "L'article L.1224-1 étant d'ordre public, le salarié ne peut pas refuser le transfert de son contrat de travail. Son refus s'analyse en une démission ou peut justifier un licenciement par le cessionnaire."
+    },
+    {
+      "question": "En synthèse, quel est le principe fondamental qui gouverne le transfert d'entreprise en droit français ?",
+      "options": [
+        "La liberté contractuelle : chaque partie négocie librement",
+        "La continuité des relations de travail : les contrats subsistent entre le nouvel employeur et les salariés",
+        "La rupture automatique : les contrats sont résiliés puis recréés",
+        "La primauté de la convention collective sur le contrat de travail"
+      ],
+      "correct": 1,
+      "explanation": "Le principe fondamental posé par L.1224-1 est celui de la continuité des relations de travail : lors d'un transfert d'entité économique autonome, tous les contrats en cours subsistent avec le nouvel employeur, garantissant la protection de l'emploi."
+    }
+  ]
+}

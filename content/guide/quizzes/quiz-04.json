@@ -1,0 +1,61 @@
+{
+  "chapter": 4,
+  "title": "L'autorisation pour les salariés protégés",
+  "questions": [
+    {
+      "question": "Le transfert d'un salarié protégé nécessite-t-il une autorisation préalable ?",
+      "options": [
+        "Non, L.1224-1 s'applique automatiquement à tous les salariés",
+        "Oui, l'autorisation de l'inspection du travail est requise",
+        "Non, sauf si le salarié s'y oppose",
+        "Oui, mais uniquement pour les délégués syndicaux"
+      ],
+      "correct": 1,
+      "explanation": "Lorsque le transfert ne porte que sur une partie de l'entreprise (transfert partiel), le transfert du contrat d'un salarié protégé nécessite l'autorisation préalable de l'inspecteur du travail (art. L.2414-1 du Code du travail)."
+    },
+    {
+      "question": "Dans quel cas l'autorisation de l'inspection du travail n'est-elle PAS requise pour le transfert d'un salarié protégé ?",
+      "options": [
+        "Lorsque le salarié est délégué syndical",
+        "Lorsque le transfert porte sur la totalité de l'entreprise",
+        "Lorsque le salarié a moins de 2 ans d'ancienneté",
+        "Lorsque le CSE a donné un avis favorable"
+      ],
+      "correct": 1,
+      "explanation": "Lorsque le transfert porte sur l'intégralité de l'entreprise ou de l'établissement, l'autorisation de l'inspecteur du travail n'est pas nécessaire car L.1224-1 s'applique de plein droit à tous les salariés, protégés inclus."
+    },
+    {
+      "question": "Quels salariés bénéficient du statut protecteur en matière de transfert ?",
+      "options": [
+        "Uniquement les membres du CSE",
+        "Les membres du CSE, les délégués syndicaux, les conseillers prud'hommes et les autres salariés listés par le Code du travail",
+        "Uniquement les salariés ayant plus de 10 ans d'ancienneté",
+        "Tous les salariés en CDI"
+      ],
+      "correct": 1,
+      "explanation": "Le statut protecteur s'applique aux membres du CSE, délégués syndicaux, représentants de section syndicale, conseillers prud'hommes, défenseurs syndicaux et autres salariés visés aux articles L.2411-1 et suivants du Code du travail."
+    },
+    {
+      "question": "Que se passe-t-il si l'inspection du travail refuse l'autorisation de transfert d'un salarié protégé ?",
+      "options": [
+        "Le salarié est automatiquement licencié",
+        "Le salarié reste chez le cédant ou, si celui-ci a cessé son activité, doit proposer un reclassement",
+        "Le transfert est annulé pour l'ensemble des salariés",
+        "L'employeur peut passer outre après un délai de 30 jours"
+      ],
+      "correct": 1,
+      "explanation": "En cas de refus d'autorisation, le salarié protégé reste dans l'entreprise cédante. Si celle-ci cesse son activité, le cédant doit proposer un reclassement ou engager une procédure de licenciement avec autorisation (Cass. soc., 14 février 2007)."
+    },
+    {
+      "question": "Le cessionnaire peut-il licencier un salarié protégé immédiatement après le transfert ?",
+      "options": [
+        "Oui, librement pendant la période d'essai du transfert",
+        "Non, la protection continue de s'appliquer après le transfert",
+        "Oui, si le CSE donne son accord",
+        "Oui, avec un préavis de 3 mois"
+      ],
+      "correct": 1,
+      "explanation": "Le mandat du salarié protégé se poursuit après le transfert. Le cessionnaire est tenu de respecter le statut protecteur et ne peut procéder au licenciement qu'avec l'autorisation préalable de l'inspecteur du travail (art. L.2411-1 et s.)."
+    }
+  ]
+}

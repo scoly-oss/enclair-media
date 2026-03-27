@@ -1,0 +1,61 @@
+{
+  "chapter": 8,
+  "title": "Prévoyance",
+  "questions": [
+    {
+      "question": "Que devient le contrat de prévoyance collective du cédant lors d'un transfert d'entreprise ?",
+      "options": [
+        "Il est automatiquement transféré au cessionnaire",
+        "Il est résilié de plein droit au jour du transfert",
+        "Il continue de s'appliquer indéfiniment",
+        "Il est mis en cause et survit temporairement selon les règles de L.2261-14"
+      ],
+      "correct": 3,
+      "explanation": "Le régime de prévoyance mis en place par accord collectif suit le sort de cet accord : il est mis en cause par le transfert et survit pendant le délai de préavis + 12 mois (art. L.2261-14), le temps de négocier un accord de substitution."
+    },
+    {
+      "question": "Pendant la période de survie du régime de prévoyance, qui finance les garanties ?",
+      "options": [
+        "Le cédant continue de payer les cotisations",
+        "Le cessionnaire doit maintenir le financement des garanties",
+        "Les salariés financent seuls les garanties",
+        "L'organisme assureur prend en charge les cotisations"
+      ],
+      "correct": 1,
+      "explanation": "Pendant la période de survie, le cessionnaire, devenu le nouvel employeur, doit maintenir le financement du régime de prévoyance dans les mêmes conditions que celles prévues par l'accord mis en cause."
+    },
+    {
+      "question": "L'article 7 de la loi Évin impose-t-il des obligations au cessionnaire en matière de prévoyance ?",
+      "options": [
+        "Non, la loi Évin ne concerne que la santé",
+        "Oui, le cessionnaire doit maintenir les garanties pour les anciens salariés en cours d'indemnisation",
+        "Non, sauf accord d'entreprise contraire",
+        "Oui, mais uniquement pour les cadres"
+      ],
+      "correct": 1,
+      "explanation": "L'article 7 de la loi Évin (31 décembre 1989) impose le maintien des garanties pour les bénéficiaires de prestations en cours (incapacité, invalidité, rentes éducation), même en cas de changement d'organisme assureur après le transfert."
+    },
+    {
+      "question": "Que se passe-t-il si le cessionnaire dispose déjà d'un régime de prévoyance différent ?",
+      "options": [
+        "Le régime le plus favorable s'applique automatiquement",
+        "Les deux régimes coexistent pendant la période de survie, puis le régime du cessionnaire s'applique",
+        "Le régime du cessionnaire s'applique immédiatement",
+        "Les salariés choisissent individuellement leur régime"
+      ],
+      "correct": 1,
+      "explanation": "Pendant la période de survie de l'accord mis en cause, les salariés transférés conservent leur régime d'origine. À l'issue de cette période, le régime du cessionnaire s'applique, sous réserve du maintien des avantages individuels acquis."
+    },
+    {
+      "question": "La portabilité des droits de prévoyance (art. L.911-8 CSS) est-elle affectée par le transfert ?",
+      "options": [
+        "Oui, elle est interrompue",
+        "Non, car le transfert ne constitue pas une rupture du contrat de travail",
+        "Oui, les salariés perdent leurs droits à portabilité",
+        "Elle est maintenue mais limitée à 6 mois"
+      ],
+      "correct": 1,
+      "explanation": "Le transfert au sens de L.1224-1 ne constitue pas une cessation du contrat de travail. La portabilité de l'article L.911-8 du Code de la sécurité sociale ne se déclenche donc pas, puisqu'elle vise les cas de rupture ouvrant droit à l'assurance chômage."
+    }
+  ]
+}
