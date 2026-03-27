@@ -3,9 +3,9 @@ import { getAllGuides } from "@/lib/guides";
 import { modeles } from "@/data/modeles";
 import type { MetadataRoute } from "next";
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const articles = getAllArticles();
-  const guides = getAllGuides();
+  const guides = await getAllGuides();
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://enclair.media";
 
   const articleEntries = articles.map((article) => ({
