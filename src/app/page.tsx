@@ -1,14 +1,33 @@
 import { getAllArticles } from "@/lib/articles";
 import ArticleCard from "@/components/ArticleCard";
 import NewsletterForm from "@/components/NewsletterForm";
+import FAQ from "@/components/FAQ";
+import { faqItems } from "@/lib/faq-data";
 
 export default function Home() {
   const articles = getAllArticles();
   const featured = articles[0];
   const recent = articles.slice(1, 7); // 6 derniers articles seulement
 
+  const faqJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqItems.map((item) => ({
+      "@type": "Question",
+      name: item.question,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: item.answer,
+      },
+    })),
+  };
+
   return (
     <div className="mx-auto max-w-3xl px-6">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+      />
       {/* Hero */}
       <section className="text-center py-20 md:py-28">
         <p className="text-[13px] font-medium text-accent-dark uppercase tracking-[0.15em] mb-6">
@@ -114,6 +133,9 @@ export default function Home() {
           Commencer un quizz →
         </a>
       </section>
+
+      {/* FAQ */}
+      <FAQ />
     </div>
   );
 }
