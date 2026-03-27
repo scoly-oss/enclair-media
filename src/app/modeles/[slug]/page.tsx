@@ -11,7 +11,12 @@ export default function ModelePage() {
 
   const [email, setEmail] = useState("");
   const [consent, setConsent] = useState(false);
-  const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
+  const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">(() => {
+    if (typeof window !== "undefined" && localStorage.getItem("enclair_subscribed") === "true") {
+      return "success";
+    }
+    return "idle";
+  });
   const [errorMsg, setErrorMsg] = useState("");
 
   if (!modele) {
@@ -45,6 +50,7 @@ export default function ModelePage() {
       const data = await res.json();
       if (data.success && data.downloadUrl) {
         setStatus("success");
+        localStorage.setItem("enclair_subscribed", "true");
         // Trigger download
         const a = document.createElement("a");
         a.href = data.downloadUrl;
@@ -102,12 +108,18 @@ export default function ModelePage() {
           {status === "success" ? (
             <div className="bg-green-50 border border-green-200 rounded-xl p-6 text-center">
               <p className="text-green-800 font-medium text-lg mb-2">
-                Téléchargement lancé !
+                Modèle disponible
               </p>
-              <p className="text-green-700 text-sm">
-                Le PDF a été téléchargé. Vous recevrez également nos prochaines
-                analyses juridiques par email.
+              <p className="text-green-700 text-sm mb-4">
+                Cliquez ci-dessous pour télécharger le PDF.
               </p>
+              <a
+                href={`/modeles/${modele.slug}.pdf`}
+                download={`${modele.slug}.pdf`}
+                className="inline-block bg-[#e8842c] text-white font-medium px-6 py-3 rounded-lg hover:bg-[#d4741f] transition-colors"
+              >
+                Télécharger le PDF
+              </a>
             </div>
           ) : (
             <form onSubmit={handleSubmit} className="bg-gray-50 rounded-xl p-6">
