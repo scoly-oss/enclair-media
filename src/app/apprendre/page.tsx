@@ -1,9 +1,26 @@
 import Link from "next/link";
+import type { Metadata } from "next";
 import QuizCard from "@/components/QuizCard";
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "Apprendre — En Clair",
   description: "Testez vos réflexes juridiques avec nos quizz et cas pratiques interactifs en droit social.",
+  alternates: {
+    canonical: "/apprendre",
+  },
+  openGraph: {
+    title: "Apprendre — En Clair",
+    description: "Testez vos réflexes juridiques avec nos quizz et cas pratiques interactifs en droit social.",
+    type: "website",
+    url: "https://enclair.media/apprendre",
+    locale: "fr_FR",
+    siteName: "En Clair",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Apprendre — En Clair",
+    description: "Testez vos réflexes juridiques avec nos quizz et cas pratiques interactifs en droit social.",
+  },
 };
 
 const quizzes = [

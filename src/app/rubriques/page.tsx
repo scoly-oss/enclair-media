@@ -1,9 +1,26 @@
 import Link from "next/link";
+import type { Metadata } from "next";
 import { getAllArticles, getCategoryLabel } from "@/lib/articles";
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "Rubriques — En Clair",
   description: "Toutes les rubriques d'En Clair : droit social, économie, jurisprudence, décryptages, alertes.",
+  alternates: {
+    canonical: "/rubriques",
+  },
+  openGraph: {
+    title: "Rubriques — En Clair",
+    description: "Toutes les rubriques d'En Clair : droit social, économie, jurisprudence, décryptages, alertes.",
+    type: "website",
+    url: "https://enclair.media/rubriques",
+    locale: "fr_FR",
+    siteName: "En Clair",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Rubriques — En Clair",
+    description: "Toutes les rubriques d'En Clair : droit social, économie, jurisprudence, décryptages, alertes.",
+  },
 };
 
 const categories = [

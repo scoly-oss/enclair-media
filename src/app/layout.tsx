@@ -21,12 +21,21 @@ export const metadata: Metadata = {
     locale: "fr_FR",
     url: BASE_URL,
     siteName: "En Clair",
+    images: [
+      {
+        url: `${BASE_URL}/og-image.png`,
+        width: 1200,
+        height: 630,
+        alt: "En Clair — Le brief juridique hebdomadaire pour dirigeants",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "En Clair — Le brief juridique hebdomadaire",
     description:
       "Ce qui peut vous coûter cher — avant que ça vous coûte cher. Le brief juridique pour ceux qui décident.",
+    images: [`${BASE_URL}/og-image.png`],
   },
   alternates: {
     canonical: "/",
@@ -44,8 +53,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     inLanguage: "fr-FR",
     publisher: {
       "@type": "Organization",
-      name: "En Clair",
-      url: BASE_URL,
+      name: "DAIRIA Avocats",
+      url: "https://dairia-avocats.com",
     },
   };
 

@@ -11,8 +11,10 @@ export default function GuideEmailGate({ children }: { children: React.ReactNode
   const [unlocked, setUnlocked] = useState(false);
 
   useEffect(() => {
-    const stored = localStorage.getItem("guide-transfert-unlocked");
-    if (stored === "true") setUnlocked(true);
+    const stored =
+      localStorage.getItem("guide-transfert-unlocked") === "true" ||
+      localStorage.getItem("enclair_subscribed") === "true";
+    if (stored) setUnlocked(true);
   }, []);
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -29,6 +31,7 @@ export default function GuideEmailGate({ children }: { children: React.ReactNode
         setStatus("success");
         setUnlocked(true);
         localStorage.setItem("guide-transfert-unlocked", "true");
+        localStorage.setItem("enclair_subscribed", "true");
       } else {
         setStatus("error");
       }

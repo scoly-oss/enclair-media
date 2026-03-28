@@ -18,9 +18,26 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { category } = await params;
   if (!validCategories.includes(category)) return {};
   const label = getCategoryLabel(category);
+  const description = `Toutes les analyses ${label.toLowerCase()} d'En Clair. Droit, économie et jurisprudence décryptés pour les dirigeants.`;
   return {
     title: `${label} — En Clair`,
-    description: `Toutes les analyses ${label.toLowerCase()} d'En Clair. Droit, économie et jurisprudence décryptés pour les dirigeants.`,
+    description,
+    alternates: {
+      canonical: `/rubriques/${category}`,
+    },
+    openGraph: {
+      title: `${label} — En Clair`,
+      description,
+      type: "website",
+      url: `https://enclair.media/rubriques/${category}`,
+      locale: "fr_FR",
+      siteName: "En Clair",
+    },
+    twitter: {
+      card: "summary_large_image" as const,
+      title: `${label} — En Clair`,
+      description,
+    },
   };
 }
 
