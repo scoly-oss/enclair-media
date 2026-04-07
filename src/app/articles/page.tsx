@@ -1,5 +1,6 @@
 import { getAllArticles } from "@/lib/articles";
 import ArticlesClient from "./ArticlesClient";
+import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -28,5 +29,24 @@ export const metadata: Metadata = {
 
 export default function ArticlesPage() {
   const articles = getAllArticles();
-  return <ArticlesClient articles={articles} />;
+  return (
+    <>
+      <ArticlesClient articles={articles} />
+      {/* Noscript fallback: full article list for crawlers that don't execute JS */}
+      <noscript>
+        <div className="mx-auto max-w-3xl px-6 py-10">
+          <ul>
+            {articles.map((article) => (
+              <li key={article.slug} className="mb-4">
+                <Link href={`/articles/${article.slug}`} className="text-alinea-950 underline">
+                  {article.title}
+                </Link>
+                <span className="text-alinea-400 text-sm ml-2">{article.date}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </noscript>
+    </>
+  );
 }
