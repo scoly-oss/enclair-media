@@ -11,8 +11,6 @@ sources:
   - "DREETS, Guide pratique du PSE, 2023"
 ---
 
-# PSE : seuils de déclenchement et erreurs fatales
-
 ## Vous supprimez des postes ? Vérifiez si vous n'êtes pas déjà dans l'obligation d'un PSE
 
 Votre entreprise compte 55 salariés. Vous envisagez de supprimer 8 postes ce mois-ci, puis 3 le mois prochain. Vous pensez rester en dessous du seuil du PSE. Vous vous trompez peut-être.

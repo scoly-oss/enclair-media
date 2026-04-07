@@ -13,8 +13,6 @@ sources:
   - "Cass. 2e civ., 22 février 2024, n° 22-18.759"
 ---
 
-# Burn-out et faute inexcusable : la reconnaissance par les juges
-
 Le burn-out, ou syndrome d'épuisement professionnel, n'est pas inscrit dans les tableaux de maladies professionnelles. Pourtant, sa reconnaissance comme maladie d'origine professionnelle est désormais possible par la voie complémentaire, et peut ouvrir la voie à l'indemnisation au titre de la faute inexcusable de l'employeur. La jurisprudence construit progressivement un cadre de responsabilité.
 
 ## La reconnaissance du burn-out comme maladie professionnelle

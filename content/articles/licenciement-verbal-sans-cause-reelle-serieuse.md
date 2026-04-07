@@ -13,8 +13,6 @@ sources:
   - "Article L.1235-3 du Code du travail"
 ---
 
-# Licenciement verbal : pourquoi il est toujours sans cause réelle et sérieuse
-
 Dans le feu de l'action — un conflit, une faute flagrante, un mouvement de colère —, un employeur peut être tenté de signifier oralement à un salarié que leur collaboration est terminée. Cette décision, prise dans la précipitation, constitue un licenciement verbal aux conséquences juridiques particulièrement lourdes.
 
 ## Le principe : le licenciement doit être notifié par écrit

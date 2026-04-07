@@ -12,8 +12,6 @@ sources:
   - "BOSS, Bulletin officiel de la sécurité sociale, rubrique Épargne salariale"
 ---
 
-# Intéressement : le nouveau régime simplifié pour les PME
-
 L'intéressement permet d'associer les salariés aux résultats de l'entreprise en leur versant une prime liée à la performance collective. Longtemps perçu comme un dispositif réservé aux grandes entreprises, il est désormais accessible aux PME grâce à des régimes simplifiés. Avec des exonérations sociales et fiscales attractives, c'est un outil à considérer sérieusement.
 
 ## Le principe de l'intéressement

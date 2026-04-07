@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 13 décembre 2023, n°22-15.789"
 ---
 
-# Intérim : la responsabilité de l'entreprise utilisatrice
-
 ## Vous utilisez des intérimaires. Vous n'êtes pas leur employeur. Mais vous êtes responsable.
 
 Vous faites appel à une agence d'intérim pour un surcroît d'activité. L'agence gère le contrat, la paie, les cotisations. Vous, vous leur donnez du travail. Simple et sans risque ?

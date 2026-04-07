@@ -12,8 +12,6 @@ sources:
   - "Article 10 de la Convention européenne des droits de l'homme (liberté d'expression)"
 ---
 
-# Obligation de loyauté du salarié : les limites fixées par la Cour
-
 L'obligation de loyauté est un devoir inhérent au contrat de travail. Le salarié doit exécuter son contrat de bonne foi et ne pas porter atteinte aux intérêts de son employeur. Mais cette obligation n'est pas absolue : la Cour de cassation en fixe les contours avec précision, protégeant les libertés fondamentales du salarié.
 
 ## Le contenu de l'obligation de loyauté

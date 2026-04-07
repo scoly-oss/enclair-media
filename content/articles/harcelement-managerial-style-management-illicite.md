@@ -11,8 +11,6 @@ sources:
   - "Code du travail, article L.1152-1"
 ---
 
-# Harcèlement managérial : quand le style de management devient illicite
-
 ## Votre directeur commercial "met la pression" sur ses équipes. C'est son style. C'est peut-être aussi du harcèlement.
 
 Humiliations en réunion, objectifs inatteignables, mails agressifs tard le soir, micro-management obsessionnel, menaces voilées de licenciement. Le manager appelle ça "de l'exigence". La Cour de cassation appelle ça du harcèlement moral.

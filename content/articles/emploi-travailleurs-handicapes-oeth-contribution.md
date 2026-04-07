@@ -12,8 +12,6 @@ sources:
   - "Article L. 5212-12 du Code du travail (contribution AGEFIPH)"
 ---
 
-# Emploi des travailleurs handicapés : l'OETH et la contribution
-
 L'obligation d'emploi des travailleurs handicapés (OETH) est une obligation légale qui concerne toutes les entreprises de 20 salariés et plus. Le non-respect de cette obligation entraîne le versement d'une contribution financière à l'AGEFIPH. Les règles ont été profondément réformées depuis 2020.
 
 ## L'obligation : 6 % de l'effectif

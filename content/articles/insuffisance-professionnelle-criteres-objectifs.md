@@ -11,8 +11,6 @@ sources:
   - "Code du travail, article L.1235-1 (cause réelle et sérieuse)"
 ---
 
-# Insuffisance professionnelle : les critères objectifs exigés par la Cour
-
 ## Vous estimez qu'un salarié n'est "pas au niveau". Mais pouvez-vous le prouver objectivement ?
 
 Le commercial ne fait pas ses chiffres. Le développeur livre du code de mauvaise qualité. L'assistante fait des erreurs répétées. Vous savez que ces salariés ne sont pas performants. Mais le savoir et le prouver devant un juge sont deux choses très différentes.

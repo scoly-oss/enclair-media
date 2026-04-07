@@ -13,8 +13,6 @@ sources:
   - "Article L.1235-3 du Code du travail"
 ---
 
-# Ordre des licenciements économiques : les critères obligatoires
-
 Lorsqu'un licenciement économique ne vise pas l'intégralité d'une catégorie professionnelle, l'employeur doit déterminer quels salariés seront licenciés. Ce choix ne peut pas être discrétionnaire. Le Code du travail impose l'application de critères d'ordre dont le non-respect constitue une irrégularité sanctionnée par les juges.
 
 ## Les critères légaux de l'article L.1233-5

@@ -13,8 +13,6 @@ sources:
   - "Article L.2312-83 du Code du travail"
 ---
 
-# Budget CSE : les 0,2% et 0,22% que vous devez verser
-
 Le comité social et économique (CSE) dispose de deux budgets distincts que l'employeur est tenu de financer. Le budget de fonctionnement, assis sur la masse salariale brute, et la contribution aux activités sociales et culturelles (ASC). Leur calcul, leur utilisation et les possibilités de transfert entre les deux sont des sujets que tout dirigeant doit maîtriser.
 
 ## Le budget de fonctionnement : 0,2% ou 0,22%

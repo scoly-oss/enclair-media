@@ -12,8 +12,6 @@ sources:
   - "Cass. 2e civ., 15 mars 2018, n° 17-11.336"
 ---
 
-# Indemnités de rupture : le régime social et fiscal en 2026
-
 Le traitement des indemnités de rupture du contrat de travail est l'un des sujets les plus techniques de la paie. L'articulation entre exonérations sociales et fiscales, les plafonds applicables et les règles spécifiques à chaque mode de rupture exigent une maîtrise fine. Erreur courante : les seuils sociaux et fiscaux ne sont pas identiques.
 
 ## Le principe : exonération sous conditions

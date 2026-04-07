@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 25 mai 2016, n° 14-27.324"
 ---
 
-# Démission : les conditions pour qu'elle soit valable (et quand elle ne l'est pas)
-
 La démission semble être l'acte le plus simple du droit du travail : le salarié décide de quitter son employeur. En réalité, sa validité est subordonnée à une condition fondamentale — la volonté claire et non équivoque — dont l'absence peut entraîner une requalification lourde de conséquences pour l'employeur.
 
 ## La condition essentielle : une volonté claire et non équivoque

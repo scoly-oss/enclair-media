@@ -12,8 +12,6 @@ sources:
   - "Article L. 242-1 du Code de la sécurité sociale"
 ---
 
-# Régularisation progressive des cotisations : comment ça marche
-
 La régularisation progressive des cotisations sociales est un mécanisme de calcul qui s'applique chaque mois pour ajuster les cotisations dues. Contrairement à la régularisation annuelle qui concentre les ajustements en fin d'année, la méthode progressive lisse les régularisations mois par mois. Un sujet technique mais crucial pour la fiabilité de la paie.
 
 ## Le principe de la régularisation progressive

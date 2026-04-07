@@ -12,8 +12,6 @@ sources:
   - "Cass. Ass. plén., 20 janvier 2023, n° 21-23.947"
 ---
 
-# Accident du travail et faute de l'employeur : la réparation intégrale
-
 Le régime de réparation des accidents du travail repose sur un compromis historique : le salarié bénéficie d'une réparation forfaitaire automatique, mais ne peut pas poursuivre son employeur en responsabilité civile de droit commun. Ce principe connaît une exception majeure : la faute inexcusable, qui ouvre droit à une réparation complémentaire élargie depuis 2010.
 
 ## Le principe : la réparation forfaitaire

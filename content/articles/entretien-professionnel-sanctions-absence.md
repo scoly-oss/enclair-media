@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 5 juillet 2023, n° 21-24.122"
 ---
 
-# Entretien professionnel : les sanctions en cas d'absence (3 000 euros par salarié)
-
 L'entretien professionnel est l'un des dispositifs les plus méconnus et les plus négligés par les employeurs. Pourtant, son absence expose les entreprises de 50 salariés et plus à une sanction financière automatique : un abondement de 3 000 euros sur le compte personnel de formation (CPF) de chaque salarié concerné.
 
 ## L'obligation légale : tous les deux ans

@@ -13,8 +13,6 @@ sources:
   - "BOI-BIC-PTP-10-10-20"
 ---
 
-# Participation aux bénéfices : le calcul de la réserve spéciale
-
 La participation des salariés aux résultats de l'entreprise est un dispositif d'épargne salariale obligatoire dans les entreprises de 50 salariés et plus. Son montant est déterminé par une formule légale — la « formule de la réserve spéciale de participation » — dont la complexité technique justifie un décryptage méthodique.
 
 ## L'obligation de participation

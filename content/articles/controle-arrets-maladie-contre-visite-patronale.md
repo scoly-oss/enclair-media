@@ -13,8 +13,6 @@ sources:
   - "Cass. 2e civ., 16 mars 2023, n° 21-17.271"
 ---
 
-# Contrôle des arrêts maladie : la contre-visite patronale mode d'emploi
-
 Face à l'absentéisme, les employeurs disposent d'un outil souvent méconnu : la contre-visite médicale patronale. Distincte du contrôle exercé par la Sécurité sociale, elle permet à l'employeur de vérifier que l'arrêt de travail d'un salarié est médicalement justifié. Le décret du 5 juillet 2024 est venu préciser les modalités de ce dispositif, clarifiant plusieurs zones d'ombre.
 
 ## Le fondement juridique de la contre-visite

@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 13 mars 2013, n° 11-28.916"
 ---
 
-# Modification du lieu de travail : avec ou sans clause de mobilité
-
 La question du changement de lieu de travail est l'une des plus contentieuses en droit social. Elle se résume à une alternative : s'agit-il d'un simple changement des conditions de travail que le salarié doit accepter, ou d'une modification du contrat nécessitant son accord ? La réponse dépend de la notion de secteur géographique et de la présence éventuelle d'une clause de mobilité.
 
 ## Le principe : la notion de secteur géographique

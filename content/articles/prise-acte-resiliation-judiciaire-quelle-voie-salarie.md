@@ -13,8 +13,6 @@ sources:
   - "Article L.1235-3 du Code du travail"
 ---
 
-# Prise d'acte vs résiliation judiciaire : quelle voie pour le salarié
-
 Lorsqu'un employeur commet des manquements graves à ses obligations contractuelles — non-paiement du salaire, harcèlement, modification unilatérale du contrat —, le salarié n'est pas contraint de subir la situation ou de démissionner. Deux voies juridiques s'offrent à lui : la prise d'acte de la rupture et la résiliation judiciaire du contrat. Le choix entre ces deux mécanismes est stratégique, et leurs conséquences diffèrent considérablement.
 
 ## La prise d'acte : rupture immédiate à risque

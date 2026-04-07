@@ -11,8 +11,6 @@ sources:
   - "Code du travail, article L.1121-1 (proportionnalité)"
 ---
 
-# Géolocalisation des véhicules : les conditions strictes d'utilisation
-
 ## Vous avez installé des GPS sur vos véhicules de fonction. Avez-vous informé vos salariés ?
 
 Beaucoup d'entreprises équipent leurs véhicules de systèmes de géolocalisation pour optimiser les tournées, gérer la flotte ou vérifier les temps de trajet. C'est légitime. Mais la géolocalisation d'un véhicule conduit par un salarié est un traitement de données personnelles soumis au RGPD et au contrôle de la CNIL.

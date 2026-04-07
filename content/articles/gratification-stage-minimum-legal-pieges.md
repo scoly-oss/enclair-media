@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 29 janvier 2020, n° 18-15.359"
 ---
 
-# Gratification de stage : le minimum légal et les pièges
-
 Le recours aux stagiaires est encadré par des règles strictes dont la gratification est un élément central. Son non-respect expose l'employeur à des sanctions et à la requalification du stage en contrat de travail. Tour d'horizon des obligations et des pièges.
 
 ## L'obligation de gratification

@@ -13,8 +13,6 @@ sources:
   - "Article L.1332-1 du Code du travail"
 ---
 
-# Sanction disproportionnée : quand le juge réduit la sanction
-
 Le pouvoir disciplinaire de l'employeur n'est pas absolu. Le conseil de prud'hommes dispose d'un pouvoir de contrôle étendu sur les sanctions prononcées, incluant le droit de les annuler si elles sont jugées disproportionnées. Ce contrôle constitue un garde-fou essentiel contre l'arbitraire.
 
 ## Le contrôle judiciaire des sanctions disciplinaires

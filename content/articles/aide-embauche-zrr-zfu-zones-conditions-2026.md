@@ -12,8 +12,6 @@ sources:
   - "Décret n° 2024-695 du 5 juillet 2024 (France Ruralités Revitalisation)"
 ---
 
-# Aide à l'embauche ZRR/ZFU : les zones et conditions en 2026
-
 Les exonérations liées aux zones géographiques constituent un levier d'allègement de charges significatif pour les entreprises implantées dans certains territoires. En 2026, le paysage évolue avec la transition des ZRR vers le dispositif France Ruralités Revitalisation (FRR). État des lieux.
 
 ## Les ZRR : transition vers France Ruralités Revitalisation

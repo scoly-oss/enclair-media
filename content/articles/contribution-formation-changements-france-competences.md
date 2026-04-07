@@ -11,8 +11,6 @@ sources:
   - "France Compétences, Rapport d'activité 2024"
 ---
 
-# Contribution formation : les changements avec France Compétences
-
 ## Vous payez la contribution formation via votre OPCO. Mais savez-vous exactement ce que vous devez et pourquoi ?
 
 Depuis 2019, la collecte de la contribution formation a été transférée aux URSSAF, et France Compétences redistribue les fonds. Le système est plus centralisé mais les obligations des employeurs restent complexes.

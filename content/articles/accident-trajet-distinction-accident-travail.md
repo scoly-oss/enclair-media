@@ -12,8 +12,6 @@ sources:
   - "Cass. 2e civ., 2 mars 2017, n° 16-11.986"
 ---
 
-# Accident de trajet : la distinction avec l'AT qui change tout
-
 La confusion entre accident du travail (AT) et accident de trajet est fréquente en entreprise. Pourtant, ces deux qualifications entraînent des conséquences juridiques et financières très différentes pour l'employeur. Bien distinguer les deux est essentiel.
 
 ## Les définitions légales

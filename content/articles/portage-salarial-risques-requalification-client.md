@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 28 novembre 2018, n°17-18.763"
 ---
 
-# Portage salarial : les risques de requalification pour le client
-
 ## Vous faites appel à un consultant en portage salarial. Êtes-vous sûr de ne pas être son employeur ?
 
 Le portage salarial est devenu le mode de collaboration préféré des PME avec les consultants et experts indépendants. Pas de risque de requalification, pas de charges sociales, pas de complexité RH. C'est du moins ce que vous croyez.

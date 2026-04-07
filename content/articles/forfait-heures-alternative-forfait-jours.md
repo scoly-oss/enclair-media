@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 27 mars 2024, n°22-19.887"
 ---
 
-# Forfait heures : l'alternative au forfait jours que personne n'utilise
-
 ## Vous êtes en forfait jours et vous angoissez sur les contentieux ? Il existe une alternative.
 
 Le forfait jours est le dispositif star de la gestion du temps de travail des cadres. Plus de 50 % des cadres en France sont au forfait jours. Mais c'est aussi le dispositif le plus contesté devant les tribunaux : conventions invalidées, heures supplémentaires réclamées sur 3 ans, rappels de salaire considérables.

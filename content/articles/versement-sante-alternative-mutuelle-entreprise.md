@@ -13,8 +13,6 @@ sources:
   - "Article L.911-7 du Code de la sécurité sociale"
 ---
 
-# Versement santé : l'alternative à la mutuelle d'entreprise
-
 Depuis la généralisation de la complémentaire santé obligatoire en 2016, tous les employeurs du secteur privé doivent proposer une mutuelle à leurs salariés. Mais dans certains cas, cette obligation peut être remplie par le versement d'une aide financière individuelle : le **versement santé**. Ce dispositif méconnu offre une flexibilité appréciable pour les employeurs confrontés à des situations atypiques.
 
 ## Le principe du versement santé

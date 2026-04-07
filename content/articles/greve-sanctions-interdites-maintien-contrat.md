@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 30 juin 2015, n° 14-11.077"
 ---
 
-# Grève : les sanctions interdites et le maintien du contrat
-
 Le droit de grève est un droit constitutionnel, consacré par l'alinéa 7 du Préambule de la Constitution de 1946. Son exercice dans le secteur privé obéit à des règles que la Cour de cassation a précisées au fil d'une jurisprudence protectrice pour les salariés. L'employeur qui méconnaît ces règles s'expose à la nullité des mesures prises.
 
 ## Le principe : la suspension du contrat

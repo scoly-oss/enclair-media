@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 19 janvier 2022, n° 20-19.742"
 ---
 
-# Représentants du personnel : les heures de délégation, mode d'emploi
-
 Les heures de délégation constituent le temps que les représentants du personnel (membres du CSE, délégués syndicaux) peuvent consacrer à l'exercice de leur mandat. Leur gestion est une source permanente de tensions entre employeurs et élus. Maîtriser les règles s'impose.
 
 ## Le volume d'heures : ce que prévoit la loi

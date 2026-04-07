@@ -11,8 +11,6 @@ sources:
   - "Code de la sécurité sociale, article L.761-1 et suivants"
 ---
 
-# Détachement international : les obligations sociales cachées
-
 ## Vous envoyez un ingénieur en mission chez votre client en Belgique pendant 6 mois. Avez-vous pensé à tout ?
 
 Votre meilleur technicien part installer un système chez un client à Bruxelles. Le projet dure 4 mois, peut-être 6. Vous avez négocié le contrat commercial, réservé l'hôtel, prévu les frais de déplacement. Côté RH ? Vous pensez que son contrat français s'applique normalement.

@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 22 mars 2023, n°21-20.535"
 ---
 
-# Preuve par SMS : recevable ou pas devant les prud'hommes
-
 ## Un salarié produit des captures d'écran de SMS de son manager comme preuve de harcèlement. Ces preuves sont-elles recevables ?
 
 Le contentieux prud'homal est de plus en plus numérique. Les SMS, les emails, les messages WhatsApp, les enregistrements vocaux et les captures d'écran sont devenus des pièces courantes dans les dossiers. Mais leur recevabilité obéit à des règles précises que les deux parties -- employeur et salarié -- doivent connaître.

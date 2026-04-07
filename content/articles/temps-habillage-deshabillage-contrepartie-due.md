@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 21 novembre 2012, n° 11-15.696"
 ---
 
-# Temps d'habillage et de déshabillage : la contrepartie due
-
 Le temps passé par les salariés à enfiler et retirer leur tenue de travail dans l'entreprise est un sujet récurrent de contentieux. L'article L. 3121-3 du Code du travail pose un droit à contrepartie qui est souvent méconnu ou mal appliqué.
 
 ## Les deux conditions cumulatives

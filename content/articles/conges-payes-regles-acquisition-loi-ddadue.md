@@ -12,8 +12,6 @@ sources:
   - "Article L. 3141-5 du Code du travail (version modifiée)"
 ---
 
-# Congés payés : les règles d'acquisition que la loi DDADUE a bouleversées
-
 La loi n° 2024-364 du 22 avril 2024 portant diverses dispositions d'adaptation au droit de l'Union européenne (dite loi DDADUE) constitue l'un des plus importants bouleversements du droit des congés payés depuis des décennies. En alignant le droit français sur la directive européenne 2003/88/CE, elle remet en cause des pratiques RH solidement ancrées. Dirigeants, DRH et gestionnaires de paie doivent impérativement adapter leurs processus.
 
 ## Le contexte : une non-conformité française historique

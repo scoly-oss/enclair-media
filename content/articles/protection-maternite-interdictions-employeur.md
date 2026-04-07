@@ -12,8 +12,6 @@ sources:
   - "Directive 92/85/CEE du 19 octobre 1992 (protection des travailleuses enceintes)"
 ---
 
-# Protection de la maternité : ce que l'employeur ne peut absolument pas faire
-
 La protection de la maternité en droit du travail français est un régime d'ordre public. Les interdictions pesant sur l'employeur sont strictes et les sanctions, sévères. Tout manquement expose à la nullité du licenciement et à des dommages-intérêts conséquents.
 
 ## La protection absolue contre le licenciement

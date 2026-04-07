@@ -13,8 +13,6 @@ sources:
   - "Article L.1242-17 du Code du travail"
 ---
 
-# Inégalité de traitement entre CDI et CDD : ce que la Cour sanctionne
-
 Le droit du travail français, en conformité avec la directive européenne 1999/70/CE, prohibe toute discrimination fondée sur le type de contrat. Les salariés en CDD doivent bénéficier des mêmes droits que les salariés en CDI, sauf justification objective. La Cour de cassation sanctionne avec constance les manquements à ce principe d'égalité.
 
 ## Le principe légal

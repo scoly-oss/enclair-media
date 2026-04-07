@@ -12,8 +12,6 @@ sources:
   - "Guide du ministère du Travail sur les référents harcèlement (mars 2019)"
 ---
 
-# Référent harcèlement CSE : les missions et moyens obligatoires
-
 La loi du 5 septembre 2018 a imposé la désignation de référents en matière de lutte contre le harcèlement sexuel et les agissements sexistes. Deux référents coexistent : celui du CSE (obligatoire dans toutes les entreprises dotées d'un CSE) et celui de l'employeur (obligatoire dans les entreprises de 250 salariés et plus). Focus sur les missions et moyens du référent CSE.
 
 ## La désignation obligatoire

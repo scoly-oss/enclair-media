@@ -12,8 +12,6 @@ sources:
   - "Convention collective du BTP (ouvriers, IDCC 1596)"
 ---
 
-# Contrat de chantier : l'alternative au CDD méconnue
-
 Le contrat de chantier, ou CDI de chantier, est un outil contractuel qui reste largement sous-utilisé en dehors du secteur du BTP. Pourtant, depuis les ordonnances Macron de 2017, son champ d'application a été élargi à tous les secteurs. Présentation d'une alternative au CDD qui mérite d'être connue.
 
 ## Qu'est-ce qu'un contrat de chantier ?

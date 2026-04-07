@@ -12,8 +12,6 @@ sources:
   - "Cons. const., décision n° 2010-8 QPC du 18 juin 2010"
 ---
 
-# Faute inexcusable : la présomption en cas de maladie professionnelle
-
 La faute inexcusable de l'employeur est le mécanisme qui permet au salarié victime d'un accident du travail ou d'une maladie professionnelle d'obtenir une indemnisation complémentaire. En cas de maladie professionnelle, une présomption facilite la preuve. Un risque financier majeur pour les entreprises.
 
 ## La définition de la faute inexcusable

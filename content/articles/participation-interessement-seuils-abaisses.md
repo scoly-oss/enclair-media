@@ -11,8 +11,6 @@ sources:
   - "Loi n°2023-1107 du 29 novembre 2023 (partage de la valeur)"
 ---
 
-# Participation et intéressement : les seuils abaissés
-
 ## Vous avez 35 salariés et vous ne distribuez ni participation ni intéressement. La loi Partage de la valeur pourrait vous y obliger.
 
 Depuis la loi du 29 novembre 2023 relative au partage de la valeur, les entreprises de **11 à 49 salariés** qui réalisent un bénéfice net fiscal au moins égal à 1 % de leur chiffre d'affaires pendant 3 exercices consécutifs doivent mettre en place un dispositif de partage de la valeur.

@@ -12,8 +12,6 @@ sources:
   - "Convention collective nationale de l'hôtellerie-restauration (IDCC 1979)"
 ---
 
-# Jours fériés : les obligations de l'employeur selon la convention collective
-
 La gestion des jours fériés en entreprise est souvent perçue comme simple. En réalité, elle constitue un véritable piège juridique tant les règles varient selon le Code du travail, la convention collective applicable et les usages d'entreprise.
 
 ## Les 11 jours fériés légaux

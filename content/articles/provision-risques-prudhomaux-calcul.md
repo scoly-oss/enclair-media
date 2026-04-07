@@ -13,8 +13,6 @@ sources:
   - "Statistiques Ministère de la Justice, contentieux prud'homal 2024"
 ---
 
-# Provision pour risques prud'homaux : comment la calculer
-
 Dès qu'un contentieux prud'homal est engagé — ou même simplement probable —, l'entreprise doit constituer une provision pour risques dans ses comptes. Ce poste, souvent négligé dans les PME, peut avoir un impact significatif sur le résultat. Le calcul exige une méthode rigoureuse croisant probabilité de condamnation, montants estimés et frais connexes.
 
 ## L'obligation comptable de provisionner

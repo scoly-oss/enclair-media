@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 18 janvier 2023, n°21-20.311"
 ---
 
-# Licenciement pendant un arrêt maladie : ce que dit vraiment la Cour
-
 ## Votre salarié est en arrêt depuis 8 mois. Vous devez le remplacer définitivement. Pouvez-vous le licencier ?
 
 La croyance populaire dit qu'on ne peut pas licencier un salarié en arrêt maladie. C'est faux. La Cour de cassation autorise le licenciement, mais dans des conditions si précises que l'erreur est quasi systématique chez les employeurs qui tentent sans conseil.

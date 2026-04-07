@@ -11,8 +11,6 @@ sources:
   - "Code du travail, article L.3221-2 (égalité de rémunération)"
 ---
 
-# Égalité de traitement : la justification objective que vous devez prouver
-
 ## Vous payez votre commercial senior 20 % de plus que son collègue junior. Pouvez-vous justifier cet écart ?
 
 Le principe "à travail égal, salaire égal" est l'un des piliers du droit du travail français. Mais il ne signifie pas que tous les salariés au même poste doivent être payés pareil. Il signifie que chaque différence de traitement doit être **justifiée par des critères objectifs**.

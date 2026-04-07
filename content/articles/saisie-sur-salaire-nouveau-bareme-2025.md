@@ -11,8 +11,6 @@ sources:
   - "Décret n°2025-XX du XX janvier 2025 révisant le barème"
 ---
 
-# Saisie sur salaire : le nouveau barème 2025
-
 ## Vous recevez un acte de saisie sur le salaire d'un employé. Savez-vous calculer la fraction saisissable ?
 
 Un huissier vous a notifié une saisie sur rémunération. Vous devez retenir chaque mois une partie du salaire de votre salarié. Mais quelle partie ? Le calcul n'est pas intuitif, et une erreur peut vous rendre personnellement responsable envers le créancier ou envers le salarié.

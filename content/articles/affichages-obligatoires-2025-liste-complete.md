@@ -11,8 +11,6 @@ sources:
   - "Décret n°2016-1417 du 20 octobre 2016 (remplacement de certains affichages)"
 ---
 
-# Affichages obligatoires 2025 : la liste complète par taille d'entreprise
-
 ## L'inspecteur du travail regarde vos murs. Qu'y trouve-t-il ?
 
 Lors d'un contrôle, l'inspecteur du travail commence souvent par un tour des locaux. Il vérifie les affichages obligatoires. Un panneau manquant ou obsolète n'entraîne pas de sanction immédiate, mais c'est un signal de non-conformité qui approfondit le contrôle.

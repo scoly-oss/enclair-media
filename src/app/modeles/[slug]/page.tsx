@@ -22,14 +22,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const url = `${BASE_URL}/modeles/${slug}`;
 
   return {
-    title: `${modele.title} — Modèle gratuit | En Clair`,
-    description: modele.longDescription,
+    title: `${modele.title} — Modèle gratuit`,
+    description: modele.description,
     alternates: {
       canonical: `/modeles/${slug}`,
     },
     openGraph: {
       title: `${modele.title} — Modèle gratuit`,
-      description: modele.longDescription,
+      description: modele.description,
       type: "article",
       url,
       locale: "fr_FR",
@@ -37,8 +37,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: "summary_large_image",
-      title: `${modele.title} — Modèle gratuit | En Clair`,
-      description: modele.longDescription,
+      title: `${modele.title} — Modèle gratuit`,
+      description: modele.description,
     },
   };
 }
@@ -60,5 +60,38 @@ export default async function ModelePage({ params }: Props) {
       categoryColor: getCategoryColor(a.category),
     }));
 
-  return <ModeleClient modele={modele} relatedArticles={relatedArticles} />;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: `${modele.title} — Modèle gratuit`,
+    description: modele.description,
+    url: `${BASE_URL}/modeles/${slug}`,
+    inLanguage: "fr-FR",
+    isPartOf: {
+      "@type": "WebSite",
+      name: "En Clair",
+      url: BASE_URL,
+    },
+    offers: {
+      "@type": "Offer",
+      price: 0,
+      priceCurrency: "EUR",
+      availability: "https://schema.org/InStock",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "DAIRIA Avocats",
+      url: "https://dairia-avocats.com",
+    },
+  };
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <ModeleClient modele={modele} relatedArticles={relatedArticles} />
+    </>
+  );
 }

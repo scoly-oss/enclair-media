@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 18 mai 2022, n° 20-20.647"
 ---
 
-# Mise à disposition de personnel : les règles du prêt de main-d'œuvre
-
 Prêter un salarié à une autre entreprise est une pratique courante dans les groupes et entre partenaires commerciaux. Mais le droit français encadre strictement cette opération. Le non-respect des règles expose au délit de prêt de main-d'œuvre illicite et de marchandage.
 
 ## Le principe : l'interdiction du prêt à but lucratif

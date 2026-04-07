@@ -12,8 +12,6 @@ sources:
   - "Décret n° 2017-866 du 9 mai 2017 relatif au PAS"
 ---
 
-# Prélèvement à la source : les obligations de l'employeur
-
 Depuis le 1er janvier 2019, l'employeur est le collecteur du prélèvement à la source (PAS) de l'impôt sur le revenu de ses salariés. Cette obligation fait peser sur l'entreprise une responsabilité fiscale directe, avec des sanctions en cas de manquement.
 
 ## Le mécanisme du PAS

@@ -11,8 +11,6 @@ sources:
   - "Cass. crim., 11 mars 2024, n°23-80.547"
 ---
 
-# Responsabilité pénale de l'employeur : les infractions les plus poursuivies
-
 ## Vous pensez que le droit pénal du travail ne concerne que les cas extrêmes. Les statistiques disent le contraire.
 
 Le droit du travail contient des dizaines d'infractions pénales. La plupart des dirigeants les ignorent, convaincus que seuls les cas "graves" sont poursuivis. En réalité, certaines infractions sont poursuivies massivement, et les peines prononcées sont loin d'être symboliques.

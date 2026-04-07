@@ -11,8 +11,6 @@ sources:
   - "Conseil constitutionnel, décision n°2018-761 DC du 21 mars 2018"
 ---
 
-# Nullité du licenciement : les cas où le barème Macron ne s'applique pas
-
 ## Vous avez budgété le coût d'un licenciement contesté sur la base du barème Macron. Et si ce barème ne s'appliquait pas ?
 
 Le barème d'indemnisation du licenciement sans cause réelle et sérieuse (dit "barème Macron") a été introduit par les ordonnances de 2017. Il fixe un plancher et un plafond d'indemnisation en fonction de l'ancienneté du salarié. Beaucoup d'employeurs s'en servent pour "budgéter" le coût d'un licenciement.

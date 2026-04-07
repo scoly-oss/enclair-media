@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 5 avril 2023, n°21-22.455"
 ---
 
-# Reclassement interne : la recherche que les juges vérifient vraiment
-
 ## Vous avez envoyé un courrier de reclassement ? Ce n'est probablement pas suffisant
 
 Vous préparez un licenciement économique. Votre avocat vous a dit de chercher un reclassement. Vous avez envoyé un courrier au salarié avec deux postes disponibles à 400 km de chez lui, à un salaire inférieur de 40 %. Il a refusé. Vous pensez avoir rempli votre obligation.

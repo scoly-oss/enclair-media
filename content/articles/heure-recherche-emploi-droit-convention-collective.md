@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 9 février 2022, n° 20-15.795"
 ---
 
-# Heure de recherche d'emploi : un droit prévu par la CC, pas par la loi
-
 Pendant le préavis de licenciement, le salarié dispose-t-il d'heures pour rechercher un emploi ? Contrairement à une idée très répandue, le Code du travail ne prévoit aucun droit en la matière. Ce sont les conventions collectives qui instaurent cette faculté, avec des modalités très variables.
 
 ## L'absence de droit légal

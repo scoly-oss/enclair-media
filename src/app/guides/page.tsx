@@ -3,14 +3,14 @@ import GuidesClient from "./GuidesClient";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Guides pratiques — En Clair | Droit du travail, RGPD, santé au travail",
+  title: "Guides pratiques | Droit du travail, RGPD, santé au travail",
   description:
     "Guides pratiques pour employeurs : visite médicale, RGPD en RH, surveillance des salariés, charte informatique. Étape par étape, accessible et sourcé.",
   alternates: {
     canonical: "/guides",
   },
   openGraph: {
-    title: "Guides pratiques — En Clair | Droit du travail, RGPD, santé au travail",
+    title: "Guides pratiques | Droit du travail, RGPD, santé au travail — En Clair",
     description:
       "Guides pratiques pour employeurs : visite médicale, RGPD en RH, surveillance des salariés, charte informatique. Étape par étape, accessible et sourcé.",
     type: "website",

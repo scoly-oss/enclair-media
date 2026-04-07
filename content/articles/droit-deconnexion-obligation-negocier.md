@@ -11,8 +11,6 @@ sources:
   - "ANI du 26 novembre 2020 sur le télétravail"
 ---
 
-# Droit à la déconnexion : l'obligation de négocier que vous n'avez pas remplie
-
 ## Vos managers envoient des emails à 23 heures. Vos salariés répondent le dimanche. Avez-vous négocié sur le droit à la déconnexion ?
 
 Depuis le 1er janvier 2017, le droit à la déconnexion fait partie des **thèmes obligatoires de la négociation annuelle** dans les entreprises de 50 salariés et plus. Huit ans plus tard, la majorité des entreprises n'ont toujours pas d'accord ni de charte sur le sujet.

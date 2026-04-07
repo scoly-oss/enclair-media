@@ -11,8 +11,6 @@ sources:
   - "Code du travail, article L.1332-4 (prescription des fautes)"
 ---
 
-# Droit disciplinaire : la gradation des sanctions expliquée
-
 ## Votre salarié est en retard pour la troisième fois. Vous voulez le licencier. C'est probablement trop tôt.
 
 Le salarié arrive en retard, ne respecte pas les consignes, son travail se dégrade. Vous êtes excédé. Vous voulez passer directement au licenciement pour faute. Après tout, vous l'avez prévenu verbalement plusieurs fois.

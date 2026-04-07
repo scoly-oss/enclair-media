@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 19 avril 2023, n°21-23.092"
 ---
 
-# Congé parental : les nouvelles règles de retour au poste
-
 ## Votre salariée revient de congé parental dans 3 mois. Avez-vous anticipé ?
 
 Elle est partie il y a deux ans. Depuis, l'entreprise a changé : nouvelle organisation, nouveaux outils, son poste a évolué. Vous pensez lui proposer "quelque chose d'équivalent". Mais savez-vous précisément ce que la loi vous impose ?

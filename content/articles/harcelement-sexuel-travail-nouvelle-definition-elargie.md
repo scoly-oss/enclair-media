@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 15 novembre 2023, n°22-16.287"
 ---
 
-# Harcèlement sexuel au travail : la nouvelle définition élargie
-
 ## Vos managers savent-ils que des blagues répétées à connotation sexuelle sont désormais du harcèlement au sens de la loi ?
 
 Dans la salle de pause, un manager fait régulièrement des commentaires sur le physique de ses collaboratrices. "C'est de l'humour", dit-il. "Ça a toujours été comme ça", ajoutent ses collègues. Personne ne se plaint officiellement.

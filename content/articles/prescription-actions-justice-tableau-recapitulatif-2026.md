@@ -13,8 +13,6 @@ sources:
   - "Loi n° 2013-504 du 14 juin 2013"
 ---
 
-# Prescription des actions en justice : le tableau récapitulatif 2026
-
 En droit du travail, les délais pour agir en justice sont un véritable maquis. La loi du 14 juin 2013 a considérablement raccourci les prescriptions, mais la multiplicité des régimes demeure une source de confusion pour les salariés comme pour les employeurs. Ce guide récapitule l'ensemble des délais applicables en 2026.
 
 ## Les prescriptions en matière de rupture du contrat

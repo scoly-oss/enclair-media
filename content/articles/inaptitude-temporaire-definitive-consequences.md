@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 13 avril 2023, n° 21-24.812"
 ---
 
-# Inaptitude temporaire vs définitive : les conséquences radicalement différentes
-
 La distinction entre inaptitude temporaire et inaptitude définitive prononcée par le médecin du travail est fondamentale dans la gestion du contrat de travail. L'une suspend le contrat, l'autre déclenche un processus pouvant mener au licenciement. Comprendre cette distinction est essentiel pour tout employeur.
 
 ## L'inaptitude temporaire : la suspension du contrat

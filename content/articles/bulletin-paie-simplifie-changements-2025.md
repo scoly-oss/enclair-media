@@ -11,8 +11,6 @@ sources:
   - "BOSS, Bulletin officiel de la Sécurité sociale, rubrique bulletin de paie"
 ---
 
-# Bulletin de paie simplifié : ce qui change en 2025
-
 ## Votre bulletin de paie affiche-t-il le montant net social ? Si non, vous êtes en infraction depuis 2 ans.
 
 Depuis juillet 2023, tous les bulletins de paie doivent afficher le **montant net social**. Pourtant, en 2025, certaines entreprises utilisent encore des modèles non conformes. Et les contrôles URSSAF se multiplient.

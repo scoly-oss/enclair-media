@@ -26,13 +26,26 @@ function estimateReadTime(html: string): string {
 }
 
 export async function getAllGuides(): Promise<GuideMeta[]> {
-  const res = await fetch(
-    `${WP_API}/posts?categories=${GUIDES_CATEGORY}&per_page=100&orderby=date&order=desc&_fields=id,slug,title,excerpt,date,_embedded&_embed`,
-    { next: { revalidate: 300 } }
-  );
-  if (!res.ok) return [];
-  const posts = await res.json();
-  return posts.map((p: any) => ({
+  const allPosts: any[] = [];
+  let page = 1;
+
+  // Paginate through all results (WP REST API max per_page is 100)
+  while (true) {
+    const res = await fetch(
+      `${WP_API}/posts?categories=${GUIDES_CATEGORY}&status=publish&per_page=100&page=${page}&orderby=date&order=desc&_fields=id,slug,title,excerpt,date,_embedded&_embed`,
+      { next: { revalidate: 300 } }
+    );
+    if (!res.ok) break;
+    const posts = await res.json();
+    if (!Array.isArray(posts) || posts.length === 0) break;
+    allPosts.push(...posts);
+    // Check if we've fetched all pages
+    const totalPages = parseInt(res.headers.get("X-WP-TotalPages") || "1", 10);
+    if (page >= totalPages) break;
+    page++;
+  }
+
+  return allPosts.map((p: any) => ({
     slug: p.slug,
     title: stripHtml(p.title.rendered),
     excerpt: stripHtml(p.excerpt.rendered).slice(0, 160),

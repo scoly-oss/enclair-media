@@ -12,8 +12,6 @@ sources:
   - "Cass. crim., 14 décembre 2021, n° 20-85.086"
 ---
 
-# Travail dissimulé : l'infraction que vous commettez peut-être sans le savoir
-
 Le travail dissimulé évoque spontanément le travail au noir. Pourtant, cette infraction pénale recouvre des situations bien plus courantes qu'on ne le pense. Des pratiques banalisées en entreprise, comme le non-paiement de certaines heures de travail ou des erreurs de déclaration, peuvent caractériser un travail dissimulé aux conséquences sévères.
 
 ## Les deux formes de travail dissimulé

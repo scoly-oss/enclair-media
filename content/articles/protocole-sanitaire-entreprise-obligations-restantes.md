@@ -12,8 +12,6 @@ sources:
   - "Loi n° 2021-1018 du 2 août 2021 (renforcement de la prévention en santé au travail)"
 ---
 
-# Protocole sanitaire en entreprise : ce qui reste obligatoire
-
 Le protocole sanitaire national lié à la pandémie de Covid-19 a été progressivement levé en 2022. Mais la crise sanitaire a durablement modifié les obligations de prévention en matière de santé au travail. Certaines obligations persistent et d'autres ont été renforcées par la loi du 2 août 2021. État des lieux en 2026.
 
 ## Ce qui a été levé

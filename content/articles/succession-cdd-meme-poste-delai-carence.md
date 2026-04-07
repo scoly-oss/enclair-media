@@ -12,8 +12,6 @@ sources:
   - "Ordonnance n° 2017-1387 du 22 septembre 2017"
 ---
 
-# Succession de CDD sur un même poste : le délai de carence expliqué
-
 La conclusion de CDD successifs sur un même poste est l'un des sujets les plus piégeux du droit du travail. Le délai de carence, souvent mal compris, est la clé de voûte du dispositif. Son non-respect entraîne automatiquement la requalification en CDI.
 
 ## Le principe du délai de carence

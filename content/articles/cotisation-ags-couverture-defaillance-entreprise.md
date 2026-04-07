@@ -11,8 +11,6 @@ sources:
   - "AGS, Rapport annuel 2024"
 ---
 
-# Cotisation AGS : ce que ça couvre en cas de défaillance
-
 ## Votre entreprise est en difficulté. Vos salariés seront-ils payés si vous déposez le bilan ?
 
 L'Association pour la Gestion du régime de garantie des créances des Salariés (AGS) est un dispositif unique en Europe. Financée par une cotisation patronale obligatoire, elle garantit le paiement des créances salariales en cas de procédure collective. Mais cette garantie a des limites que peu de dirigeants connaissent.

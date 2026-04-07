@@ -12,8 +12,6 @@ sources:
   - "Instruction ACOSS n° 2024-0000019 du 5 mars 2024"
 ---
 
-# Déclaration sociale nominative (DSN) : les erreurs qui coûtent cher
-
 La déclaration sociale nominative (DSN) centralise depuis 2017 l'ensemble des déclarations sociales de l'employeur. Obligatoire et mensuelle, elle remplace une trentaine de déclarations antérieures. Toute erreur se propage à l'ensemble des organismes destinataires : URSSAF, CPAM, France Travail, caisses de retraite, prévoyance. Voici les erreurs les plus courantes et les plus coûteuses.
 
 ## Le mécanisme de la DSN

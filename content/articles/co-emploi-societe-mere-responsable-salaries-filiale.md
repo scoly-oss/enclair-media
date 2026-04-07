@@ -12,8 +12,6 @@ sources:
   - "Article L. 1233-3 du Code du travail (motif économique)"
 ---
 
-# Co-emploi : quand la société mère est responsable des salariés de la filiale
-
 La théorie du co-emploi permet aux salariés d'une filiale d'engager la responsabilité de la société mère en cas de licenciement. Mais depuis l'arrêt Molex de 2014, la Cour de cassation a resserré les conditions de reconnaissance du co-emploi, limitant cette action aux cas d'immixtion caractérisée.
 
 ## La définition du co-emploi

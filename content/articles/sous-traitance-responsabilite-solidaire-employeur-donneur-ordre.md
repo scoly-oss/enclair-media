@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 23 mars 2022, n° 20-21.457"
 ---
 
-# Sous-traitance : la responsabilité solidaire de l'employeur donneur d'ordre
-
 Le recours à la sous-traitance est une pratique courante pour les entreprises. Mais le donneur d'ordre n'est pas à l'abri des défaillances de son sous-traitant en matière de droit du travail. La loi organise une responsabilité solidaire qui peut se retourner contre le donneur d'ordre négligent.
 
 ## L'obligation de vigilance du donneur d'ordre

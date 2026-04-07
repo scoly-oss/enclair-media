@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 11 mai 2023, n° 21-22.281"
 ---
 
-# Durée maximale de travail : les 3 plafonds que vous dépassez peut-être
-
 Le droit du travail fixe trois plafonds impératifs de durée du travail que l'employeur ne peut dépasser, sauf dérogations strictement encadrées. La jurisprudence récente a renforcé les sanctions en consacrant un droit à réparation automatique en cas de dépassement.
 
 ## Les trois plafonds légaux

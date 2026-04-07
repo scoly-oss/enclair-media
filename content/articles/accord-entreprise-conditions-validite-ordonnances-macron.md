@@ -11,8 +11,6 @@ sources:
   - "Code du travail, article L.2253-1 à L.2253-3 (articulation branche-entreprise)"
 ---
 
-# Accord d'entreprise : les conditions de validité depuis les ordonnances Macron
-
 ## Vous voulez adapter les règles à votre entreprise par accord collectif. Mais savez-vous avec qui négocier et comment valider l'accord ?
 
 Les ordonnances Macron de septembre 2017 ont profondément modifié les règles de la négociation collective. L'accord d'entreprise est devenu la norme de référence dans de nombreux domaines, devant l'accord de branche. Mais cette liberté nouvelle s'accompagne de conditions de validité précises dont le non-respect entraîne la nullité de l'accord.

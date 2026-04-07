@@ -12,8 +12,6 @@ sources:
   - "Circulaire ACOSS relative aux paramètres de la réduction générale"
 ---
 
-# Réduction générale de cotisations : la formule exacte en 2026
-
 La réduction générale de cotisations patronales, héritière de la réduction Fillon, est le dispositif d'allègement de charges le plus utilisé en France. Elle concerne potentiellement tous les salariés dont la rémunération est inférieure à 1,6 SMIC. Sa formule de calcul, révisée annuellement, exige une maîtrise technique fine.
 
 ## Le principe de la réduction générale

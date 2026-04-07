@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 4 mars 2020, n°19-13.316 (arrêt Uber)"
 ---
 
-# Freelance ou salarié déguisé : le test en 5 questions
-
 ## Votre développeur freelance travaille exclusivement pour vous depuis 14 mois. Ça devrait vous inquiéter.
 
 Il est là tous les jours. Il participe aux stand-ups, utilise votre Slack, a une adresse email de votre entreprise. Il est payé à la facture mensuelle. Tout le monde dans l'équipe le considère comme un collègue. Sauf que sur le papier, c'est un indépendant.

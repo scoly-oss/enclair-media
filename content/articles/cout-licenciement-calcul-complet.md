@@ -13,8 +13,6 @@ sources:
   - "Étude du Ministère du Travail sur le contentieux prud'homal, 2024"
 ---
 
-# Coût d'un licenciement : le calcul complet (indemnités + procédure + risque)
-
 Le licenciement est un acte de gestion dont le coût financier est systématiquement sous-estimé. La plupart des dirigeants ne considèrent que l'indemnité légale de licenciement. Or, le coût réel intègre au minimum six composantes distinctes, dont certaines peuvent représenter plusieurs mois de salaire supplémentaires. Voici la grille de calcul complète.
 
 ## Composante 1 : L'indemnité de licenciement

@@ -13,8 +13,6 @@ sources:
   - "Loi n° 2023-1107 du 29 novembre 2023 (loi partage de la valeur)"
 ---
 
-# Loi pouvoir d'achat : les mesures encore en vigueur pour l'employeur
-
 La loi du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat a introduit un arsenal de dispositions destinées à améliorer le revenu des salariés. Certaines étaient temporaires et ont expiré, d'autres ont été pérennisées. En 2026, voici ce qui reste applicable pour les employeurs.
 
 ## La prime de partage de la valeur (PPV) : pérennisée

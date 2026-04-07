@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 20 décembre 2017, n° 16-14.179"
 ---
 
-# Obligation de loyauté : les limites de la liberté d'expression du salarié
-
 La liberté d'expression est un droit fondamental garanti par l'article 10 de la Convention européenne des droits de l'homme. Le salarié en bénéficie pleinement, y compris dans l'entreprise et pour critiquer son employeur. Mais cette liberté se heurte à l'obligation de loyauté inhérente au contrat de travail. La frontière entre critique légitime et manquement à la loyauté est une ligne que la jurisprudence trace avec nuance.
 
 ## Le principe : la liberté d'expression dans l'entreprise

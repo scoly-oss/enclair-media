@@ -12,8 +12,6 @@ sources:
   - "Convention collective nationale de la métallurgie (IDCC 3248), article 90"
 ---
 
-# Maladie et maintien de salaire : subrogation et obligations conventionnelles
-
 Le maintien de salaire pendant un arrêt maladie est un sujet technique qui mêle obligations légales, dispositions conventionnelles plus favorables et mécanisme de subrogation. Les erreurs sont fréquentes et peuvent coûter cher à l'entreprise.
 
 ## Le socle légal : l'article L. 1226-1 du Code du travail

@@ -12,8 +12,6 @@ sources:
   - "BOSS, Bulletin officiel de la sécurité sociale, rubrique 'Chèques-vacances'"
 ---
 
-# Chèques-vacances : le régime social favorable que vous sous-utilisez
-
 Les chèques-vacances sont un dispositif d'aide aux vacances et aux loisirs qui bénéficie d'un régime social particulièrement avantageux pour l'employeur. Exonérés de cotisations sociales dans certaines limites, ils constituent un complément de rémunération efficace et peu coûteux.
 
 ## Le dispositif

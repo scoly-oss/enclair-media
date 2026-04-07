@@ -13,8 +13,6 @@ sources:
   - "Article L.2312-78 du Code du travail"
 ---
 
-# Chèques cadeaux CSE : les conditions d'exonération URSSAF
-
 Les chèques cadeaux, bons d'achat et cartes cadeaux distribués par le CSE aux salariés sont en principe soumis à cotisations sociales puisqu'ils constituent un avantage. Toutefois, une tolérance administrative de l'URSSAF permet leur exonération sous conditions strictes. Un dispositif avantageux mais technique dont le non-respect conduit à un redressement.
 
 ## Le principe : les bons d'achat sont soumis à cotisations

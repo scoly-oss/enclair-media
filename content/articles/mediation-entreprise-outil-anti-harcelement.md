@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 1er juin 2016, n° 14-19.702 (obligation de prévention)"
 ---
 
-# Médiation en entreprise : le nouvel outil anti-harcèlement
-
 Face à la montée des contentieux liés au harcèlement moral et aux risques psychosociaux (RPS), la médiation en entreprise s'impose comme un outil complémentaire de prévention et de résolution des conflits. Le Code du travail la prévoit expressément, et les employeurs ont tout intérêt à s'en saisir.
 
 ## Le cadre légal de la médiation

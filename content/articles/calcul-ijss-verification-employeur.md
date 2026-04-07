@@ -12,8 +12,6 @@ sources:
   - "BOSS, Bulletin officiel de la sécurité sociale, rubrique 'Prestations en espèces'"
 ---
 
-# Calcul des IJSS : ce que l'employeur doit vérifier
-
 Les indemnités journalières de sécurité sociale (IJSS) représentent un élément central de la rémunération du salarié en arrêt maladie. Lorsque l'employeur pratique la subrogation, il perçoit les IJSS à la place du salarié et doit s'assurer de leur exactitude. Les erreurs de la CPAM sont plus fréquentes qu'on ne le pense.
 
 ## Le mécanisme de calcul des IJSS maladie

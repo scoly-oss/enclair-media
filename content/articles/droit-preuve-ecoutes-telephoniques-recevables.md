@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 25 novembre 2020, n° 17-19.523"
 ---
 
-# Droit à la preuve : les écoutes téléphoniques sont-elles recevables ?
-
 Le droit de la preuve en matière sociale connaît depuis quelques années une transformation profonde. L'arrêt d'assemblée plénière de la Cour de cassation du 22 décembre 2023 a marqué un tournant en admettant, sous conditions strictes, la recevabilité de preuves obtenues de manière déloyale. Cette évolution impacte directement les écoutes téléphoniques, les enregistrements clandestins et la vidéosurveillance dans les relations de travail.
 
 ## Le principe traditionnel : loyauté de la preuve

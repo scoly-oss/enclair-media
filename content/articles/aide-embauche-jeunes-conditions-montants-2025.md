@@ -11,8 +11,6 @@ sources:
   - "France Travail, Aides à l'embauche 2025"
 ---
 
-# Aide à l'embauche des jeunes : conditions et montants 2025
-
 ## Vous recrutez un jeune de 24 ans en CDI. Savez-vous que vous passez peut-être à côté de 6 000 euros ?
 
 Les aides à l'embauche des jeunes existent, mais elles sont morcelées entre plusieurs dispositifs, chacun avec ses conditions spécifiques. Beaucoup d'employeurs ne demandent pas les aides auxquelles ils ont droit, simplement parce qu'ils ne les connaissent pas.

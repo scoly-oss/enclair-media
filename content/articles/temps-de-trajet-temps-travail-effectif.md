@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 1er mars 2023, n°21-12.068"
 ---
 
-# Temps de trajet : quand il devient du temps de travail effectif
-
 ## Vos commerciaux partent de chez eux à 6h30 pour un rendez-vous client à 9h. Est-ce du temps de travail ?
 
 La réponse n'est pas aussi simple que vous le pensez. Et si vous vous trompez, ce sont des heures supplémentaires non payées qui s'accumulent depuis des années.

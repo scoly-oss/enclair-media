@@ -11,8 +11,6 @@ sources:
   - "Code du travail, article R.1227-7 (sanctions)"
 ---
 
-# Registre unique du personnel : les mentions obligatoires mises à jour
-
 ## L'inspecteur du travail arrive dans votre entreprise. Le premier document qu'il demande : le registre unique du personnel. L'avez-vous ?
 
 Le registre unique du personnel est l'un des documents les plus contrôlés et les moins bien tenus. Obligatoire dès le premier salarié, il doit contenir des mentions précises et à jour pour chaque personne employée dans l'établissement.

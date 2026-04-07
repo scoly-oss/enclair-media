@@ -12,8 +12,6 @@ sources:
   - "Article R. 142-1 du Code de la sécurité sociale (recours)"
 ---
 
-# Taux AT/MP : comment contester efficacement
-
 Le taux de cotisation AT/MP représente un coût significatif pour les entreprises, variant de 0,7 % à plus de 10 % de la masse salariale selon le secteur et la sinistralité. Pourtant, de nombreux employeurs ignorent qu'ils peuvent contester ce taux et les éléments qui servent à le calculer.
 
 ## Les modes de tarification

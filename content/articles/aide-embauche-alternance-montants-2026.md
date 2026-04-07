@@ -13,8 +13,6 @@ sources:
   - "Article L.6325-1 du Code du travail"
 ---
 
-# Aide à l'embauche en alternance : les montants 2026
-
 L'alternance reste l'un des dispositifs les plus soutenus financièrement par les pouvoirs publics. En 2026, l'aide à l'embauche d'apprentis et de salariés en contrat de professionnalisation est maintenue, avec des montants qui en font un levier de recrutement incontournable pour les entreprises de toutes tailles.
 
 ## Les montants 2026

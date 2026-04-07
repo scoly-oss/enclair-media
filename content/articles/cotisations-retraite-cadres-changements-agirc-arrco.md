@@ -13,8 +13,6 @@ sources:
   - "Article D.242-4 du Code de la sécurité sociale"
 ---
 
-# Cotisations retraite cadres : les changements AGIRC-ARRCO
-
 Le régime de retraite complémentaire AGIRC-ARRCO, né de la fusion des deux régimes historiques en 2019, constitue le deuxième pilier de la retraite des salariés du secteur privé. En 2026, les taux et les modalités de cotisation poursuivent leur évolution. Voici le point complet sur les cotisations applicables, avec un focus sur les spécificités cadres.
 
 ## Les tranches de cotisation 2026

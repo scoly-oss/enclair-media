@@ -13,8 +13,6 @@ sources:
   - "Article L.1331-1 du Code du travail"
 ---
 
-# Rétrogradation disciplinaire : le salarié peut refuser
-
 La rétrogradation disciplinaire occupe une place singulière dans l'arsenal des sanctions à la disposition de l'employeur. Plus sévère qu'une mise à pied mais moins radicale qu'un licenciement, elle emporte une modification du contrat de travail. Or, en droit français, aucune modification contractuelle ne peut être imposée au salarié sans son accord. Ce principe crée une situation juridique complexe que tout employeur doit maîtriser.
 
 ## La nature juridique de la rétrogradation

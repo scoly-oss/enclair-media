@@ -11,8 +11,6 @@ sources:
   - "Décret n°2014-1025 du 8 septembre 2014 (panier de soins minimum)"
 ---
 
-# Mutuelle d'entreprise : le minimum conventionnel que vous ne respectez pas
-
 ## Votre mutuelle d'entreprise couvre le minimum légal. Mais votre convention collective exige probablement plus.
 
 Depuis le 1er janvier 2016, toutes les entreprises du secteur privé doivent proposer une complémentaire santé à leurs salariés. Vous avez mis en place une mutuelle. Elle couvre le panier de soins minimum. Vous pensez être en règle.

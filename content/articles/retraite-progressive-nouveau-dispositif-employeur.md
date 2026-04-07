@@ -11,8 +11,6 @@ sources:
   - "Circulaire CNAV 2023-23 du 15 septembre 2023"
 ---
 
-# Retraite progressive : le nouveau dispositif employeur
-
 ## Un salarié de 60 ans vous demande de passer à temps partiel pour sa retraite progressive. Pouvez-vous refuser ?
 
 Depuis la réforme des retraites de 2023, la retraite progressive est devenue un **droit renforcé** pour les salariés. Et votre marge de manoeuvre pour refuser le passage à temps partiel s'est considérablement réduite.

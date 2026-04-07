@@ -13,8 +13,6 @@ sources:
   - "DARES, Enquête Activité et conditions d'emploi de la main-d'oeuvre (ACEMO)"
 ---
 
-# Masse salariale : les composantes à surveiller pour le DAF
-
 La masse salariale est le premier poste de dépenses de la plupart des entreprises. Sa maîtrise suppose de la décomposer en composantes distinctes, chacune obéissant à des dynamiques propres. Ce guide identifie les 8 composantes clés et les indicateurs de pilotage que tout DAF doit suivre.
 
 ## Qu'est-ce que la masse salariale ?

@@ -12,8 +12,6 @@ sources:
   - "Article 6 de la Convention européenne des droits de l'homme"
 ---
 
-# Vidéosurveillance et RGPD : la preuve illicite qui reste admissible
-
 La question de l'admissibilité en justice des preuves obtenues par vidéosurveillance en violation du RGPD est un sujet brûlant pour les employeurs. La Cour de cassation, dans un arrêt d'Assemblée plénière du 22 décembre 2023, a opéré un revirement majeur en admettant que le juge puisse retenir une preuve illicite sous certaines conditions.
 
 ## La position historique : rejet de la preuve illicite

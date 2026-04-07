@@ -12,8 +12,6 @@ sources:
   - "Cass. crim., 5 avril 2023, n° 22-82.654"
 ---
 
-# Travail dissimulé : les présomptions de la Cour de cassation
-
 Le travail dissimulé est une infraction intentionnelle. Pourtant, la Cour de cassation a développé des présomptions qui facilitent considérablement la preuve de l'élément intentionnel. Pour l'employeur, ces présomptions constituent autant de situations à risque.
 
 ## Le rappel : l'exigence de l'élément intentionnel

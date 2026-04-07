@@ -11,8 +11,6 @@ sources:
   - "Décret n°2024-1234 relatif aux aides à l'embauche en alternance"
 ---
 
-# Contrat de professionnalisation vs apprentissage : le bon choix en 2025
-
 ## Vous recrutez un alternant. Avez-vous choisi le bon contrat ?
 
 Vous avez trouvé un candidat motivé pour rejoindre votre équipe en alternance. Votre réflexe : un contrat d'apprentissage, "comme tout le monde". Mais avez-vous vérifié que ce n'est pas le contrat de professionnalisation qui serait plus adapté à votre situation -- et potentiellement moins cher ?

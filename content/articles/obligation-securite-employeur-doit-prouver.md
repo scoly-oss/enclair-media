@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 5 juillet 2023, n°21-24.122"
 ---
 
-# Obligation de sécurité : ce que l'employeur doit PROUVER
-
 ## Vous pensez avoir fait le nécessaire pour la sécurité de vos salariés ? Pouvez-vous le démontrer ?
 
 Un salarié développe un burn-out. Un autre se blesse sur un chantier. Un troisième déclare une maladie professionnelle. Dans chacun de ces cas, la première question du juge ne sera pas "Que s'est-il passé ?" mais "Qu'aviez-vous fait pour que cela n'arrive pas ?"

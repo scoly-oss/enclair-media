@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 7 mars 2024, n°22-20.116"
 ---
 
-# Convention de stage : les limites légales que les startups ignorent
-
 ## Vous avez 3 stagiaires pour 8 salariés. L'un d'eux fait le même travail qu'un développeur junior. C'est un problème.
 
 Les stages sont devenus une source de main-d'oeuvre privilégiée des startups et PME en croissance. Coût faible, engagement limité, compétences souvent solides. Le calcul économique est tentant. Mais le cadre juridique est strict, et les sanctions peuvent être lourdes.

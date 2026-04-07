@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 17 juin 2009, n° 08-40.274"
 ---
 
-# Email personnel sur ordinateur pro : ce que l'employeur peut lire
-
 Depuis l'arrêt Nikon de 2001, le droit français protège la correspondance privée du salarié, y compris sur son ordinateur professionnel. Mais cette protection n'est pas absolue : les messages professionnels sont présumés accessibles à l'employeur, et la frontière entre personnel et professionnel est parfois ténue.
 
 ## Le principe fondateur : l'arrêt Nikon

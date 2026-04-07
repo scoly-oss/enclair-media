@@ -13,8 +13,6 @@ sources:
   - "Arrêté du 22 décembre 2025"
 ---
 
-# Cotisation chômage : ce que paient vraiment les employeurs en 2026
-
 L'assurance chômage est financée intégralement par les employeurs depuis la suppression de la cotisation salariale en 2018. Mais derrière le taux affiché de 4,05 % se cache une réalité plus complexe, avec le dispositif de bonus-malus qui module le taux effectif selon le comportement de l'entreprise en matière de recours aux contrats courts.
 
 ## Le taux de droit commun : 4,05 %

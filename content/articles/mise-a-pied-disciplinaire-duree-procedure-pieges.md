@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 26 octobre 2022, n°21-11.233"
 ---
 
-# Mise à pied disciplinaire : durée, procédure et pièges
-
 ## Vous voulez suspendre un salarié pour faute. Votre règlement intérieur prévoit-il une durée maximale ?
 
 Un salarié a commis une faute qui mérite plus qu'un avertissement mais moins qu'un licenciement. La mise à pied disciplinaire semble la sanction parfaite : le salarié est suspendu sans salaire pendant quelques jours, il comprend le message, et vous le récupérez ensuite.

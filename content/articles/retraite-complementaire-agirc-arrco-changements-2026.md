@@ -12,8 +12,6 @@ sources:
   - "Délibération du conseil d'administration AGIRC-ARRCO du 8 octobre 2025"
 ---
 
-# Retraite complémentaire AGIRC-ARRCO : les changements 2026
-
 Le régime de retraite complémentaire AGIRC-ARRCO concerne l'ensemble des salariés du secteur privé. Ses paramètres sont négociés par les partenaires sociaux et ajustés annuellement. Voici les éléments que tout employeur et tout gestionnaire de paie doivent intégrer pour 2026.
 
 ## La structure des cotisations

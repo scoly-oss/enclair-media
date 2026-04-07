@@ -11,8 +11,6 @@ sources:
   - "Code des transports, articles L.2333-64 à L.2333-75"
 ---
 
-# Versement mobilité : qui est redevable et combien
-
 ## Votre entreprise vient de passer 11 salariés. Vous devez peut-être une nouvelle cotisation que vous ne connaissez pas.
 
 Le versement mobilité est une cotisation patronale destinée à financer les transports en commun. Il concerne les employeurs de **11 salariés et plus** implantés dans le périmètre d'une autorité organisatrice de la mobilité (AOM) ayant institué ce versement. Son taux varie de **0,55 % à 3,20 %** selon la commune d'implantation.

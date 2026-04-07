@@ -13,8 +13,6 @@ sources:
   - "Article L.2261-10 du Code du travail"
 ---
 
-# Avantage acquis : la distinction qui change tout en cas de transfert
-
 Le transfert d'entreprise, régi par l'article L.1224-1 du Code du travail, impose au repreneur de maintenir les contrats de travail en cours. Mais au-delà du contrat lui-même, quid des avantages dont bénéficiaient les salariés ? La réponse dépend de la source juridique de chaque avantage : contrat individuel, accord collectif, usage ou engagement unilatéral.
 
 ## Le principe du transfert automatique des contrats

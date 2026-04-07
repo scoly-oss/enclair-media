@@ -11,8 +11,6 @@ sources:
   - "Code du travail, article L.3121-64"
 ---
 
-# Forfait jours et droit à la santé : la QPC qui a tout changé
-
 ## Vos cadres sont au forfait jours. Leur convention de forfait est-elle encore valide ?
 
 Plus de 50 % des cadres français sont au forfait jours. Pour beaucoup d'entreprises, c'est devenu un automatisme au moment de l'embauche. Pourtant, depuis 2011, la Cour de cassation a progressivement construit une jurisprudence qui invalide les conventions de forfait jours insuffisamment protectrices de la santé des salariés.

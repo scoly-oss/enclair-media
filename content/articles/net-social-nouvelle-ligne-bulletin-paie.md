@@ -13,8 +13,6 @@ sources:
   - "BOSS, fiche Bulletin de paie, §2240"
 ---
 
-# Net social : la nouvelle ligne du bulletin de paie décryptée
-
 Depuis le 1er juillet 2023, une nouvelle ligne est apparue sur les bulletins de paie de tous les salariés : le **montant net social**. Obligatoire depuis le 1er janvier 2024 dans sa version définitive, cette donnée sert de base aux déclarations de ressources pour les prestations sociales (RSA, prime d'activité, APL). Pour les employeurs, c'est une obligation de conformité supplémentaire dont le calcul mérite une attention particulière.
 
 ## Qu'est-ce que le montant net social ?

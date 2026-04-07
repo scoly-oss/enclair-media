@@ -12,8 +12,6 @@ sources:
   - "Instruction DGT du 20 mars 2018 relative au C2P"
 ---
 
-# Compte pénibilité (C2P) : les obligations déclaratives de l'employeur
-
 Le compte professionnel de prévention (C2P), successeur du compte pénibilité, concerne 6 facteurs de risques professionnels. L'employeur a l'obligation de déclarer annuellement l'exposition de chaque salarié concerné. Une obligation souvent mal maîtrisée dont les conséquences financières sont significatives.
 
 ## Les 6 facteurs de risques concernés

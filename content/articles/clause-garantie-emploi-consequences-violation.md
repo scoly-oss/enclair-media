@@ -12,8 +12,6 @@ sources:
   - "Article 1231-1 du Code civil (responsabilité contractuelle)"
 ---
 
-# Clause de garantie d'emploi : les conséquences de sa violation
-
 La clause de garantie d'emploi est une stipulation contractuelle par laquelle l'employeur s'interdit de licencier le salarié pendant une période déterminée. Fréquente dans les contrats de cadres dirigeants et dans les opérations de fusion-acquisition, cette clause a des conséquences financières redoutables en cas de violation.
 
 ## Le mécanisme de la clause

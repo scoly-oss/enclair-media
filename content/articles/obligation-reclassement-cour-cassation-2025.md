@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 18 janvier 2023, n° 21-19.675"
 ---
 
-# Obligation de reclassement : ce que la Cour exige vraiment en 2025
-
 L'obligation de reclassement est un pilier du droit du licenciement en France. Qu'il s'agisse d'un licenciement économique ou d'un licenciement pour inaptitude, l'employeur doit démontrer qu'il a cherché activement à reclasser le salarié avant de le licencier. La jurisprudence récente de la Cour de cassation fixe des exigences précises.
 
 ## Le périmètre de la recherche

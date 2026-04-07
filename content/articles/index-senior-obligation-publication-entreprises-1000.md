@@ -13,8 +13,6 @@ sources:
   - "Conseil constitutionnel, décision n° 2023-849 DC du 14 avril 2023"
 ---
 
-# Index senior : la nouvelle obligation de publication pour les entreprises de +1000 salariés
-
 La réforme des retraites de 2023 a introduit une obligation inédite : la publication d'un **index senior** par les entreprises de 1 000 salariés et plus. Ce dispositif vise à mesurer et à rendre public l'emploi des travailleurs âgés, dans un contexte où le relèvement de l'âge légal de départ à la retraite impose de maintenir les seniors en activité plus longtemps.
 
 ## Le cadre légal

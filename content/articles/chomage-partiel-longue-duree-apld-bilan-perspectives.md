@@ -11,8 +11,6 @@ sources:
   - "Décret n°2020-926 du 28 juillet 2020 modifié"
 ---
 
-# Chômage partiel de longue durée (APLD) : bilan et perspectives
-
 ## Votre activité a baissé de 30 % depuis 6 mois. Vous hésitez entre licencier et attendre. L'APLD peut être votre troisième option.
 
 L'activité partielle classique est conçue pour les baisses d'activité **ponctuelles**. Quand la baisse se prolonge, l'APLD prend le relais avec un cadre plus protecteur pour l'employeur et le salarié.

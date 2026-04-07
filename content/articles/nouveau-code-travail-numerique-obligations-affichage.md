@@ -13,8 +13,6 @@ sources:
   - "Directive (UE) 2019/1152 du 20 juin 2019"
 ---
 
-# Nouveau code du travail numérique : ce qui change dans les obligations d'affichage
-
 La transformation numérique du droit du travail n'épargne pas les obligations d'affichage et d'information. Traditionnellement cantonnées à des panneaux physiques dans les locaux de l'entreprise, ces obligations évoluent avec la dématérialisation et le développement du travail à distance. Les employeurs doivent adapter leurs pratiques.
 
 ## Les obligations d'affichage qui subsistent

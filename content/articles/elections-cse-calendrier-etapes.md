@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 22 novembre 2023, n°22-13.089"
 ---
 
-# Élections CSE : le calendrier et les étapes à ne pas rater
-
 ## Votre CSE arrive en fin de mandat. Avez-vous lancé le processus électoral à temps ?
 
 Le mandat du CSE est de 4 ans (sauf accord collectif prévoyant 2 ou 3 ans). L'employeur doit organiser les élections de renouvellement. Le processus prend **au minimum 90 jours** entre l'information des salariés et le second tour de scrutin. Et chaque retard est une infraction.

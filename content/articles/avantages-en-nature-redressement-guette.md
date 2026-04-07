@@ -11,8 +11,6 @@ sources:
   - "Arrêté du 10 décembre 2002 relatif à l'évaluation des avantages en nature"
 ---
 
-# Avantages en nature : le redressement qui guette
-
 ## Votre directeur commercial utilise sa voiture de fonction le week-end. Avez-vous intégré l'avantage en nature dans son bulletin de paie ?
 
 Vous avez fourni un véhicule de fonction à 3 de vos cadres. Ils l'utilisent pour leurs déplacements professionnels et, bien sûr, pour leurs trajets personnels le soir et le week-end. Vous n'avez jamais déclaré d'avantage en nature. L'URSSAF, elle, le remarquera.

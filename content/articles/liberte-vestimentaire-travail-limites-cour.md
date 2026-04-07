@@ -13,8 +13,6 @@ sources:
   - "Article L.1321-3 du Code du travail"
 ---
 
-# Liberté vestimentaire au travail : les limites posées par la Cour
-
 La liberté de se vêtir est une liberté individuelle que le salarié conserve dans l'entreprise. Mais cette liberté, contrairement aux libertés fondamentales (religion, expression), ne bénéficie pas d'une protection absolue. L'employeur peut imposer des contraintes vestimentaires dès lors qu'elles sont justifiées par la nature de la tâche et proportionnées au but recherché.
 
 ## Le cadre juridique

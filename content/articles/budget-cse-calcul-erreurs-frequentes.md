@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 7 février 2024, n°22-17.654"
 ---
 
-# Budget du CSE : calcul et erreurs fréquentes
-
 ## Vous versez une subvention au CSE. Êtes-vous sûr que le montant est correct ?
 
 Le Comité Social et Économique dispose de deux budgets distincts : le budget de fonctionnement et le budget des activités sociales et culturelles (ASC). Leur calcul est encadré par la loi, mais les erreurs sont fréquentes, dans les deux sens : trop ou pas assez.

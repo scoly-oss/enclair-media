@@ -11,8 +11,6 @@ sources:
   - "Ministère du Travail, Guide du licenciement économique, 2024"
 ---
 
-# Licenciement économique : les 5 étapes que vous ne pouvez pas sauter
-
 ## Vous restructurez votre entreprise ? Un oubli de procédure peut tout annuler
 
 Vous traversez une période difficile. Les commandes baissent, un client majeur est parti, la trésorerie se tend. Vous avez fait vos calculs : il faut supprimer des postes. Vous pensez que la décision est logique, justifiée, et que tout le monde comprendra.

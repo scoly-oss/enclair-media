@@ -13,8 +13,6 @@ sources:
   - "Article L.3121-7 du Code du travail"
 ---
 
-# Temps de déplacement professionnel : la contrepartie obligatoire
-
 Le temps de trajet entre le domicile et le lieu de travail habituel n'est pas du temps de travail effectif. Mais lorsque le salarié effectue un déplacement professionnel excédant ce trajet normal, une contrepartie est obligatoire. La Cour de cassation a bâti sur l'article L.3121-4 du Code du travail une jurisprudence exigeante que beaucoup d'employeurs ignorent.
 
 ## Le cadre légal

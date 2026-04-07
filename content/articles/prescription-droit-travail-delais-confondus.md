@@ -11,8 +11,6 @@ sources:
   - "Loi n°2013-504 du 14 juin 2013 (réforme de la prescription)"
 ---
 
-# Prescription en droit du travail : les délais que vous confondez
-
 ## Un ancien salarié vous attaque 18 mois après son départ. Est-il trop tard pour lui ? Ça dépend de ce qu'il réclame.
 
 La prescription est votre meilleure défense quand un ancien salarié agit tardivement. Mais encore faut-il invoquer le bon délai. Car en droit du travail, les délais varient selon la nature de la demande. Et les confondre peut vous coûter cher.

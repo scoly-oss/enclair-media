@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 18 mai 2011, n° 09-69.175"
 ---
 
-# Modification de la rémunération : quand l'accord du salarié est indispensable
-
 La rémunération occupe une place à part dans le contrat de travail. Considérée comme un élément essentiel du contrat, elle bénéficie d'une protection renforcée que la Cour de cassation a construite au fil de décennies de jurisprudence. Toute modification, qu'elle porte sur le montant, la structure ou le mode de calcul, requiert impérativement le consentement du salarié.
 
 ## Le principe : la rémunération est intouchable sans accord

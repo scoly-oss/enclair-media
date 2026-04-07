@@ -11,8 +11,6 @@ sources:
   - "BOSS, Bulletin officiel de la Sécurité sociale, rubrique Exonérations"
 ---
 
-# Allègements Fillon : la formule de calcul mise à jour
-
 ## Vous appliquez la réduction générale de cotisations. Mais utilisez-vous le bon coefficient ?
 
 La réduction générale de cotisations patronales, communément appelée "allègements Fillon", est le dispositif d'exonération le plus utilisé en France. Il concerne tous les salariés dont la rémunération est inférieure à **1,6 SMIC**. Pour un salarié au SMIC, l'exonération représente environ **520 euros par mois** de cotisations patronales en moins.

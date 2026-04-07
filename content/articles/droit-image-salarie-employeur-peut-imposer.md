@@ -13,8 +13,6 @@ sources:
   - "RGPD, Article 6"
 ---
 
-# Droit à l'image du salarié : ce que l'employeur peut imposer
-
 À l'ère des réseaux sociaux et de la communication digitale, les entreprises utilisent massivement l'image de leurs salariés : site web, brochure commerciale, profils LinkedIn, vidéos institutionnelles. Or, le droit à l'image est un attribut du droit au respect de la vie privée, protégé par l'article 9 du Code civil. L'employeur ne peut pas disposer librement de l'image de ses salariés.
 
 ## Le principe : le consentement est requis

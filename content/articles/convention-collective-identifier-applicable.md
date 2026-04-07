@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 5 avril 2023, n° 21-25.344"
 ---
 
-# Convention collective : comment identifier celle qui s'applique
-
 La convention collective applicable conditionne une part considérable des droits des salariés : grilles salariales, indemnités de licenciement, durée du préavis, congés supplémentaires, régimes de prévoyance. Identifier la bonne convention n'est pas un exercice théorique — c'est une question qui peut coûter très cher en cas d'erreur.
 
 ## Le critère légal : l'activité principale

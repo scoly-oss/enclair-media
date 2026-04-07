@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 23 octobre 2019, n° 17-28.800"
 ---
 
-# Obligation de reclassement en cas de licenciement économique : le périmètre réel
-
 L'obligation de reclassement constitue l'un des piliers du droit du licenciement économique. Avant de procéder à la rupture du contrat, l'employeur doit démontrer qu'il a activement recherché des solutions alternatives pour maintenir le salarié dans l'emploi. Depuis les ordonnances Macron de 2017, le périmètre de cette obligation a été redéfini, mais son exigence demeure.
 
 ## Le cadre légal : l'article L.1233-4 du Code du travail

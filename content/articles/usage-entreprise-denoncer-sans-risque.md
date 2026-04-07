@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 13 février 1996, n° 93-42.309"
 ---
 
-# Usage d'entreprise : comment le dénoncer sans risque
-
 L'usage d'entreprise est un avantage accordé de manière constante, générale et fixe aux salariés, sans qu'un texte l'impose. Prime de Noël, jour de congé supplémentaire, pause prolongée : ces pratiques répétées créent des droits pour les salariés. L'employeur conserve le pouvoir de les supprimer, mais à une condition impérative : respecter scrupuleusement la procédure de dénonciation.
 
 ## Qu'est-ce qu'un usage d'entreprise ?

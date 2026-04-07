@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 18 mars 2020, n° 18-22.535"
 ---
 
-# Plan de développement des compétences : ce que l'employeur doit financer
-
 Le plan de développement des compétences est l'outil central de la politique de formation de l'entreprise. Il recense l'ensemble des actions de formation que l'employeur décide de déployer pour ses salariés. Contrairement au CPF qui relève de l'initiative du salarié, le plan relève de la décision de l'employeur, avec des obligations précises.
 
 ## La distinction entre les catégories d'actions

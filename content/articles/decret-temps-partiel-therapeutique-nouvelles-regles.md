@@ -13,8 +13,6 @@ sources:
   - "Article R.323-3 du Code de la sécurité sociale"
 ---
 
-# Décret temps partiel thérapeutique : les nouvelles règles employeur
-
 Le temps partiel thérapeutique — communément appelé « mi-temps thérapeutique » bien que la quotité ne soit pas nécessairement de 50 % — est un dispositif permettant au salarié de reprendre progressivement son activité après un arrêt de travail. Le décret du 14 novembre 2024 a clarifié les modalités pratiques, avec des conséquences directes pour les employeurs.
 
 ## Le principe du temps partiel thérapeutique

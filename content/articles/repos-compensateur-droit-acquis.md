@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 18 mars 2020, n° 18-22.642"
 ---
 
-# Repos compensateur : le droit acquis que vous ne pouvez pas supprimer
-
 Le système des repos compensateurs liés aux heures supplémentaires est souvent méconnu des employeurs. Pourtant, ces repos constituent des droits acquis des salariés dont le non-respect expose à des indemnisations significatives.
 
 ## Les deux types de repos liés aux heures supplémentaires

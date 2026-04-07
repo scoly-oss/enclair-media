@@ -13,8 +13,6 @@ sources:
   - "Article 80 duodecies du CGI"
 ---
 
-# Régime social des indemnités de rupture : le tableau 2026
-
 Le traitement social des indemnités versées à l'occasion de la rupture du contrat de travail est l'un des sujets les plus techniques de la gestion de paie. Cotisations de Sécurité sociale, CSG/CRDS, forfait social : chaque composante obéit à des règles propres, avec des seuils d'exonération qui varient selon la nature de la rupture. Ce tableau synthétique, actualisé pour 2026, est l'outil de référence du gestionnaire de paie et du DAF.
 
 ## Le principe général

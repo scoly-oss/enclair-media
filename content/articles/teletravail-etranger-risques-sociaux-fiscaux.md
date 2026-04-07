@@ -12,8 +12,6 @@ sources:
   - "Convention multilatérale OCDE (MLI) sur les établissements stables"
 ---
 
-# Télétravail à l'étranger : les risques sociaux et fiscaux ignorés
-
 Le télétravail depuis l'étranger s'est banalisé depuis la crise sanitaire. Pourtant, lorsqu'un salarié travaille régulièrement depuis un autre pays, les conséquences juridiques sont considérables et largement sous-estimées par les employeurs français.
 
 ## Le risque n°1 : l'affiliation à la sécurité sociale étrangère

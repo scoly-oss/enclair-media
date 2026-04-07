@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 4 octobre 2023, n°22-11.547"
 ---
 
-# Travail de nuit : les contreparties obligatoires oubliées
-
 ## Vos salariés travaillent après 21 heures ? Vous leur devez probablement plus que ce que vous leur versez.
 
 Restauration, logistique, industrie, sécurité, santé : des millions de salariés travaillent de nuit en France. Leurs employeurs savent qu'il faut les payer. Mais beaucoup ignorent qu'au-delà du salaire, des **contreparties obligatoires en repos** s'ajoutent, et que la surveillance médicale renforcée n'est pas une option.

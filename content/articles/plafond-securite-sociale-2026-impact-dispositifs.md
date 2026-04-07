@@ -13,8 +13,6 @@ sources:
   - "Circulaire AGIRC-ARRCO 2026-01"
 ---
 
-# Plafond Sécurité sociale 2026 : impact concret sur 15 dispositifs
-
 Le plafond annuel de la Sécurité sociale (PASS) est la pierre angulaire du système de cotisations et de prestations sociales en France. Fixé à **47 100 euros** pour 2026 (soit **3 925 euros** par mois), il conditionne le calcul de nombreux dispositifs. Son impact dépasse largement la sphère des cotisations sociales.
 
 ## Les montants 2026

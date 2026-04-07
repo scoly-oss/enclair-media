@@ -13,8 +13,6 @@ sources:
   - "Loi n° 2022-1158 du 16 août 2022 (loi pouvoir d'achat)"
 ---
 
-# Frais de transport : remboursement obligatoire et options
-
 La prise en charge des frais de transport domicile-travail est une obligation patronale souvent réduite, à tort, au seul remboursement du pass Navigo. En réalité, le dispositif est plus riche et offre plusieurs options — certaines obligatoires, d'autres facultatives — avec des régimes sociaux et fiscaux avantageux.
 
 ## L'obligation de remboursement des transports en commun

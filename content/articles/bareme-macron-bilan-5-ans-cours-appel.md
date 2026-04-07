@@ -12,8 +12,6 @@ sources:
   - "CA Grenoble, 8 novembre 2024 (écart du barème)"
 ---
 
-# Barème Macron : bilan 5 ans après et positions des cours d'appel
-
 Instauré par les ordonnances du 22 septembre 2017, le barème d'indemnisation du licenciement sans cause réelle et sérieuse (article L. 1235-3 du Code du travail) a profondément modifié le contentieux prud'homal. Cinq ans après sa validation par la Cour de cassation, le bilan est contrasté.
 
 ## Le rappel du barème

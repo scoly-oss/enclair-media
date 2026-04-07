@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 12 juin 2014, n° 12-29.063"
 ---
 
-# Résiliation judiciaire : les manquements suffisamment graves selon la Cour
-
 La résiliation judiciaire permet au salarié de demander au juge de rompre son contrat de travail aux torts de l'employeur, tout en continuant à travailler pendant la procédure. Mais le juge ne prononce cette résiliation que si les manquements invoqués sont « suffisamment graves pour empêcher la poursuite du contrat de travail ». Ce critère de gravité fait l'objet d'une jurisprudence dense et nuancée.
 
 ## Le cadre juridique

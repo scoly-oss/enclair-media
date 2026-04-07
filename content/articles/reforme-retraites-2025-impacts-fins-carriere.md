@@ -13,8 +13,6 @@ sources:
   - "Décret n° 2023-436 du 3 juin 2023"
 ---
 
-# Réforme des retraites 2025 : les impacts sur la gestion des fins de carrière
-
 La réforme des retraites entrée en vigueur le 1er septembre 2023 continue de déployer ses effets en 2026. Le relèvement progressif de l'âge légal de départ à 64 ans et l'allongement de la durée de cotisation à 43 annuités modifient en profondeur la gestion des fins de carrière dans les entreprises. Pour les DRH et les dirigeants, plusieurs ajustements sont nécessaires.
 
 ## Le nouveau calendrier de l'âge légal

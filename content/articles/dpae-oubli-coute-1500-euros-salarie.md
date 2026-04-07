@@ -11,8 +11,6 @@ sources:
   - "URSSAF, Pénalités DPAE, barème 2025"
 ---
 
-# DPAE : l'oubli qui coûte 1 500 euros par salarié
-
 ## Votre nouveau commercial a commencé lundi. La DPAE a été faite mercredi. Vous devez 1 549 euros.
 
 La scène est banale : le recrutement s'est finalisé vendredi soir, le salarié prend son poste lundi matin, et le service RH fait la DPAE dans la journée de mardi ou mercredi. Trop tard. La DPAE doit être effectuée **au plus tôt 8 jours avant l'embauche et au plus tard au moment de la prise de poste effective**.

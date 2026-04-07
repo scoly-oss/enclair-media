@@ -12,8 +12,6 @@ sources:
   - "Charte du cotisant contrôlé (mise à jour 2024)"
 ---
 
-# Contrôle URSSAF : les 10 points les plus contrôlés en 2025
-
 Le contrôle URSSAF est un exercice que toute entreprise rencontrera un jour. Avec plus de 100 000 contrôles réalisés chaque année (dont 45 000 contrôles comptables d'assiette), les thématiques sont bien rodées. Voici les 10 points les plus fréquemment contrôlés et les redressements associés.
 
 ## 1. Les frais professionnels

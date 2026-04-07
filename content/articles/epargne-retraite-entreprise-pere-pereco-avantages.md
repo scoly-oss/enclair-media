@@ -12,8 +12,6 @@ sources:
   - "Article 163 quatervicies du CGI (déductibilité fiscale)"
 ---
 
-# Épargne retraite d'entreprise (PERE/PERECO) : les avantages employeur
-
 La loi PACTE de 2019 a créé le Plan d'Épargne Retraite (PER), unifiant les anciens dispositifs (PERP, Madelin, PERCO, article 83). Pour l'employeur, le PER d'entreprise collectif (PERECO) et le PER d'entreprise obligatoire (PERO, ex-article 83) constituent des outils de fidélisation aux avantages sociaux et fiscaux substantiels.
 
 ## Les deux dispositifs d'entreprise

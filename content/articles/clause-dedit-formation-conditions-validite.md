@@ -12,8 +12,6 @@ sources:
   - "Article L. 6222-18 du Code du travail (interdiction en contrat d'apprentissage)"
 ---
 
-# Clause de dédit-formation : les conditions strictes de validité
-
 L'employeur qui investit dans la formation de ses salariés souhaite légitimement s'assurer un retour sur investissement. La clause de dédit-formation l'autorise à exiger le remboursement des frais de formation si le salarié quitte l'entreprise avant un certain délai. Mais cette clause est encadrée par des conditions rigoureuses.
 
 ## Définition et principe

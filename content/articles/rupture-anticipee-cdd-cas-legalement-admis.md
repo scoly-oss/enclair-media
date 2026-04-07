@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 3 novembre 2016, n° 15-20.190"
 ---
 
-# Rupture anticipée du CDD : les seuls cas légalement admis
-
 Le contrat à durée déterminée offre une stabilité que la loi protège avec fermeté. Contrairement au CDI, où la rupture est libre sous réserve de respecter les procédures, le CDD ne peut être rompu avant son terme que dans des cas **limitativement énumérés** par le Code du travail. Toute rupture en dehors de ces hypothèses expose son auteur à des sanctions financières lourdes.
 
 ## Le principe : le CDD s'exécute jusqu'à son terme

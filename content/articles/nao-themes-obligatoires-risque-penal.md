@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 12 janvier 2022, n°20-17.825"
 ---
 
-# NAO : les thèmes obligatoires et le risque pénal en cas d'absence
-
 ## Vous n'avez pas ouvert de NAO depuis 2 ans. Vous êtes en infraction pénale.
 
 La Négociation Annuelle Obligatoire (NAO) n'est pas une option dans les entreprises dotées de délégués syndicaux. C'est une obligation dont le non-respect constitue un **délit d'entrave** puni de 1 an d'emprisonnement et 3 750 euros d'amende.

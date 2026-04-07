@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 28 mars 2023, n° 21-22.455"
 ---
 
-# Base de données économiques et sociales (BDESE) : contenu 2026
-
 La base de données économiques, sociales et environnementales (BDESE) est le support d'information obligatoire du CSE. Depuis la loi Climat et Résilience de 2021, elle intègre un volet environnemental. Son contenu, ses modalités d'accès et les conséquences de son absence sont des enjeux majeurs du dialogue social.
 
 ## L'obligation de mise en place

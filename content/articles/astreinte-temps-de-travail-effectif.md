@@ -12,8 +12,6 @@ sources:
   - "Cass. soc., 26 octobre 2022, n° 21-14.178"
 ---
 
-# Astreinte : ce qui est du temps de travail et ce qui ne l'est pas
-
 L'astreinte est un dispositif indispensable pour de nombreux secteurs (maintenance, informatique, santé, sécurité), mais sa qualification juridique reste un terrain miné. La distinction entre temps d'astreinte et temps de travail effectif détermine la rémunération due et le respect des durées maximales de travail.
 
 ## Définition légale de l'astreinte

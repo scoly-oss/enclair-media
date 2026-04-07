@@ -11,8 +11,6 @@ sources:
   - "Cass. 2e civ., 8 février 2024, n°22-12.567"
 ---
 
-# Maladie professionnelle : la déclaration que l'employeur doit faire
-
 ## Votre salarié vient de vous annoncer qu'il a déclaré une maladie professionnelle. Que devez-vous faire dans les 48 heures ?
 
 Le courrier de la CPAM vient d'arriver. Un de vos salariés a déclaré une maladie professionnelle -- un trouble musculo-squelettique, un burn-out reconnu, une exposition à un produit chimique. Vous êtes surpris. Vous ne saviez pas. Et maintenant, vous ne savez pas quoi faire.

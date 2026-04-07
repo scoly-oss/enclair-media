@@ -11,8 +11,6 @@ sources:
   - "Cass. soc., 20 septembre 2023, n°22-14.445"
 ---
 
-# Pause déjeuner : les obligations que vous ne respectez probablement pas
-
 ## Vos salariés mangent un sandwich devant leur écran. C'est un problème juridique.
 
 Il est 12h30. La moitié de votre équipe est devant son ordinateur, un sandwich dans une main, la souris dans l'autre. Ils répondent à des mails, participent à des réunions sur Teams, traitent des dossiers urgents. Personne ne s'est plaint. Tout va bien ?

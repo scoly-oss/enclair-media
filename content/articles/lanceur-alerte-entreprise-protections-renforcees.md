@@ -12,8 +12,6 @@ sources:
   - "Directive (UE) 2019/1937 du 23 octobre 2019 (protection des lanceurs d'alerte)"
 ---
 
-# Lanceur d'alerte en entreprise : les nouvelles protections renforcées
-
 La loi Waserman du 21 mars 2022, transposant la directive européenne de 2019, a profondément renforcé la protection des lanceurs d'alerte. Les entreprises de 50 salariés et plus doivent avoir mis en place une procédure interne de signalement. Le non-respect de ces obligations expose à des sanctions sévères.
 
 ## La nouvelle définition du lanceur d'alerte

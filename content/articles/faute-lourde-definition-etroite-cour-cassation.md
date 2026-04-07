@@ -13,8 +13,6 @@ sources:
   - "Article L.1234-9 du Code du travail"
 ---
 
-# Faute lourde : la définition étroite que la Cour de cassation impose
-
 La faute lourde constitue le degré le plus élevé de faute dans la hiérarchie des sanctions disciplinaires. Elle prive le salarié de pratiquement tous ses droits liés à la rupture du contrat de travail. Pourtant, la Cour de cassation en a considérablement restreint le champ d'application en exigeant la démonstration d'un élément intentionnel très précis.
 
 ## L'intention de nuire : le critère déterminant

@@ -11,8 +11,6 @@ sources:
   - "Code de la sécurité sociale, article L.242-1"
 ---
 
-# Frais professionnels : les limites d'exonération URSSAF
-
 ## Vous remboursez les repas de vos commerciaux à 25 euros. Le plafond URSSAF est à 20,70 euros. La différence est un avantage en nature soumis à cotisations.
 
 Les frais professionnels sont exonérés de cotisations sociales dans la mesure où ils correspondent à des **dépenses réelles** engagées par le salarié dans l'intérêt de l'entreprise. Mais cette exonération n'est pas illimitée.

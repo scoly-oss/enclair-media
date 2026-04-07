@@ -13,8 +13,6 @@ sources:
   - "Article L.1226-10 du Code du travail"
 ---
 
-# Licenciement d'un salarié en AT : les conditions très strictes
-
 Pendant la période de suspension du contrat de travail consécutive à un accident du travail (AT) ou une maladie professionnelle (MP), le salarié bénéficie d'une protection quasi absolue contre le licenciement. L'article L.1226-9 du Code du travail n'admet que deux exceptions, dont la Cour de cassation fait une interprétation particulièrement restrictive.
 
 ## Le principe : l'interdiction de licencier

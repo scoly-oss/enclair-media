@@ -13,8 +13,6 @@ sources:
   - "Loi n° 2003-721 du 1er août 2003 (loi Dutreil)"
 ---
 
-# Clause d'exclusivité : les conditions pour qu'elle soit valable
-
 La clause d'exclusivité est un outil contractuel puissant qui interdit au salarié d'exercer toute autre activité professionnelle, salariée ou indépendante, pendant la durée de son contrat de travail. Plus restrictive que la clause de non-concurrence — qui ne joue qu'après la rupture du contrat —, elle porte directement atteinte à la liberté du travail et fait l'objet d'un encadrement jurisprudentiel rigoureux.
 
 ## Le fondement : la liberté du travail comme limite

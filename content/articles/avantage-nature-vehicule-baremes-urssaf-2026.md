@@ -13,8 +13,6 @@ sources:
   - "Arrêté du 25 février 2025 (mise à jour barèmes)"
 ---
 
-# Avantage en nature véhicule : les barèmes URSSAF 2026
-
 Lorsqu'un employeur met un véhicule à la disposition permanente d'un salarié, y compris pour un usage privé, il crée un avantage en nature soumis à cotisations sociales et à l'impôt sur le revenu. L'évaluation de cet avantage obéit à des règles précises, avec deux méthodes au choix de l'employeur. Voici les barèmes 2026 et les clés pour choisir la méthode la plus adaptée.
 
 ## Les deux méthodes d'évaluation

@@ -13,8 +13,6 @@ sources:
   - "Cass. soc., 23 mai 2017, n° 15-22.223"
 ---
 
-# Indemnité de licenciement : la base de calcul qui pose problème
-
 L'indemnité légale de licenciement constitue un droit pour tout salarié en CDI justifiant d'au moins huit mois d'ancienneté. Si son principe est simple, son calcul est en pratique source de nombreuses erreurs et de contentieux récurrents. La détermination du salaire de référence, en particulier, exige une rigueur que beaucoup d'employeurs sous-estiment.
 
 ## Le montant de l'indemnité légale
