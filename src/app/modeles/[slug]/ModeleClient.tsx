@@ -4,11 +4,22 @@ import { useState } from "react";
 import Link from "next/link";
 import type { Modele } from "@/data/modeles";
 
-interface Props {
-  modele: Modele;
+interface RelatedArticle {
+  slug: string;
+  title: string;
+  excerpt: string;
+  readTime: string;
+  category: string;
+  categoryLabel: string;
+  categoryColor: string;
 }
 
-export default function ModeleClient({ modele }: Props) {
+interface Props {
+  modele: Modele;
+  relatedArticles?: RelatedArticle[];
+}
+
+export default function ModeleClient({ modele, relatedArticles = [] }: Props) {
   const [email, setEmail] = useState("");
   const [consent, setConsent] = useState(false);
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">(() => {
@@ -169,6 +180,37 @@ export default function ModeleClient({ modele }: Props) {
             </form>
           )}
         </div>
+
+        {/* Articles sur le même sujet */}
+        {relatedArticles.length > 0 && (
+          <div className="mt-10">
+            <h2 className="text-xl font-bold text-gray-900 mb-5">
+              Articles sur le même sujet
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+              {relatedArticles.map((a) => (
+                <Link
+                  key={a.slug}
+                  href={`/articles/${a.slug}`}
+                  className="group block rounded-xl border border-gray-200 bg-white p-5 hover:border-gray-300 hover:shadow-sm transition-all"
+                >
+                  <span className={`inline-block text-[11px] font-medium px-2 py-0.5 rounded-full mb-3 ${a.categoryColor}`}>
+                    {a.categoryLabel}
+                  </span>
+                  <h3 className="text-[15px] font-semibold text-gray-900 leading-snug group-hover:text-[#e8842c] transition-colors mb-2">
+                    {a.title}
+                  </h3>
+                  <p className="text-[13px] text-gray-500 leading-relaxed mb-3">
+                    {a.excerpt.length > 100
+                      ? a.excerpt.slice(0, 100).trimEnd() + "..."
+                      : a.excerpt}
+                  </p>
+                  <span className="text-[12px] text-gray-400">{a.readTime}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
 
         {/* Disclaimer */}
         <p className="text-xs text-gray-400 mt-6 text-center">

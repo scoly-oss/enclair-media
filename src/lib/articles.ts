@@ -62,6 +62,35 @@ export function getCategoryLabel(category: string): string {
   return labels[category] || category;
 }
 
+export function getRelatedArticles(
+  currentSlug: string,
+  category: string,
+  count: number = 3
+): ArticleMeta[] {
+  const all = getAllArticles().filter((a) => a.slug !== currentSlug);
+  const sameCategory = all.filter((a) => a.category === category);
+  const others = all.filter((a) => a.category !== category);
+  const result = [...sameCategory, ...others];
+  return result.slice(0, count);
+}
+
+export function getArticlesByKeywords(keywords: string[]): ArticleMeta[] {
+  if (!keywords.length) return [];
+  const all = getAllArticles();
+  const lowerKeywords = keywords.map((k) => k.toLowerCase());
+  const scored = all
+    .map((a) => {
+      const matchCount = a.tags.reduce((acc, tag) => {
+        const lowerTag = tag.toLowerCase();
+        return acc + lowerKeywords.filter((kw) => lowerTag.includes(kw) || kw.includes(lowerTag)).length;
+      }, 0);
+      return { article: a, score: matchCount };
+    })
+    .filter((item) => item.score > 0)
+    .sort((a, b) => b.score - a.score);
+  return scored.map((item) => item.article);
+}
+
 export function getCategoryColor(category: string): string {
   const colors: Record<string, string> = {
     "droit-social": "bg-blue-100 text-blue-800",

@@ -1,4 +1,5 @@
-import { getArticleBySlug, getAllArticles, getCategoryLabel, getCategoryColor } from "@/lib/articles";
+import { getArticleBySlug, getAllArticles, getRelatedArticles, getCategoryLabel, getCategoryColor } from "@/lib/articles";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import NewsletterForm from "@/components/NewsletterForm";
 import type { Metadata } from "next";
@@ -124,6 +125,44 @@ export default async function ArticlePage({ params }: Props) {
           </ul>
         </div>
       )}
+
+      {/* Articles liés */}
+      {(() => {
+        const related = getRelatedArticles(slug, article.category, 3);
+        if (related.length === 0) return null;
+        return (
+          <div className="mt-16 pt-8 border-t border-alinea-100">
+            <h3
+              className="text-2xl font-bold text-alinea-950 mb-6"
+              style={{ fontFamily: "var(--font-serif)" }}
+            >
+              Articles liés
+            </h3>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+              {related.map((rel) => (
+                <Link
+                  key={rel.slug}
+                  href={`/articles/${rel.slug}`}
+                  className="group block rounded-xl border border-alinea-100 bg-white p-5 hover:border-alinea-200 hover:shadow-sm transition-all"
+                >
+                  <span className={`inline-block text-[11px] font-medium px-2 py-0.5 rounded-full mb-3 ${getCategoryColor(rel.category)}`}>
+                    {getCategoryLabel(rel.category)}
+                  </span>
+                  <h4 className="text-[15px] font-semibold text-alinea-950 leading-snug group-hover:text-alinea-700 transition-colors mb-2">
+                    {rel.title}
+                  </h4>
+                  <p className="text-[13px] text-alinea-500 leading-relaxed mb-3">
+                    {rel.excerpt.length > 100
+                      ? rel.excerpt.slice(0, 100).trimEnd() + "..."
+                      : rel.excerpt}
+                  </p>
+                  <span className="text-[12px] text-alinea-400">{rel.readTime}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        );
+      })()}
 
       {/* Newsletter */}
       <div className="mt-20">

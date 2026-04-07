@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import { modeles } from "@/data/modeles";
 import ModeleClient from "./ModeleClient";
+import { getArticlesByKeywords, getCategoryLabel, getCategoryColor } from "@/lib/articles";
 import type { Metadata } from "next";
 
 const BASE_URL = "https://enclair.media";
@@ -47,5 +48,17 @@ export default async function ModelePage({ params }: Props) {
   const modele = modeles.find((m) => m.slug === slug);
   if (!modele) notFound();
 
-  return <ModeleClient modele={modele} />;
+  const relatedArticles = getArticlesByKeywords(modele.keywords)
+    .slice(0, 3)
+    .map((a) => ({
+      slug: a.slug,
+      title: a.title,
+      excerpt: a.excerpt,
+      readTime: a.readTime,
+      category: a.category,
+      categoryLabel: getCategoryLabel(a.category),
+      categoryColor: getCategoryColor(a.category),
+    }));
+
+  return <ModeleClient modele={modele} relatedArticles={relatedArticles} />;
 }
