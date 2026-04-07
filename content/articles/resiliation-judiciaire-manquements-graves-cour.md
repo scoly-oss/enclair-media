@@ -1,25 +1,31 @@
 ---
-title: "Résiliation judiciaire : les manquements suffisamment graves selon la Cour"
-excerpt: "La résiliation judiciaire du contrat de travail n'est prononcée que si les manquements de l'employeur sont suffisamment graves. La Cour de cassation a précisé ce critère au fil d'une jurisprudence abondante."
-date: "2026-03-24"
-category: "jurisprudence"
-tags: ["résiliation judiciaire", "manquements graves", "Cour de cassation", "contrat de travail"]
-readTime: "7 min"
+title: 'Résiliation judiciaire : les manquements suffisamment graves selon la Cour'
+excerpt: >-
+  La résiliation judiciaire du contrat de travail n'est prononcée que si les
+  manquements de l'employeur sont suffisamment graves.
+date: '2026-03-24'
+category: jurisprudence
+tags:
+  - résiliation judiciaire
+  - manquements graves
+  - Cour de cassation
+  - contrat de travail
+readTime: 7 min
 sources:
-  - "Cass. soc., 26 mars 2014, n° 12-35.040"
-  - "Cass. soc., 15 mars 2023, n° 21-18.399"
-  - "Cass. soc., 3 novembre 2010, n° 09-65.254"
-  - "Article 1224 du Code civil"
-  - "Cass. soc., 12 juin 2014, n° 12-29.063"
+  - 'Cass. soc., 26 mars 2014, n° 12-35.040'
+  - 'Cass. soc., 15 mars 2023, n° 21-18.399'
+  - 'Cass. soc., 3 novembre 2010, n° 09-65.254'
+  - Article 1224 du Code civil
+  - 'Cass. soc., 12 juin 2014, n° 12-29.063'
 ---
 
-La résiliation judiciaire permet au salarié de demander au juge de rompre son contrat de travail aux torts de l'employeur, tout en continuant à travailler pendant la procédure. Mais le juge ne prononce cette résiliation que si les manquements invoqués sont « suffisamment graves pour empêcher la poursuite du contrat de travail ». Ce critère de gravité fait l'objet d'une jurisprudence dense et nuancée.
+La [résiliation judiciaire](https://enclair.media/articles/prise-acte-resiliation-judiciaire-quelle-voie-salarie) permet au salarié de demander au juge de rompre son contrat de travail aux torts de l'employeur, tout en continuant à travailler pendant la procédure. Mais le juge ne prononce cette résiliation que si les manquements invoqués sont « suffisamment graves pour empêcher la poursuite du contrat de travail ». Ce critère de gravité fait l'objet d'une jurisprudence dense et nuancée.
 
 ## Le cadre juridique
 
 La résiliation judiciaire du contrat de travail repose sur l'article 1224 du Code civil (anciennement 1184), qui permet à toute partie à un contrat synallagmatique d'en demander la résolution en justice en cas d'inexécution par l'autre partie.
 
-Transposée au contrat de travail, cette action permet au salarié qui reproche des manquements à son employeur de demander au conseil de prud'hommes de constater la rupture du contrat et de la qualifier de licenciement sans cause réelle et sérieuse.
+Transposée au contrat de travail, cette action permet au salarié qui reproche des manquements à son employeur de demander au conseil de prud'hommes de constater la rupture du contrat et de la qualifier de licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher).
 
 La particularité de la résiliation judiciaire est double : le contrat se poursuit pendant la procédure, et la rupture n'est prononcée qu'au jour du jugement.
 
@@ -51,7 +57,7 @@ La jurisprudence a progressivement identifié les manquements justifiant la rés
 
 **Un retard ponctuel de paiement.** Un seul retard de quelques jours, surtout s'il est corrigé rapidement, ne suffit généralement pas (Cass. soc., 12 juin 2014, n° 12-29.063).
 
-**Un désaccord sur l'interprétation d'une clause.** Une divergence d'interprétation entre les parties sur le sens d'une clause contractuelle ne constitue pas un manquement.
+**Un désaccord sur l'interprétation d'une clause.** Une divergence d'interprétation entre les parties sur le sens d'une [clause contractuelle](https://enclair.media/articles/clause-dedit-formation-conditions-validite) ne constitue pas un manquement.
 
 **Des difficultés relationnelles.** Un conflit interpersonnel, même tendu, ne suffit pas si l'employeur prend des mesures pour le résoudre.
 

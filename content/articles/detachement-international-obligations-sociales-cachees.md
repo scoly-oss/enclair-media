@@ -1,14 +1,20 @@
 ---
-title: "Détachement international : les obligations sociales cachées"
-excerpt: "Envoyer un salarié travailler à l'étranger implique des obligations de protection sociale, de rémunération et de déclaration que la plupart des PME découvrent trop tard."
-date: "2025-06-07"
-category: "droit-social"
-tags: ["détachement", "expatriation", "protection sociale", "directive européenne"]
-readTime: "7 min"
+title: 'Détachement international : les obligations sociales cachées'
+excerpt: >-
+  Envoyer un salarié travailler à l'étranger implique des obligations de
+  protection sociale, de rémunération et de déclaration que la plupart des PME.
+date: '2025-06-07'
+category: droit-social
+tags:
+  - détachement
+  - expatriation
+  - protection sociale
+  - directive européenne
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.1262-1 à L.1262-5"
-  - "Directive européenne 2018/957 du 28 juin 2018"
-  - "Code de la sécurité sociale, article L.761-1 et suivants"
+  - 'Code du travail, articles L.1262-1 à L.1262-5'
+  - Directive européenne 2018/957 du 28 juin 2018
+  - 'Code de la sécurité sociale, article L.761-1 et suivants'
 ---
 
 ## Vous envoyez un ingénieur en mission chez votre client en Belgique pendant 6 mois. Avez-vous pensé à tout ?
@@ -48,12 +54,12 @@ Au-delà des durées de détachement ou en l'absence d'accord bilatéral, le sal
 
 La directive européenne 2018/957 impose que le salarié détaché bénéficie des conditions de travail du pays d'accueil sur un **noyau dur** de sujets :
 
-- Taux de salaire minimum (y compris les majorations pour heures supplémentaires)
+- Taux de salaire minimum (y compris les majorations pour [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif))
 - Durées maximales de travail et périodes minimales de repos
 - Congés payés annuels minimaux
 - Conditions de mise à disposition des travailleurs temporaires
 - Santé, sécurité et hygiène au travail
-- Égalité de traitement hommes-femmes
+- [Égalité de traitement](https://enclair.media/articles/interim-responsabilite-entreprise-utilisatrice) hommes-femmes
 - Conditions d'hébergement des travailleurs
 
 **Le piège de la rémunération** : depuis 2020, le salarié détaché n'a plus droit au seul "salaire minimum" du pays d'accueil, mais à la **rémunération** applicable, incluant les primes, les 13e mois, et les avantages conventionnels du secteur dans le pays d'accueil. C'est un changement majeur qui augmente considérablement le coût du détachement.

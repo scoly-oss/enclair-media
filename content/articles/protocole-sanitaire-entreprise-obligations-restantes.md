@@ -1,15 +1,23 @@
 ---
-title: "Protocole sanitaire en entreprise : ce qui reste obligatoire"
-excerpt: "Le protocole sanitaire national lié au Covid a été levé, mais certaines obligations de prévention des risques biologiques demeurent. DUERP, ventilation, équipements de protection : ce que l'employeur doit maintenir en 2026."
-date: "2026-01-16"
-category: "decryptage"
-tags: ["protocole sanitaire", "prévention", "DUERP", "santé au travail"]
-readTime: "5 min"
+title: 'Protocole sanitaire en entreprise : ce qui reste obligatoire'
+excerpt: >-
+  Le protocole sanitaire national lié au Covid a été levé, mais certaines
+  obligations de prévention des risques biologiques demeurent.
+date: '2026-01-16'
+category: decryptage
+tags:
+  - protocole sanitaire
+  - prévention
+  - DUERP
+  - santé au travail
+readTime: 5 min
 sources:
-  - "Article L. 4121-1 du Code du travail (obligation de sécurité)"
-  - "Articles R. 4222-1 et suivants du Code du travail (aération et ventilation)"
-  - "Décret n° 2022-352 du 12 mars 2022 (fin des mesures sanitaires)"
-  - "Loi n° 2021-1018 du 2 août 2021 (renforcement de la prévention en santé au travail)"
+  - Article L. 4121-1 du Code du travail (obligation de sécurité)
+  - Articles R. 4222-1 et suivants du Code du travail (aération et ventilation)
+  - Décret n° 2022-352 du 12 mars 2022 (fin des mesures sanitaires)
+  - >-
+    Loi n° 2021-1018 du 2 août 2021 (renforcement de la prévention en santé au
+    travail)
 ---
 
 Le protocole sanitaire national lié à la pandémie de Covid-19 a été progressivement levé en 2022. Mais la crise sanitaire a durablement modifié les obligations de prévention en matière de santé au travail. Certaines obligations persistent et d'autres ont été renforcées par la loi du 2 août 2021. État des lieux en 2026.
@@ -21,7 +29,7 @@ Les mesures spécifiques Covid suivantes ne sont plus obligatoires :
 - Le port du masque obligatoire en entreprise
 - Les jauges d'occupation des locaux
 - Le télétravail imposé ou recommandé au titre sanitaire
-- Le pass sanitaire ou vaccinal pour accéder au lieu de travail
+- Le pass sanitaire ou vaccinal pour accéder au [lieu de travail](https://enclair.media/articles/modification-lieu-travail-clause-mobilite)
 - Les protocoles sectoriels spécifiques (restauration, commerce, etc.)
 
 ## Ce qui reste obligatoire
@@ -32,9 +40,9 @@ L'article L. 4121-1 du Code du travail impose à l'employeur de prendre les mesu
 
 ### Le DUERP renforcé
 
-La loi du 2 août 2021 a renforcé les obligations liées au document unique d'évaluation des risques professionnels (DUERP). L'employeur doit :
+La loi du 2 août 2021 a renforcé les obligations liées au document unique d'évaluation des [risques professionnels](https://enclair.media/articles/obligation-securite-employeur-doit-prouver) (DUERP). L'employeur doit :
 
-- Évaluer les risques professionnels, y compris les **risques biologiques** (virus, bactéries)
+- Évaluer les [risques professionnels](https://enclair.media/articles/compte-penibilite-c2p-obligations-declaratives), y compris les **risques biologiques** (virus, bactéries)
 - Mettre à jour le DUERP au minimum **une fois par an** dans les entreprises de 11 salariés et plus
 - **Conserver** les versions successives du DUERP pendant **40 ans**
 - Déposer le DUERP sur un portail numérique dédié (obligation progressive selon la taille de l'entreprise)

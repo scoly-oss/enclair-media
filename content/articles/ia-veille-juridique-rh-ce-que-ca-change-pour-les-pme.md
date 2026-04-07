@@ -1,18 +1,25 @@
 ---
-title: "IA et veille juridique : ce que ça change concrètement pour les PME"
-excerpt: "Conformité, veille réglementaire, analyse de contrats — l'intelligence artificielle transforme la gestion juridique des entreprises. État des lieux et cas concrets."
-date: "2026-02-20"
-category: "decryptage"
-tags: ["IA", "veille-juridique", "RH", "conformité", "automatisation"]
-readTime: "5 min"
+title: 'IA et veille juridique : ce que ça change concrètement pour les PME'
+excerpt: >-
+  Conformité, veille réglementaire, analyse de contrats — l'intelligence
+  artificielle transforme la gestion juridique des entreprises.
+date: '2026-02-20'
+category: decryptage
+tags:
+  - IA
+  - veille-juridique
+  - RH
+  - conformité
+  - automatisation
+readTime: 5 min
 sources:
-  - "Rapport France IA 2025 — Ministère de l'Économie"
-  - "Règlement européen sur l'IA (AI Act) — Règlement (UE) 2024/1689"
+  - Rapport France IA 2025 — Ministère de l'Économie
+  - Règlement européen sur l'IA (AI Act) — Règlement (UE) 2024/1689
 ---
 
 Si vous dirigez une PME, vous le savez : le droit social bouge en permanence. Nouveaux décrets, jurisprudence de la Cour de cassation, mises à jour du BOSS, réformes de la paie... Suivre tout ça en temps réel, c'est un métier à part entière. Et la plupart des dirigeants n'ont ni le temps ni les ressources pour le faire correctement.
 
-C'est exactement là que l'intelligence artificielle change la donne.
+C'est exactement là que l'[intelligence artificielle](https://enclair.media/articles/ia-et-rh-loi-europeenne-impose-des-2026) change la donne.
 
 ## La veille réglementaire, premier terrain de jeu de l'IA
 
@@ -20,7 +27,7 @@ Chaque année, des centaines de textes impactent directement la gestion RH des e
 
 Concrètement, une IA entraînée sur les sources juridiques françaises peut :
 
-- **Scanner le Journal Officiel, la base Légifrance et le BOSS** en continu, et isoler les textes qui concernent votre secteur d'activité et votre convention collective.
+- **Scanner le Journal Officiel, la base Légifrance et le BOSS** en continu, et isoler les textes qui concernent votre secteur d'activité et votre [convention collective](https://enclair.media/articles/convention-collective-identifier-applicable).
 - **Résumer un décret ou un arrêt en langage clair**, en identifiant ce qui change pour vous — pas pour un juriste, pour un dirigeant.
 - **Vous alerter en temps réel** quand une publication a un impact sur vos obligations : paie, contrats, déclarations.
 
@@ -28,7 +35,7 @@ Le gain n'est pas théorique. Une PME de 30 salariés qui rate un changement ré
 
 ## Analyse de conformité des contrats de travail
 
-Deuxième cas d'usage immédiat : la revue de vos contrats de travail. Beaucoup de PME utilisent des modèles de contrats qui n'ont pas été mis à jour depuis des années. Clauses de non-concurrence mal rédigées, forfait jours sans les mentions obligatoires, périodes d'essai non conformes à la convention collective — les risques contentieux sont partout.
+Deuxième cas d'usage immédiat : la revue de vos contrats de travail. Beaucoup de PME utilisent des modèles de contrats qui n'ont pas été mis à jour depuis des années. Clauses de non-concurrence mal rédigées, forfait jours sans les [mentions obligatoires](https://enclair.media/articles/registre-unique-personnel-mentions-obligatoires), périodes d'essai non conformes à la convention collective — les risques contentieux sont partout.
 
 Une IA spécialisée peut relire un contrat et :
 

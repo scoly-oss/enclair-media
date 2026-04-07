@@ -1,14 +1,20 @@
 ---
-title: "Convention de stage : les limites légales que les startups ignorent"
-excerpt: "Accueillir un stagiaire est soumis à des règles strictes sur la durée, la gratification, le nombre et les missions. Les startups en hypercroissance sont les premières à les enfreindre."
-date: "2025-07-03"
-category: "droit-social"
-tags: ["stage", "convention", "gratification", "startup"]
-readTime: "5 min"
+title: 'Convention de stage : les limites légales que les startups ignorent'
+excerpt: >-
+  Accueillir un stagiaire est soumis à des règles strictes sur la durée, la
+  gratification, le nombre et les missions.
+date: '2025-07-03'
+category: droit-social
+tags:
+  - stage
+  - convention
+  - gratification
+  - startup
+readTime: 5 min
 sources:
-  - "Code de l'éducation, articles L.124-1 à L.124-20"
-  - "Code du travail, article L.1221-13 (registre unique)"
-  - "Cass. soc., 7 mars 2024, n°22-20.116"
+  - 'Code de l''éducation, articles L.124-1 à L.124-20'
+  - 'Code du travail, article L.1221-13 (registre unique)'
+  - 'Cass. soc., 7 mars 2024, n°22-20.116'
 ---
 
 ## Vous avez 3 stagiaires pour 8 salariés. L'un d'eux fait le même travail qu'un développeur junior. C'est un problème.
@@ -17,7 +23,7 @@ Les stages sont devenus une source de main-d'oeuvre privilégiée des startups e
 
 ## Le risque concret
 
-La requalification d'un stage en contrat de travail entraîne les mêmes conséquences qu'un emploi dissimulé : rappel de salaires sur toute la durée du stage, cotisations sociales, indemnité de 6 mois de salaire pour travail dissimulé. Pour un stage de 6 mois requalifié, la facture dépasse facilement 15 000 euros.
+La requalification d'un stage en contrat de travail entraîne les mêmes conséquences qu'un emploi dissimulé : rappel de salaires sur toute la durée du stage, [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025), indemnité de 6 mois de salaire pour travail dissimulé. Pour un stage de 6 mois requalifié, la facture dépasse facilement 15 000 euros.
 
 ## Les règles que vous devez respecter
 
@@ -51,7 +57,7 @@ Un stagiaire ne peut pas :
 - Exécuter une **tâche régulière** correspondant à un emploi permanent
 - Faire face à un **accroissement temporaire d'activité**
 
-Le stage doit être en lien avec la **formation suivie** par le stagiaire et répondre à des objectifs pédagogiques définis dans la convention de stage.
+Le stage doit être en lien avec la **formation suivie** par le stagiaire et répondre à des objectifs pédagogiques définis dans la [convention de stage](https://enclair.media/articles/gratification-stage-minimum-legal-pieges).
 
 ### La convention de stage : les mentions obligatoires
 
@@ -87,4 +93,4 @@ Le juge requalifie un stage en contrat de travail lorsque le stagiaire :
 
 5. **Respectez les délais de carence** entre deux stagiaires sur un même poste. Tenez un registre des stages.
 
-Le stage est un outil de formation, pas un outil de recrutement à bas coût. Les juges et l'inspection du travail font très bien la différence. Et le calcul économique d'un stage requalifié est toujours perdant.
+Le stage est un outil de formation, pas un outil de recrutement à bas coût. Les juges et l'[inspection du travail](https://enclair.media/articles/affichages-obligatoires-2025-liste-complete) font très bien la différence. Et le calcul économique d'un stage requalifié est toujours perdant.

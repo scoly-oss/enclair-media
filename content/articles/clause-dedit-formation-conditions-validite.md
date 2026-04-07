@@ -1,15 +1,25 @@
 ---
-title: "Clause de dédit-formation : les conditions strictes de validité"
-excerpt: "La clause de dédit-formation permet à l'employeur de récupérer les frais de formation en cas de départ anticipé du salarié. Mais sa validité est soumise à des conditions très strictes que la jurisprudence contrôle sévèrement."
-date: "2025-11-17"
-category: "droit-social"
-tags: ["formation professionnelle", "dédit-formation", "clause contractuelle", "contrat de travail"]
-readTime: "6 min"
+title: 'Clause de dédit-formation : les conditions strictes de validité'
+excerpt: >-
+  La clause de dédit-formation permet à l'employeur de récupérer les frais de
+  formation en cas de départ anticipé du salarié.
+date: '2025-11-17'
+category: droit-social
+tags:
+  - formation professionnelle
+  - dédit-formation
+  - clause contractuelle
+  - contrat de travail
+readTime: 6 min
 sources:
-  - "Cass. soc., 4 février 2004, n° 01-43.651"
-  - "Cass. soc., 21 mai 2002, n° 00-42.909"
-  - "Article L. 6325-15 du Code du travail (interdiction en contrat de professionnalisation)"
-  - "Article L. 6222-18 du Code du travail (interdiction en contrat d'apprentissage)"
+  - 'Cass. soc., 4 février 2004, n° 01-43.651'
+  - 'Cass. soc., 21 mai 2002, n° 00-42.909'
+  - >-
+    Article L. 6325-15 du Code du travail (interdiction en contrat de
+    professionnalisation)
+  - >-
+    Article L. 6222-18 du Code du travail (interdiction en contrat
+    d'apprentissage)
 ---
 
 L'employeur qui investit dans la formation de ses salariés souhaite légitimement s'assurer un retour sur investissement. La clause de dédit-formation l'autorise à exiger le remboursement des frais de formation si le salarié quitte l'entreprise avant un certain délai. Mais cette clause est encadrée par des conditions rigoureuses.
@@ -30,7 +40,7 @@ La Cour de cassation exige que la formation représente un investissement except
 
 ### 2. L'accord écrit du salarié avant le début de la formation
 
-La clause doit être stipulée dans le contrat de travail ou dans un avenant signé **avant le début de la formation**. Un accord postérieur à la formation est nul car le salarié n'a pas pu consentir en connaissance de cause.
+La clause doit être stipulée dans le [contrat de travail](https://enclair.media/articles/clause-de-mobilite-quand-le-salarie-peut-refuser) ou dans un avenant signé **avant le début de la formation**. Un accord postérieur à la formation est nul car le salarié n'a pas pu consentir en connaissance de cause.
 
 La Cour de cassation exige un engagement « clair et non équivoque » du salarié (Cass. soc., 21 mai 2002, n° 00-42.909).
 
@@ -64,7 +74,7 @@ Lorsque la formation est financée par le compte personnel de formation (CPF) du
 
 ### Clause de non-concurrence concomitante
 
-La coexistence d'une clause de dédit-formation et d'une clause de non-concurrence pour le même salarié est une source de contentieux. Si les deux clauses combinées rendent le départ du salarié excessivement onéreux, le juge peut annuler la clause de dédit-formation comme portant atteinte à la liberté du travail.
+La coexistence d'une clause de dédit-formation et d'une [clause de non-concurrence](https://enclair.media/articles/non-concurrence-clause-qui-coute-meme-si-salarie-viole) pour le même salarié est une source de contentieux. Si les deux clauses combinées rendent le départ du salarié excessivement onéreux, le juge peut annuler la clause de dédit-formation comme portant atteinte à la liberté du travail.
 
 ## Les circonstances qui neutralisent la clause
 
@@ -78,7 +88,7 @@ La question est discutée. Certaines juridictions considèrent que la rupture co
 
 ### La prise d'acte justifiée
 
-Si le salarié prend acte de la rupture aux torts de l'employeur et que cette prise d'acte est jugée justifiée, la rupture produit les effets d'un licenciement sans cause réelle et sérieuse. La clause de dédit-formation est alors inopposable.
+Si le salarié prend acte de la rupture aux torts de l'employeur et que cette prise d'acte est jugée justifiée, la rupture produit les effets d'un licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher). La clause de dédit-formation est alors inopposable.
 
 ## Les bonnes pratiques rédactionnelles
 

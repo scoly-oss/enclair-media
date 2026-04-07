@@ -1,16 +1,22 @@
 ---
-title: "Licenciement verbal : pourquoi il est toujours sans cause réelle et sérieuse"
-excerpt: "Annoncer oralement à un salarié qu'il est licencié constitue un licenciement verbal, systématiquement jugé sans cause réelle et sérieuse. Cette règle intangible expose l'employeur à des dommages et intérêts conséquents."
-date: "2026-03-18"
-category: "droit-social"
-tags: ["licenciement verbal", "procédure", "cause réelle et sérieuse", "formalisme"]
-readTime: "6 min"
+title: 'Licenciement verbal : pourquoi il est toujours sans cause réelle et sérieuse'
+excerpt: >-
+  Annoncer oralement à un salarié qu'il est licencié constitue un licenciement
+  verbal, systématiquement jugé sans cause réelle et sérieuse.
+date: '2026-03-18'
+category: droit-social
+tags:
+  - licenciement verbal
+  - procédure
+  - cause réelle et sérieuse
+  - formalisme
+readTime: 6 min
 sources:
-  - "Article L.1232-6 du Code du travail"
-  - "Article L.1235-2 du Code du travail"
-  - "Cass. soc., 23 juin 2009, n° 07-44.844"
-  - "Cass. soc., 9 mars 2022, n° 20-17.005"
-  - "Article L.1235-3 du Code du travail"
+  - Article L.1232-6 du Code du travail
+  - Article L.1235-2 du Code du travail
+  - 'Cass. soc., 23 juin 2009, n° 07-44.844'
+  - 'Cass. soc., 9 mars 2022, n° 20-17.005'
+  - Article L.1235-3 du Code du travail
 ---
 
 Dans le feu de l'action — un conflit, une faute flagrante, un mouvement de colère —, un employeur peut être tenté de signifier oralement à un salarié que leur collaboration est terminée. Cette décision, prise dans la précipitation, constitue un licenciement verbal aux conséquences juridiques particulièrement lourdes.
@@ -38,7 +44,7 @@ En d'autres termes, même si le salarié a commis une faute grave voire lourde, 
 
 ## Les conséquences financières pour l'employeur
 
-Le licenciement verbal expose l'employeur à un coût significatif. Étant jugé sans cause réelle et sérieuse, le salarié peut prétendre à :
+Le licenciement verbal expose l'employeur à un coût significatif. Étant jugé [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher), le salarié peut prétendre à :
 
 **L'indemnité pour licenciement sans cause réelle et sérieuse**, encadrée par le barème Macron (article L.1235-3 du Code du travail). Pour un salarié ayant 5 ans d'ancienneté dans une entreprise de plus de 11 salariés, cette indemnité est comprise entre 3 et 6 mois de salaire brut.
 
@@ -48,7 +54,7 @@ Le licenciement verbal expose l'employeur à un coût significatif. Étant jugé
 
 **L'indemnité compensatrice de congés payés**, le cas échéant.
 
-À ces sommes peuvent s'ajouter des dommages et intérêts pour non-respect de la procédure de licenciement si l'entretien préalable n'a pas eu lieu.
+À ces sommes peuvent s'ajouter des [dommages et intérêts](https://enclair.media/articles/discrimination-syndicale-comparaison-carriere-imposee) pour non-respect de la procédure de licenciement si l'entretien préalable n'a pas eu lieu.
 
 ## La preuve du licenciement verbal
 
@@ -71,7 +77,7 @@ L'employeur ne peut pas davantage transformer le licenciement verbal en une simp
 
 ## Comment éviter le licenciement verbal
 
-La prévention repose sur des réflexes simples mais essentiels pour tout dirigeant ou manager disposant du pouvoir de direction.
+La prévention repose sur des réflexes simples mais essentiels pour tout dirigeant ou manager disposant du [pouvoir de direction](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail).
 
 **Ne jamais prononcer de rupture sous le coup de l'émotion.** Même en cas de faute flagrante, il est toujours préférable de mettre le salarié en mise à pied conservatoire — qui suspend le contrat sans le rompre — et de prendre le temps de la réflexion.
 

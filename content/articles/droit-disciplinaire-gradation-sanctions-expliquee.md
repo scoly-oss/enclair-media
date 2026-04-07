@@ -1,14 +1,20 @@
 ---
-title: "Droit disciplinaire : la gradation des sanctions expliquée"
-excerpt: "Un licenciement pour faute sans sanction préalable peut être requalifié en licenciement sans cause. Comprendre la gradation des sanctions est essentiel pour sécuriser vos procédures disciplinaires."
-date: "2025-04-18"
-category: "droit-social"
-tags: ["sanctions disciplinaires", "faute", "procédure", "règlement intérieur"]
-readTime: "6 min"
+title: 'Droit disciplinaire : la gradation des sanctions expliquée'
+excerpt: >-
+  Un licenciement pour faute sans sanction préalable peut être requalifié en
+  licenciement sans cause. Comprendre la gradation des sanctions est essentiel.
+date: '2025-04-18'
+category: droit-social
+tags:
+  - sanctions disciplinaires
+  - faute
+  - procédure
+  - règlement intérieur
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.1331-1 à L.1332-5"
-  - "Cass. soc., 3 mai 2023, n°21-24.780"
-  - "Code du travail, article L.1332-4 (prescription des fautes)"
+  - 'Code du travail, articles L.1331-1 à L.1332-5'
+  - 'Cass. soc., 3 mai 2023, n°21-24.780'
+  - 'Code du travail, article L.1332-4 (prescription des fautes)'
 ---
 
 ## Votre salarié est en retard pour la troisième fois. Vous voulez le licencier. C'est probablement trop tôt.
@@ -27,7 +33,7 @@ En pratique, cela signifie que pour des fautes "ordinaires" (retards, négligenc
 
 ### Niveau 1 : L'avertissement (ou le blâme)
 
-C'est la sanction la plus légère. L'avertissement est une **sanction disciplinaire** au sens de l'article L.1331-1 : il s'agit d'une mesure prise par l'employeur à la suite d'un agissement du salarié considéré comme fautif. Il doit être notifié par écrit.
+C'est la sanction la plus légère. L'avertissement est une **[sanction disciplinaire](https://enclair.media/articles/mise-a-pied-disciplinaire-duree-procedure-pieges)** au sens de l'article L.1331-1 : il s'agit d'une mesure prise par l'employeur à la suite d'un agissement du salarié considéré comme fautif. Il doit être notifié par écrit.
 
 Attention : un simple rappel à l'ordre oral n'est pas une sanction. Il ne compte pas dans la gradation. Pour construire un dossier, vous devez **écrire**.
 
@@ -37,7 +43,7 @@ La procédure est simplifiée : pas d'entretien préalable obligatoire (sauf dis
 
 ### Niveau 2 : La mise à pied disciplinaire
 
-C'est une suspension temporaire du contrat de travail, sans rémunération. Elle nécessite un **entretien préalable** (article L.1332-2) et doit être prévue par le règlement intérieur, qui fixe sa durée maximale.
+C'est une suspension temporaire du contrat de travail, sans rémunération. Elle nécessite un **entretien préalable** (article L.1332-2) et doit être prévue par le [règlement intérieur](https://enclair.media/articles/reglement-interieur-clauses-illicites), qui fixe sa durée maximale.
 
 Si votre règlement intérieur ne prévoit pas la mise à pied disciplinaire, ou n'en fixe pas la durée maximale, vous ne pouvez pas la prononcer. C'est une erreur fréquente dans les PME qui n'ont pas mis à jour leur règlement.
 
@@ -59,7 +65,7 @@ En revanche, si le salarié a reçu un avertissement pour retard le 15 mars, pui
 
 Pour toute sanction autre que l'avertissement :
 
-1. **Convocation à entretien préalable** : par lettre recommandée ou remise en main propre, au moins 5 jours ouvrables avant l'entretien. La lettre doit mentionner l'objet (sanction disciplinaire envisagée), la date, l'heure, le lieu, et la possibilité de se faire assister.
+1. **Convocation à entretien préalable** : par lettre recommandée ou remise en main propre, au moins 5 jours ouvrables avant l'entretien. La lettre doit mentionner l'objet ([sanction disciplinaire](https://enclair.media/articles/avertissement-pourquoi-le-votre-est-peut-etre-nul) envisagée), la date, l'heure, le lieu, et la possibilité de se faire assister.
 
 2. **Entretien préalable** : vous exposez les faits reprochés, le salarié s'explique. Ne venez pas avec une décision déjà prise.
 

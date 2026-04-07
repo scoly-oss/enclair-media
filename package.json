@@ -4,13 +4,15 @@
   "description": "En Clair — Le droit et l'économie, sans le jargon",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "prebuild": "node scripts/generate-articles-feed.mjs",
+    "build": "npm run prebuild && next build",
     "start": "next start",
     "lint": "next lint"
   },
   "author": "DAIRIA Avocats",
   "license": "MIT",
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.85.0",
     "@tailwindcss/postcss": "^4.2.2",
     "@types/node": "^25.5.0",
     "@types/react": "^19.2.14",

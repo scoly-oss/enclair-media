@@ -1,16 +1,22 @@
 ---
-title: "Coût d'un licenciement : le calcul complet (indemnités + procédure + risque)"
-excerpt: "Le coût réel d'un licenciement va bien au-delà de l'indemnité légale. Procédure, préavis, risque prud'homal, coût de remplacement : voici le calcul exhaustif que tout dirigeant et DAF devrait maîtriser."
-date: "2026-03-14"
-category: "economie"
-tags: ["coût licenciement", "indemnités", "provision", "budget RH"]
-readTime: "7 min"
+title: 'Coût d''un licenciement : le calcul complet (indemnités + procédure + risque)'
+excerpt: >-
+  Le coût réel d'un licenciement va bien au-delà de l'indemnité légale.
+  Procédure, préavis, risque prud'homal, coût de remplacement : voici le calcul.
+date: '2026-03-14'
+category: economie
+tags:
+  - coût licenciement
+  - indemnités
+  - provision
+  - budget RH
+readTime: 7 min
 sources:
-  - "Article L.1234-9 du Code du travail"
-  - "Article L.1235-3 du Code du travail (barème Macron)"
-  - "Article R.1234-2 du Code du travail"
-  - "Article L.1234-1 du Code du travail"
-  - "Étude du Ministère du Travail sur le contentieux prud'homal, 2024"
+  - Article L.1234-9 du Code du travail
+  - Article L.1235-3 du Code du travail (barème Macron)
+  - Article R.1234-2 du Code du travail
+  - Article L.1234-1 du Code du travail
+  - 'Étude du Ministère du Travail sur le contentieux prud''homal, 2024'
 ---
 
 Le licenciement est un acte de gestion dont le coût financier est systématiquement sous-estimé. La plupart des dirigeants ne considèrent que l'indemnité légale de licenciement. Or, le coût réel intègre au minimum six composantes distinctes, dont certaines peuvent représenter plusieurs mois de salaire supplémentaires. Voici la grille de calcul complète.
@@ -38,7 +44,7 @@ Sauf en cas de faute grave ou lourde, le salarié a droit à un préavis dont la
 
 Pour les cadres, la convention collective prévoit généralement 3 mois.
 
-**Coût : de 1 à 3 mois de salaire chargé** (salaire brut + cotisations patronales, soit environ 1,45 × brut).
+**Coût : de 1 à 3 mois de salaire chargé** (salaire brut + [cotisations patronales](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour), soit environ 1,45 × brut).
 
 ## Composante 3 : L'indemnité compensatrice de congés payés
 
@@ -46,7 +52,7 @@ Les congés payés acquis et non pris doivent être indemnisés. Pour un salari�
 
 ## Composante 4 : Le risque prud'homal (barème Macron)
 
-En cas de contestation du licenciement, le barème de l'article L.1235-3 fixe les indemnités pour licenciement sans cause réelle et sérieuse :
+En cas de contestation du licenciement, le barème de l'article L.1235-3 fixe les indemnités pour licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher) :
 
 | Ancienneté | Minimum (entreprise ≥11 sal.) | Maximum |
 |-----------|-------------------------------|---------|
@@ -95,7 +101,7 @@ Ce total représente environ **14 mois de salaire brut** ou **10 mois de coût c
 
 ## Comment optimiser le coût
 
-**Privilégier la rupture conventionnelle.** Lorsque la relation est simplement devenue inadaptée (sans faute du salarié), la rupture conventionnelle réduit considérablement le risque prud'homal. Le coût est prévisible et limité à l'indemnité négociée.
+**Privilégier la [rupture conventionnelle](https://enclair.media/articles/nouveau-formulaire-rupture-conventionnelle-ce-qui-change).** Lorsque la relation est simplement devenue inadaptée (sans faute du salarié), la rupture conventionnelle réduit considérablement le risque prud'homal. Le coût est prévisible et limité à l'indemnité négociée.
 
 **Soigner la procédure.** Un licenciement bien motivé et respectant scrupuleusement la procédure réduit le taux de contestation et le risque de condamnation.
 

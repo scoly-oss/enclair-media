@@ -1,25 +1,32 @@
 ---
-title: "Reclassement interne : la recherche que les juges vérifient vraiment"
-excerpt: "L'obligation de reclassement est la première cause d'annulation des licenciements économiques. Les juges ne vérifient pas si un poste existait, mais si vous l'avez réellement cherché."
-date: "2025-04-14"
-category: "droit-social"
-tags: ["reclassement", "licenciement économique", "obligation employeur", "groupe"]
-readTime: "6 min"
+title: 'Reclassement interne : la recherche que les juges vérifient vraiment'
+excerpt: >-
+  L'obligation de reclassement est la première cause d'annulation des
+  licenciements économiques. Les juges ne vérifient pas si un poste existait,
+  mais si.
+date: '2025-04-14'
+category: droit-social
+tags:
+  - reclassement
+  - licenciement économique
+  - obligation employeur
+  - groupe
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.1233-4 et L.1233-4-1"
-  - "Cass. soc., 23 novembre 2022, n°21-15.490"
-  - "Cass. soc., 5 avril 2023, n°21-22.455"
+  - 'Code du travail, articles L.1233-4 et L.1233-4-1'
+  - 'Cass. soc., 23 novembre 2022, n°21-15.490'
+  - 'Cass. soc., 5 avril 2023, n°21-22.455'
 ---
 
 ## Vous avez envoyé un courrier de reclassement ? Ce n'est probablement pas suffisant
 
-Vous préparez un licenciement économique. Votre avocat vous a dit de chercher un reclassement. Vous avez envoyé un courrier au salarié avec deux postes disponibles à 400 km de chez lui, à un salaire inférieur de 40 %. Il a refusé. Vous pensez avoir rempli votre obligation.
+Vous préparez un [licenciement économique](https://enclair.media/articles/obligation-reclassement-licenciement-economique-perimetre). Votre avocat vous a dit de chercher un reclassement. Vous avez envoyé un courrier au salarié avec deux postes disponibles à 400 km de chez lui, à un salaire inférieur de 40 %. Il a refusé. Vous pensez avoir rempli votre obligation.
 
 Les juges ne seront probablement pas d'accord.
 
 ## Le risque que vous ne mesurez pas
 
-L'obligation de reclassement est le terrain sur lequel les salariés gagnent le plus souvent aux prud'hommes en matière de licenciement économique. Pourquoi ? Parce que c'est le point le plus facile à contester et le plus difficile à prouver pour l'employeur.
+L'obligation de reclassement est le terrain sur lequel les salariés gagnent le plus souvent aux prud'hommes en matière de [licenciement économique](https://enclair.media/articles/licenciement-economique-5-etapes-obligatoires). Pourquoi ? Parce que c'est le point le plus facile à contester et le plus difficile à prouver pour l'employeur.
 
 Le juge ne demande pas si un poste existait. Il demande si vous avez **tout fait** pour en trouver un. La nuance est considérable, et elle se joue sur la preuve.
 
@@ -71,7 +78,7 @@ Conservez les courriers envoyés et les réponses reçues. L'absence de réponse
 
 ### Erreur 2 : Proposer des postes inadaptés comme alibi
 
-Certains employeurs proposent délibérément des postes inacceptables pour obtenir un refus et se sentir libérés de leur obligation. Les juges ne sont pas dupes. Si les seuls postes proposés sont manifestement incompatibles avec le profil du salarié alors que d'autres postes plus adaptés existaient, le licenciement sera jugé sans cause réelle et sérieuse.
+Certains employeurs proposent délibérément des postes inacceptables pour obtenir un refus et se sentir libérés de leur obligation. Les juges ne sont pas dupes. Si les seuls postes proposés sont manifestement incompatibles avec le profil du salarié alors que d'autres postes plus adaptés existaient, le licenciement sera jugé [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher).
 
 ### Erreur 3 : Limiter la recherche dans le temps
 

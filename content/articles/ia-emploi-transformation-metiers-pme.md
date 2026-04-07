@@ -1,16 +1,25 @@
 ---
-title: "L'IA va-t-elle détruire des emplois ? Ce que disent vraiment les chiffres"
-excerpt: "Entre fantasmes et réalité, les études s'accumulent sur l'impact de l'IA sur l'emploi. Métiers menacés, métiers créés, et ce qu'un dirigeant de PME doit anticiper dès maintenant."
-date: "2026-03-05"
-category: "economie"
-tags: ["IA", "emploi", "transformation", "compétences", "PME"]
-readTime: "5 min"
+title: L'IA va-t-elle détruire des emplois ? Ce que disent vraiment les chiffres
+excerpt: >-
+  Entre fantasmes et réalité, les études s'accumulent sur l'impact de l'IA sur
+  l'emploi. Métiers menacés, métiers créés, et ce qu'un dirigeant de PME.
+date: '2026-03-05'
+category: economie
+tags:
+  - IA
+  - emploi
+  - transformation
+  - compétences
+  - PME
+readTime: 5 min
 sources:
-  - "OCDE — Employment Outlook 2025, chapitre sur l'intelligence artificielle"
-  - "France Stratégie — Intelligence artificielle et emploi : quels impacts ?, rapport 2025"
-  - "McKinsey Global Institute — The State of AI in 2025"
-  - "FMI — AI and the Future of Work, janvier 2025"
-  - "DARES — Les métiers en tension, édition 2025"
+  - 'OCDE — Employment Outlook 2025, chapitre sur l''intelligence artificielle'
+  - >-
+    France Stratégie — Intelligence artificielle et emploi : quels impacts ?,
+    rapport 2025
+  - McKinsey Global Institute — The State of AI in 2025
+  - 'FMI — AI and the Future of Work, janvier 2025'
+  - 'DARES — Les métiers en tension, édition 2025'
 ---
 
 Depuis l'irruption de ChatGPT fin 2022, la question revient en boucle : l'IA va-t-elle supprimer massivement des emplois ? Les gros titres alternent entre catastrophisme ("60 % des emplois menacés") et optimisme béat ("l'IA va créer des millions de postes"). La réalité, comme souvent, est plus nuancée — et plus utile à connaître quand on dirige une entreprise.
@@ -23,7 +32,7 @@ Depuis l'irruption de ChatGPT fin 2022, la question revient en boucle : l'IA va-
 
 **Le FMI (2025)** est plus tranché : il estime qu'environ 40 % des emplois mondiaux sont exposés à l'IA, avec un impact plus fort dans les pays développés (jusqu'à 60 % des emplois touchés à un degré ou un autre). Mais il distingue les emplois "complémentés" par l'IA (productivité augmentée) et les emplois "remplacés" (tâches entièrement automatisées).
 
-**McKinsey (2025)** chiffre le potentiel d'automatisation : l'IA générative pourrait automatiser l'équivalent de 60 à 70 % du temps de travail des activités actuelles. Mais automatiser des tâches n'est pas la même chose que supprimer des postes.
+**McKinsey (2025)** chiffre le potentiel d'automatisation : l'IA générative pourrait automatiser l'équivalent de 60 à 70 % du [temps de travail](https://enclair.media/articles/astreinte-temps-de-travail-effectif) des activités actuelles. Mais automatiser des tâches n'est pas la même chose que supprimer des postes.
 
 ## Les métiers les plus exposés
 
@@ -101,7 +110,7 @@ L'investissement formation est modeste : 2 à 5 jours de formation par salarié 
 
 **4. Faut-il anticiper des suppressions de postes ?**
 
-Pour la grande majorité des PME, la réponse est non à court terme. L'IA en 2026 ne remplace pas un salarié polyvalent dans une PME de 20 personnes. Elle lui fait gagner du temps. Si votre carnet de commandes est plein, ce temps gagné se transforme en capacité supplémentaire sans embauche. Si votre activité stagne, ce temps gagné peut effectivement poser la question de la charge de travail. Dans les deux cas, la réponse passe par l'anticipation et le dialogue, pas par le fait accompli.
+Pour la grande majorité des PME, la réponse est non à court terme. L'IA en 2026 ne remplace pas un salarié polyvalent dans une PME de 20 personnes. Elle lui fait gagner du temps. Si votre carnet de commandes est plein, ce temps gagné se transforme en capacité supplémentaire sans embauche. Si votre activité stagne, ce temps gagné peut effectivement poser la question de la [charge de travail](https://enclair.media/articles/droit-deconnexion-obligation-negocier). Dans les deux cas, la réponse passe par l'anticipation et le dialogue, pas par le fait accompli.
 
 ## En résumé
 

@@ -1,15 +1,23 @@
 ---
-title: "Nouveau formulaire rupture conventionnelle : ce qui change"
-excerpt: "Le formulaire Cerfa de rupture conventionnelle a été mis à jour. De nouvelles mentions sont requises, le calcul de l'indemnité a été clarifié, et la procédure de télétransmission évolue. Utilisez-vous le bon formulaire ?"
-date: "2026-03-09"
-category: "alerte"
-tags: ["rupture conventionnelle", "formulaire Cerfa", "procédure", "homologation"]
-readTime: "6 min"
+title: 'Nouveau formulaire rupture conventionnelle : ce qui change'
+excerpt: >-
+  Le formulaire Cerfa de rupture conventionnelle a été mis à jour. De nouvelles
+  mentions sont requises, le calcul de l'indemnité a été clarifié, et la.
+date: '2026-03-09'
+category: alerte
+tags:
+  - rupture conventionnelle
+  - formulaire Cerfa
+  - procédure
+  - homologation
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.1237-11 à L.1237-16"
-  - "Arrêté du 18 novembre 2025 modifiant le formulaire de rupture conventionnelle"
-  - "Code du travail, article L.1237-13 (indemnité)"
-  - "TéléRC, plateforme de télétransmission"
+  - 'Code du travail, articles L.1237-11 à L.1237-16'
+  - >-
+    Arrêté du 18 novembre 2025 modifiant le formulaire de rupture
+    conventionnelle
+  - 'Code du travail, article L.1237-13 (indemnité)'
+  - 'TéléRC, plateforme de télétransmission'
 ---
 
 La rupture conventionnelle est le mode de rupture préféré des PME. Plus de 500 000 ruptures sont homologuées chaque année. Mais l'utilisation du mauvais formulaire ou le non-respect des nouvelles mentions obligatoires peut entraîner un refus d'homologation — et relancer toute la procédure à zéro.
@@ -40,7 +48,7 @@ Un refus d'homologation n'est pas définitif : vous pouvez corriger les anomalie
 
 ## Le calcul de l'indemnité minimale
 
-L'indemnité spécifique de rupture conventionnelle ne peut pas être inférieure à l'indemnité légale de licenciement (article L.1237-13). Depuis la convention collective de la métallurgie 2024, certaines conventions prévoient une indemnité conventionnelle de licenciement supérieure à l'indemnité légale. Dans ce cas, c'est l'indemnité conventionnelle qui constitue le plancher.
+L'indemnité spécifique de rupture conventionnelle ne peut pas être inférieure à l'indemnité légale de licenciement (article L.1237-13). Depuis la [convention collective](https://enclair.media/articles/convention-collective-identifier-applicable) de la métallurgie 2024, certaines conventions prévoient une indemnité conventionnelle de licenciement supérieure à l'indemnité légale. Dans ce cas, c'est l'indemnité conventionnelle qui constitue le plancher.
 
 L'indemnité légale de licenciement est de 1/4 de mois de salaire par année d'ancienneté pour les 10 premières années, et 1/3 de mois par année au-delà de 10 ans (article R.1234-2).
 

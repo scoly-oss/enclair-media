@@ -27,7 +27,7 @@ Ce budget est destiné à couvrir les frais de fonctionnement du CSE : frais de 
 
 ### Le budget des activités sociales et culturelles (article L.2312-81)
 
-Le montant de la contribution patronale aux ASC est fixé par **accord d'entreprise**. À défaut d'accord, la contribution ne peut pas être inférieure au rapport de la contribution versée l'année précédente par rapport à la masse salariale brute de cette même année.
+Le montant de la contribution patronale aux ASC est fixé par **[accord d'entreprise](https://enclair.media/articles/accord-entreprise-conditions-validite-ordonnances-macron)**. À défaut d'accord, la contribution ne peut pas être inférieure au rapport de la contribution versée l'année précédente par rapport à la masse salariale brute de cette même année.
 
 En pratique, le budget ASC est souvent fixé entre **0,5 % et 2 %** de la masse salariale, selon les entreprises et les accords.
 
@@ -40,13 +40,13 @@ Depuis 2017, la masse salariale brute utilisée pour le calcul des deux budgets 
 Sont donc inclus :
 - Salaires bruts
 - Primes et gratifications
-- Heures supplémentaires
+- [Heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif)
 - Avantages en nature
 - Indemnités de congés payés
 
 Sont exclus :
 - Les indemnités de licenciement (légales et conventionnelles)
-- Les indemnités de rupture conventionnelle
+- Les indemnités de [rupture conventionnelle](https://enclair.media/articles/nouveau-formulaire-rupture-conventionnelle-ce-qui-change)
 - Les indemnités transactionnelles
 - Les remboursements de frais professionnels
 

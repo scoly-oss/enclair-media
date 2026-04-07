@@ -1,19 +1,25 @@
 ---
-title: "Allègements Fillon : la formule de calcul mise à jour"
-excerpt: "La réduction générale de cotisations patronales (ex-allègements Fillon) représente des milliers d'euros par salarié. Mais une erreur de calcul peut entraîner un redressement URSSAF sur 3 ans."
-date: "2025-08-04"
-category: "economie"
-tags: ["allègements Fillon", "réduction générale", "cotisations patronales", "URSSAF"]
-readTime: "6 min"
+title: 'Allègements Fillon : la formule de calcul mise à jour'
+excerpt: >-
+  La réduction générale de cotisations patronales (ex-allègements Fillon)
+  représente des milliers d'euros par salarié.
+date: '2025-08-04'
+category: economie
+tags:
+  - allègements Fillon
+  - réduction générale
+  - cotisations patronales
+  - URSSAF
+readTime: 6 min
 sources:
-  - "Code de la sécurité sociale, article L.241-13"
-  - "Code de la sécurité sociale, article D.241-7 (formule de calcul)"
-  - "BOSS, Bulletin officiel de la Sécurité sociale, rubrique Exonérations"
+  - 'Code de la sécurité sociale, article L.241-13'
+  - 'Code de la sécurité sociale, article D.241-7 (formule de calcul)'
+  - 'BOSS, Bulletin officiel de la Sécurité sociale, rubrique Exonérations'
 ---
 
 ## Vous appliquez la réduction générale de cotisations. Mais utilisez-vous le bon coefficient ?
 
-La réduction générale de cotisations patronales, communément appelée "allègements Fillon", est le dispositif d'exonération le plus utilisé en France. Il concerne tous les salariés dont la rémunération est inférieure à **1,6 SMIC**. Pour un salarié au SMIC, l'exonération représente environ **520 euros par mois** de cotisations patronales en moins.
+La réduction générale de [cotisations patronales](https://enclair.media/articles/reduction-generale-cotisations-formule-2026), communément appelée "allègements Fillon", est le dispositif d'exonération le plus utilisé en France. Il concerne tous les salariés dont la rémunération est inférieure à **1,6 SMIC**. Pour un salarié au SMIC, l'exonération représente environ **520 euros par mois** de cotisations patronales en moins.
 
 Mais la formule de calcul est complexe, et les paramètres changent chaque année. Une erreur, même minime, multipliée par le nombre de salariés et le nombre de mois, peut générer un redressement URSSAF considérable.
 
@@ -55,9 +61,9 @@ Le SMIC annuel utilisé dans la formule est calculé sur la base de la **durée 
 
 ### Erreur 1 : Ne pas inclure toutes les rémunérations dans l'assiette
 
-La rémunération brute annuelle utilisée au dénominateur inclut **tous les éléments de rémunération** soumis à cotisations : salaire de base, primes, heures supplémentaires, avantages en nature, 13e mois, etc.
+La rémunération brute annuelle utilisée au dénominateur inclut **tous les éléments de rémunération** soumis à cotisations : salaire de base, primes, [heures supplémentaires](https://enclair.media/articles/travail-dissimule-infraction-commise-sans-le-savoir), avantages en nature, 13e mois, etc.
 
-Oublier d'intégrer un avantage en nature (véhicule de fonction, logement) ou une prime exceptionnelle conduit à surestimer le coefficient de réduction et donc à appliquer une exonération trop élevée.
+Oublier d'intégrer un avantage en nature ([véhicule de fonction](https://enclair.media/articles/avantages-en-nature-redressement-guette), logement) ou une prime exceptionnelle conduit à surestimer le coefficient de réduction et donc à appliquer une exonération trop élevée.
 
 ### Erreur 2 : Mal proratiser pour les temps partiels
 

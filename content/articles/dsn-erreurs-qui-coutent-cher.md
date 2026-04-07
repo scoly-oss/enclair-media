@@ -1,15 +1,21 @@
 ---
-title: "Déclaration sociale nominative (DSN) : les erreurs qui coûtent cher"
-excerpt: "La DSN est devenue le pivot de toutes les déclarations sociales. Les erreurs de paramétrage ou de saisie génèrent des pénalités, des redressements URSSAF et des retards dans le versement des prestations. Les 10 erreurs les plus fréquentes."
-date: "2025-10-20"
-category: "economie"
-tags: ["DSN", "déclaration sociale", "URSSAF", "paie"]
-readTime: "7 min"
+title: 'Déclaration sociale nominative (DSN) : les erreurs qui coûtent cher'
+excerpt: >-
+  La DSN est devenue le pivot de toutes les déclarations sociales. Les erreurs
+  de paramétrage ou de saisie génèrent des pénalités, des redressements.
+date: '2025-10-20'
+category: economie
+tags:
+  - DSN
+  - déclaration sociale
+  - URSSAF
+  - paie
+readTime: 7 min
 sources:
-  - "Articles L. 133-5-3 et R. 133-14 du Code de la sécurité sociale"
-  - "Article L. 133-5-4 du Code de la sécurité sociale (pénalité de retard)"
-  - "Cahier technique DSN 2025, GIP-MDS"
-  - "Instruction ACOSS n° 2024-0000019 du 5 mars 2024"
+  - Articles L. 133-5-3 et R. 133-14 du Code de la sécurité sociale
+  - Article L. 133-5-4 du Code de la sécurité sociale (pénalité de retard)
+  - 'Cahier technique DSN 2025, GIP-MDS'
+  - Instruction ACOSS n° 2024-0000019 du 5 mars 2024
 ---
 
 La déclaration sociale nominative (DSN) centralise depuis 2017 l'ensemble des déclarations sociales de l'employeur. Obligatoire et mensuelle, elle remplace une trentaine de déclarations antérieures. Toute erreur se propage à l'ensemble des organismes destinataires : URSSAF, CPAM, France Travail, caisses de retraite, prévoyance. Voici les erreurs les plus courantes et les plus coûteuses.
@@ -40,7 +46,7 @@ La DSN signale les arrêts de travail à la CPAM, ce qui déclenche le versement
 
 ### 5. Erreur sur la base de calcul des cotisations
 
-Les bases de cotisations doivent correspondre exactement aux rémunérations brutes soumises. Les écarts entre le bulletin de paie et la DSN sont détectés par les contrôles automatisés et génèrent des demandes de régularisation.
+Les bases de cotisations doivent correspondre exactement aux rémunérations brutes soumises. Les écarts entre le bulletin de paie et la DSN sont détectés par les contrôles automatisés et génèrent des demandes de [régularisation](https://enclair.media/articles/regularisation-progressive-cotisations).
 
 ### 6. Oubli de déclaration des fins de contrat
 
@@ -48,11 +54,11 @@ La fin de contrat doit être signalée en DSN pour permettre l'inscription à Fr
 
 ### 7. Mauvais code catégorie professionnelle
 
-Le code catégorie (cadre, non-cadre, VRP, etc.) détermine les taux de cotisations de retraite complémentaire et de prévoyance. Une erreur sur ce code génère des cotisations erronées et des droits à retraite faussés.
+Le code catégorie (cadre, non-cadre, VRP, etc.) détermine les taux de cotisations de [retraite complémentaire](https://enclair.media/articles/cotisations-retraite-cadres-changements-agirc-arrco) et de prévoyance. Une erreur sur ce code génère des cotisations erronées et des droits à retraite faussés.
 
 ### 8. Erreur sur le temps de travail
 
-Le temps de travail déclaré en DSN (quotité, durée contractuelle) impacte le calcul de la réduction générale de cotisations et la proratisation du plafond de sécurité sociale. Un temps partiel non déclaré fausse le calcul du plafond et de la réduction Fillon.
+Le temps de travail déclaré en DSN (quotité, durée contractuelle) impacte le calcul de la [réduction générale](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour) de cotisations et la proratisation du plafond de sécurité sociale. Un temps partiel non déclaré fausse le calcul du plafond et de la réduction Fillon.
 
 ### 9. Non-respect des dates d'exigibilité
 

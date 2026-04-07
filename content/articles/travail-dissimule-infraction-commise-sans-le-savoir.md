@@ -1,15 +1,22 @@
 ---
-title: "Travail dissimulé : l'infraction que vous commettez peut-être sans le savoir"
-excerpt: "Le travail dissimulé ne se limite pas au travail au noir. Des erreurs courantes de gestion de la paie ou des heures supplémentaires peuvent constituer cette infraction pénale. Panorama des situations à risque pour l'employeur de bonne foi."
-date: "2025-11-22"
-category: "droit-social"
-tags: ["travail dissimulé", "URSSAF", "heures supplémentaires", "infraction pénale"]
-readTime: "7 min"
+title: 'Travail dissimulé : l''infraction que vous commettez peut-être sans le savoir'
+excerpt: >-
+  Le travail dissimulé ne se limite pas au travail au noir. Des erreurs
+  courantes de gestion de la paie ou des heures supplémentaires peuvent
+  constituer.
+date: '2025-11-22'
+category: droit-social
+tags:
+  - travail dissimulé
+  - URSSAF
+  - heures supplémentaires
+  - infraction pénale
+readTime: 7 min
 sources:
-  - "Articles L. 8221-1 à L. 8221-5 du Code du travail"
-  - "Article L. 8223-1 du Code du travail (indemnité forfaitaire de 6 mois)"
-  - "Cass. soc., 17 mars 2021, n° 19-21.006"
-  - "Cass. crim., 14 décembre 2021, n° 20-85.086"
+  - Articles L. 8221-1 à L. 8221-5 du Code du travail
+  - Article L. 8223-1 du Code du travail (indemnité forfaitaire de 6 mois)
+  - 'Cass. soc., 17 mars 2021, n° 19-21.006'
+  - 'Cass. crim., 14 décembre 2021, n° 20-85.086'
 ---
 
 Le travail dissimulé évoque spontanément le travail au noir. Pourtant, cette infraction pénale recouvre des situations bien plus courantes qu'on ne le pense. Des pratiques banalisées en entreprise, comme le non-paiement de certaines heures de travail ou des erreurs de déclaration, peuvent caractériser un travail dissimulé aux conséquences sévères.
@@ -36,7 +43,7 @@ C'est cette dernière hypothèse qui constitue le piège le plus fréquent pour 
 
 Lorsque le salarié effectue régulièrement des heures au-delà de la durée légale ou contractuelle et que ces heures n'apparaissent pas sur le bulletin de paie, il y a dissimulation d'emploi salarié. Cela concerne :
 
-- Les heures supplémentaires systématiquement non déclarées
+- Les [heures supplémentaires](https://enclair.media/articles/travail-dissimule-presomptions-cour-cassation) systématiquement non déclarées
 - Le dépassement régulier du forfait jours sans suivi ni compensation
 - Le travail en dehors des heures de bureau (emails le soir, travail le week-end) qui n'est jamais comptabilisé
 
@@ -62,7 +69,7 @@ Toutefois, la jurisprudence retient l'intention dans des situations où l'employ
 - L'existence d'un **système organisé** de minoration des heures (pointeuse modifiée, consignes de ne pas déclarer les heures)
 - La **connaissance avérée** par l'employeur des heures effectuées sans les payer
 
-La Cour de cassation a jugé que l'employeur qui ne peut ignorer que ses salariés effectuent des heures supplémentaires non rémunérées se rend coupable de travail dissimulé (Cass. soc., 17 mars 2021, n° 19-21.006).
+La Cour de cassation a jugé que l'employeur qui ne peut ignorer que ses salariés effectuent des [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif) non rémunérées se rend coupable de travail dissimulé (Cass. soc., 17 mars 2021, n° 19-21.006).
 
 ## Les sanctions encourues
 
@@ -96,7 +103,7 @@ Ces contrôles peuvent être déclenchés par un signalement (salarié, concurre
 ## Les mesures préventives
 
 1. **Mettre en place un système fiable de décompte du temps de travail** : pointeuse, logiciel de gestion des temps, relevé déclaratif hebdomadaire
-2. **Payer toutes les heures travaillées**, y compris les heures supplémentaires et le temps de trajet professionnel
+2. **Payer toutes les heures travaillées**, y compris les [heures supplémentaires](https://enclair.media/articles/duree-maximale-travail-trois-plafonds) et le temps de trajet professionnel
 3. **Vérifier la réalité des temps partiels** : le salarié travaille-t-il effectivement selon les horaires contractuels ?
 4. **Auditer les relations avec les indépendants** : la relation présente-t-elle les caractéristiques d'un lien de subordination ?
 5. **Former les managers** aux obligations de décompte et de déclaration des heures

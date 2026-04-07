@@ -38,3 +38,6 @@ next-env.d.ts
 
 # data
 /data/
+
+# generated at build time
+public/articles-feed.json

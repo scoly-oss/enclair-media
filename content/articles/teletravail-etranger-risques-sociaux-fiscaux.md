@@ -1,15 +1,25 @@
 ---
-title: "Télétravail à l'étranger : les risques sociaux et fiscaux ignorés"
-excerpt: "Un salarié qui télétravaille depuis l'étranger expose son employeur à des risques majeurs : assujettissement social à l'étranger, établissement stable fiscal, non-conformité au droit local du travail. Analyse des pièges à éviter."
-date: "2025-10-17"
-category: "droit-social"
-tags: ["télétravail", "international", "sécurité sociale", "fiscalité"]
-readTime: "8 min"
+title: 'Télétravail à l''étranger : les risques sociaux et fiscaux ignorés'
+excerpt: >-
+  Un salarié qui télétravaille depuis l'étranger expose son employeur à des
+  risques majeurs : assujettissement social à l'étranger, établissement stable.
+date: '2025-10-17'
+category: droit-social
+tags:
+  - télétravail
+  - international
+  - sécurité sociale
+  - fiscalité
+readTime: 8 min
 sources:
-  - "Règlement CE n° 883/2004 portant coordination des systèmes de sécurité sociale"
-  - "Accord-cadre multilatéral du 1er juillet 2023 sur le télétravail transfrontalier"
-  - "Article 15 du modèle de convention fiscale OCDE"
-  - "Convention multilatérale OCDE (MLI) sur les établissements stables"
+  - >-
+    Règlement CE n° 883/2004 portant coordination des systèmes de sécurité
+    sociale
+  - >-
+    Accord-cadre multilatéral du 1er juillet 2023 sur le télétravail
+    transfrontalier
+  - Article 15 du modèle de convention fiscale OCDE
+  - Convention multilatérale OCDE (MLI) sur les établissements stables
 ---
 
 Le télétravail depuis l'étranger s'est banalisé depuis la crise sanitaire. Pourtant, lorsqu'un salarié travaille régulièrement depuis un autre pays, les conséquences juridiques sont considérables et largement sous-estimées par les employeurs français.
@@ -18,9 +28,9 @@ Le télétravail depuis l'étranger s'est banalisé depuis la crise sanitaire. P
 
 ### Le principe européen
 
-Le règlement CE n° 883/2004 pose un principe clair : un salarié qui exerce une **activité substantielle** dans son pays de résidence (au moins 25 % de son temps de travail ou de sa rémunération) relève de la législation de sécurité sociale de ce pays.
+Le règlement CE n° 883/2004 pose un principe clair : un salarié qui exerce une **activité substantielle** dans son pays de résidence (au moins 25 % de son temps de travail ou de sa rémunération) relève de la législation de [sécurité sociale](https://enclair.media/articles/calcul-ijss-verification-employeur) de ce pays.
 
-Concrètement, si un salarié d'une entreprise française réside au Portugal et y télétravaille plus de 25 % de son temps, il doit être affilié à la sécurité sociale portugaise. L'employeur français doit alors s'immatriculer au Portugal, cotiser selon la législation locale et respecter les obligations déclaratives portugaises.
+Concrètement, si un salarié d'une entreprise française réside au Portugal et y télétravaille plus de 25 % de son temps, il doit être affilié à la sécurité sociale portugaise. L'employeur français doit alors s'immatriculer au Portugal, cotiser selon la législation locale et respecter les [obligations déclaratives](https://enclair.media/articles/compte-penibilite-c2p-obligations-declaratives) portugaises.
 
 ### L'accord-cadre sur le télétravail transfrontalier
 
@@ -56,7 +66,7 @@ L'OCDE a publié des orientations post-Covid indiquant que le télétravail temp
 
 ### Le principe de la loi du lieu d'exécution
 
-Le règlement Rome I (593/2008) prévoit que le contrat de travail est régi par la loi du pays dans lequel le salarié accomplit habituellement son travail. Si un salarié travaille principalement depuis l'Espagne, le droit du travail espagnol pourrait s'appliquer, avec ses propres règles sur le licenciement, le temps de travail, les congés, le salaire minimum.
+Le règlement Rome I (593/2008) prévoit que le [contrat de travail](https://enclair.media/articles/clause-de-mobilite-quand-le-salarie-peut-refuser) est régi par la loi du pays dans lequel le salarié accomplit habituellement son travail. Si un salarié travaille principalement depuis l'Espagne, le droit du travail espagnol pourrait s'appliquer, avec ses propres règles sur le licenciement, le temps de travail, les congés, le salaire minimum.
 
 De plus, les dispositions impératives du pays d'exécution s'appliquent en tout état de cause, même si le contrat prévoit l'application du droit français. Cela inclut typiquement la réglementation sur la durée du travail, le salaire minimum local et les conditions de sécurité.
 

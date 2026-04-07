@@ -1,14 +1,20 @@
 ---
-title: "Mise à pied disciplinaire : durée, procédure et pièges"
-excerpt: "La mise à pied disciplinaire est une sanction puissante mais encadrée. Sans règlement intérieur, sans durée maximale définie, sans entretien préalable : elle est nulle."
-date: "2025-07-14"
-category: "droit-social"
-tags: ["mise à pied", "sanction disciplinaire", "règlement intérieur", "procédure"]
-readTime: "6 min"
+title: 'Mise à pied disciplinaire : durée, procédure et pièges'
+excerpt: >-
+  La mise à pied disciplinaire est une sanction puissante mais encadrée. Sans
+  règlement intérieur, sans durée maximale définie, sans entretien préalable.
+date: '2025-07-14'
+category: droit-social
+tags:
+  - mise à pied
+  - sanction disciplinaire
+  - règlement intérieur
+  - procédure
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.1332-1 à L.1332-5"
-  - "Code du travail, article L.1321-1 (règlement intérieur)"
-  - "Cass. soc., 26 octobre 2022, n°21-11.233"
+  - 'Code du travail, articles L.1332-1 à L.1332-5'
+  - 'Code du travail, article L.1321-1 (règlement intérieur)'
+  - 'Cass. soc., 26 octobre 2022, n°21-11.233'
 ---
 
 ## Vous voulez suspendre un salarié pour faute. Votre règlement intérieur prévoit-il une durée maximale ?
@@ -19,7 +25,7 @@ Sauf que cette sanction est l'une des plus encadrées du droit du travail. Et l'
 
 ## La condition préalable : le règlement intérieur
 
-Première surprise : sans règlement intérieur, **pas de mise à pied disciplinaire possible**. La Cour de cassation l'a confirmé dans un arrêt de principe : la mise à pied disciplinaire n'est licite que si elle est prévue par le règlement intérieur, et ce règlement doit en fixer la **durée maximale** (Cass. soc., 26 octobre 2010, n°09-42.740).
+Première surprise : sans [règlement intérieur](https://enclair.media/articles/droit-disciplinaire-gradation-sanctions-expliquee), **pas de mise à pied disciplinaire possible**. La Cour de cassation l'a confirmé dans un arrêt de principe : la mise à pied disciplinaire n'est licite que si elle est prévue par le [règlement intérieur](https://enclair.media/articles/reglement-interieur-clauses-illicites), et ce règlement doit en fixer la **durée maximale** (Cass. soc., 26 octobre 2010, n°09-42.740).
 
 Le règlement intérieur est obligatoire dans les entreprises d'au moins **50 salariés** (article L.1311-2). Dans les entreprises de moins de 50 salariés, il est facultatif mais nécessaire si vous voulez prononcer des mises à pied.
 
@@ -39,7 +45,7 @@ Un règlement intérieur qui se contente de mentionner la possibilité d'une mis
 
 La mise à pied disciplinaire nécessite un **entretien préalable** (article L.1332-2), contrairement au simple avertissement. La convocation doit :
 - Être envoyée par lettre recommandée ou remise en main propre contre décharge
-- Indiquer l'objet de la convocation (sanction disciplinaire envisagée)
+- Indiquer l'objet de la convocation ([sanction disciplinaire](https://enclair.media/articles/avertissement-pourquoi-le-votre-est-peut-etre-nul) envisagée)
 - Mentionner la date, l'heure et le lieu de l'entretien
 - Rappeler le droit du salarié de se faire assister par une personne de son choix appartenant au personnel de l'entreprise
 

@@ -1,15 +1,22 @@
 ---
-title: "Décret du 1er janvier 2026 : les 5 changements paie à appliquer immédiatement"
-excerpt: "SMIC, plafond sécu, réduction Fillon, taux AT/MP, versement mobilité — cinq paramètres de paie ont changé au 1er janvier 2026. Si vos bulletins de janvier ne sont pas mis à jour, chaque mois qui passe aggrave l'erreur."
-date: "2026-01-02"
-category: "alerte"
-tags: ["paie", "SMIC", "plafond sécurité sociale", "paramètres 2026", "urgence"]
-readTime: "6 min"
+title: 'Décret du 1er janvier 2026 : les 5 changements paie à appliquer immédiatement'
+excerpt: >-
+  SMIC, plafond sécu, réduction Fillon, taux AT/MP, versement mobilité — cinq
+  paramètres de paie ont changé au 1er janvier 2026.
+date: '2026-01-02'
+category: alerte
+tags:
+  - paie
+  - SMIC
+  - plafond sécurité sociale
+  - paramètres 2026
+  - urgence
+readTime: 6 min
 sources:
-  - "Décret n° 2025-1432 du 24 décembre 2025 portant relèvement du SMIC"
-  - "Arrêté du 19 décembre 2025 fixant le PMSS 2026"
-  - "BOSS, Allégements généraux, mis à jour janvier 2026"
-  - "URSSAF, Taux et barèmes 2026"
+  - Décret n° 2025-1432 du 24 décembre 2025 portant relèvement du SMIC
+  - Arrêté du 19 décembre 2025 fixant le PMSS 2026
+  - 'BOSS, Allégements généraux, mis à jour janvier 2026'
+  - 'URSSAF, Taux et barèmes 2026'
 ---
 
 Le 1er janvier 2026, cinq paramètres de paie ont changé simultanément. Si votre logiciel de paie n'a pas été mis à jour, chaque bulletin émis depuis janvier est erroné. Et les erreurs de paie ne se corrigent pas d'elles-mêmes — elles s'accumulent, mois après mois, jusqu'au contrôle URSSAF ou à la réclamation du salarié.
@@ -26,13 +33,13 @@ Le non-paiement du SMIC est une infraction pénale (contravention de 5e classe) 
 
 ## 2. Le plafond de la sécurité sociale à 3 925 euros
 
-Le PMSS passe à 3 925 euros mensuels (47 100 euros annuels). Ce plafond conditionne le calcul des cotisations plafonnées (assurance vieillesse), des tranches de cotisation retraite complémentaire AGIRC-ARRCO, et de nombreux seuils d'exonération.
+Le PMSS passe à 3 925 euros mensuels (47 100 euros annuels). Ce plafond conditionne le calcul des cotisations plafonnées (assurance vieillesse), des tranches de cotisation [retraite complémentaire AGIRC](https://enclair.media/articles/retraite-complementaire-agirc-arrco-changements-2026)-ARRCO, et de nombreux seuils d'exonération.
 
-Vérification immédiate : les tranches de cotisation retraite complémentaire sont-elles recalculées avec le nouveau plafond ? Les cotisations d'assurance vieillesse plafonnée utilisent-elles la bonne base ?
+Vérification immédiate : les tranches de cotisation [retraite complémentaire](https://enclair.media/articles/cotisations-retraite-cadres-changements-agirc-arrco) sont-elles recalculées avec le nouveau plafond ? Les cotisations d'assurance vieillesse plafonnée utilisent-elles la bonne base ?
 
 ## 3. La réduction Fillon recalculée
 
-La réduction générale de cotisations patronales (réduction Fillon) est fonction du SMIC et des taux de cotisation en vigueur. Le paramètre T de la formule est mis à jour chaque année. Avec le nouveau SMIC et les nouveaux taux, le coefficient de réduction change pour tous les salariés éligibles.
+La réduction générale de [cotisations patronales](https://enclair.media/articles/reduction-generale-cotisations-formule-2026) (réduction Fillon) est fonction du SMIC et des taux de cotisation en vigueur. Le paramètre T de la formule est mis à jour chaque année. Avec le nouveau SMIC et les nouveaux taux, le coefficient de réduction change pour tous les salariés éligibles.
 
 Vérification immédiate : le coefficient de réduction calculé sur les bulletins de janvier correspond-il à la nouvelle formule ? Le seuil de sortie (1,6 SMIC = 2 882,94 euros) est-il correctement paramétré ?
 

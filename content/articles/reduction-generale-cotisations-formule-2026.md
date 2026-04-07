@@ -1,22 +1,30 @@
 ---
-title: "Réduction générale de cotisations : la formule exacte en 2026"
-excerpt: "La réduction générale de cotisations patronales (ex-réduction Fillon) évolue chaque année. Paramètres 2026, formule de calcul, plafond de rémunération et régularisation annuelle : le guide complet pour ne pas se tromper."
-date: "2025-11-05"
-category: "economie"
-tags: ["réduction Fillon", "cotisations patronales", "exonérations", "SMIC"]
-readTime: "7 min"
+title: 'Réduction générale de cotisations : la formule exacte en 2026'
+excerpt: >-
+  La réduction générale de cotisations patronales (ex-réduction Fillon) évolue
+  chaque année. Paramètres 2026, formule de calcul, plafond de rémunération.
+date: '2025-11-05'
+category: economie
+tags:
+  - réduction Fillon
+  - cotisations patronales
+  - exonérations
+  - SMIC
+readTime: 7 min
 sources:
-  - "Articles L. 241-13 et D. 241-7 du Code de la sécurité sociale"
-  - "Décret n° 2025-XX (paramètres 2026, à paraître)"
-  - "BOSS, Bulletin officiel de la sécurité sociale, rubrique 'Allègements généraux'"
-  - "Circulaire ACOSS relative aux paramètres de la réduction générale"
+  - Articles L. 241-13 et D. 241-7 du Code de la sécurité sociale
+  - 'Décret n° 2025-XX (paramètres 2026, à paraître)'
+  - >-
+    BOSS, Bulletin officiel de la sécurité sociale, rubrique 'Allègements
+    généraux'
+  - Circulaire ACOSS relative aux paramètres de la réduction générale
 ---
 
-La réduction générale de cotisations patronales, héritière de la réduction Fillon, est le dispositif d'allègement de charges le plus utilisé en France. Elle concerne potentiellement tous les salariés dont la rémunération est inférieure à 1,6 SMIC. Sa formule de calcul, révisée annuellement, exige une maîtrise technique fine.
+La réduction générale de [cotisations patronales](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour), héritière de la réduction Fillon, est le dispositif d'allègement de charges le plus utilisé en France. Elle concerne potentiellement tous les salariés dont la rémunération est inférieure à 1,6 SMIC. Sa formule de calcul, révisée annuellement, exige une maîtrise technique fine.
 
 ## Le principe de la réduction générale
 
-La réduction générale permet de réduire les cotisations patronales de sécurité sociale, la contribution FNAL, la cotisation de retraite complémentaire et la contribution AT/MP, pour les salariés dont la rémunération annuelle brute est inférieure ou égale à **1,6 SMIC annuel**.
+La réduction générale permet de réduire les cotisations patronales de sécurité sociale, la contribution FNAL, la cotisation de [retraite complémentaire](https://enclair.media/articles/cotisations-retraite-cadres-changements-agirc-arrco) et la contribution AT/MP, pour les salariés dont la rémunération annuelle brute est inférieure ou égale à **1,6 SMIC annuel**.
 
 La réduction est maximale au niveau du SMIC et dégressive jusqu'à s'annuler à 1,6 SMIC. Au-delà de ce seuil, aucune réduction n'est applicable.
 
@@ -37,7 +45,7 @@ La valeur de T intègre les cotisations suivantes (valeurs indicatives, sous ré
 - Allocations familiales : 3,45 % (taux réduit jusqu'à 3,5 SMIC)
 - FNAL : 0,10 % (entreprises < 50 salariés) ou 0,50 % (≥ 50 salariés)
 - AT/MP : taux variable selon l'entreprise (dans la limite du taux plafond)
-- Retraite complémentaire : taux AGIRC-ARRCO tranche 1
+- [Retraite complémentaire](https://enclair.media/articles/retraite-complementaire-agirc-arrco-changements-2026) : taux AGIRC-ARRCO tranche 1
 
 La valeur maximale de T varie selon la taille de l'entreprise et le taux AT/MP applicable.
 

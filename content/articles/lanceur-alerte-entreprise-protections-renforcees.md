@@ -1,28 +1,36 @@
 ---
-title: "Lanceur d'alerte en entreprise : les nouvelles protections renforcées"
-excerpt: "La loi Waserman du 21 mars 2022 a considérablement renforcé le statut des lanceurs d'alerte. Nouvelles définitions, canaux de signalement obligatoires et protection élargie : ce que l'employeur doit mettre en place."
-date: "2026-01-10"
-category: "droit-social"
-tags: ["lanceur d'alerte", "Waserman", "signalement", "protection"]
-readTime: "7 min"
+title: 'Lanceur d''alerte en entreprise : les nouvelles protections renforcées'
+excerpt: >-
+  La loi Waserman du 21 mars 2022 a considérablement renforcé le statut des
+  lanceurs d'alerte. Nouvelles définitions, canaux de signalement obligatoires.
+date: '2026-01-10'
+category: droit-social
+tags:
+  - lanceur d'alerte
+  - Waserman
+  - signalement
+  - protection
+readTime: 7 min
 sources:
-  - "Loi n° 2022-401 du 21 mars 2022 (loi Waserman)"
-  - "Articles L. 1132-3-3 et L. 1121-2 du Code du travail"
-  - "Décret n° 2022-1284 du 3 octobre 2022 (procédure de signalement)"
-  - "Directive (UE) 2019/1937 du 23 octobre 2019 (protection des lanceurs d'alerte)"
+  - Loi n° 2022-401 du 21 mars 2022 (loi Waserman)
+  - Articles L. 1132-3-3 et L. 1121-2 du Code du travail
+  - Décret n° 2022-1284 du 3 octobre 2022 (procédure de signalement)
+  - >-
+    Directive (UE) 2019/1937 du 23 octobre 2019 (protection des lanceurs
+    d'alerte)
 ---
 
 La loi Waserman du 21 mars 2022, transposant la directive européenne de 2019, a profondément renforcé la protection des lanceurs d'alerte. Les entreprises de 50 salariés et plus doivent avoir mis en place une procédure interne de signalement. Le non-respect de ces obligations expose à des sanctions sévères.
 
 ## La nouvelle définition du lanceur d'alerte
 
-La loi de 2022 a élargi la définition du lanceur d'alerte. Est désormais un lanceur d'alerte toute personne physique qui **signale ou divulgue**, sans contrepartie financière directe et de bonne foi, des informations portant sur :
+La loi de 2022 a élargi la définition du lanceur d'alerte. Est désormais un lanceur d'alerte toute personne physique qui **signale ou divulgue**, sans [contrepartie financière](https://enclair.media/articles/non-concurrence-clause-qui-coute-meme-si-salarie-viole) directe et de bonne foi, des informations portant sur :
 
 - Un **crime ou un délit**
 - Une **menace ou un préjudice** pour l'intérêt général
 - Une **violation** ou une tentative de dissimulation d'une violation du droit de l'Union européenne
 
-La condition de **désintéressement** a été assouplie : le lanceur d'alerte peut être financièrement intéressé par la situation signalée (par exemple, un salarié dénonçant une fraude qui lui cause personnellement préjudice), dès lors qu'il n'a pas reçu de contrepartie financière **directe** pour son signalement.
+La condition de **désintéressement** a été assouplie : le lanceur d'alerte peut être financièrement intéressé par la situation signalée (par exemple, un salarié dénonçant une fraude qui lui cause personnellement préjudice), dès lors qu'il n'a pas reçu de [contrepartie financière](https://enclair.media/articles/clause-non-concurrence-contrepartie-financiere-insuffisante) **directe** pour son signalement.
 
 Le lanceur d'alerte n'a plus besoin d'avoir une **connaissance personnelle** des faits. Il peut relayer des informations dont il a eu connaissance dans le cadre de ses activités professionnelles.
 
@@ -56,7 +64,7 @@ L'abandon de la hiérarchie des canaux est un changement majeur par rapport à l
 
 ### Protection contre les représailles
 
-Le lanceur d'alerte bénéficie d'une protection étendue contre toutes formes de **représailles** : licenciement, sanction disciplinaire, discrimination, rétrogradation, mutation forcée, refus de promotion, harcèlement, mise à l'écart.
+Le lanceur d'alerte bénéficie d'une protection étendue contre toutes formes de **représailles** : licenciement, [sanction disciplinaire](https://enclair.media/articles/avertissement-pourquoi-le-votre-est-peut-etre-nul), discrimination, rétrogradation, mutation forcée, refus de promotion, harcèlement, mise à l'écart.
 
 Cette protection s'étend aux **facilitateurs** (personnes physiques ou morales qui aident le lanceur d'alerte) et aux personnes en lien avec le lanceur d'alerte (collègues, proches).
 

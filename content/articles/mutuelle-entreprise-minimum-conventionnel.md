@@ -1,19 +1,25 @@
 ---
-title: "Mutuelle d'entreprise : le minimum conventionnel que vous ne respectez pas"
-excerpt: "La complémentaire santé obligatoire a un socle légal minimum. Mais votre convention collective impose probablement des garanties supérieures. Les vérifiez-vous ?"
-date: "2025-08-15"
-category: "economie"
-tags: ["mutuelle", "complémentaire santé", "ANI", "convention collective"]
-readTime: "6 min"
+title: 'Mutuelle d''entreprise : le minimum conventionnel que vous ne respectez pas'
+excerpt: >-
+  La complémentaire santé obligatoire a un socle légal minimum. Mais votre
+  convention collective impose probablement des garanties supérieures.
+date: '2025-08-15'
+category: economie
+tags:
+  - mutuelle
+  - complémentaire santé
+  - ANI
+  - convention collective
+readTime: 6 min
 sources:
-  - "Code de la sécurité sociale, article L.911-7"
-  - "ANI du 11 janvier 2013 (socle minimum)"
-  - "Décret n°2014-1025 du 8 septembre 2014 (panier de soins minimum)"
+  - 'Code de la sécurité sociale, article L.911-7'
+  - ANI du 11 janvier 2013 (socle minimum)
+  - Décret n°2014-1025 du 8 septembre 2014 (panier de soins minimum)
 ---
 
 ## Votre mutuelle d'entreprise couvre le minimum légal. Mais votre convention collective exige probablement plus.
 
-Depuis le 1er janvier 2016, toutes les entreprises du secteur privé doivent proposer une complémentaire santé à leurs salariés. Vous avez mis en place une mutuelle. Elle couvre le panier de soins minimum. Vous pensez être en règle.
+Depuis le 1er janvier 2016, toutes les entreprises du secteur privé doivent proposer une [complémentaire santé](https://enclair.media/articles/versement-sante-alternative-mutuelle-entreprise) à leurs salariés. Vous avez mis en place une mutuelle. Elle couvre le panier de soins minimum. Vous pensez être en règle.
 
 Sauf que plus de 80 % des conventions collectives prévoient des garanties **supérieures** au minimum légal. Et si vous ne les respectez pas, c'est comme si vous n'aviez pas de mutuelle conforme.
 
@@ -55,11 +61,11 @@ Un salarié dont les frais médicaux ne sont pas couverts à hauteur des minima 
 
 ## Les erreurs les plus fréquentes
 
-1. **Se fier au courtier sans vérifier** : votre courtier en assurance connaît le minimum légal, mais pas forcément les spécificités de votre convention collective. La responsabilité finale vous incombe.
+1. **Se fier au courtier sans vérifier** : votre courtier en assurance connaît le minimum légal, mais pas forcément les spécificités de votre [convention collective](https://enclair.media/articles/prevoyance-collective-obligation-conventionnelle-oubliee). La responsabilité finale vous incombe.
 
 2. **Ne pas mettre à jour le contrat** : les accords de branche évoluent. Un contrat de mutuelle souscrit en 2016 n'est probablement plus conforme aux exigences de votre branche en 2025.
 
-3. **Oublier les catégories objectives** : si votre convention collective distingue cadres et non-cadres avec des niveaux de garanties différents, votre contrat de mutuelle doit refléter cette distinction.
+3. **Oublier les catégories objectives** : si votre [convention collective](https://enclair.media/articles/convention-collective-identifier-applicable) distingue cadres et non-cadres avec des niveaux de garanties différents, votre contrat de mutuelle doit refléter cette distinction.
 
 4. **Ne pas vérifier la portabilité** : les salariés qui quittent l'entreprise ont droit au maintien de leur couverture pendant 12 mois maximum (article L.911-8 du CSS). Le non-respect de cette obligation est fréquent.
 

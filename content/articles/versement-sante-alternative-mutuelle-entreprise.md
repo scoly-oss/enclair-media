@@ -1,19 +1,25 @@
 ---
-title: "Versement santé : l'alternative à la mutuelle d'entreprise"
-excerpt: "Le versement santé permet à l'employeur de s'acquitter de son obligation de couverture complémentaire santé par un financement individuel. Un dispositif méconnu réservé à certaines situations."
-date: "2026-02-23"
-category: "economie"
-tags: ["versement santé", "mutuelle", "complémentaire santé", "dispense"]
-readTime: "6 min"
+title: 'Versement santé : l''alternative à la mutuelle d''entreprise'
+excerpt: >-
+  Le versement santé permet à l'employeur de s'acquitter de son obligation de
+  couverture complémentaire santé par un financement individuel.
+date: '2026-02-23'
+category: economie
+tags:
+  - versement santé
+  - mutuelle
+  - complémentaire santé
+  - dispense
+readTime: 6 min
 sources:
-  - "Article L.911-7-1 du Code de la sécurité sociale"
-  - "Article D.911-8 du Code de la sécurité sociale"
-  - "Décret n° 2015-1883 du 30 décembre 2015"
-  - "Lettre circulaire ACOSS 2016-0012"
-  - "Article L.911-7 du Code de la sécurité sociale"
+  - Article L.911-7-1 du Code de la sécurité sociale
+  - Article D.911-8 du Code de la sécurité sociale
+  - Décret n° 2015-1883 du 30 décembre 2015
+  - Lettre circulaire ACOSS 2016-0012
+  - Article L.911-7 du Code de la sécurité sociale
 ---
 
-Depuis la généralisation de la complémentaire santé obligatoire en 2016, tous les employeurs du secteur privé doivent proposer une mutuelle à leurs salariés. Mais dans certains cas, cette obligation peut être remplie par le versement d'une aide financière individuelle : le **versement santé**. Ce dispositif méconnu offre une flexibilité appréciable pour les employeurs confrontés à des situations atypiques.
+Depuis la généralisation de la [complémentaire santé](https://enclair.media/articles/mutuelle-entreprise-minimum-conventionnel) obligatoire en 2016, tous les employeurs du secteur privé doivent proposer une mutuelle à leurs salariés. Mais dans certains cas, cette obligation peut être remplie par le versement d'une aide financière individuelle : le **versement santé**. Ce dispositif méconnu offre une flexibilité appréciable pour les employeurs confrontés à des situations atypiques.
 
 ## Le principe du versement santé
 
@@ -49,7 +55,7 @@ Pour les CDD de moins de 3 mois, le coefficient est porté à **125 %** de la co
 
 Le versement santé bénéficie d'un régime social et fiscal avantageux :
 
-- **Exonéré de cotisations sociales** dans les mêmes limites que la contribution patronale à la mutuelle collective
+- **Exonéré de [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025)** dans les mêmes limites que la contribution patronale à la mutuelle collective
 - **Soumis à CSG/CRDS** au titre des revenus d'activité
 - **Soumis au forfait social** au taux de 8 % (comme la contribution patronale à la prévoyance complémentaire)
 

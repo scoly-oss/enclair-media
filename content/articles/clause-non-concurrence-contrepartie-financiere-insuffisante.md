@@ -1,24 +1,30 @@
 ---
-title: "Clause de non-concurrence : contrepartie financière insuffisante"
-excerpt: "Votre clause de non-concurrence prévoit une contrepartie de 10 % du salaire. Est-ce suffisant ? La jurisprudence répond de plus en plus souvent non — et une contrepartie dérisoire entraîne la nullité de la clause."
-date: "2026-01-19"
-category: "jurisprudence"
-tags: ["non-concurrence", "contrepartie financière", "nullité", "clause abusive"]
-readTime: "6 min"
+title: 'Clause de non-concurrence : contrepartie financière insuffisante'
+excerpt: >-
+  Votre clause de non-concurrence prévoit une contrepartie de 10 % du salaire.
+  Est-ce suffisant ? La jurisprudence répond de plus en plus souvent non —.
+date: '2026-01-19'
+category: jurisprudence
+tags:
+  - non-concurrence
+  - contrepartie financière
+  - nullité
+  - clause abusive
+readTime: 6 min
 sources:
-  - "Cass. soc., 15 novembre 2006, n° 04-46.721"
-  - "Cass. soc., 16 mai 2018, n° 16-25.272"
-  - "Cass. soc., 7 mars 2018, n° 16-23.996"
-  - "Convention collective Syntec, article 2.3"
+  - 'Cass. soc., 15 novembre 2006, n° 04-46.721'
+  - 'Cass. soc., 16 mai 2018, n° 16-25.272'
+  - 'Cass. soc., 7 mars 2018, n° 16-23.996'
+  - 'Convention collective Syntec, article 2.3'
 ---
 
-Votre clause de non-concurrence prévoit une contrepartie financière mensuelle de 15 % du salaire moyen des trois derniers mois, pendant une durée de 18 mois, sur une zone géographique couvrant trois départements. Le salarié quitte l'entreprise. Vous versez la contrepartie. Mais il va travailler chez un concurrent. Vous invoquez la clause. Il l'attaque en justice. Le juge déclare la clause nulle pour contrepartie dérisoire. Le salarié garde les contreparties versées et travaille librement chez le concurrent.
+Votre [clause de non-concurrence](https://enclair.media/articles/non-concurrence-clause-qui-coute-meme-si-salarie-viole) prévoit une contrepartie financière mensuelle de 15 % du salaire moyen des trois derniers mois, pendant une durée de 18 mois, sur une zone géographique couvrant trois départements. Le salarié quitte l'entreprise. Vous versez la contrepartie. Mais il va travailler chez un concurrent. Vous invoquez la clause. Il l'attaque en justice. Le juge déclare la clause nulle pour contrepartie dérisoire. Le salarié garde les contreparties versées et travaille librement chez le concurrent.
 
 Ce scénario met en lumière un risque souvent sous-estimé : la contrepartie financière n'est pas un curseur que vous pouvez positionner où vous voulez.
 
 ## Le principe : la contrepartie doit être suffisante
 
-La Cour de cassation exige une contrepartie financière « non dérisoire ». La notion n'est pas définie par un montant minimum fixe, mais elle est appréciée au cas par cas en fonction de la restriction imposée au salarié : durée de la clause, étendue géographique, champ d'activité interdit et impact sur la capacité du salarié à retrouver un emploi.
+La [Cour de cassation](https://enclair.media/articles/cass-soc-2025-10-arrets-tout-drh-devrait-connaitre) exige une contrepartie financière « non dérisoire ». La notion n'est pas définie par un montant minimum fixe, mais elle est appréciée au cas par cas en fonction de la restriction imposée au salarié : durée de la clause, étendue géographique, champ d'activité interdit et impact sur la capacité du salarié à retrouver un emploi.
 
 L'arrêt du 15 novembre 2006 (n° 04-46.721) a posé le principe que la contrepartie doit être proportionnée à l'obligation imposée. Une contrepartie de 10 % du salaire pour une interdiction de 24 mois couvrant la France entière a été jugée dérisoire par les tribunaux.
 
@@ -28,7 +34,7 @@ En pratique, les conventions collectives fixent souvent un minimum (un tiers du 
 
 Les juges évaluent le caractère suffisant de la contrepartie en rapportant son montant à l'ampleur de la restriction. Une contrepartie de 30 % du salaire mensuel peut être jugée suffisante pour une clause de 12 mois limitée à un département, et insuffisante pour une clause de 24 mois couvrant toute la France.
 
-La Cour de cassation a jugé qu'une contrepartie de 20 % du salaire pour une clause de deux ans applicable à l'ensemble du territoire national dans le secteur informatique était insuffisante, considérant que le salarié était de facto empêché de travailler dans son domaine de compétence (Cass. soc., 16 mai 2018, n° 16-25.272).
+La [Cour de cassation](https://enclair.media/articles/obligation-reclassement-cour-cassation-2025) a jugé qu'une contrepartie de 20 % du salaire pour une clause de deux ans applicable à l'ensemble du territoire national dans le secteur informatique était insuffisante, considérant que le salarié était de facto empêché de travailler dans son domaine de compétence (Cass. soc., 16 mai 2018, n° 16-25.272).
 
 Le principe directeur est que la contrepartie doit compenser la perte de chance de retrouver rapidement un emploi équivalent dans le périmètre d'interdiction.
 

@@ -1,24 +1,30 @@
 ---
-title: "Temps partiel : les mentions obligatoires que vous oubliez"
-excerpt: "Un contrat à temps partiel incomplet est un CDI à temps plein qui s'ignore. Les mentions manquantes déclenchent une présomption de temps complet quasi automatique devant les prud'hommes."
-date: "2025-04-02"
-category: "droit-social"
-tags: ["temps partiel", "contrat de travail", "requalification", "mentions obligatoires"]
-readTime: "6 min"
+title: 'Temps partiel : les mentions obligatoires que vous oubliez'
+excerpt: >-
+  Un contrat à temps partiel incomplet est un CDI à temps plein qui s'ignore.
+  Les mentions manquantes déclenchent une présomption de temps complet quasi.
+date: '2025-04-02'
+category: droit-social
+tags:
+  - temps partiel
+  - contrat de travail
+  - requalification
+  - mentions obligatoires
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.3123-6 et L.3123-27"
-  - "Cass. soc., 21 novembre 2018, n° 16-27.690"
-  - "Cass. soc., 23 janvier 2019, n° 17-19.393"
-  - "Cass. soc., 14 décembre 2016, n° 15-16.131"
+  - 'Code du travail, articles L.3123-6 et L.3123-27'
+  - 'Cass. soc., 21 novembre 2018, n° 16-27.690'
+  - 'Cass. soc., 23 janvier 2019, n° 17-19.393'
+  - 'Cass. soc., 14 décembre 2016, n° 15-16.131'
 ---
 
-Vous employez une assistante à mi-temps, 17h30 par semaine. Le contrat mentionne la durée hebdomadaire, mais pas la répartition exacte des heures entre les jours de la semaine. Deux ans plus tard, elle démissionne et réclame la requalification de son contrat en temps plein.
+Vous employez une assistante à mi-temps, 17h30 par semaine. Le contrat mentionne la durée hebdomadaire, mais pas la répartition exacte des heures entre les jours de la semaine. Deux ans plus tard, elle démissionne et réclame la [requalification](https://enclair.media/articles/succession-cdd-meme-poste-delai-carence) de son contrat en temps plein.
 
 Elle obtiendra probablement gain de cause. Et vous devrez payer un rappel de salaire sur la différence entre le temps partiel et le temps plein, sur toute la durée du contrat, majoré des congés payés afférents.
 
 ## Les mentions obligatoires de l'article L.3123-6
 
-Le contrat à temps partiel est un contrat écrit qui doit comporter un certain nombre de mentions obligatoires listées à l'article L.3123-6 du Code du travail. La qualification du salarié, les éléments de la rémunération, la durée hebdomadaire ou mensuelle prévue, la répartition de la durée du travail entre les jours de la semaine ou les semaines du mois, les cas dans lesquels une modification de la répartition peut intervenir et la nature de cette modification, les modalités de communication des horaires de travail pour chaque journée travaillée, et les limites dans lesquelles peuvent être accomplies des heures complémentaires.
+Le contrat à temps partiel est un contrat écrit qui doit comporter un certain nombre de [mentions obligatoires](https://enclair.media/articles/registre-unique-personnel-mentions-obligatoires) listées à l'article L.3123-6 du Code du travail. La qualification du salarié, les éléments de la rémunération, la durée hebdomadaire ou mensuelle prévue, la répartition de la durée du travail entre les jours de la semaine ou les semaines du mois, les cas dans lesquels une modification de la répartition peut intervenir et la nature de cette modification, les modalités de communication des horaires de travail pour chaque journée travaillée, et les limites dans lesquelles peuvent être accomplies des heures complémentaires.
 
 L'absence de l'une de ces mentions fait présumer que le contrat est à temps complet. Cette présomption est simple — l'employeur peut la renverser — mais en pratique, elle est très difficile à combattre.
 
@@ -46,7 +52,7 @@ Deux règles critiques. Premièrement, les heures complémentaires ne peuvent pa
 
 En cas de requalification en temps plein, le rappel de salaire porte sur la différence entre le salaire à temps plein et le salaire à temps partiel versé, sur trois ans de prescription. Pour un salarié à mi-temps payé 1 200 euros bruts qui obtient une requalification, le rappel est de 1 200 euros par mois sur 36 mois, soit 43 200 euros bruts, plus 10 % de congés payés afférents, plus les cotisations sociales correspondantes.
 
-Ajoutez les dommages et intérêts pour non-respect des mentions obligatoires et, le cas échéant, pour travail dissimulé si l'absence de mention apparaît intentionnelle (Cass. soc., 23 janvier 2019, n° 17-19.393).
+Ajoutez les dommages et intérêts pour non-respect des mentions obligatoires et, le cas échéant, pour [travail dissimulé](https://enclair.media/articles/freelance-salarie-deguise-test-5-questions) si l'absence de mention apparaît intentionnelle (Cass. soc., 23 janvier 2019, n° 17-19.393).
 
 ## Ce que vous devez faire lundi matin
 

@@ -1,14 +1,20 @@
 ---
-title: "Obligation de sécurité : ce que l'employeur doit PROUVER"
-excerpt: "L'obligation de sécurité de l'employeur est passée d'une obligation de résultat à une obligation de moyens renforcée. Mais les moyens à prouver sont considérables."
-date: "2025-04-29"
-category: "droit-social"
-tags: ["obligation de sécurité", "prévention", "DUERP", "risques professionnels"]
-readTime: "7 min"
+title: 'Obligation de sécurité : ce que l''employeur doit PROUVER'
+excerpt: >-
+  L'obligation de sécurité de l'employeur est passée d'une obligation de
+  résultat à une obligation de moyens renforcée.
+date: '2025-04-29'
+category: droit-social
+tags:
+  - obligation de sécurité
+  - prévention
+  - DUERP
+  - risques professionnels
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.4121-1 à L.4121-5"
-  - "Cass. soc., 25 novembre 2015, n°14-24.444 (arrêt Air France)"
-  - "Cass. soc., 5 juillet 2023, n°21-24.122"
+  - 'Code du travail, articles L.4121-1 à L.4121-5'
+  - 'Cass. soc., 25 novembre 2015, n°14-24.444 (arrêt Air France)'
+  - 'Cass. soc., 5 juillet 2023, n°21-24.122'
 ---
 
 ## Vous pensez avoir fait le nécessaire pour la sécurité de vos salariés ? Pouvez-vous le démontrer ?
@@ -19,7 +25,7 @@ Et votre réponse devra être documentée, précise et vérifiable.
 
 ## Le renversement qui change tout
 
-Depuis l'arrêt Air France du 25 novembre 2015, la Cour de cassation a fait évoluer l'obligation de sécurité de l'employeur. Elle n'est plus une obligation de résultat pure (responsabilité automatique dès qu'un dommage survient) mais une **obligation de moyens renforcée**.
+Depuis l'arrêt Air France du 25 novembre 2015, la Cour de cassation a fait évoluer l'[obligation de sécurité](https://enclair.media/articles/harcelement-moral-obligation-moyens-renforcee) de l'employeur. Elle n'est plus une obligation de résultat pure (responsabilité automatique dès qu'un dommage survient) mais une **obligation de moyens renforcée**.
 
 Bonne nouvelle ? Pas vraiment. Cela signifie que vous pouvez vous exonérer -- mais uniquement si vous prouvez avoir pris **toutes les mesures nécessaires** de prévention prévues par les articles L.4121-1 et L.4121-2 du Code du travail.
 
@@ -43,7 +49,7 @@ Chacun de ces principes peut faire l'objet d'une vérification par l'inspecteur 
 
 ## Le DUERP : le document que vous n'avez probablement pas mis à jour
 
-Le Document Unique d'Évaluation des Risques Professionnels (DUERP) est obligatoire dans **toutes les entreprises** dès le premier salarié (article R.4121-1). Il doit être :
+Le Document Unique d'Évaluation des [Risques Professionnels](https://enclair.media/articles/compte-penibilite-c2p-obligations-declaratives) (DUERP) est obligatoire dans **toutes les entreprises** dès le premier salarié (article R.4121-1). Il doit être :
 
 - **Mis à jour au moins une fois par an** dans les entreprises de 11 salariés et plus
 - **Mis à jour à chaque décision d'aménagement important** modifiant les conditions de travail
@@ -64,7 +70,7 @@ Depuis la loi du 2 août 2021 (loi santé au travail), les entreprises de 50 sal
 
 ## Les risques psychosociaux : le terrain miné
 
-Les risques psychosociaux (stress, burn-out, harcèlement, violences) font partie de l'obligation de sécurité. La Cour de cassation l'a confirmé à de nombreuses reprises.
+Les risques psychosociaux (stress, burn-out, harcèlement, violences) font partie de l'[obligation de sécurité](https://enclair.media/articles/droit-de-retrait-quand-salarie-peut-arreter-travailler). La Cour de cassation l'a confirmé à de nombreuses reprises.
 
 Concrètement, cela signifie que vous devez :
 - **Évaluer** les risques psychosociaux dans le DUERP (charge de travail, autonomie, soutien social, conflits de valeurs)

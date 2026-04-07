@@ -1,15 +1,21 @@
 ---
-title: "Travail dominical : les dérogations que vous ne connaissez pas"
-excerpt: "Le repos dominical est le principe. Mais les exceptions sont si nombreuses et si techniques que beaucoup d'employeurs passent à côté de dérogations légitimes — ou appliquent des dérogations sans en remplir les conditions."
-date: "2025-04-23"
-category: "droit-social"
-tags: ["travail dominical", "repos hebdomadaire", "dérogations", "zones touristiques"]
-readTime: "7 min"
+title: 'Travail dominical : les dérogations que vous ne connaissez pas'
+excerpt: >-
+  Le repos dominical est le principe. Mais les exceptions sont si nombreuses et
+  si techniques que beaucoup d'employeurs passent à côté de dérogations.
+date: '2025-04-23'
+category: droit-social
+tags:
+  - travail dominical
+  - repos hebdomadaire
+  - dérogations
+  - zones touristiques
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.3132-1 à L.3132-29"
-  - "Loi n° 2015-990 du 6 août 2015 (loi Macron)"
-  - "Cass. soc., 24 septembre 2014, n° 13-24.851"
-  - "Code du travail, article R.3132-5"
+  - 'Code du travail, articles L.3132-1 à L.3132-29'
+  - Loi n° 2015-990 du 6 août 2015 (loi Macron)
+  - 'Cass. soc., 24 septembre 2014, n° 13-24.851'
+  - 'Code du travail, article R.3132-5'
 ---
 
 Votre magasin est situé dans une zone commerciale en périphérie de ville. Vos concurrents ouvrent le dimanche. Vous aimeriez faire de même, mais vous pensez que c'est interdit ou trop compliqué. Ou bien vous ouvrez déjà le dimanche depuis des années, sans savoir exactement sur quelle base légale vous le faites.
@@ -28,7 +34,7 @@ Mais les dérogations sont nombreuses, et la loi Macron du 6 août 2015 les a co
 
 L'article R.3132-5 liste les activités pour lesquelles le travail dominical est autorisé de droit, sans formalité particulière. Cette liste comprend notamment les hôtels, restaurants et débits de boisson, les hôpitaux et cliniques, les entreprises de spectacles et de loisirs, les stations-service, les entreprises de presse, les boulangeries, les fleuristes et les entreprises de transport.
 
-Si votre activité figure dans cette liste, vous pouvez faire travailler vos salariés le dimanche sans autorisation ni compensation spécifique au titre du Code du travail (sous réserve des dispositions plus favorables de votre convention collective).
+Si votre activité figure dans cette liste, vous pouvez faire travailler vos salariés le dimanche sans autorisation ni compensation spécifique au titre du Code du travail (sous réserve des dispositions plus favorables de votre [convention collective](https://enclair.media/articles/convention-collective-identifier-applicable)).
 
 L'erreur fréquente est de croire que cette liste est limitative dans son interprétation. Or elle est d'interprétation stricte : une activité connexe ne suffit pas. Un commerce alimentaire n'est pas une boulangerie au sens de l'article R.3132-5.
 
@@ -56,7 +62,7 @@ L'autorisation préfectorale sur demande individuelle (article L.3132-20) reste 
 
 En dehors des dérogations permanentes de droit, le travail dominical s'accompagne de contreparties obligatoires qui varient selon la base de la dérogation. Doublement de la rémunération et repos compensateur pour les ZTI. Contreparties définies par accord collectif pour les ZT et ZC. Doublement et repos compensateur pour les dimanches du maire.
 
-Votre convention collective peut prévoir des dispositions plus favorables : majoration de 100 %, repos compensateur doublé, prime de dimanche forfaitaire. Vérifiez systématiquement.
+Votre [convention collective](https://enclair.media/articles/jours-feries-obligations-employeur-convention-collective) peut prévoir des dispositions plus favorables : majoration de 100 %, repos compensateur doublé, prime de dimanche forfaitaire. Vérifiez systématiquement.
 
 La Cour de cassation a jugé que l'absence de versement des contreparties prévues rend le travail dominical illicite, même si la dérogation est valide (Cass. soc., 24 septembre 2014, n° 13-24.851).
 

@@ -1,22 +1,28 @@
 ---
-title: "Contrat de chantier : l'alternative au CDD méconnue"
-excerpt: "Le CDI de chantier ou d'opération est un contrat à durée indéterminée qui prend fin à l'achèvement du chantier ou de l'opération. Moins connu que le CDD, il offre une flexibilité précieuse pour certains secteurs."
-date: "2025-12-20"
-category: "droit-social"
-tags: ["CDI de chantier", "CDD", "BTP", "contrat de travail"]
-readTime: "6 min"
+title: 'Contrat de chantier : l''alternative au CDD méconnue'
+excerpt: >-
+  Le CDI de chantier ou d'opération est un contrat à durée indéterminée qui
+  prend fin à l'achèvement du chantier ou de l'opération.
+date: '2025-12-20'
+category: droit-social
+tags:
+  - CDI de chantier
+  - CDD
+  - BTP
+  - contrat de travail
+readTime: 6 min
 sources:
-  - "Article L. 1236-8 du Code du travail"
-  - "Ordonnance n° 2017-1387 du 22 septembre 2017 (article 30)"
-  - "Cass. soc., 20 mars 2019, n° 17-20.031"
-  - "Convention collective du BTP (ouvriers, IDCC 1596)"
+  - Article L. 1236-8 du Code du travail
+  - Ordonnance n° 2017-1387 du 22 septembre 2017 (article 30)
+  - 'Cass. soc., 20 mars 2019, n° 17-20.031'
+  - 'Convention collective du BTP (ouvriers, IDCC 1596)'
 ---
 
 Le contrat de chantier, ou CDI de chantier, est un outil contractuel qui reste largement sous-utilisé en dehors du secteur du BTP. Pourtant, depuis les ordonnances Macron de 2017, son champ d'application a été élargi à tous les secteurs. Présentation d'une alternative au CDD qui mérite d'être connue.
 
 ## Qu'est-ce qu'un contrat de chantier ?
 
-Le contrat de chantier est un **contrat à durée indéterminée** (CDI) conclu pour la durée d'un chantier ou d'une opération déterminée. Sa particularité : il prend fin automatiquement à l'achèvement du chantier ou de l'opération, par un licenciement sui generis reposant sur une cause réelle et sérieuse.
+Le contrat de chantier est un **contrat à durée indéterminée** (CDI) conclu pour la durée d'un chantier ou d'une opération déterminée. Sa particularité : il prend fin automatiquement à l'achèvement du chantier ou de l'opération, par un licenciement sui generis reposant sur une [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse).
 
 Il ne s'agit pas d'un CDD. Le contrat de chantier est un véritable CDI, avec tous les droits et avantages qui y sont attachés (période d'essai, préavis, indemnité de licenciement, accès à la formation). Simplement, la fin du chantier constitue un motif légitime de licenciement.
 
@@ -66,11 +72,11 @@ Le contrat doit être lié à un chantier ou une opération **précisément iden
 
 ### La mention dans le contrat
 
-Le contrat de travail doit mentionner expressément qu'il s'agit d'un contrat de chantier, identifier le chantier ou l'opération concerné et indiquer que sa fin interviendra à l'achèvement de celui-ci.
+Le [contrat de travail](https://enclair.media/articles/succession-cdd-meme-poste-delai-carence) doit mentionner expressément qu'il s'agit d'un contrat de chantier, identifier le chantier ou l'opération concerné et indiquer que sa fin interviendra à l'achèvement de celui-ci.
 
 ### La réalité de la fin du chantier
 
-Le licenciement pour fin de chantier n'est légitime que si le chantier est **réellement achevé**. Si l'employeur met fin au contrat alors que le chantier se poursuit, le licenciement est sans cause réelle et sérieuse (Cass. soc., 20 mars 2019, n° 17-20.031).
+Le licenciement pour fin de chantier n'est légitime que si le chantier est **réellement achevé**. Si l'employeur met fin au contrat alors que le chantier se poursuit, le licenciement est [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher) (Cass. soc., 20 mars 2019, n° 17-20.031).
 
 ## La procédure de licenciement en fin de chantier
 

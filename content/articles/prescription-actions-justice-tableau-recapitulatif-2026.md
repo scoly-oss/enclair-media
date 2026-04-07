@@ -1,16 +1,22 @@
 ---
-title: "Prescription des actions en justice : le tableau récapitulatif 2026"
-excerpt: "Les délais de prescription en droit du travail sont multiples et complexes. De 2 mois à 5 ans selon la nature de l'action, une erreur de délai peut être fatale. Le tableau complet des prescriptions applicables en 2026."
-date: "2026-02-05"
-category: "droit-social"
-tags: ["prescription", "délais", "prud'hommes", "actions en justice"]
-readTime: "7 min"
+title: 'Prescription des actions en justice : le tableau récapitulatif 2026'
+excerpt: >-
+  Les délais de prescription en droit du travail sont multiples et complexes. De
+  2 mois à 5 ans selon la nature de l'action, une erreur de délai peut.
+date: '2026-02-05'
+category: droit-social
+tags:
+  - prescription
+  - délais
+  - prud'hommes
+  - actions en justice
+readTime: 7 min
 sources:
-  - "Article L.1471-1 du Code du travail"
-  - "Article L.1235-7 du Code du travail"
-  - "Article L.3245-1 du Code du travail"
-  - "Article L.1332-4 du Code du travail"
-  - "Loi n° 2013-504 du 14 juin 2013"
+  - Article L.1471-1 du Code du travail
+  - Article L.1235-7 du Code du travail
+  - Article L.3245-1 du Code du travail
+  - Article L.1332-4 du Code du travail
+  - Loi n° 2013-504 du 14 juin 2013
 ---
 
 En droit du travail, les délais pour agir en justice sont un véritable maquis. La loi du 14 juin 2013 a considérablement raccourci les prescriptions, mais la multiplicité des régimes demeure une source de confusion pour les salariés comme pour les employeurs. Ce guide récapitule l'ensemble des délais applicables en 2026.
@@ -21,7 +27,7 @@ En droit du travail, les délais pour agir en justice sont un véritable maquis.
 
 **Contestation de la rupture conventionnelle :** Le délai est également de **12 mois** à compter de l'homologation de la rupture conventionnelle par la DREETS. Ce délai court à compter de la date d'homologation, non de la signature de la convention.
 
-**Contestation d'un licenciement économique collectif :** Lorsque le licenciement s'inscrit dans un plan de sauvegarde de l'emploi validé ou homologué par la DREETS, le délai de contestation est de **12 mois** (article L.1235-7 du Code du travail).
+**Contestation d'un [licenciement économique](https://enclair.media/articles/licenciement-economique-5-etapes-obligatoires) collectif :** Lorsque le licenciement s'inscrit dans un plan de sauvegarde de l'emploi validé ou homologué par la DREETS, le délai de contestation est de **12 mois** (article L.1235-7 du Code du travail).
 
 **Requalification d'un CDD en CDI :** Le salarié peut agir dans un délai de **2 ans** à compter du terme du CDD pour en demander la requalification.
 
@@ -40,7 +46,7 @@ En pratique, cela signifie qu'un salarié peut réclamer jusqu'à 3 ans d'arrié
 **Exécution du contrat de travail (hors discrimination et harcèlement) :** L'action portant sur l'exécution du contrat de travail se prescrit par **2 ans** à compter du jour où le salarié a connu ou aurait dû connaître les faits (article L.1471-1, al. 1 du Code du travail).
 
 Cela concerne notamment :
-- La contestation d'une sanction disciplinaire
+- La contestation d'une [sanction disciplinaire](https://enclair.media/articles/avertissement-pourquoi-le-votre-est-peut-etre-nul)
 - La demande de dommages et intérêts pour non-respect d'une obligation contractuelle
 - L'action en reclassification
 

@@ -1,18 +1,24 @@
 ---
-title: "Astreinte : ce qui est du temps de travail et ce qui ne l'est pas"
-excerpt: "La frontière entre astreinte et temps de travail effectif est source de contentieux massif. La jurisprudence européenne et française a redéfini les critères. Ce que tout employeur doit savoir pour éviter les requalifications."
-date: "2025-10-12"
-category: "droit-social"
-tags: ["astreinte", "temps de travail", "repos", "heures supplémentaires"]
-readTime: "7 min"
+title: 'Astreinte : ce qui est du temps de travail et ce qui ne l''est pas'
+excerpt: >-
+  La frontière entre astreinte et temps de travail effectif est source de
+  contentieux massif. La jurisprudence européenne et française a redéfini les.
+date: '2025-10-12'
+category: droit-social
+tags:
+  - astreinte
+  - temps de travail
+  - repos
+  - heures supplémentaires
+readTime: 7 min
 sources:
-  - "Articles L. 3121-9 à L. 3121-12 du Code du travail"
-  - "CJUE, 9 mars 2021, C-580/19, Stadt Offenbach"
-  - "CJUE, 9 mars 2021, C-344/19, Radiotelevizija Slovenija"
-  - "Cass. soc., 26 octobre 2022, n° 21-14.178"
+  - Articles L. 3121-9 à L. 3121-12 du Code du travail
+  - 'CJUE, 9 mars 2021, C-580/19, Stadt Offenbach'
+  - 'CJUE, 9 mars 2021, C-344/19, Radiotelevizija Slovenija'
+  - 'Cass. soc., 26 octobre 2022, n° 21-14.178'
 ---
 
-L'astreinte est un dispositif indispensable pour de nombreux secteurs (maintenance, informatique, santé, sécurité), mais sa qualification juridique reste un terrain miné. La distinction entre temps d'astreinte et temps de travail effectif détermine la rémunération due et le respect des durées maximales de travail.
+L'astreinte est un dispositif indispensable pour de nombreux secteurs (maintenance, informatique, santé, sécurité), mais sa qualification juridique reste un terrain miné. La distinction entre temps d'astreinte et [temps de travail effectif](https://enclair.media/articles/temps-de-trajet-temps-travail-effectif) détermine la rémunération due et le respect des durées maximales de travail.
 
 ## Définition légale de l'astreinte
 
@@ -46,7 +52,7 @@ La période d'astreinte pendant laquelle le salarié n'intervient pas est décom
 
 ### Ce qui devient du temps de travail effectif
 
-La durée d'intervention pendant l'astreinte, y compris le temps de trajet aller-retour pour se rendre sur le lieu d'intervention, constitue du **temps de travail effectif** (article L. 3121-9 alinéa 3). Ce temps doit être rémunéré comme tel et entre dans le calcul des heures supplémentaires.
+La durée d'intervention pendant l'astreinte, y compris le temps de trajet aller-retour pour se rendre sur le lieu d'intervention, constitue du **temps de travail effectif** (article L. 3121-9 alinéa 3). Ce temps doit être rémunéré comme tel et entre dans le calcul des [heures supplémentaires](https://enclair.media/articles/duree-maximale-travail-trois-plafonds).
 
 ### La zone grise : la requalification totale
 
@@ -76,7 +82,7 @@ L'obligation de garder en permanence un téléphone d'astreinte, un bip, un ordi
 
 La requalification de l'astreinte en temps de travail effectif entraîne :
 
-1. **Le paiement d'heures supplémentaires** sur toute la période requalifiée, avec majorations de 25 % puis 50 %
+1. **Le paiement d'[heures supplémentaires](https://enclair.media/articles/heures-supplementaires-la-preuve-qui-manque-toujours)** sur toute la période requalifiée, avec majorations de 25 % puis 50 %
 2. **Le non-respect des durées maximales de travail** (10 heures par jour, 48 heures par semaine), constitutif d'un préjudice indemnisable
 3. **Le non-respect des temps de repos** (11 heures de repos quotidien, 35 heures de repos hebdomadaire), ouvrant droit à dommages-intérêts
 4. **Des rappels de salaire sur 3 ans** (prescription triennale des salaires)

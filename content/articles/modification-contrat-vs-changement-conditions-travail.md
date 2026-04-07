@@ -1,15 +1,23 @@
 ---
-title: "Modification du contrat vs changement des conditions de travail : la frontière qui coûte cher"
-excerpt: "Vous avez changé les horaires d'un salarié, déplacé son bureau ou réorganisé son service. Simple ajustement managérial ou modification contractuelle nécessitant son accord ? La distinction est un champ de mines."
-date: "2025-01-20"
-category: "droit-social"
-tags: ["modification du contrat", "conditions de travail", "pouvoir de direction", "licenciement"]
-readTime: "7 min"
+title: >-
+  Modification du contrat vs changement des conditions de travail : la frontière
+  qui coûte cher
+excerpt: >-
+  Vous avez changé les horaires d'un salarié, déplacé son bureau ou réorganisé
+  son service. Simple ajustement managérial ou modification contractuelle.
+date: '2025-01-20'
+category: droit-social
+tags:
+  - modification du contrat
+  - conditions de travail
+  - pouvoir de direction
+  - licenciement
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.1222-6 et L.1233-3"
-  - "Cass. soc., 10 mai 1999, n° 96-45.673 (arrêt Raquin)"
-  - "Cass. soc., 3 novembre 2011, n° 10-30.033"
-  - "Cass. soc., 16 décembre 1998, n° 96-40.227"
+  - 'Code du travail, articles L.1222-6 et L.1233-3'
+  - 'Cass. soc., 10 mai 1999, n° 96-45.673 (arrêt Raquin)'
+  - 'Cass. soc., 3 novembre 2011, n° 10-30.033'
+  - 'Cass. soc., 16 décembre 1998, n° 96-40.227'
 ---
 
 Un responsable logistique travaille de 8h à 16h depuis cinq ans. Vous réorganisez le service et passez son poste en horaires 10h-18h. Il refuse. Vous considérez que c'est un simple changement de ses conditions de travail relevant de votre pouvoir de direction. Il considère que c'est une modification de son contrat nécessitant son accord. Qui a raison ?
@@ -18,7 +26,7 @@ La réponse dépend d'un détail — et ce détail peut vous coûter plusieurs d
 
 ## Le principe : une frontière jurisprudentielle
 
-Le Code du travail ne définit pas la distinction entre modification du contrat et changement des conditions de travail. C'est la Cour de cassation qui l'a construite, arrêt après arrêt, depuis l'arrêt fondateur Raquin-Pont-à-Mousson du 10 mai 1999 (n° 96-45.673).
+Le Code du travail ne définit pas la distinction entre modification du contrat et changement des conditions de travail. C'est la [Cour de cassation](https://enclair.media/articles/faute-lourde-definition-etroite-cour-cassation) qui l'a construite, arrêt après arrêt, depuis l'arrêt fondateur Raquin-Pont-à-Mousson du 10 mai 1999 (n° 96-45.673).
 
 Le principe est le suivant. Quatre éléments constituent le socle contractuel que l'employeur ne peut pas modifier unilatéralement : la rémunération, la qualification, la durée du travail et, dans une certaine mesure, le lieu de travail. Tout le reste relève des conditions de travail, que l'employeur peut aménager dans le cadre de son pouvoir de direction.
 
@@ -28,7 +36,7 @@ Simple en théorie. Redoutable en pratique.
 
 Toute modification de la rémunération, même minime, constitue une modification du contrat. Cela concerne le salaire de base, mais aussi la structure de la rémunération. Remplacer un fixe par un variable, modifier le mode de calcul des commissions, supprimer un avantage en nature contractualisé — tout cela nécessite l'accord du salarié.
 
-La Cour de cassation est allée très loin : même une augmentation de salaire peut être refusée par le salarié si elle s'accompagne d'une modification des conditions de calcul (Cass. soc., 19 mai 1998, n° 96-41.573). L'employeur ne peut pas forcer un avantage contre la volonté du salarié si cela modifie l'économie du contrat.
+La [Cour de cassation](https://enclair.media/articles/obligation-reclassement-cour-cassation-2025) est allée très loin : même une augmentation de salaire peut être refusée par le salarié si elle s'accompagne d'une modification des conditions de calcul (Cass. soc., 19 mai 1998, n° 96-41.573). L'employeur ne peut pas forcer un avantage contre la volonté du salarié si cela modifie l'économie du contrat.
 
 ## Les horaires : la zone grise par excellence
 
@@ -54,7 +62,7 @@ En cas de refus, vous ne pouvez pas considérer le refus comme une faute. Vous p
 
 ## Les conséquences d'une erreur de qualification
 
-Si vous traitez une modification du contrat comme un simple changement des conditions de travail et que vous sanctionnez le refus du salarié, le licenciement sera déclaré sans cause réelle et sérieuse. Si le salarié a été contraint de démissionner suite à une modification imposée, sa démission sera requalifiée en licenciement.
+Si vous traitez une modification du contrat comme un simple changement des conditions de travail et que vous sanctionnez le refus du salarié, le licenciement sera déclaré [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher). Si le salarié a été contraint de démissionner suite à une modification imposée, sa démission sera requalifiée en licenciement.
 
 Dans les deux cas, les indemnités s'ajoutent : indemnité de licenciement, indemnité compensatrice de préavis, dommages et intérêts dans les limites du barème Macron. Sans compter les frais de procédure et l'impact sur le climat social de l'entreprise.
 

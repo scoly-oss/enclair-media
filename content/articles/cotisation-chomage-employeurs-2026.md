@@ -1,16 +1,22 @@
 ---
-title: "Cotisation chômage : ce que paient vraiment les employeurs en 2026"
-excerpt: "Les cotisations d'assurance chômage représentent un coût significatif pour les employeurs. Taux de droit commun, bonus-malus, CDD d'usage : décryptage des règles 2026 et de leur impact sur la masse salariale."
-date: "2026-03-04"
-category: "economie"
-tags: ["cotisation chômage", "bonus-malus", "UNEDIC", "emploi"]
-readTime: "6 min"
+title: 'Cotisation chômage : ce que paient vraiment les employeurs en 2026'
+excerpt: >-
+  Les cotisations d'assurance chômage représentent un coût significatif pour les
+  employeurs. Taux de droit commun, bonus-malus, CDD d'usage : décryptage.
+date: '2026-03-04'
+category: economie
+tags:
+  - cotisation chômage
+  - bonus-malus
+  - UNEDIC
+  - emploi
+readTime: 6 min
 sources:
-  - "Article L.5422-9 du Code du travail"
-  - "Article L.5422-12 du Code du travail"
-  - "Décret n° 2023-635 du 20 juillet 2023"
-  - "Convention UNEDIC du 15 novembre 2024"
-  - "Arrêté du 22 décembre 2025"
+  - Article L.5422-9 du Code du travail
+  - Article L.5422-12 du Code du travail
+  - Décret n° 2023-635 du 20 juillet 2023
+  - Convention UNEDIC du 15 novembre 2024
+  - Arrêté du 22 décembre 2025
 ---
 
 L'assurance chômage est financée intégralement par les employeurs depuis la suppression de la cotisation salariale en 2018. Mais derrière le taux affiché de 4,05 % se cache une réalité plus complexe, avec le dispositif de bonus-malus qui module le taux effectif selon le comportement de l'entreprise en matière de recours aux contrats courts.
@@ -25,7 +31,7 @@ Ce taux se décompose en :
 
 Note : le taux AGS de 0,20 % mentionné dans certaines publications est distinct et s'ajoute au 4,05 %.
 
-La cotisation salariale a été supprimée le 1er octobre 2018. Les salariés ne paient plus de cotisation chômage sur leur bulletin de paie.
+La cotisation salariale a été supprimée le 1er octobre 2018. Les salariés ne paient plus de cotisation chômage sur leur [bulletin de paie](https://enclair.media/articles/bulletin-paie-simplifie-changements-2025).
 
 ## Le bonus-malus : jusqu'à 5,05 %
 
@@ -67,7 +73,7 @@ L'écart entre le bonus maximal et le malus maximal représente **41 000 euros**
 
 **Allonger la durée des contrats.** Transformer les CDD courts en CDD plus longs ou en CDI réduit mécaniquement le taux de séparation.
 
-**Limiter le recours à l'intérim.** Les fins de mission intérimaire sont comptabilisées dans le taux de séparation de l'entreprise utilisatrice.
+**Limiter le recours à l'intérim.** Les fins de mission intérimaire sont comptabilisées dans le taux de séparation de l'[entreprise utilisatrice](https://enclair.media/articles/interim-responsabilite-entreprise-utilisatrice).
 
 **Anticiper les fins de contrat.** Proposer des CDI aux salariés en CDD avant le terme permet de ne pas comptabiliser de séparation.
 
@@ -78,7 +84,7 @@ L'écart entre le bonus maximal et le malus maximal représente **41 000 euros**
 Certaines catégories d'employeurs ou de salariés bénéficient d'exonérations :
 - Les **employeurs publics** qui auto-assurent le risque chômage
 - Les **intermittents du spectacle** (régime spécifique)
-- Les **apprentis** (exonération dans le cadre de la réduction générale de cotisations)
+- Les **apprentis** (exonération dans le cadre de la [réduction générale](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour) de cotisations)
 - Les **contrats aidés** (selon le dispositif)
 
 ## Ce qu'il faut retenir

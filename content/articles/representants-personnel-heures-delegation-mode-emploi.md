@@ -1,18 +1,24 @@
 ---
-title: "Représentants du personnel : les heures de délégation, mode d'emploi"
-excerpt: "Les heures de délégation sont un droit fondamental des représentants du personnel, mais leur utilisation est encadrée. Volume, report, mutualisation, contestation : tout ce que l'employeur doit savoir pour gérer ce sujet sans risque."
-date: "2025-11-08"
-category: "droit-social"
-tags: ["CSE", "heures de délégation", "représentants du personnel", "dialogue social"]
-readTime: "7 min"
+title: 'Représentants du personnel : les heures de délégation, mode d''emploi'
+excerpt: >-
+  Les heures de délégation sont un droit fondamental des représentants du
+  personnel, mais leur utilisation est encadrée.
+date: '2025-11-08'
+category: droit-social
+tags:
+  - CSE
+  - heures de délégation
+  - représentants du personnel
+  - dialogue social
+readTime: 7 min
 sources:
-  - "Articles L. 2315-7 à L. 2315-13 du Code du travail"
-  - "Article R. 2314-1 du Code du travail (nombre d'heures selon l'effectif)"
-  - "Cass. soc., 10 mai 2023, n° 21-24.036"
-  - "Cass. soc., 19 janvier 2022, n° 20-19.742"
+  - Articles L. 2315-7 à L. 2315-13 du Code du travail
+  - Article R. 2314-1 du Code du travail (nombre d'heures selon l'effectif)
+  - 'Cass. soc., 10 mai 2023, n° 21-24.036'
+  - 'Cass. soc., 19 janvier 2022, n° 20-19.742'
 ---
 
-Les heures de délégation constituent le temps que les représentants du personnel (membres du CSE, délégués syndicaux) peuvent consacrer à l'exercice de leur mandat. Leur gestion est une source permanente de tensions entre employeurs et élus. Maîtriser les règles s'impose.
+Les [heures de délégation](https://enclair.media/articles/cse-moyens-renforces-derniere-reforme) constituent le temps que les [représentants du personnel](https://enclair.media/articles/elections-cse-calendrier-etapes) (membres du CSE, délégués syndicaux) peuvent consacrer à l'exercice de leur mandat. Leur gestion est une source permanente de tensions entre employeurs et élus. Maîtriser les règles s'impose.
 
 ## Le volume d'heures : ce que prévoit la loi
 
@@ -61,7 +67,7 @@ L'élu cédant doit informer l'employeur au plus tard **8 jours avant** la date 
 
 ### Le principe : paiement comme du temps de travail effectif
 
-Les heures de délégation sont assimilées à du **temps de travail effectif** et payées à l'échéance normale de la paie (article L. 2315-10). Elles ne peuvent donner lieu à aucune retenue de salaire.
+Les heures de délégation sont assimilées à du **[temps de travail effectif](https://enclair.media/articles/temps-de-trajet-temps-travail-effectif)** et payées à l'échéance normale de la paie (article L. 2315-10). Elles ne peuvent donner lieu à aucune retenue de salaire.
 
 L'employeur doit payer les heures de délégation **sans attendre** la justification de leur utilisation. Le paiement est un préalable ; la contestation éventuelle intervient a posteriori.
 

@@ -1,19 +1,25 @@
 ---
-title: "Ordre des licenciements économiques : les critères obligatoires"
-excerpt: "Lorsqu'un licenciement économique ne concerne pas tous les salariés d'une catégorie, l'employeur doit appliquer des critères d'ordre. Ces critères sont légaux et leur non-respect prive le licenciement de cause réelle et sérieuse."
-date: "2026-02-03"
-category: "droit-social"
-tags: ["licenciement économique", "ordre des licenciements", "critères", "catégories professionnelles"]
-readTime: "6 min"
+title: 'Ordre des licenciements économiques : les critères obligatoires'
+excerpt: >-
+  Lorsqu'un licenciement économique ne concerne pas tous les salariés d'une
+  catégorie, l'employeur doit appliquer des critères d'ordre.
+date: '2026-02-03'
+category: droit-social
+tags:
+  - licenciement économique
+  - ordre des licenciements
+  - critères
+  - catégories professionnelles
+readTime: 6 min
 sources:
-  - "Article L.1233-5 du Code du travail"
-  - "Article L.1233-7 du Code du travail"
-  - "Cass. soc., 18 janvier 2023, n° 21-19.675"
-  - "Cass. soc., 14 novembre 2018, n° 17-16.967"
-  - "Article L.1235-3 du Code du travail"
+  - Article L.1233-5 du Code du travail
+  - Article L.1233-7 du Code du travail
+  - 'Cass. soc., 18 janvier 2023, n° 21-19.675'
+  - 'Cass. soc., 14 novembre 2018, n° 17-16.967'
+  - Article L.1235-3 du Code du travail
 ---
 
-Lorsqu'un licenciement économique ne vise pas l'intégralité d'une catégorie professionnelle, l'employeur doit déterminer quels salariés seront licenciés. Ce choix ne peut pas être discrétionnaire. Le Code du travail impose l'application de critères d'ordre dont le non-respect constitue une irrégularité sanctionnée par les juges.
+Lorsqu'un [licenciement économique](https://enclair.media/articles/licenciement-economique-5-etapes-obligatoires) ne vise pas l'intégralité d'une catégorie professionnelle, l'employeur doit déterminer quels salariés seront licenciés. Ce choix ne peut pas être discrétionnaire. Le Code du travail impose l'application de critères d'ordre dont le non-respect constitue une irrégularité sanctionnée par les juges.
 
 ## Les critères légaux de l'article L.1233-5
 
@@ -39,7 +45,7 @@ En l'absence d'accord collectif, c'est l'employeur qui fixe les critères et leu
 
 ## Le périmètre d'application
 
-Les critères d'ordre s'appliquent au sein d'une **catégorie professionnelle** donnée. La catégorie professionnelle regroupe l'ensemble des salariés exerçant des fonctions de même nature supposant une formation professionnelle commune.
+Les critères d'ordre s'appliquent au sein d'une **catégorie professionnelle** donnée. La catégorie professionnelle regroupe l'ensemble des salariés exerçant des fonctions de même nature supposant une [formation professionnelle](https://enclair.media/articles/clause-dedit-formation-conditions-validite) commune.
 
 La Cour de cassation a précisé que la catégorie professionnelle ne se confond pas avec la classification conventionnelle. Elle résulte d'une analyse concrète des fonctions exercées (Cass. soc., 14 novembre 2018, n° 17-16.967).
 
@@ -61,7 +67,7 @@ En pratique, une grille de notation attribuant des points pour chaque critère e
 
 Le non-respect des critères d'ordre est sanctionné de deux manières.
 
-**Dommages et intérêts pour violation de l'ordre des licenciements.** Le salarié dont le licenciement ne respecte pas les critères d'ordre peut obtenir des dommages et intérêts réparant le préjudice subi. Ce préjudice est distinct de l'indemnité pour licenciement sans cause réelle et sérieuse.
+**Dommages et intérêts pour violation de l'ordre des licenciements.** Le salarié dont le licenciement ne respecte pas les critères d'ordre peut obtenir des dommages et intérêts réparant le préjudice subi. Ce préjudice est distinct de l'indemnité pour licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher).
 
 **L'absence de cause réelle et sérieuse.** Lorsque la violation des critères d'ordre est suffisamment caractérisée, elle peut priver le licenciement de cause réelle et sérieuse, ouvrant droit aux indemnités du barème de l'article L.1235-3 du Code du travail.
 

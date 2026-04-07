@@ -1,22 +1,30 @@
 ---
-title: "Indemnités de rupture : le régime social et fiscal en 2026"
-excerpt: "Le traitement social et fiscal des indemnités versées lors de la rupture du contrat de travail est d'une complexité redoutable. Licenciement, rupture conventionnelle, transaction : les seuils et les règles applicables en 2026."
-date: "2025-12-22"
-category: "economie"
-tags: ["indemnités de rupture", "régime social", "fiscal", "licenciement"]
-readTime: "8 min"
+title: 'Indemnités de rupture : le régime social et fiscal en 2026'
+excerpt: >-
+  Le traitement social et fiscal des indemnités versées lors de la rupture du
+  contrat de travail est d'une complexité redoutable.
+date: '2025-12-22'
+category: economie
+tags:
+  - indemnités de rupture
+  - régime social
+  - fiscal
+  - licenciement
+readTime: 8 min
 sources:
-  - "Article L. 242-1 du Code de la sécurité sociale"
-  - "Article 80 duodecies du Code général des impôts"
-  - "BOSS, Bulletin officiel de la sécurité sociale, rubrique 'Indemnités de rupture'"
-  - "Cass. 2e civ., 15 mars 2018, n° 17-11.336"
+  - Article L. 242-1 du Code de la sécurité sociale
+  - Article 80 duodecies du Code général des impôts
+  - >-
+    BOSS, Bulletin officiel de la sécurité sociale, rubrique 'Indemnités de
+    rupture'
+  - 'Cass. 2e civ., 15 mars 2018, n° 17-11.336'
 ---
 
-Le traitement des indemnités de rupture du contrat de travail est l'un des sujets les plus techniques de la paie. L'articulation entre exonérations sociales et fiscales, les plafonds applicables et les règles spécifiques à chaque mode de rupture exigent une maîtrise fine. Erreur courante : les seuils sociaux et fiscaux ne sont pas identiques.
+Le traitement des indemnités de [rupture du contrat](https://enclair.media/articles/prise-acte-quand-salarie-claque-porte-avec-raison) de travail est l'un des sujets les plus techniques de la paie. L'articulation entre exonérations sociales et fiscales, les plafonds applicables et les règles spécifiques à chaque mode de rupture exigent une maîtrise fine. Erreur courante : les seuils sociaux et fiscaux ne sont pas identiques.
 
 ## Le principe : exonération sous conditions
 
-Les indemnités de rupture sont exonérées de cotisations sociales et d'impôt sur le revenu dans certaines limites. Au-delà de ces limites, la fraction excédentaire est soumise aux cotisations et à l'impôt comme un salaire ordinaire.
+Les indemnités de rupture sont exonérées de [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025) et d'impôt sur le revenu dans certaines limites. Au-delà de ces limites, la fraction excédentaire est soumise aux cotisations et à l'impôt comme un salaire ordinaire.
 
 ## Le régime fiscal
 
@@ -88,7 +96,7 @@ L'indemnité de mise à la retraite bénéficie du même régime d'exonération 
 2. **Oublier la règle des 10 PASS** : au-delà, toute l'indemnité est soumise dès le premier euro
 3. **Mal qualifier les sommes transactionnelles** : seule la part indemnitaire est exonérable
 4. **Ignorer le forfait social de 30 %** sur les ruptures conventionnelles
-5. **Ne pas vérifier le régime de la rupture conventionnelle** en fonction de l'âge du salarié
+5. **Ne pas vérifier le régime de la [rupture conventionnelle](https://enclair.media/articles/nouveau-formulaire-rupture-conventionnelle-ce-qui-change)** en fonction de l'âge du salarié
 
 ## Les recommandations
 

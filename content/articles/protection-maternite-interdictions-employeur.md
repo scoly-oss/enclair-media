@@ -1,15 +1,23 @@
 ---
-title: "Protection de la maternité : ce que l'employeur ne peut absolument pas faire"
-excerpt: "La protection de la salariée enceinte est l'une des plus fortes du Code du travail. Licenciement, aménagement de poste, congé : les interdictions absolues et les obligations positives de l'employeur."
-date: "2025-11-27"
-category: "droit-social"
-tags: ["maternité", "protection", "licenciement", "discrimination"]
-readTime: "7 min"
+title: 'Protection de la maternité : ce que l''employeur ne peut absolument pas faire'
+excerpt: >-
+  La protection de la salariée enceinte est l'une des plus fortes du Code du
+  travail. Licenciement, aménagement de poste, congé : les interdictions.
+date: '2025-11-27'
+category: droit-social
+tags:
+  - maternité
+  - protection
+  - licenciement
+  - discrimination
+readTime: 7 min
 sources:
-  - "Articles L. 1225-1 à L. 1225-72 du Code du travail"
-  - "Article L. 1225-4 du Code du travail (protection contre le licenciement)"
-  - "Cass. soc., 29 novembre 2023, n° 22-15.794"
-  - "Directive 92/85/CEE du 19 octobre 1992 (protection des travailleuses enceintes)"
+  - Articles L. 1225-1 à L. 1225-72 du Code du travail
+  - Article L. 1225-4 du Code du travail (protection contre le licenciement)
+  - 'Cass. soc., 29 novembre 2023, n° 22-15.794'
+  - >-
+    Directive 92/85/CEE du 19 octobre 1992 (protection des travailleuses
+    enceintes)
 ---
 
 La protection de la maternité en droit du travail français est un régime d'ordre public. Les interdictions pesant sur l'employeur sont strictes et les sanctions, sévères. Tout manquement expose à la nullité du licenciement et à des dommages-intérêts conséquents.
@@ -60,7 +68,7 @@ L'employeur doit adapter le poste de travail sur préconisation du médecin du t
 
 ### Les autorisations d'absence
 
-La salariée bénéficie d'autorisations d'absence rémunérées pour se rendre aux **examens médicaux obligatoires** de surveillance de la grossesse et des suites de l'accouchement (article L. 1225-16). Ces absences sont assimilées à du temps de travail effectif.
+La salariée bénéficie d'autorisations d'absence rémunérées pour se rendre aux **examens médicaux obligatoires** de surveillance de la grossesse et des suites de l'accouchement (article L. 1225-16). Ces absences sont assimilées à du [temps de travail effectif](https://enclair.media/articles/temps-de-trajet-temps-travail-effectif).
 
 Le conjoint salarié bénéficie également d'autorisations d'absence pour se rendre à **3 examens médicaux** (article L. 1225-16 alinéa 3).
 
@@ -79,7 +87,7 @@ Certains travaux sont formellement interdits aux femmes enceintes : exposition �
 Le licenciement prononcé en violation de la protection maternité est **nul** (article L. 1225-71). La nullité emporte des conséquences majeures :
 
 - La salariée a droit à sa **réintégration** si elle le demande
-- Si elle ne demande pas la réintégration, elle a droit aux indemnités de rupture majorées, notamment une indemnité minimale de **6 mois de salaire** (article L. 1235-3-1 du Code du travail)
+- Si elle ne demande pas la réintégration, elle a droit aux [indemnités de rupture](https://enclair.media/articles/indemnites-rupture-regime-social-fiscal-2026) majorées, notamment une indemnité minimale de **6 mois de salaire** (article L. 1235-3-1 du Code du travail)
 - Les dommages-intérêts pour licenciement nul ne sont pas soumis au barème Macron
 
 ### La discrimination
@@ -89,7 +97,7 @@ Le non-respect de la protection maternité constitue une **discrimination** en r
 ## Les points de vigilance pratiques
 
 1. **Dès connaissance de la grossesse**, informez le service RH et le manager des règles de protection
-2. **Documentez** tout aménagement de poste et toute adaptation des conditions de travail
+2. **Documentez** tout aménagement de poste et toute adaptation des [conditions de travail](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail)
 3. **Anticipez** le retour de congé maternité : préparez le poste de retour, calculez le rattrapage salarial
 4. **Ne prenez aucune décision défavorable** (même justifiée) pendant les périodes de protection sans avis juridique préalable
 5. **Conservez** toutes les preuves de bonnes pratiques en cas de contentieux ultérieur

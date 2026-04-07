@@ -1,19 +1,25 @@
 ---
-title: "Participation aux bénéfices : le calcul de la réserve spéciale"
-excerpt: "La participation est obligatoire dans les entreprises de 50 salariés et plus. Le calcul de la réserve spéciale de participation repose sur une formule légale complexe. Décryptage pas à pas avec exemples chiffrés."
-date: "2026-02-06"
-category: "economie"
-tags: ["participation", "réserve spéciale", "épargne salariale", "bénéfices"]
-readTime: "7 min"
+title: 'Participation aux bénéfices : le calcul de la réserve spéciale'
+excerpt: >-
+  La participation est obligatoire dans les entreprises de 50 salariés et plus.
+  Le calcul de la réserve spéciale de participation repose sur une formule.
+date: '2026-02-06'
+category: economie
+tags:
+  - participation
+  - réserve spéciale
+  - épargne salariale
+  - bénéfices
+readTime: 7 min
 sources:
-  - "Article L.3322-1 du Code du travail"
-  - "Article L.3324-1 du Code du travail"
-  - "Article D.3324-1 du Code du travail"
-  - "Article L.3324-2 du Code du travail"
-  - "BOI-BIC-PTP-10-10-20"
+  - Article L.3322-1 du Code du travail
+  - Article L.3324-1 du Code du travail
+  - Article D.3324-1 du Code du travail
+  - Article L.3324-2 du Code du travail
+  - BOI-BIC-PTP-10-10-20
 ---
 
-La participation des salariés aux résultats de l'entreprise est un dispositif d'épargne salariale obligatoire dans les entreprises de 50 salariés et plus. Son montant est déterminé par une formule légale — la « formule de la réserve spéciale de participation » — dont la complexité technique justifie un décryptage méthodique.
+La participation des salariés aux résultats de l'entreprise est un dispositif d'[épargne salariale](https://enclair.media/articles/epargne-salariale-obligation-pme-plus-50) obligatoire dans les entreprises de 50 salariés et plus. Son montant est déterminé par une formule légale — la « formule de la réserve spéciale de participation » — dont la complexité technique justifie un décryptage méthodique.
 
 ## L'obligation de participation
 
@@ -41,7 +47,7 @@ Chaque terme de cette formule a une définition précise et son calcul mérite a
 
 **C — Les capitaux propres.** Ils comprennent le capital social, les primes d'émission, les réserves (légale, statutaires, facultatives), le report à nouveau et les provisions réglementées ayant supporté l'impôt. Les capitaux propres sont ceux figurant au bilan de l'exercice de calcul.
 
-**S — Les salaires.** C'est la masse salariale brute de l'entreprise, telle que déclarée aux organismes sociaux. Elle comprend les salaires, primes, heures supplémentaires et indemnités soumises à cotisations.
+**S — Les salaires.** C'est la masse salariale brute de l'entreprise, telle que déclarée aux organismes sociaux. Elle comprend les salaires, primes, [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif) et indemnités soumises à cotisations.
 
 **VA — La valeur ajoutée.** Elle se calcule comme la différence entre la production de l'exercice (chiffre d'affaires + production stockée + production immobilisée) et les consommations intermédiaires (achats de matières, services extérieurs). La formule fiscale de la VA est précisée par l'article D.3324-1.
 
@@ -86,7 +92,7 @@ Les formules dérogatoires sont fréquentes dans les grandes entreprises et peuv
 
 **Pour l'entreprise :** La participation versée est déductible du bénéfice imposable. Elle est soumise au **forfait social** de 20 % (8 % pour les entreprises de moins de 50 salariés qui la mettent en place volontairement).
 
-**Pour le salarié :** La participation est exonérée de cotisations sociales (hors CSG/CRDS de 9,7 %). Si elle est placée sur un plan d'épargne salariale (PEE, PERCO, PERECO) pendant 5 ans, elle est également **exonérée d'impôt sur le revenu** au déblocage.
+**Pour le salarié :** La participation est exonérée de cotisations sociales (hors CSG/CRDS de 9,7 %). Si elle est placée sur un plan d'[épargne salariale](https://enclair.media/articles/participation-interessement-seuils-abaisses) (PEE, PERCO, PERECO) pendant 5 ans, elle est également **exonérée d'impôt sur le revenu** au déblocage.
 
 ## Les cas de déblocage anticipé
 

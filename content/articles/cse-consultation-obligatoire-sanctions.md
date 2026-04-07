@@ -1,23 +1,30 @@
 ---
-title: "CSE : quand l'absence de consultation coûte le licenciement"
-excerpt: "Licenciement économique, inaptitude, modification du règlement intérieur... Quand la consultation du CSE est obligatoire et ce qui se passe quand l'employeur l'oublie."
-date: "2026-01-28"
-category: "jurisprudence"
-tags: ["CSE", "consultation-obligatoire", "licenciement", "nullité", "représentants-du-personnel"]
-readTime: "5 min"
+title: 'CSE : quand l''absence de consultation coûte le licenciement'
+excerpt: >-
+  Licenciement économique, inaptitude, modification du règlement intérieur...
+  Quand la consultation du CSE est obligatoire et ce qui se passe quand.
+date: '2026-01-28'
+category: jurisprudence
+tags:
+  - CSE
+  - consultation-obligatoire
+  - licenciement
+  - nullité
+  - représentants-du-personnel
+readTime: 5 min
 sources:
-  - "Cass. soc., 25 janvier 2023, n°21-21.311"
-  - "Cass. soc., 30 septembre 2020, n°19-13.714"
-  - "Cass. soc., 17 mars 2021, n°19-15.118"
-  - "Cass. soc., 21 septembre 2022, n°20-18.648"
-  - "Articles L.1233-8, L.1233-28 et L.1233-30 du Code du travail"
-  - "Article L.2312-8 du Code du travail"
-  - "Article L.1226-10 du Code du travail"
+  - 'Cass. soc., 25 janvier 2023, n°21-21.311'
+  - 'Cass. soc., 30 septembre 2020, n°19-13.714'
+  - 'Cass. soc., 17 mars 2021, n°19-15.118'
+  - 'Cass. soc., 21 septembre 2022, n°20-18.648'
+  - 'Articles L.1233-8, L.1233-28 et L.1233-30 du Code du travail'
+  - Article L.2312-8 du Code du travail
+  - Article L.1226-10 du Code du travail
 ---
 
 Le comité social et économique (CSE) n'est pas un organe de décoration. La loi lui confère un droit d'information et de consultation sur un grand nombre de décisions de l'employeur. Et quand cette consultation est obligatoire, l'oublier peut coûter très cher.
 
-Le mécanisme est simple : si l'employeur devait consulter le CSE et ne l'a pas fait, la décision prise est entachée d'un vice de procédure. Selon les cas, cela peut entraîner la nullité du licenciement, l'inopposabilité de la mesure ou des dommages et intérêts significatifs.
+Le mécanisme est simple : si l'employeur devait consulter le CSE et ne l'a pas fait, la décision prise est entachée d'un vice de procédure. Selon les cas, cela peut entraîner la nullité du licenciement, l'inopposabilité de la mesure ou des [dommages et intérêts](https://enclair.media/articles/discrimination-syndicale-comparaison-carriere-imposee) significatifs.
 
 ## Les consultations obligatoires : le cadre légal
 
@@ -47,9 +54,9 @@ La nullité est la sanction la plus sévère du Code du travail. Elle ouvre droi
 
 ## Licenciement pour inaptitude : le piège de l'article L.1226-10
 
-En cas d'inaptitude d'origine professionnelle (accident du travail ou maladie professionnelle), l'article L.1226-10 du Code du travail impose que le CSE soit consulté sur les propositions de reclassement avant tout licenciement.
+En cas d'inaptitude d'origine professionnelle (accident du travail ou [maladie professionnelle](https://enclair.media/articles/licenciement-salarie-at-conditions-strictes)), l'article L.1226-10 du Code du travail impose que le CSE soit consulté sur les propositions de reclassement avant tout licenciement.
 
-**Cass. soc., 17 mars 2021, n°19-15.118** : un employeur licencie un salarié déclaré inapte sans consulter le CSE sur les possibilités de reclassement. La Cour de cassation juge le licenciement sans cause réelle et sérieuse. L'employeur est condamné à verser des dommages et intérêts.
+**Cass. soc., 17 mars 2021, n°19-15.118** : un employeur licencie un salarié déclaré inapte sans consulter le CSE sur les possibilités de reclassement. La Cour de cassation juge le licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher). L'employeur est condamné à verser des dommages et intérêts.
 
 Attention, la consultation du CSE est requise même si le médecin du travail a mentionné que tout reclassement est impossible. La Cour de cassation a confirmé à plusieurs reprises que la mention "tout maintien dans l'emploi serait gravement préjudiciable à la santé du salarié" ne dispense pas l'employeur de consulter le CSE.
 

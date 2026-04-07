@@ -1,25 +1,31 @@
 ---
-title: "Rétrogradation disciplinaire : le salarié peut refuser"
-excerpt: "La rétrogradation est une sanction lourde qui modifie le contrat de travail. À ce titre, le salarié dispose d'un droit de refus. L'employeur doit alors prononcer une autre sanction, y compris le licenciement."
-date: "2026-02-08"
-category: "droit-social"
-tags: ["rétrogradation", "sanction disciplinaire", "refus salarié", "modification contrat"]
-readTime: "6 min"
+title: 'Rétrogradation disciplinaire : le salarié peut refuser'
+excerpt: >-
+  La rétrogradation est une sanction lourde qui modifie le contrat de travail. À
+  ce titre, le salarié dispose d'un droit de refus.
+date: '2026-02-08'
+category: droit-social
+tags:
+  - rétrogradation
+  - sanction disciplinaire
+  - refus salarié
+  - modification contrat
+readTime: 6 min
 sources:
-  - "Cass. soc., 28 avril 2011, n° 09-70.619"
-  - "Cass. soc., 16 juin 1998, n° 95-45.033"
-  - "Article L.1332-2 du Code du travail"
-  - "Cass. soc., 15 mars 2017, n° 15-24.890"
-  - "Article L.1331-1 du Code du travail"
+  - 'Cass. soc., 28 avril 2011, n° 09-70.619'
+  - 'Cass. soc., 16 juin 1998, n° 95-45.033'
+  - Article L.1332-2 du Code du travail
+  - 'Cass. soc., 15 mars 2017, n° 15-24.890'
+  - Article L.1331-1 du Code du travail
 ---
 
-La rétrogradation disciplinaire occupe une place singulière dans l'arsenal des sanctions à la disposition de l'employeur. Plus sévère qu'une mise à pied mais moins radicale qu'un licenciement, elle emporte une modification du contrat de travail. Or, en droit français, aucune modification contractuelle ne peut être imposée au salarié sans son accord. Ce principe crée une situation juridique complexe que tout employeur doit maîtriser.
+La rétrogradation disciplinaire occupe une place singulière dans l'arsenal des sanctions à la disposition de l'employeur. Plus sévère qu'une mise à pied mais moins radicale qu'un licenciement, elle emporte une [modification du contrat](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail) de travail. Or, en droit français, aucune modification contractuelle ne peut être imposée au salarié sans son accord. Ce principe crée une situation juridique complexe que tout employeur doit maîtriser.
 
 ## La nature juridique de la rétrogradation
 
 La rétrogradation consiste à affecter le salarié à un poste de niveau inférieur, généralement assorti d'une réduction de rémunération et/ou de responsabilités. Elle cumule deux dimensions :
 
-**Une sanction disciplinaire.** La rétrogradation est prononcée en réponse à un comportement fautif du salarié. Elle obéit donc au régime des sanctions disciplinaires : entretien préalable, délai de réflexion, notification motivée.
+**Une [sanction disciplinaire](https://enclair.media/articles/avertissement-pourquoi-le-votre-est-peut-etre-nul).** La rétrogradation est prononcée en réponse à un comportement fautif du salarié. Elle obéit donc au régime des [sanctions disciplinaires](https://enclair.media/articles/droit-disciplinaire-gradation-sanctions-expliquee) : entretien préalable, délai de réflexion, notification motivée.
 
 **Une modification du contrat de travail.** La rétrogradation affecte les fonctions, la qualification et/ou la rémunération du salarié, qui sont des éléments essentiels du contrat de travail.
 

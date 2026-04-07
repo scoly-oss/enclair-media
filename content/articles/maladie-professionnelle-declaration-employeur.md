@@ -1,27 +1,33 @@
 ---
-title: "Maladie professionnelle : la déclaration que l'employeur doit faire"
-excerpt: "Quand un salarié déclare une maladie professionnelle, l'employeur a des obligations précises de déclaration et de coopération. Les ignorer aggrave considérablement les conséquences financières."
-date: "2025-06-02"
-category: "droit-social"
-tags: ["maladie professionnelle", "déclaration", "CPAM", "faute inexcusable"]
-readTime: "6 min"
+title: 'Maladie professionnelle : la déclaration que l''employeur doit faire'
+excerpt: >-
+  Quand un salarié déclare une maladie professionnelle, l'employeur a des
+  obligations précises de déclaration et de coopération.
+date: '2025-06-02'
+category: droit-social
+tags:
+  - maladie professionnelle
+  - déclaration
+  - CPAM
+  - faute inexcusable
+readTime: 6 min
 sources:
-  - "Code de la sécurité sociale, articles L.461-1 à L.461-8"
-  - "Code du travail, article L.4161-1 (compte professionnel de prévention)"
-  - "Cass. 2e civ., 8 février 2024, n°22-12.567"
+  - 'Code de la sécurité sociale, articles L.461-1 à L.461-8'
+  - 'Code du travail, article L.4161-1 (compte professionnel de prévention)'
+  - 'Cass. 2e civ., 8 février 2024, n°22-12.567'
 ---
 
 ## Votre salarié vient de vous annoncer qu'il a déclaré une maladie professionnelle. Que devez-vous faire dans les 48 heures ?
 
-Le courrier de la CPAM vient d'arriver. Un de vos salariés a déclaré une maladie professionnelle -- un trouble musculo-squelettique, un burn-out reconnu, une exposition à un produit chimique. Vous êtes surpris. Vous ne saviez pas. Et maintenant, vous ne savez pas quoi faire.
+Le courrier de la CPAM vient d'arriver. Un de vos salariés a déclaré une [maladie professionnelle](https://enclair.media/articles/burnout-faute-inexcusable-reconnaissance-juges) -- un trouble musculo-squelettique, un burn-out reconnu, une exposition à un produit chimique. Vous êtes surpris. Vous ne saviez pas. Et maintenant, vous ne savez pas quoi faire.
 
 Pourtant, vos prochaines actions vont déterminer si cette affaire coûtera quelques formalités administratives ou plusieurs dizaines de milliers d'euros.
 
 ## Le risque financier direct
 
-La reconnaissance d'une maladie professionnelle impacte directement votre **taux de cotisation AT/MP** (accidents du travail / maladies professionnelles). Chaque maladie reconnue est imputée au compte employeur et fait augmenter vos cotisations pendant 3 ans.
+La reconnaissance d'une [maladie professionnelle](https://enclair.media/articles/faute-inexcusable-presomption-maladie-professionnelle) impacte directement votre **taux de cotisation AT/MP** (accidents du travail / maladies professionnelles). Chaque maladie reconnue est imputée au compte employeur et fait augmenter vos cotisations pendant 3 ans.
 
-Pour une maladie professionnelle grave (incapacité permanente supérieure à 10 %), le surcoût de cotisations peut représenter **plusieurs dizaines de milliers d'euros** sur la période de tarification.
+Pour une [maladie professionnelle](https://enclair.media/articles/licenciement-salarie-at-conditions-strictes) grave (incapacité permanente supérieure à 10 %), le surcoût de cotisations peut représenter **plusieurs dizaines de milliers d'euros** sur la période de tarification.
 
 Et si la **faute inexcusable** de l'employeur est reconnue, les montants explosent : majoration de la rente, indemnisation de tous les préjudices personnels, remboursement des compléments à la CPAM.
 

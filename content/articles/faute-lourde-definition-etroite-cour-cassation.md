@@ -1,19 +1,25 @@
 ---
-title: "Faute lourde : la définition étroite que la Cour de cassation impose"
-excerpt: "La faute lourde exige la preuve d'une intention de nuire à l'employeur. Cette exigence jurisprudentielle stricte limite considérablement les cas où elle peut être invoquée. Décryptage des critères retenus par la Cour de cassation."
-date: "2026-03-20"
-category: "droit-social"
-tags: ["faute lourde", "licenciement", "intention de nuire", "Cour de cassation"]
-readTime: "7 min"
+title: 'Faute lourde : la définition étroite que la Cour de cassation impose'
+excerpt: >-
+  La faute lourde exige la preuve d'une intention de nuire à l'employeur. Cette
+  exigence jurisprudentielle stricte limite considérablement les cas où.
+date: '2026-03-20'
+category: droit-social
+tags:
+  - faute lourde
+  - licenciement
+  - intention de nuire
+  - Cour de cassation
+readTime: 7 min
 sources:
-  - "Cass. soc., 22 octobre 2015, n° 14-11.291"
-  - "Cass. soc., 8 février 2017, n° 15-21.064"
-  - "Article L.1234-1 du Code du travail"
-  - "Article L.1234-5 du Code du travail"
-  - "Article L.1234-9 du Code du travail"
+  - 'Cass. soc., 22 octobre 2015, n° 14-11.291'
+  - 'Cass. soc., 8 février 2017, n° 15-21.064'
+  - Article L.1234-1 du Code du travail
+  - Article L.1234-5 du Code du travail
+  - Article L.1234-9 du Code du travail
 ---
 
-La faute lourde constitue le degré le plus élevé de faute dans la hiérarchie des sanctions disciplinaires. Elle prive le salarié de pratiquement tous ses droits liés à la rupture du contrat de travail. Pourtant, la Cour de cassation en a considérablement restreint le champ d'application en exigeant la démonstration d'un élément intentionnel très précis.
+La faute lourde constitue le degré le plus élevé de faute dans la hiérarchie des [sanctions disciplinaires](https://enclair.media/articles/droit-disciplinaire-gradation-sanctions-expliquee). Elle prive le salarié de pratiquement tous ses droits liés à la rupture du contrat de travail. Pourtant, la [Cour de cassation](https://enclair.media/articles/obligation-reclassement-cour-cassation-2025) en a considérablement restreint le champ d'application en exigeant la démonstration d'un élément intentionnel très précis.
 
 ## L'intention de nuire : le critère déterminant
 
@@ -72,7 +78,7 @@ Face à cette exigence jurisprudentielle, les employeurs doivent adopter une str
 
 **Constituer un dossier solide.** Si l'employeur souhaite retenir la faute lourde — notamment pour engager la responsabilité civile du salarié —, il devra rassembler des preuves directes de l'intention de nuire : courriels, témoignages, éléments matériels démontrant la préméditation et la volonté de porter atteinte à l'entreprise.
 
-**Anticiper le risque de requalification.** En cas de contentieux, si le juge estime que la faute lourde n'est pas caractérisée, il peut requalifier le licenciement en licenciement pour faute grave, voire pour cause réelle et sérieuse. Le risque financier doit être mesuré en amont.
+**Anticiper le risque de requalification.** En cas de contentieux, si le juge estime que la faute lourde n'est pas caractérisée, il peut requalifier le licenciement en licenciement pour faute grave, voire pour [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse). Le risque financier doit être mesuré en amont.
 
 ## Ce qu'il faut retenir
 

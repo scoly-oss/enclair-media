@@ -1,14 +1,20 @@
 ---
-title: "PSE : seuils de déclenchement et erreurs fatales"
-excerpt: "Le Plan de Sauvegarde de l'Emploi est obligatoire dès 10 licenciements sur 30 jours dans une entreprise de 50 salariés. Mais les erreurs de calcul des seuils peuvent invalider toute votre restructuration."
-date: "2025-04-08"
-category: "droit-social"
-tags: ["PSE", "plan de sauvegarde", "licenciement collectif", "DREETS"]
-readTime: "7 min"
+title: 'PSE : seuils de déclenchement et erreurs fatales'
+excerpt: >-
+  Le Plan de Sauvegarde de l'Emploi est obligatoire dès 10 licenciements sur 30
+  jours dans une entreprise de 50 salariés.
+date: '2025-04-08'
+category: droit-social
+tags:
+  - PSE
+  - plan de sauvegarde
+  - licenciement collectif
+  - DREETS
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.1233-61 à L.1233-64"
-  - "Cass. soc., 14 février 2024, n°22-17.840"
-  - "DREETS, Guide pratique du PSE, 2023"
+  - 'Code du travail, articles L.1233-61 à L.1233-64'
+  - 'Cass. soc., 14 février 2024, n°22-17.840'
+  - 'DREETS, Guide pratique du PSE, 2023'
 ---
 
 ## Vous supprimez des postes ? Vérifiez si vous n'êtes pas déjà dans l'obligation d'un PSE
@@ -38,10 +44,10 @@ Le comptage des 50 salariés suit les règles classiques de l'effectif (article 
 
 Attention : le seuil de 10 ne concerne pas uniquement les lettres de licenciement. Doivent être comptabilisées toutes les ruptures dont le motif est économique :
 
-- Les licenciements économiques stricto sensu
+- Les [licenciements économiques](https://enclair.media/articles/ordre-licenciements-economiques-criteres-obligatoires) stricto sensu
 - Les ruptures conventionnelles collectives (RCC) lorsqu'elles interviennent dans le cadre d'un projet de réduction d'effectifs
 - Les départs volontaires dans le cadre d'un plan de départs volontaires
-- Les modifications du contrat de travail refusées pour motif économique (article L.1233-25)
+- Les modifications du [contrat de travail](https://enclair.media/articles/clause-de-mobilite-quand-le-salarie-peut-refuser) refusées pour motif économique (article L.1233-25)
 
 **Le piège de la période glissante :** les 30 jours ne sont pas un mois calendaire. C'est une période glissante. Si vous licenciez 6 personnes le 15 mars et 5 le 10 avril, vous êtes à 11 licenciements sur une période de 26 jours. Le PSE est obligatoire.
 
@@ -86,4 +92,4 @@ Le CSE peut désigner un expert-comptable aux frais de l'employeur (article L.12
 
 5. **Consultez la DREETS en amont.** Une prise de contact informelle avant le lancement officiel permet d'anticiper les points de blocage.
 
-Le PSE n'est pas qu'une contrainte juridique. C'est aussi votre meilleure protection contre les contentieux individuels. Un PSE bien fait sécurise l'ensemble de la restructuration. Un PSE bâclé les multiplie.
+Le PSE n'est pas qu'une contrainte juridique. C'est aussi votre meilleure protection contre les contentieux individuels. Un PSE bien fait sécurise l'ensemble de la [restructuration](https://enclair.media/articles/licenciement-economique-5-etapes-obligatoires). Un PSE bâclé les multiplie.

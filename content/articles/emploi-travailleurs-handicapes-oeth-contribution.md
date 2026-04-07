@@ -1,15 +1,21 @@
 ---
-title: "Emploi des travailleurs handicapés : l'OETH et la contribution"
-excerpt: "L'obligation d'emploi des travailleurs handicapés impose aux entreprises de 20 salariés et plus d'employer 6 % de travailleurs handicapés. À défaut, une contribution financière est due. Les règles, les déductions possibles et les sanctions."
-date: "2026-01-08"
-category: "economie"
-tags: ["handicap", "OETH", "contribution", "emploi"]
-readTime: "6 min"
+title: 'Emploi des travailleurs handicapés : l''OETH et la contribution'
+excerpt: >-
+  L'obligation d'emploi des travailleurs handicapés impose aux entreprises de 20
+  salariés et plus d'employer 6 % de travailleurs handicapés.
+date: '2026-01-08'
+category: economie
+tags:
+  - handicap
+  - OETH
+  - contribution
+  - emploi
+readTime: 6 min
 sources:
-  - "Articles L. 5212-1 à L. 5212-17 du Code du travail"
-  - "Loi n° 2018-771 du 5 septembre 2018 (réforme de l'OETH)"
-  - "Décret n° 2019-522 du 27 mai 2019 (nouvelles modalités)"
-  - "Article L. 5212-12 du Code du travail (contribution AGEFIPH)"
+  - Articles L. 5212-1 à L. 5212-17 du Code du travail
+  - Loi n° 2018-771 du 5 septembre 2018 (réforme de l'OETH)
+  - Décret n° 2019-522 du 27 mai 2019 (nouvelles modalités)
+  - Article L. 5212-12 du Code du travail (contribution AGEFIPH)
 ---
 
 L'obligation d'emploi des travailleurs handicapés (OETH) est une obligation légale qui concerne toutes les entreprises de 20 salariés et plus. Le non-respect de cette obligation entraîne le versement d'une contribution financière à l'AGEFIPH. Les règles ont été profondément réformées depuis 2020.
@@ -26,7 +32,7 @@ Les personnes comptabilisées au titre de l'OETH sont les bénéficiaires de l'o
 
 ### Le calcul de l'effectif
 
-L'effectif de référence est l'effectif moyen annuel, calculé selon les règles du Code de la sécurité sociale. Les salariés handicapés sont comptabilisés au prorata de leur temps de présence dans l'entreprise au cours de l'année.
+L'effectif de référence est l'effectif moyen annuel, calculé selon les règles du Code de la [sécurité sociale](https://enclair.media/articles/calcul-ijss-verification-employeur). Les salariés handicapés sont comptabilisés au prorata de leur temps de présence dans l'entreprise au cours de l'année.
 
 ## La contribution en cas de non-respect
 
@@ -58,8 +64,8 @@ Certaines dépenses sont déductibles : aménagement des postes de travail, acti
 
 1. **Déclarer mensuellement en DSN** les travailleurs handicapés présents dans l'effectif
 2. **Développer une politique active** de recrutement de personnes handicapées
-3. **Maintenir dans l'emploi** les salariés qui deviennent handicapés en cours de carrière (aménagement de poste, reclassement)
-4. **Recourir à la sous-traitance** auprès d'EA et d'ESAT pour réduire la contribution
+3. **Maintenir dans l'emploi** les salariés qui deviennent handicapés en cours de carrière (aménagement de poste, [reclassement](https://enclair.media/articles/inaptitude-reclassement-2025-ce-que-dit-la-cour-de-cassation))
+4. **Recourir à la [sous-traitance](https://enclair.media/articles/mise-a-disposition-personnel-pret-main-oeuvre)** auprès d'EA et d'ESAT pour réduire la contribution
 5. **Sensibiliser les managers** aux enjeux de l'inclusion
 
 L'OETH n'est pas qu'une contrainte financière. C'est une opportunité de diversifier les recrutements et de valoriser l'engagement social de l'entreprise.

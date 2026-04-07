@@ -1,16 +1,23 @@
 ---
-title: "Grève : les sanctions interdites et le maintien du contrat"
-excerpt: "Le droit de grève suspend le contrat de travail mais ne le rompt pas. L'employeur ne peut ni licencier ni sanctionner un gréviste, sauf faute lourde. Les règles posées par la Cour de cassation sont strictes."
-date: "2026-02-17"
-category: "jurisprudence"
-tags: ["grève", "droit de grève", "sanction", "faute lourde"]
-readTime: "6 min"
+title: 'Grève : les sanctions interdites et le maintien du contrat'
+excerpt: >-
+  Le droit de grève suspend le contrat de travail mais ne le rompt pas.
+  L'employeur ne peut ni licencier ni sanctionner un gréviste, sauf faute
+  lourde.
+date: '2026-02-17'
+category: jurisprudence
+tags:
+  - grève
+  - droit de grève
+  - sanction
+  - faute lourde
+readTime: 6 min
 sources:
-  - "Article L.2511-1 du Code du travail"
-  - "Préambule de la Constitution de 1946, alinéa 7"
-  - "Cass. soc., 25 janvier 2017, n° 15-21.352"
-  - "Article L.1132-2 du Code du travail"
-  - "Cass. soc., 30 juin 2015, n° 14-11.077"
+  - Article L.2511-1 du Code du travail
+  - 'Préambule de la Constitution de 1946, alinéa 7'
+  - 'Cass. soc., 25 janvier 2017, n° 15-21.352'
+  - Article L.1132-2 du Code du travail
+  - 'Cass. soc., 30 juin 2015, n° 14-11.077'
 ---
 
 Le droit de grève est un droit constitutionnel, consacré par l'alinéa 7 du Préambule de la Constitution de 1946. Son exercice dans le secteur privé obéit à des règles que la Cour de cassation a précisées au fil d'une jurisprudence protectrice pour les salariés. L'employeur qui méconnaît ces règles s'expose à la nullité des mesures prises.
@@ -28,7 +35,7 @@ Pendant la grève :
 
 **Le licenciement.** L'article L.1132-2 du Code du travail interdit tout licenciement prononcé en raison de l'exercice normal du droit de grève. Un tel licenciement est **nul**, ouvrant droit à la réintégration et au paiement de tous les salaires non perçus.
 
-**La sanction disciplinaire.** Aucune sanction disciplinaire (avertissement, mise à pied, rétrogradation) ne peut être infligée à un salarié pour sa participation à une grève.
+**La [sanction disciplinaire](https://enclair.media/articles/avertissement-pourquoi-le-votre-est-peut-etre-nul).** Aucune [sanction disciplinaire](https://enclair.media/articles/mise-a-pied-disciplinaire-duree-procedure-pieges) (avertissement, mise à pied, rétrogradation) ne peut être infligée à un salarié pour sa participation à une grève.
 
 **La discrimination.** L'employeur ne peut pas défavoriser les grévistes en matière de promotion, de formation, de prime ou de conditions de travail (Cass. soc., 25 janvier 2017, n° 15-21.352).
 
@@ -36,7 +43,7 @@ Pendant la grève :
 
 ## L'exception : la faute lourde
 
-La seule exception admise par la loi est la **faute lourde** du gréviste, c'est-à-dire la participation personnelle à des actes caractérisés par une intention de nuire (Cass. soc., 30 juin 2015, n° 14-11.077).
+La seule exception admise par la loi est la **faute lourde** du gréviste, c'est-à-dire la participation personnelle à des actes caractérisés par une [intention de nuire](https://enclair.media/articles/faute-lourde-definition-etroite-cour-cassation) (Cass. soc., 30 juin 2015, n° 14-11.077).
 
 Sont constitutifs de faute lourde :
 - Les **violences physiques** contre des personnes

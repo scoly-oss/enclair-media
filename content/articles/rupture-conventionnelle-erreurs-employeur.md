@@ -1,22 +1,29 @@
 ---
-title: "Rupture conventionnelle : les 5 erreurs qui coûtent cher à l'employeur"
-excerpt: "Vice du consentement, délai de rétractation non respecté, indemnité trop basse... La rupture conventionnelle est un outil souple, mais le moindre faux pas peut la faire requalifier en licenciement sans cause réelle et sérieuse."
-date: "2026-03-22"
-category: "droit-social"
-tags: ["rupture-conventionnelle", "homologation", "indemnité", "vice-du-consentement", "DREETS"]
-readTime: "6 min"
+title: 'Rupture conventionnelle : les 5 erreurs qui coûtent cher à l''employeur'
+excerpt: >-
+  Vice du consentement, délai de rétractation non respecté, indemnité trop
+  basse... La rupture conventionnelle est un outil souple, mais le moindre faux.
+date: '2026-03-22'
+category: droit-social
+tags:
+  - rupture-conventionnelle
+  - homologation
+  - indemnité
+  - vice-du-consentement
+  - DREETS
+readTime: 6 min
 sources:
-  - "Cass. soc., 23 janvier 2019, n°17-21.550"
-  - "Cass. soc., 6 janvier 2021, n°19-18.549"
-  - "Cass. soc., 1er mars 2023, n°21-21.150"
-  - "Cass. soc., 24 juin 2020, n°18-17.262"
-  - "Cass. soc., 3 mars 2015, n°13-20.549"
-  - "Articles L.1237-11 à L.1237-16 du Code du travail"
+  - 'Cass. soc., 23 janvier 2019, n°17-21.550'
+  - 'Cass. soc., 6 janvier 2021, n°19-18.549'
+  - 'Cass. soc., 1er mars 2023, n°21-21.150'
+  - 'Cass. soc., 24 juin 2020, n°18-17.262'
+  - 'Cass. soc., 3 mars 2015, n°13-20.549'
+  - Articles L.1237-11 à L.1237-16 du Code du travail
 ---
 
-La rupture conventionnelle est le mode de séparation préféré des PME. Rapide, consensuel, sans motif à justifier. En 2025, plus de 500 000 ruptures conventionnelles ont été homologuées en France.
+La [rupture conventionnelle](https://enclair.media/articles/nouveau-formulaire-rupture-conventionnelle-ce-qui-change) est le mode de séparation préféré des PME. Rapide, consensuel, sans motif à justifier. En 2025, plus de 500 000 ruptures conventionnelles ont été homologuées en France.
 
-Mais cette simplicité apparente masque des pièges réels. Une erreur de procédure ou de fond, et votre rupture conventionnelle peut être annulée par le juge. Conséquence : elle est requalifiée en licenciement sans cause réelle et sérieuse. Avec tout ce qui va avec -- indemnités, dommages et intérêts, rappel de salaire.
+Mais cette simplicité apparente masque des pièges réels. Une erreur de procédure ou de fond, et votre rupture conventionnelle peut être annulée par le juge. Conséquence : elle est requalifiée en licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher). Avec tout ce qui va avec -- indemnités, dommages et intérêts, rappel de salaire.
 
 Voici les 5 erreurs les plus fréquentes, et ce que la jurisprudence sanctionne.
 
@@ -72,7 +79,7 @@ Les pièges :
 
 - **Envoyer un formulaire incomplet ou incohérent** : dates qui ne concordent pas, montant d'indemnité erroné, absence de signature d'une partie. La DREETS peut refuser l'homologation.
 - **Ne pas attendre la fin du délai d'homologation pour mettre fin au contrat.** Le contrat ne peut être rompu qu'à partir du lendemain du jour d'homologation (expresse ou tacite).
-- **Oublier la procédure spéciale pour les salariés protégés.** Pour un membre du CSE, un délégué syndical ou tout autre salarié protégé, la rupture conventionnelle ne passe pas par la DREETS mais par l'inspection du travail, via une autorisation administrative (article L.1237-15 du Code du travail).
+- **Oublier la procédure spéciale pour les salariés protégés.** Pour un membre du CSE, un délégué syndical ou tout autre salarié protégé, la rupture conventionnelle ne passe pas par la DREETS mais par l'inspection du travail, via une [autorisation administrative](https://enclair.media/articles/salaries-proteges-ce-que-vous-ne-pouvez-pas-faire) (article L.1237-15 du Code du travail).
 
 **Cass. soc., 24 juin 2020, n°18-17.262** : la Cour de cassation rappelle que la rupture du contrat de travail intervenue avant l'homologation par la DREETS est dépourvue de tout effet juridique et s'analyse en un licenciement sans cause réelle et sérieuse.
 

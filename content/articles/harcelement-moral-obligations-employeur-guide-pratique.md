@@ -64,7 +64,7 @@ Le document unique doit intégrer les **risques psychosociaux**, y compris le ri
 
 ## Un salarié dénonce du harcèlement : que faire dans les 48 heures
 
-Le pire, c'est de ne rien faire. La Cour de cassation a jugé dans un arrêt du 27 novembre 2019 (n°18-10.551) que **l'absence de réaction de l'employeur face à une dénonciation de harcèlement constitue en soi un manquement à l'obligation de sécurité**, indépendamment de la réalité du harcèlement dénoncé.
+Le pire, c'est de ne rien faire. La Cour de cassation a jugé dans un arrêt du 27 novembre 2019 (n°18-10.551) que **l'absence de réaction de l'employeur face à une dénonciation de harcèlement constitue en soi un manquement à l'[obligation de sécurité](https://enclair.media/articles/obligation-securite-employeur-doit-prouver)**, indépendamment de la réalité du harcèlement dénoncé.
 
 Autrement dit : même si le harcèlement n'est pas avéré, ne pas réagir vous rend fautif.
 
@@ -90,7 +90,7 @@ Le dirigeant qui prend le harcèlement moral à la légère s'expose à un cumul
 
 ### Devant les prud'hommes
 
-- **Dommages-intérêts pour manquement à l'obligation de sécurité** : les montants varient, mais les condamnations entre 5 000 et 30 000 euros sont courantes. Dans les cas graves, elles dépassent les 50 000 euros.
+- **Dommages-intérêts pour manquement à l'[obligation de sécurité](https://enclair.media/articles/harcelement-moral-obligation-moyens-renforcee)** : les montants varient, mais les condamnations entre 5 000 et 30 000 euros sont courantes. Dans les cas graves, elles dépassent les 50 000 euros.
 - **Nullité du licenciement** si le salarié a été licencié après avoir dénoncé du harcèlement. La protection contre les représailles est absolue. Conséquence : réintégration ou indemnité plancher de 6 mois de salaire (sans plafond du barème Macron).
 - **Résiliation judiciaire aux torts de l'employeur** : le salarié peut demander la rupture de son contrat avec les effets d'un licenciement nul.
 
@@ -101,7 +101,7 @@ Le dirigeant qui prend le harcèlement moral à la légère s'expose à un cumul
 
 ### En termes de cotisations
 
-- La faute inexcusable de l'employeur peut être reconnue si un accident du travail ou une maladie professionnelle résulte du harcèlement moral (Cass. soc., 12 mars 2025, n°23-22.471). Conséquence : majoration de la rente et action récursoire de la CPAM.
+- La faute inexcusable de l'employeur peut être reconnue si un accident du travail ou une [maladie professionnelle](https://enclair.media/articles/maladie-professionnelle-declaration-employeur) résulte du harcèlement moral (Cass. soc., 12 mars 2025, n°23-22.471). Conséquence : majoration de la rente et action récursoire de la CPAM.
 
 ## Comment se protéger concrètement (checklist dirigeant)
 

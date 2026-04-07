@@ -1,18 +1,25 @@
 ---
-title: "Prévoyance collective : l'obligation conventionnelle que vous oubliez"
-excerpt: "Votre convention collective vous impose probablement de souscrire un contrat de prévoyance pour vos salariés. L'absence de couverture vous expose à un risque financier majeur : devoir indemniser vous-même le salarié en cas de décès ou d'invalidité."
-date: "2025-08-18"
-category: "economie"
-tags: ["prévoyance", "convention collective", "couverture complémentaire", "décès", "invalidité"]
-readTime: "6 min"
+title: 'Prévoyance collective : l''obligation conventionnelle que vous oubliez'
+excerpt: >-
+  Votre convention collective vous impose probablement de souscrire un contrat
+  de prévoyance pour vos salariés.
+date: '2025-08-18'
+category: economie
+tags:
+  - prévoyance
+  - convention collective
+  - couverture complémentaire
+  - décès
+  - invalidité
+readTime: 6 min
 sources:
-  - "Code de la sécurité sociale, article L.911-1"
-  - "ANI du 17 novembre 2017"
-  - "Cass. soc., 19 juin 2019, n° 18-15.515"
-  - "Cass. 2e civ., 12 mars 2020, n° 19-11.600"
+  - 'Code de la sécurité sociale, article L.911-1'
+  - ANI du 17 novembre 2017
+  - 'Cass. soc., 19 juin 2019, n° 18-15.515'
+  - 'Cass. 2e civ., 12 mars 2020, n° 19-11.600'
 ---
 
-Un salarié cadre décède brutalement. Sa famille demande le versement du capital décès prévu par la convention collective. Vous découvrez que vous n'avez jamais souscrit de contrat de prévoyance. La convention collective l'imposait depuis dix ans.
+Un salarié cadre décède brutalement. Sa famille demande le versement du capital décès prévu par la [convention collective](https://enclair.media/articles/mutuelle-entreprise-minimum-conventionnel). Vous découvrez que vous n'avez jamais souscrit de contrat de prévoyance. La [convention collective](https://enclair.media/articles/convention-collective-identifier-applicable) l'imposait depuis dix ans.
 
 Vous devez indemniser la famille de votre poche, à hauteur du capital qui aurait été versé par l'assureur. Pour un cadre, cela peut représenter trois à quatre fois le salaire annuel brut. Soit 150 000 à 200 000 euros.
 
@@ -22,7 +29,7 @@ Ce scénario n'est pas théorique. Il se produit chaque année dans des PME qui 
 
 La loi n'impose pas de manière générale la souscription d'un contrat de prévoyance (décès, invalidité, incapacité). En revanche, la quasi-totalité des conventions collectives prévoient une obligation de couverture prévoyance, au minimum pour les cadres (en application de l'ANI du 17 novembre 2017, qui a étendu l'obligation à l'ensemble des cadres).
 
-Pour les non-cadres, l'obligation dépend de votre convention collective de branche. La plupart des grandes conventions (métallurgie, commerce, BTP, Syntec, transport) prévoient une couverture prévoyance obligatoire avec des garanties minimales et un niveau de cotisation plancher.
+Pour les non-cadres, l'obligation dépend de votre [convention collective](https://enclair.media/articles/forfait-jours-droit-sante-qpc) de branche. La plupart des grandes conventions (métallurgie, commerce, BTP, Syntec, transport) prévoient une couverture prévoyance obligatoire avec des garanties minimales et un niveau de cotisation plancher.
 
 L'erreur la plus fréquente est de confondre l'obligation de complémentaire santé (obligatoire pour tous les salariés depuis 2016) avec l'obligation de prévoyance. Ce sont deux obligations distinctes, avec des couvertures et des contrats différents.
 

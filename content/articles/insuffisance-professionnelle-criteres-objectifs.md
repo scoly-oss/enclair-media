@@ -1,14 +1,20 @@
 ---
-title: "Insuffisance professionnelle : les critères objectifs exigés par la Cour"
-excerpt: "L'insuffisance professionnelle est un motif de licenciement légitime. Mais la Cour de cassation exige des critères objectifs, mesurables et documentés. L'appréciation subjective ne suffit plus."
-date: "2025-05-22"
-category: "jurisprudence"
-tags: ["insuffisance professionnelle", "licenciement", "critères objectifs", "évaluation"]
-readTime: "6 min"
+title: 'Insuffisance professionnelle : les critères objectifs exigés par la Cour'
+excerpt: >-
+  L'insuffisance professionnelle est un motif de licenciement légitime. Mais la
+  Cour de cassation exige des critères objectifs, mesurables et documentés.
+date: '2025-05-22'
+category: jurisprudence
+tags:
+  - insuffisance professionnelle
+  - licenciement
+  - critères objectifs
+  - évaluation
+readTime: 6 min
 sources:
-  - "Cass. soc., 25 janvier 2023, n°21-21.100"
-  - "Cass. soc., 13 mars 2024, n°22-18.752"
-  - "Code du travail, article L.1235-1 (cause réelle et sérieuse)"
+  - 'Cass. soc., 25 janvier 2023, n°21-21.100'
+  - 'Cass. soc., 13 mars 2024, n°22-18.752'
+  - 'Code du travail, article L.1235-1 (cause réelle et sérieuse)'
 ---
 
 ## Vous estimez qu'un salarié n'est "pas au niveau". Mais pouvez-vous le prouver objectivement ?
@@ -37,15 +43,15 @@ Les critères : les objectifs sont-ils comparables à ceux des collègues sur le
 
 L'insuffisance ne doit pas résulter d'un **manquement de l'employeur** à ses propres obligations :
 - Absence de formation d'adaptation au poste
-- Surcharge de travail rendant les objectifs inatteignables
+- Sur[charge de travail](https://enclair.media/articles/forfait-jours-droit-sante-qpc) rendant les objectifs inatteignables
 - Absence d'outils ou de moyens nécessaires
 - Management défaillant (absence de directives claires, d'accompagnement)
 
-La Cour de cassation a jugé qu'un employeur qui n'avait jamais formé un salarié aux évolutions de son logiciel métier ne pouvait pas le licencier pour insuffisance dans l'utilisation de ce logiciel (Cass. soc., 25 janvier 2023).
+La [Cour de cassation](https://enclair.media/articles/obligation-reclassement-cour-cassation-2025) a jugé qu'un employeur qui n'avait jamais formé un salarié aux évolutions de son logiciel métier ne pouvait pas le licencier pour insuffisance dans l'utilisation de ce logiciel (Cass. soc., 25 janvier 2023).
 
 ### 4. Un délai raisonnable pour s'améliorer
 
-Le licenciement pour insuffisance est jugé plus sévèrement lorsque l'employeur n'a pas **donné au salarié l'opportunité de s'améliorer**. Un entretien de recadrage, un plan d'accompagnement, des objectifs intermédiaires sont autant d'éléments qui renforcent la cause réelle et sérieuse du licenciement.
+Le licenciement pour insuffisance est jugé plus sévèrement lorsque l'employeur n'a pas **donné au salarié l'opportunité de s'améliorer**. Un entretien de recadrage, un plan d'accompagnement, des objectifs intermédiaires sont autant d'éléments qui renforcent la [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse) du licenciement.
 
 À l'inverse, licencier un salarié 2 mois après son embauche pour insuffisance, sans accompagnement ni période d'adaptation, sera quasi systématiquement jugé sans cause.
 

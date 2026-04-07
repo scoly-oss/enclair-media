@@ -1,14 +1,20 @@
 ---
-title: "Pause déjeuner : les obligations que vous ne respectez probablement pas"
-excerpt: "La pause déjeuner de 20 minutes minimum est une obligation légale. Mais entre la théorie et la réalité de vos open spaces, le décalage est un risque juridique réel."
-date: "2025-05-20"
-category: "droit-social"
-tags: ["pause déjeuner", "temps de pause", "temps de travail", "restauration"]
-readTime: "5 min"
+title: 'Pause déjeuner : les obligations que vous ne respectez probablement pas'
+excerpt: >-
+  La pause déjeuner de 20 minutes minimum est une obligation légale. Mais entre
+  la théorie et la réalité de vos open spaces, le décalage est un risque.
+date: '2025-05-20'
+category: droit-social
+tags:
+  - pause déjeuner
+  - temps de pause
+  - temps de travail
+  - restauration
+readTime: 5 min
 sources:
-  - "Code du travail, article L.3121-16"
-  - "Code du travail, article R.4228-19 (local de restauration)"
-  - "Cass. soc., 20 septembre 2023, n°22-14.445"
+  - 'Code du travail, article L.3121-16'
+  - 'Code du travail, article R.4228-19 (local de restauration)'
+  - 'Cass. soc., 20 septembre 2023, n°22-14.445'
 ---
 
 ## Vos salariés mangent un sandwich devant leur écran. C'est un problème juridique.
@@ -20,7 +26,7 @@ Non. Vous êtes en infraction. Et si un salarié décide un jour de réclamer, l
 ## Le risque que vous ignorez
 
 Un salarié qui démontre qu'il n'a pas pu prendre sa pause déjeuner de manière effective peut réclamer :
-- La **requalification de sa pause en temps de travail effectif**, avec le paiement des heures correspondantes (potentiellement en heures supplémentaires)
+- La **requalification de sa pause en [temps de travail effectif](https://enclair.media/articles/temps-de-trajet-temps-travail-effectif)**, avec le paiement des heures correspondantes (potentiellement en [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif))
 - Des **dommages et intérêts** pour manquement à l'obligation de sécurité (la pause est un temps de repos nécessaire à la santé)
 
 Sur 3 ans, à raison de 45 minutes de pause "travaillée" par jour, cela représente environ 540 heures. Même au SMIC, le rappel dépasse 6 000 euros. Pour un cadre, le montant est bien supérieur.
@@ -72,7 +78,7 @@ La Cour de cassation a confirmé cette analyse dans de nombreux arrêts : le cri
 
 1. **Observez** ce qui se passe réellement dans votre entreprise entre 12h et 14h. Les salariés quittent-ils leur poste ? Peuvent-ils réellement décrocher ?
 
-2. **Vérifiez votre convention collective** : elle prévoit peut-être une durée de pause supérieure à 20 minutes. Si oui, assurez-vous qu'elle est respectée.
+2. **Vérifiez votre [convention collective](https://enclair.media/articles/jours-feries-obligations-employeur-convention-collective)** : elle prévoit peut-être une durée de pause supérieure à 20 minutes. Si oui, assurez-vous qu'elle est respectée.
 
 3. **Interdisez les réunions** sur les plages de pause déjeuner, sauf urgence absolue et avec décalage de la pause.
 

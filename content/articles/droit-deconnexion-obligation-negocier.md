@@ -19,15 +19,15 @@ Depuis le 1er janvier 2017, le droit à la déconnexion fait partie des **thème
 
 Le droit à la déconnexion était longtemps considéré comme un sujet "mou", sans sanction directe. Mais la jurisprudence a évolué :
 
-- Les juges l'utilisent de plus en plus pour caractériser le **manquement à l'obligation de sécurité** (surcharge de travail, burn-out)
+- Les juges l'utilisent de plus en plus pour caractériser le **manquement à l'[obligation de sécurité](https://enclair.media/articles/droit-de-retrait-quand-salarie-peut-arreter-travailler)** (surcharge de travail, burn-out)
 - Il est devenu un **critère d'analyse des conventions de forfait jours** : une convention sans garanties de déconnexion peut être invalidée
-- En cas de **maladie professionnelle psychique**, l'absence de politique de déconnexion est un indice fort de faute inexcusable
+- En cas de **[maladie professionnelle](https://enclair.media/articles/maladie-professionnelle-declaration-employeur) psychique**, l'absence de politique de déconnexion est un indice fort de faute inexcusable
 
 ## L'obligation légale précise
 
 ### Pour les entreprises de 50 salariés et plus
 
-L'article L.2242-17, 7° impose que la négociation annuelle sur l'égalité professionnelle et la qualité de vie au travail porte sur les **modalités du plein exercice par le salarié de son droit à la déconnexion** et la mise en place de dispositifs de régulation de l'utilisation des outils numériques.
+L'article L.2242-17, 7° impose que la négociation annuelle sur l'[égalité professionnelle](https://enclair.media/articles/nao-themes-obligatoires-risque-penal) et la qualité de vie au travail porte sur les **modalités du plein exercice par le salarié de son droit à la déconnexion** et la mise en place de dispositifs de régulation de l'utilisation des outils numériques.
 
 À défaut d'accord, l'employeur doit élaborer une **charte** après avis du CSE. Cette charte définit les modalités d'exercice du droit à la déconnexion et prévoit des actions de formation et de sensibilisation.
 

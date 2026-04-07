@@ -1,25 +1,31 @@
 ---
-title: "Contrôle des arrêts maladie : la contre-visite patronale mode d'emploi"
-excerpt: "L'employeur peut faire contrôler la réalité d'un arrêt maladie par un médecin de son choix. Cette contre-visite patronale obéit à des règles précises. Voici le guide complet pour l'utiliser efficacement et légalement."
-date: "2026-03-08"
-category: "droit-social"
-tags: ["arrêt maladie", "contre-visite", "contrôle médical", "absentéisme"]
-readTime: "7 min"
+title: 'Contrôle des arrêts maladie : la contre-visite patronale mode d''emploi'
+excerpt: >-
+  L'employeur peut faire contrôler la réalité d'un arrêt maladie par un médecin
+  de son choix. Cette contre-visite patronale obéit à des règles précises.
+date: '2026-03-08'
+category: droit-social
+tags:
+  - arrêt maladie
+  - contre-visite
+  - contrôle médical
+  - absentéisme
+readTime: 7 min
 sources:
-  - "Article L.1226-1 du Code du travail"
-  - "Cass. soc., 10 février 2016, n° 14-15.370"
-  - "Décret n° 2024-692 du 5 juillet 2024"
-  - "Article R.323-11-1 du Code de la sécurité sociale"
-  - "Cass. 2e civ., 16 mars 2023, n° 21-17.271"
+  - Article L.1226-1 du Code du travail
+  - 'Cass. soc., 10 février 2016, n° 14-15.370'
+  - Décret n° 2024-692 du 5 juillet 2024
+  - Article R.323-11-1 du Code de la sécurité sociale
+  - 'Cass. 2e civ., 16 mars 2023, n° 21-17.271'
 ---
 
-Face à l'absentéisme, les employeurs disposent d'un outil souvent méconnu : la contre-visite médicale patronale. Distincte du contrôle exercé par la Sécurité sociale, elle permet à l'employeur de vérifier que l'arrêt de travail d'un salarié est médicalement justifié. Le décret du 5 juillet 2024 est venu préciser les modalités de ce dispositif, clarifiant plusieurs zones d'ombre.
+Face à l'absentéisme, les employeurs disposent d'un outil souvent méconnu : la contre-[visite médicale](https://enclair.media/articles/visite-medicale-reprise-piege-retour-arret-maladie) patronale. Distincte du contrôle exercé par la [Sécurité sociale](https://enclair.media/articles/calcul-ijss-verification-employeur), elle permet à l'employeur de vérifier que l'arrêt de travail d'un salarié est médicalement justifié. Le décret du 5 juillet 2024 est venu préciser les modalités de ce dispositif, clarifiant plusieurs zones d'ombre.
 
 ## Le fondement juridique de la contre-visite
 
 Le droit de l'employeur de faire procéder à une contre-visite médicale découle de l'article L.1226-1 du Code du travail. Ce texte conditionne le versement du complément de salaire employeur — qui s'ajoute aux indemnités journalières de la Sécurité sociale — au résultat d'une contre-visite.
 
-En d'autres termes, si l'employeur maintient le salaire du salarié en arrêt maladie (obligation légale ou conventionnelle), il a le droit de vérifier que cet arrêt est justifié. C'est la contrepartie logique de son obligation financière.
+En d'autres termes, si l'employeur maintient le salaire du salarié en [arrêt maladie](https://enclair.media/articles/conges-payes-arret-maladie-loi-ddadue) (obligation légale ou conventionnelle), il a le droit de vérifier que cet arrêt est justifié. C'est la contrepartie logique de son obligation financière.
 
 Ce droit s'exerce indépendamment du contrôle que la CPAM peut diligenter de son propre chef. Les deux procédures sont distinctes et peuvent coexister.
 

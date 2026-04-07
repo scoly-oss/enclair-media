@@ -1,14 +1,20 @@
 ---
-title: "Congé parental : les nouvelles règles de retour au poste"
-excerpt: "Le salarié de retour de congé parental a droit à son poste ou un poste similaire. Mais les obligations de l'employeur vont bien au-delà de la simple réintégration."
-date: "2025-05-26"
-category: "droit-social"
-tags: ["congé parental", "retour au poste", "entretien professionnel", "discrimination"]
-readTime: "6 min"
+title: 'Congé parental : les nouvelles règles de retour au poste'
+excerpt: >-
+  Le salarié de retour de congé parental a droit à son poste ou un poste
+  similaire. Mais les obligations de l'employeur vont bien au-delà de la simple.
+date: '2025-05-26'
+category: droit-social
+tags:
+  - congé parental
+  - retour au poste
+  - entretien professionnel
+  - discrimination
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.1225-55 à L.1225-57"
-  - "Code du travail, article L.6315-1 (entretien professionnel)"
-  - "Cass. soc., 19 avril 2023, n°21-23.092"
+  - 'Code du travail, articles L.1225-55 à L.1225-57'
+  - 'Code du travail, article L.6315-1 (entretien professionnel)'
+  - 'Cass. soc., 19 avril 2023, n°21-23.092'
 ---
 
 ## Votre salariée revient de congé parental dans 3 mois. Avez-vous anticipé ?
@@ -17,7 +23,7 @@ Elle est partie il y a deux ans. Depuis, l'entreprise a changé : nouvelle organ
 
 ## Le risque : la discrimination invisible
 
-Le retour de congé parental est l'un des moments les plus sensibles en droit du travail. Proposer un poste dégradé, oublier l'entretien professionnel, ou tarder à réintégrer le salarié constitue une **discrimination liée à la situation de famille** (article L.1132-1), punie de 3 ans d'emprisonnement et 45 000 euros d'amende.
+Le retour de congé parental est l'un des moments les plus sensibles en droit du travail. Proposer un poste dégradé, oublier l'[entretien professionnel](https://enclair.media/articles/entretien-annuel-vs-entretien-professionnel), ou tarder à réintégrer le salarié constitue une **discrimination liée à la situation de famille** (article L.1132-1), punie de 3 ans d'emprisonnement et 45 000 euros d'amende.
 
 Les femmes représentent 96 % des bénéficiaires du congé parental. Toute difficulté au retour sera analysée sous le prisme de la discrimination indirecte fondée sur le sexe.
 
@@ -37,7 +43,7 @@ Proposer un poste avec moins de responsabilités, un salaire inférieur, ou dans
 
 ### L'entretien professionnel obligatoire (article L.6315-1)
 
-L'employeur doit proposer un entretien professionnel au salarié qui reprend son activité après un congé parental. Cet entretien porte sur :
+L'employeur doit proposer un [entretien professionnel](https://enclair.media/articles/entretien-professionnel-sanctions-absence) au salarié qui reprend son activité après un congé parental. Cet entretien porte sur :
 - Les perspectives d'évolution professionnelle
 - Les qualifications et les besoins de formation
 - Le bilan des compétences
@@ -48,7 +54,7 @@ Depuis 2019, l'absence d'entretien professionnel sur 6 ans oblige les entreprise
 
 ### Le droit à la formation
 
-Le salarié de retour de congé parental a droit à une **action de formation professionnelle**, notamment en cas de changement de techniques ou de méthodes de travail (article L.1225-57).
+Le salarié de retour de congé parental a droit à une **action de [formation professionnelle](https://enclair.media/articles/obligation-formation-compte-a-rebours-6-ans)**, notamment en cas de changement de techniques ou de méthodes de travail (article L.1225-57).
 
 Si les outils ont changé, si les logiciels ont été mis à jour, si les procédures ont évolué, vous devez former le salarié. Le laisser se "débrouiller seul" avec les nouveaux outils est un manquement à votre obligation d'adaptation.
 

@@ -1,24 +1,30 @@
 ---
-title: "Règlement intérieur : les clauses illicites que vous avez probablement"
-excerpt: "Votre règlement intérieur contient presque certainement des clauses nulles. Interdiction des conversations personnelles, fouille des sacs, sanction pécuniaire déguisée — le risque est partout."
-date: "2025-03-10"
-category: "droit-social"
-tags: ["règlement intérieur", "clauses illicites", "sanctions", "libertés individuelles"]
-readTime: "7 min"
+title: 'Règlement intérieur : les clauses illicites que vous avez probablement'
+excerpt: >-
+  Votre règlement intérieur contient presque certainement des clauses nulles.
+  Interdiction des conversations personnelles, fouille des sacs, sanction.
+date: '2025-03-10'
+category: droit-social
+tags:
+  - règlement intérieur
+  - clauses illicites
+  - sanctions
+  - libertés individuelles
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.1321-1 à L.1321-6"
-  - "Code du travail, article L.1331-2 (sanctions pécuniaires)"
-  - "Cass. soc., 12 novembre 2020, n° 18-24.023"
-  - "Cass. soc., 6 février 2013, n° 11-11.740"
+  - 'Code du travail, articles L.1321-1 à L.1321-6'
+  - 'Code du travail, article L.1331-2 (sanctions pécuniaires)'
+  - 'Cass. soc., 12 novembre 2020, n° 18-24.023'
+  - 'Cass. soc., 6 février 2013, n° 11-11.740'
 ---
 
-Votre règlement intérieur a été rédigé il y a dix ans. Depuis, il a traversé trois DRH, deux déménagements et aucune mise à jour. Vous pensez qu'il vous protège. En réalité, il contient probablement des clauses que l'inspection du travail pourrait vous demander de retirer, et qu'un salarié pourrait utiliser contre vous en cas de contentieux.
+Votre [règlement intérieur](https://enclair.media/articles/mise-a-pied-disciplinaire-duree-procedure-pieges) a été rédigé il y a dix ans. Depuis, il a traversé trois DRH, deux déménagements et aucune mise à jour. Vous pensez qu'il vous protège. En réalité, il contient probablement des clauses que l'inspection du travail pourrait vous demander de retirer, et qu'un salarié pourrait utiliser contre vous en cas de contentieux.
 
 Le règlement intérieur est obligatoire dans les entreprises de 50 salariés et plus (article L.1311-2 du Code du travail). Mais son contenu est strictement encadré, et les dérapages sont fréquents.
 
 ## Le périmètre limité du règlement intérieur
 
-L'article L.1321-1 définit limitativement ce que le règlement intérieur peut contenir : les mesures d'application de la réglementation en matière d'hygiène et de sécurité, les conditions dans lesquelles les salariés peuvent être appelés à participer au rétablissement de conditions de travail protectrices, les règles générales et permanentes relatives à la discipline (nature et échelle des sanctions), et les dispositions relatives au harcèlement moral, au harcèlement sexuel et aux agissements sexistes.
+L'article L.1321-1 définit limitativement ce que le règlement intérieur peut contenir : les mesures d'application de la réglementation en matière d'hygiène et de sécurité, les conditions dans lesquelles les salariés peuvent être appelés à participer au rétablissement de [conditions de travail](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail) protectrices, les règles générales et permanentes relatives à la discipline (nature et échelle des sanctions), et les dispositions relatives au harcèlement moral, au harcèlement sexuel et aux agissements sexistes.
 
 Tout ce qui sort de ce périmètre est illicite. Le règlement intérieur ne peut pas contenir de dispositions relatives à la rémunération, aux horaires individuels de travail, aux objectifs commerciaux ou aux modalités de prise des congés. Ce sont des sujets contractuels ou relevant du pouvoir de direction.
 
@@ -44,7 +50,7 @@ Le règlement intérieur doit être porté à la connaissance des salariés par 
 
 ## L'impact sur vos sanctions disciplinaires
 
-Si votre règlement intérieur contient des clauses illicites, les sanctions prononcées sur leur fondement sont nulles. Un licenciement pour faute fondé sur la violation d'une clause illicite du règlement intérieur sera requalifié en licenciement sans cause réelle et sérieuse.
+Si votre règlement intérieur contient des clauses illicites, les sanctions prononcées sur leur fondement sont nulles. Un licenciement pour faute fondé sur la violation d'une clause illicite du règlement intérieur sera requalifié en licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher).
 
 Plus subtil : si l'échelle des sanctions prévue au règlement intérieur est incomplète ou mal hiérarchisée, vous risquez de ne pas pouvoir appliquer la sanction appropriée. Le règlement doit prévoir une gradation claire des sanctions : avertissement, blâme, mise à pied disciplinaire (avec durée maximale), mutation disciplinaire, rétrogradation, licenciement.
 

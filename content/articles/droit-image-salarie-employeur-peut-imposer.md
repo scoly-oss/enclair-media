@@ -1,16 +1,23 @@
 ---
-title: "Droit à l'image du salarié : ce que l'employeur peut imposer"
-excerpt: "L'employeur peut-il photographier ses salariés pour son site web ou ses brochures commerciales ? Le droit à l'image est un droit de la personnalité qui exige en principe le consentement du salarié. Mais la jurisprudence nuance."
-date: "2026-02-11"
-category: "jurisprudence"
-tags: ["droit image", "consentement", "photographie", "site web employeur"]
-readTime: "6 min"
+title: 'Droit à l''image du salarié : ce que l''employeur peut imposer'
+excerpt: >-
+  L'employeur peut-il photographier ses salariés pour son site web ou ses
+  brochures commerciales ? Le droit à l'image est un droit de la personnalité
+  qui.
+date: '2026-02-11'
+category: jurisprudence
+tags:
+  - droit image
+  - consentement
+  - photographie
+  - site web employeur
+readTime: 6 min
 sources:
-  - "Article 9 du Code civil"
-  - "Cass. soc., 19 janvier 2022, n° 20-12.420"
-  - "Cass. soc., 12 novembre 2020, n° 19-20.583"
-  - "Article 226-1 du Code pénal"
-  - "RGPD, Article 6"
+  - Article 9 du Code civil
+  - 'Cass. soc., 19 janvier 2022, n° 20-12.420'
+  - 'Cass. soc., 12 novembre 2020, n° 19-20.583'
+  - Article 226-1 du Code pénal
+  - 'RGPD, Article 6'
 ---
 
 À l'ère des réseaux sociaux et de la communication digitale, les entreprises utilisent massivement l'image de leurs salariés : site web, brochure commerciale, profils LinkedIn, vidéos institutionnelles. Or, le droit à l'image est un attribut du droit au respect de la vie privée, protégé par l'article 9 du Code civil. L'employeur ne peut pas disposer librement de l'image de ses salariés.
@@ -25,7 +32,7 @@ L'employeur qui souhaite utiliser l'image d'un salarié doit recueillir son **co
 - La durée de l'utilisation
 - Le périmètre géographique
 
-La Cour de cassation a jugé que la subordination inhérente au contrat de travail rend le consentement du salarié particulièrement fragile. Il doit être recueilli **séparément du contrat de travail**, pour éviter que le salarié ne se sente contraint de l'accorder (Cass. soc., 19 janvier 2022, n° 20-12.420).
+La Cour de cassation a jugé que la subordination inhérente au [contrat de travail](https://enclair.media/articles/resiliation-judiciaire-manquements-graves-cour) rend le consentement du salarié particulièrement fragile. Il doit être recueilli **séparément du contrat de travail**, pour éviter que le salarié ne se sente contraint de l'accorder (Cass. soc., 19 janvier 2022, n° 20-12.420).
 
 ## La révocabilité du consentement
 
@@ -37,7 +44,7 @@ La Cour de cassation a précisé que le consentement initial ne vaut pas pour de
 
 ## Le cas du salarié qui quitte l'entreprise
 
-Après la rupture du contrat de travail, l'employeur doit cesser d'utiliser l'image du salarié, sauf consentement renouvelé. Le maintien de la photo du salarié sur le site web de l'entreprise après son départ constitue une atteinte au droit à l'image.
+Après la [rupture du contrat](https://enclair.media/articles/prise-acte-quand-salarie-claque-porte-avec-raison) de travail, l'employeur doit cesser d'utiliser l'image du salarié, sauf consentement renouvelé. Le maintien de la photo du salarié sur le site web de l'entreprise après son départ constitue une atteinte au droit à l'image.
 
 Le salarié qui quitte l'entreprise peut exiger le retrait immédiat de son image de tous les supports de communication.
 
@@ -52,7 +59,7 @@ L'image est une donnée personnelle au sens du RGPD. Son traitement (captation, 
 ## Les sanctions en cas de violation
 
 L'utilisation de l'image d'un salarié sans son consentement expose l'employeur à :
-- Des **dommages et intérêts** pour atteinte à la vie privée (article 9 du Code civil)
+- Des **[dommages et intérêts](https://enclair.media/articles/discrimination-syndicale-comparaison-carriere-imposee)** pour atteinte à la vie privée (article 9 du Code civil)
 - Des **sanctions pénales** (article 226-1 du Code pénal : un an d'emprisonnement et 45 000 € d'amende pour la captation d'image dans un lieu privé)
 - Des **sanctions CNIL** au titre du RGPD
 

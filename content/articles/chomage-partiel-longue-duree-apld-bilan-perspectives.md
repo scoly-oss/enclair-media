@@ -1,19 +1,25 @@
 ---
-title: "Chômage partiel de longue durée (APLD) : bilan et perspectives"
-excerpt: "L'Activité Partielle de Longue Durée a été le bouclier social de la crise Covid. En 2025, le dispositif est recentré mais toujours disponible pour les entreprises en difficulté durable."
-date: "2025-09-04"
-category: "economie"
-tags: ["APLD", "activité partielle", "chômage partiel", "accord collectif"]
-readTime: "6 min"
+title: 'Chômage partiel de longue durée (APLD) : bilan et perspectives'
+excerpt: >-
+  L'Activité Partielle de Longue Durée a été le bouclier social de la crise
+  Covid. En 2025, le dispositif est recentré mais toujours disponible pour les.
+date: '2025-09-04'
+category: economie
+tags:
+  - APLD
+  - activité partielle
+  - chômage partiel
+  - accord collectif
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.5122-1 à L.5122-5"
-  - "Loi n°2020-734 du 17 juin 2020 (création de l'APLD)"
-  - "Décret n°2020-926 du 28 juillet 2020 modifié"
+  - 'Code du travail, articles L.5122-1 à L.5122-5'
+  - Loi n°2020-734 du 17 juin 2020 (création de l'APLD)
+  - Décret n°2020-926 du 28 juillet 2020 modifié
 ---
 
 ## Votre activité a baissé de 30 % depuis 6 mois. Vous hésitez entre licencier et attendre. L'APLD peut être votre troisième option.
 
-L'activité partielle classique est conçue pour les baisses d'activité **ponctuelles**. Quand la baisse se prolonge, l'APLD prend le relais avec un cadre plus protecteur pour l'employeur et le salarié.
+L'[activité partielle](https://enclair.media/articles/activite-partielle-conditions-durcies-2026) classique est conçue pour les baisses d'activité **ponctuelles**. Quand la baisse se prolonge, l'APLD prend le relais avec un cadre plus protecteur pour l'employeur et le salarié.
 
 ## L'APLD en 2025 : ce qui reste
 
@@ -32,8 +38,8 @@ L'APLD ne peut être mise en place que par :
 L'accord doit préciser :
 - Les activités et les salariés concernés
 - La réduction maximale de l'horaire de travail
-- Les engagements en matière d'**emploi** (pas de licenciement économique pendant la durée de l'APLD pour les salariés concernés)
-- Les engagements en matière de **formation professionnelle**
+- Les engagements en matière d'**emploi** (pas de [licenciement économique](https://enclair.media/articles/co-emploi-societe-mere-responsable-salaries-filiale) pendant la durée de l'APLD pour les salariés concernés)
+- Les engagements en matière de **[formation professionnelle](https://enclair.media/articles/contribution-formation-changements-france-competences)**
 - Les modalités d'information du CSE
 
 ### Les engagements de maintien dans l'emploi

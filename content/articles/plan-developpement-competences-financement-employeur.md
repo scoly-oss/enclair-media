@@ -1,15 +1,23 @@
 ---
-title: "Plan de développement des compétences : ce que l'employeur doit financer"
-excerpt: "Le plan de développement des compétences remplace l'ancien plan de formation. Il recense les actions de formation que l'employeur décide de financer pour ses salariés. Obligations, catégories d'actions et conséquences du non-respect."
-date: "2025-11-25"
-category: "decryptage"
-tags: ["formation", "plan de développement", "compétences", "obligation employeur"]
-readTime: "6 min"
+title: 'Plan de développement des compétences : ce que l''employeur doit financer'
+excerpt: >-
+  Le plan de développement des compétences remplace l'ancien plan de formation.
+  Il recense les actions de formation que l'employeur décide de financer.
+date: '2025-11-25'
+category: decryptage
+tags:
+  - formation
+  - plan de développement
+  - compétences
+  - obligation employeur
+readTime: 6 min
 sources:
-  - "Articles L. 6312-1 et L. 6321-1 du Code du travail"
-  - "Article L. 6331-1 du Code du travail (contribution formation)"
-  - "Loi n° 2018-771 du 5 septembre 2018 (liberté de choisir son avenir professionnel)"
-  - "Cass. soc., 18 mars 2020, n° 18-22.535"
+  - Articles L. 6312-1 et L. 6321-1 du Code du travail
+  - Article L. 6331-1 du Code du travail (contribution formation)
+  - >-
+    Loi n° 2018-771 du 5 septembre 2018 (liberté de choisir son avenir
+    professionnel)
+  - 'Cass. soc., 18 mars 2020, n° 18-22.535'
 ---
 
 Le plan de développement des compétences est l'outil central de la politique de formation de l'entreprise. Il recense l'ensemble des actions de formation que l'employeur décide de déployer pour ses salariés. Contrairement au CPF qui relève de l'initiative du salarié, le plan relève de la décision de l'employeur, avec des obligations précises.
@@ -42,13 +50,13 @@ Cette obligation est distincte du plan de développement des compétences : mêm
 
 Le défaut d'adaptation peut constituer un **manquement** de l'employeur à son obligation de formation, ouvrant droit à des dommages-intérêts pour le salarié. La Cour de cassation a jugé que l'employeur qui n'a proposé aucune formation à un salarié pendant plusieurs années manque à son obligation (Cass. soc., 18 mars 2020, n° 18-22.535).
 
-En cas de licenciement économique, le défaut de formation peut rendre le licenciement sans cause réelle et sérieuse si le salarié n'a pas été préparé à l'évolution de son poste.
+En cas de [licenciement économique](https://enclair.media/articles/obligation-reclassement-licenciement-economique-perimetre), le défaut de formation peut rendre le licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher) si le salarié n'a pas été préparé à l'évolution de son poste.
 
 ## Le financement
 
 ### La contribution unique à la formation professionnelle
 
-Toutes les entreprises contribuent au financement de la formation professionnelle via la **contribution unique** :
+Toutes les entreprises contribuent au financement de la [formation professionnelle](https://enclair.media/articles/clause-dedit-formation-conditions-validite) via la **contribution unique** :
 
 - **0,55 %** de la masse salariale pour les entreprises de moins de 11 salariés
 - **1 %** pour les entreprises de 11 salariés et plus

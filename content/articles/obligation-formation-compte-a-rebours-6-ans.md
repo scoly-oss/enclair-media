@@ -1,15 +1,21 @@
 ---
-title: "Obligation de formation : le compte à rebours des 6 ans"
-excerpt: "Tous les 6 ans, vous devez prouver que chaque salarié a bénéficié d'au moins une formation non obligatoire. Sinon ? Un abondement correctif de 3 000 euros par salarié sur son CPF. Le premier cycle s'est terminé en 2020. Le deuxième arrive."
-date: "2025-03-24"
-category: "droit-social"
-tags: ["formation professionnelle", "entretien professionnel", "CPF", "abondement correctif"]
-readTime: "7 min"
+title: 'Obligation de formation : le compte à rebours des 6 ans'
+excerpt: >-
+  Tous les 6 ans, vous devez prouver que chaque salarié a bénéficié d'au moins
+  une formation non obligatoire. Sinon ?
+date: '2025-03-24'
+category: droit-social
+tags:
+  - formation professionnelle
+  - entretien professionnel
+  - CPF
+  - abondement correctif
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.6315-1 et L.6323-13"
-  - "Loi n° 2018-771 du 5 septembre 2018 (Avenir professionnel)"
-  - "Cass. soc., 7 mars 2018, n° 16-19.825"
-  - "Instruction DGEFP du 26 mars 2021"
+  - 'Code du travail, articles L.6315-1 et L.6323-13'
+  - Loi n° 2018-771 du 5 septembre 2018 (Avenir professionnel)
+  - 'Cass. soc., 7 mars 2018, n° 16-19.825'
+  - Instruction DGEFP du 26 mars 2021
 ---
 
 Le premier cycle de six ans de l'obligation de formation a commencé le 7 mars 2014. Pour les salariés présents à cette date, l'état des lieux récapitulatif devait être réalisé avant le 7 mars 2020. Le deuxième cycle se termine en 2026 pour ces mêmes salariés.
@@ -18,15 +24,15 @@ Si vous n'avez rien mis en place, vous êtes en infraction. Et la sanction est a
 
 ## L'entretien professionnel : une obligation distincte de l'entretien annuel
 
-L'article L.6315-1 du Code du travail impose un entretien professionnel tous les deux ans, distinct de l'entretien annuel d'évaluation. Cet entretien est consacré aux perspectives d'évolution professionnelle du salarié, notamment en termes de qualifications et d'emploi. Il ne porte pas sur l'évaluation du travail du salarié.
+L'article L.6315-1 du Code du travail impose un [entretien professionnel](https://enclair.media/articles/entretien-professionnel-sanctions-absence) tous les deux ans, distinct de l'entretien annuel d'évaluation. Cet entretien est consacré aux perspectives d'évolution professionnelle du salarié, notamment en termes de qualifications et d'emploi. Il ne porte pas sur l'évaluation du travail du salarié.
 
-Beaucoup d'entreprises confondent les deux. L'entretien annuel évalue la performance. L'entretien professionnel porte sur l'avenir : souhaits de formation, perspectives de mobilité, utilisation du CPF, validation des acquis de l'expérience.
+Beaucoup d'entreprises confondent les deux. L'entretien annuel évalue la performance. L'[entretien professionnel](https://enclair.media/articles/entretien-annuel-vs-entretien-professionnel) porte sur l'avenir : souhaits de formation, perspectives de mobilité, utilisation du CPF, validation des acquis de l'expérience.
 
 Cette distinction n'est pas anodine : lors du bilan à six ans, c'est la tenue des entretiens professionnels qui sera vérifiée, pas celle des entretiens annuels. Si vous n'avez fait que des entretiens annuels, vous n'avez pas rempli votre obligation.
 
 ## Le bilan à six ans : les trois critères à vérifier
 
-Tous les six ans, l'entretien professionnel fait l'objet d'un état des lieux récapitulatif du parcours professionnel du salarié. Ce bilan doit permettre de vérifier que le salarié a bénéficié, au cours des six dernières années, des entretiens professionnels prévus et d'au moins une formation non obligatoire.
+Tous les six ans, l'[entretien professionnel](https://enclair.media/articles/conge-parental-nouvelles-regles-retour-poste) fait l'objet d'un état des lieux récapitulatif du parcours professionnel du salarié. Ce bilan doit permettre de vérifier que le salarié a bénéficié, au cours des six dernières années, des entretiens professionnels prévus et d'au moins une formation non obligatoire.
 
 Depuis la loi Avenir professionnel du 5 septembre 2018, le critère est simplifié : le salarié doit avoir bénéficié d'au moins une action de formation « autre que celle qui conditionne l'exercice d'une activité ou d'une fonction, en application d'une convention internationale ou de dispositions légales et réglementaires » (article L.6321-2).
 

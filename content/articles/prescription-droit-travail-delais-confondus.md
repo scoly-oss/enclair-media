@@ -1,14 +1,20 @@
 ---
-title: "Prescription en droit du travail : les délais que vous confondez"
-excerpt: "1 an, 2 ans, 3 ans, 5 ans : les délais de prescription en droit du travail sont multiples et souvent confondus. Une erreur de délai peut vous faire perdre un procès que vous auriez gagné."
-date: "2025-08-22"
-category: "jurisprudence"
-tags: ["prescription", "délais", "contentieux", "prud'hommes"]
-readTime: "6 min"
+title: 'Prescription en droit du travail : les délais que vous confondez'
+excerpt: >-
+  1 an, 2 ans, 3 ans, 5 ans : les délais de prescription en droit du travail
+  sont multiples et souvent confondus.
+date: '2025-08-22'
+category: jurisprudence
+tags:
+  - prescription
+  - délais
+  - contentieux
+  - prud'hommes
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.1471-1 et L.3245-1"
-  - "Cass. soc., 30 juin 2021, n°18-23.932"
-  - "Loi n°2013-504 du 14 juin 2013 (réforme de la prescription)"
+  - 'Code du travail, articles L.1471-1 et L.3245-1'
+  - 'Cass. soc., 30 juin 2021, n°18-23.932'
+  - Loi n°2013-504 du 14 juin 2013 (réforme de la prescription)
 ---
 
 ## Un ancien salarié vous attaque 18 mois après son départ. Est-il trop tard pour lui ? Ça dépend de ce qu'il réclame.
@@ -21,7 +27,7 @@ La prescription est votre meilleure défense quand un ancien salarié agit tardi
 
 Depuis la loi du 14 juin 2013, toute action portant sur la **rupture du contrat de travail** se prescrit par **12 mois** à compter de la notification du licenciement (article L.1471-1, alinéa 2).
 
-Ce délai concerne : la contestation du motif de licenciement, la demande de dommages et intérêts pour licenciement sans cause réelle et sérieuse, la contestation d'une rupture conventionnelle.
+Ce délai concerne : la contestation du motif de licenciement, la demande de dommages et intérêts pour licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher), la contestation d'une rupture conventionnelle.
 
 **Le piège** : ce délai de 1 an ne s'applique pas aux licenciements nuls (discrimination, harcèlement, liberté fondamentale). Dans ces cas, la prescription est de **5 ans**.
 
@@ -29,13 +35,13 @@ Ce délai concerne : la contestation du motif de licenciement, la demande de dom
 
 Toute action portant sur l'**exécution du contrat de travail** se prescrit par **2 ans** (article L.1471-1, alinéa 1). Ce délai court à compter du jour où le salarié a connu ou aurait dû connaître les faits.
 
-Ce délai concerne : la modification unilatérale du contrat, le non-respect d'une clause contractuelle, la contestation d'une sanction disciplinaire, le manquement à l'obligation de formation.
+Ce délai concerne : la modification unilatérale du contrat, le non-respect d'une clause contractuelle, la contestation d'une [sanction disciplinaire](https://enclair.media/articles/avertissement-pourquoi-le-votre-est-peut-etre-nul), le manquement à l'obligation de formation.
 
 ### 3 ans : les créances salariales
 
 L'action en paiement de **salaires** se prescrit par **3 ans** à compter du jour où le salarié a connu ou aurait dû connaître les faits (article L.3245-1).
 
-Ce délai concerne : les rappels de salaire, les heures supplémentaires, les primes non versées, les congés payés non pris, les indemnités de rupture.
+Ce délai concerne : les rappels de salaire, les [heures supplémentaires](https://enclair.media/articles/heures-supplementaires-la-preuve-qui-manque-toujours), les primes non versées, les congés payés non pris, les indemnités de rupture.
 
 **Point crucial** : même si l'action est engagée dans le délai de 3 ans, les demandes de rappel ne peuvent porter que sur les sommes dues au titre des **3 dernières années** à compter de la saisine du conseil de prud'hommes.
 

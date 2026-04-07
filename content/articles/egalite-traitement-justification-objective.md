@@ -1,14 +1,20 @@
 ---
-title: "Égalité de traitement : la justification objective que vous devez prouver"
-excerpt: "Deux salariés au même poste avec des salaires différents ? La Cour de cassation vous demande de justifier objectivement chaque écart. L'ancienneté seule ne suffit plus."
-date: "2025-06-20"
-category: "jurisprudence"
-tags: ["égalité de traitement", "discrimination", "rémunération", "à travail égal salaire égal"]
-readTime: "6 min"
+title: 'Égalité de traitement : la justification objective que vous devez prouver'
+excerpt: >-
+  Deux salariés au même poste avec des salaires différents ? La Cour de
+  cassation vous demande de justifier objectivement chaque écart.
+date: '2025-06-20'
+category: jurisprudence
+tags:
+  - égalité de traitement
+  - discrimination
+  - rémunération
+  - à travail égal salaire égal
+readTime: 6 min
 sources:
-  - "Cass. soc., 1er juillet 2009, n°07-42.675 (arrêt de principe)"
-  - "Cass. soc., 14 septembre 2022, n°21-12.175"
-  - "Code du travail, article L.3221-2 (égalité de rémunération)"
+  - 'Cass. soc., 1er juillet 2009, n°07-42.675 (arrêt de principe)'
+  - 'Cass. soc., 14 septembre 2022, n°21-12.175'
+  - 'Code du travail, article L.3221-2 (égalité de rémunération)'
 ---
 
 ## Vous payez votre commercial senior 20 % de plus que son collègue junior. Pouvez-vous justifier cet écart ?
@@ -19,7 +25,7 @@ Le principe "à travail égal, salaire égal" est l'un des piliers du droit du t
 
 La mécanique contentieuse est redoutable. Le salarié doit simplement démontrer qu'il est dans une situation **comparable** à celle d'un collègue mieux traité (même poste, mêmes fonctions, même qualification). C'est alors à **l'employeur** de prouver que la différence de traitement est justifiée par des **éléments objectifs et pertinents**.
 
-Si l'employeur ne peut pas justifier, la différence est présumée discriminatoire et le salarié obtient un rappel de salaire sur les 3 dernières années, plus des dommages et intérêts.
+Si l'employeur ne peut pas justifier, la différence est présumée discriminatoire et le salarié obtient un rappel de salaire sur les 3 dernières années, plus des [dommages et intérêts](https://enclair.media/articles/discrimination-syndicale-comparaison-carriere-imposee).
 
 ## Les justifications acceptées par la Cour
 
@@ -58,8 +64,8 @@ Embaucher un profil rare à un salaire plus élevé que celui des salariés en p
 
 3. **Formalisez vos critères de rémunération** dans une grille accessible : niveaux, échelons, critères de progression.
 
-4. **Vérifiez l'égalité homme-femme** en priorité : c'est le sujet le plus contrôlé et le plus sanctionné (index d'égalité professionnelle).
+4. **Vérifiez l'égalité homme-femme** en priorité : c'est le sujet le plus contrôlé et le plus sanctionné (index d'[égalité professionnelle](https://enclair.media/articles/nao-themes-obligatoires-risque-penal)).
 
 5. **Anticipez les questions** : si un salarié vous demande pourquoi son collègue gagne plus, vous devez avoir une réponse objective et immédiate.
 
-L'égalité de traitement n'est pas l'uniformité. C'est la justification. Et dans un monde où les salariés comparent de plus en plus leurs rémunérations, mieux vaut avoir vos justifications prêtes que de les improviser aux prud'hommes.
+L'[égalité de traitement](https://enclair.media/articles/inegalite-traitement-cdi-cdd-cour-sanctionne) n'est pas l'uniformité. C'est la justification. Et dans un monde où les salariés comparent de plus en plus leurs rémunérations, mieux vaut avoir vos justifications prêtes que de les improviser aux prud'hommes.

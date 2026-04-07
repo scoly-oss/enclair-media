@@ -1,19 +1,25 @@
 ---
-title: "Avantage en nature véhicule : les barèmes URSSAF 2026"
-excerpt: "L'utilisation privée d'un véhicule de fonction constitue un avantage en nature soumis à cotisations. Deux méthodes d'évaluation coexistent, avec des barèmes actualisés pour 2026. Le guide complet pour les gestionnaires de paie."
-date: "2026-02-13"
-category: "economie"
-tags: ["avantage en nature", "véhicule", "URSSAF", "barème 2026"]
-readTime: "6 min"
+title: 'Avantage en nature véhicule : les barèmes URSSAF 2026'
+excerpt: >-
+  L'utilisation privée d'un véhicule de fonction constitue un avantage en nature
+  soumis à cotisations.
+date: '2026-02-13'
+category: economie
+tags:
+  - avantage en nature
+  - véhicule
+  - URSSAF
+  - barème 2026
+readTime: 6 min
 sources:
-  - "Article L.136-1-1 du Code de la sécurité sociale"
-  - "Arrêté du 10 décembre 2002 modifié"
-  - "BOSS, fiche Avantages en nature, §800"
-  - "Article L.242-1 du Code de la sécurité sociale"
-  - "Arrêté du 25 février 2025 (mise à jour barèmes)"
+  - Article L.136-1-1 du Code de la sécurité sociale
+  - Arrêté du 10 décembre 2002 modifié
+  - 'BOSS, fiche Avantages en nature, §800'
+  - Article L.242-1 du Code de la sécurité sociale
+  - Arrêté du 25 février 2025 (mise à jour barèmes)
 ---
 
-Lorsqu'un employeur met un véhicule à la disposition permanente d'un salarié, y compris pour un usage privé, il crée un avantage en nature soumis à cotisations sociales et à l'impôt sur le revenu. L'évaluation de cet avantage obéit à des règles précises, avec deux méthodes au choix de l'employeur. Voici les barèmes 2026 et les clés pour choisir la méthode la plus adaptée.
+Lorsqu'un employeur met un véhicule à la disposition permanente d'un salarié, y compris pour un usage privé, il crée un avantage en nature soumis à [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025) et à l'impôt sur le revenu. L'évaluation de cet avantage obéit à des règles précises, avec deux méthodes au choix de l'employeur. Voici les barèmes 2026 et les clés pour choisir la méthode la plus adaptée.
 
 ## Les deux méthodes d'évaluation
 
@@ -58,12 +64,12 @@ C'est la méthode la plus utilisée car elle simplifie considérablement le calc
 
 ## Exemple de calcul
 
-**Situation :** Véhicule de fonction acheté neuf à 35 000 € TTC, mis à disposition d'un cadre qui l'utilise également à titre privé. L'employeur prend en charge le carburant.
+**Situation :** [Véhicule de fonction](https://enclair.media/articles/avantages-en-nature-redressement-guette) acheté neuf à 35 000 € TTC, mis à disposition d'un cadre qui l'utilise également à titre privé. L'employeur prend en charge le carburant.
 
 **Méthode forfaitaire :**
 - Véhicule de moins de 5 ans avec carburant : 12 % × 35 000 = **4 200 € par an**, soit **350 € par mois**
 
-Ce montant de 350 € est ajouté au salaire brut du salarié pour le calcul des cotisations sociales. Il figure sur le bulletin de paie comme avantage en nature.
+Ce montant de 350 € est ajouté au salaire brut du salarié pour le calcul des [cotisations sociales](https://enclair.media/articles/cotisations-sociales-2026-ce-qui-change-bulletins). Il figure sur le bulletin de paie comme avantage en nature.
 
 **Si le véhicule est électrique :**
 - 4 200 € × 50 % = 2 100 €, plafonné à 1 964,90 €

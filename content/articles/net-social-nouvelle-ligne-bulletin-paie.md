@@ -1,16 +1,22 @@
 ---
-title: "Net social : la nouvelle ligne du bulletin de paie décryptée"
-excerpt: "Le montant net social est affiché sur tous les bulletins de paie depuis juillet 2023. Cette ligne, essentielle pour les déclarations sociales des salariés, est aussi un enjeu de conformité pour les employeurs. Explication complète."
-date: "2026-03-22"
-category: "economie"
-tags: ["net social", "bulletin de paie", "déclaration", "RSA"]
-readTime: "6 min"
+title: 'Net social : la nouvelle ligne du bulletin de paie décryptée'
+excerpt: >-
+  Le montant net social est affiché sur tous les bulletins de paie depuis
+  juillet 2023. Cette ligne, essentielle pour les déclarations sociales des.
+date: '2026-03-22'
+category: economie
+tags:
+  - net social
+  - bulletin de paie
+  - déclaration
+  - RSA
+readTime: 6 min
 sources:
-  - "Arrêté du 31 janvier 2023 relatif au montant net social"
-  - "Article R.3243-1 du Code du travail"
-  - "Décret n° 2023-33 du 26 janvier 2023"
-  - "Article L.3243-2 du Code du travail"
-  - "BOSS, fiche Bulletin de paie, §2240"
+  - Arrêté du 31 janvier 2023 relatif au montant net social
+  - Article R.3243-1 du Code du travail
+  - Décret n° 2023-33 du 26 janvier 2023
+  - Article L.3243-2 du Code du travail
+  - 'BOSS, fiche Bulletin de paie, §2240'
 ---
 
 Depuis le 1er juillet 2023, une nouvelle ligne est apparue sur les bulletins de paie de tous les salariés : le **montant net social**. Obligatoire depuis le 1er janvier 2024 dans sa version définitive, cette donnée sert de base aux déclarations de ressources pour les prestations sociales (RSA, prime d'activité, APL). Pour les employeurs, c'est une obligation de conformité supplémentaire dont le calcul mérite une attention particulière.
@@ -25,7 +31,7 @@ Ce montant diffère du net à payer. Il ne tient pas compte :
 - Des avances et acomptes
 - Des saisies sur salaire
 
-La formule simplifiée est : **Net social = Brut - Cotisations sociales obligatoires du salarié**
+La formule simplifiée est : **Net social = Brut - [Cotisations sociales](https://enclair.media/articles/cotisations-sociales-2026-ce-qui-change-bulletins) obligatoires du salarié**
 
 ## Ce qui entre dans le calcul
 
@@ -39,7 +45,7 @@ Le montant net social intègre l'ensemble des revenus bruts soumis à cotisation
 - La participation patronale aux frais de transport
 - Les indemnités de rupture pour leur partie soumise à cotisations
 
-Sont déduits de ce brut les seules **cotisations sociales obligatoires** à la charge du salarié : cotisations maladie, vieillesse, retraite complémentaire, chômage, CSG/CRDS déductible.
+Sont déduits de ce brut les seules **cotisations sociales obligatoires** à la charge du salarié : cotisations maladie, vieillesse, [retraite complémentaire](https://enclair.media/articles/cotisations-retraite-cadres-changements-agirc-arrco), chômage, CSG/CRDS déductible.
 
 ## Ce qui n'est pas déduit (contrairement au net à payer)
 
@@ -72,7 +78,7 @@ Les salariés n'ont plus à estimer eux-mêmes leurs revenus pour leurs déclara
 
 **La conformité du calcul.** Le montant net social fait l'objet de contrôles par les URSSAF dans le cadre de la vérification des DSN. Une erreur de calcul peut entraîner des régularisations et des pénalités.
 
-**La mise à jour des logiciels de paie.** Tous les éditeurs de logiciels de paie ont intégré le calcul du montant net social. L'employeur doit vérifier que son logiciel applique les règles correctement, en particulier pour les cas complexes (temps partiel thérapeutique, multi-employeurs, IJSS subrogées).
+**La mise à jour des logiciels de paie.** Tous les éditeurs de logiciels de paie ont intégré le calcul du montant net social. L'employeur doit vérifier que son logiciel applique les règles correctement, en particulier pour les cas complexes ([temps partiel thérapeutique](https://enclair.media/articles/decret-temps-partiel-therapeutique-nouvelles-regles), multi-employeurs, IJSS subrogées).
 
 **L'information des salariés.** Les services RH doivent être en mesure d'expliquer aux salariés la différence entre net social et net à payer, source fréquente de questions et d'incompréhension.
 

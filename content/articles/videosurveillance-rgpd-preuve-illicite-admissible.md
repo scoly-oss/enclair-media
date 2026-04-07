@@ -1,18 +1,24 @@
 ---
-title: "Vidéosurveillance et RGPD : la preuve illicite qui reste admissible"
-excerpt: "La Cour de cassation a assoupli sa position sur les preuves issues de la vidéosurveillance. Même obtenue en violation du RGPD, une preuve peut être admise si elle est indispensable et proportionnée. Analyse de ce revirement majeur."
-date: "2025-10-30"
-category: "jurisprudence"
-tags: ["vidéosurveillance", "RGPD", "preuve illicite", "licenciement"]
-readTime: "7 min"
+title: 'Vidéosurveillance et RGPD : la preuve illicite qui reste admissible'
+excerpt: >-
+  La Cour de cassation a assoupli sa position sur les preuves issues de la
+  vidéosurveillance. Même obtenue en violation du RGPD, une preuve peut être.
+date: '2025-10-30'
+category: jurisprudence
+tags:
+  - vidéosurveillance
+  - RGPD
+  - preuve illicite
+  - licenciement
+readTime: 7 min
 sources:
-  - "Cass. soc., 22 décembre 2023, n° 20-20.648"
-  - "Cass. Ass. plén., 22 décembre 2023, n° 20-20.648"
-  - "CEDH, 17 octobre 2019, López Ribalda c. Espagne, n° 1874/13"
-  - "Article 6 de la Convention européenne des droits de l'homme"
+  - 'Cass. soc., 22 décembre 2023, n° 20-20.648'
+  - 'Cass. Ass. plén., 22 décembre 2023, n° 20-20.648'
+  - 'CEDH, 17 octobre 2019, López Ribalda c. Espagne, n° 1874/13'
+  - Article 6 de la Convention européenne des droits de l'homme
 ---
 
-La question de l'admissibilité en justice des preuves obtenues par vidéosurveillance en violation du RGPD est un sujet brûlant pour les employeurs. La Cour de cassation, dans un arrêt d'Assemblée plénière du 22 décembre 2023, a opéré un revirement majeur en admettant que le juge puisse retenir une preuve illicite sous certaines conditions.
+La question de l'admissibilité en justice des preuves obtenues par vidéosurveillance en violation du RGPD est un sujet brûlant pour les employeurs. La [Cour de cassation](https://enclair.media/articles/obligation-reclassement-cour-cassation-2025), dans un arrêt d'[Assemblée plénière](https://enclair.media/articles/preuve-deloyale-videosurveillance-sauve-ou-coule-dossier) du 22 décembre 2023, a opéré un revirement majeur en admettant que le juge puisse retenir une preuve illicite sous certaines conditions.
 
 ## La position historique : rejet de la preuve illicite
 
@@ -66,7 +72,7 @@ Le non-respect de ces obligations expose l'employeur à des sanctions de la CNIL
 1. **Mettre en conformité** votre dispositif de vidéosurveillance avec le RGPD et le Code du travail
 2. **Informer les salariés** par affichage et dans le règlement intérieur
 3. **Consulter le CSE** avant toute mise en place ou modification
-4. **Conserver les enregistrements** pendant 1 mois maximum, sauf procédure disciplinaire en cours
+4. **Conserver les enregistrements** pendant 1 mois maximum, sauf [procédure disciplinaire](https://enclair.media/articles/faute-grave-arrets-qui-ont-change-donne-2025) en cours
 5. En cas de constatation d'une faute par vidéosurveillance, **évaluer** si la preuve est indispensable et si d'autres éléments la corroborent
 
 Ce revirement jurisprudentiel rééquilibre le contentieux de la preuve en matière sociale, mais il ne dispense pas l'employeur de ses obligations en matière de protection des données personnelles.

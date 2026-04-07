@@ -1,18 +1,24 @@
 ---
-title: "PPV vs intéressement : quel dispositif choisir en 2026"
-excerpt: "Prime de partage de la valeur ou intéressement ? Les deux dispositifs sont exonérés de cotisations dans certaines limites, mais leur régime fiscal, leur flexibilité et leur impact sur les salariés diffèrent. Comparatif opérationnel."
-date: "2026-01-26"
-category: "decryptage"
-tags: ["PPV", "intéressement", "épargne salariale", "choix employeur"]
-readTime: "7 min"
+title: 'PPV vs intéressement : quel dispositif choisir en 2026'
+excerpt: >-
+  Prime de partage de la valeur ou intéressement ? Les deux dispositifs sont
+  exonérés de cotisations dans certaines limites, mais leur régime fiscal,.
+date: '2026-01-26'
+category: decryptage
+tags:
+  - PPV
+  - intéressement
+  - épargne salariale
+  - choix employeur
+readTime: 7 min
 sources:
-  - "Loi n° 2022-1158 du 16 août 2022 (PPV)"
-  - "Code du travail, articles L.3312-1 à L.3312-8 (intéressement)"
-  - "Loi n° 2023-1107 du 29 novembre 2023 (Partage de la valeur)"
-  - "BOSS, Épargne salariale, mis à jour 2025"
+  - Loi n° 2022-1158 du 16 août 2022 (PPV)
+  - 'Code du travail, articles L.3312-1 à L.3312-8 (intéressement)'
+  - Loi n° 2023-1107 du 29 novembre 2023 (Partage de la valeur)
+  - 'BOSS, Épargne salariale, mis à jour 2025'
 ---
 
-Vous souhaitez redistribuer une partie de vos résultats à vos salariés en optimisant les charges. Deux dispositifs s'offrent à vous : la prime de partage de la valeur (PPV) et l'intéressement. Le premier est simple et rapide à mettre en place. Le second est plus structurant mais plus contraignant. Lequel choisir ?
+Vous souhaitez redistribuer une partie de vos résultats à vos salariés en optimisant les charges. Deux dispositifs s'offrent à vous : la [prime de partage de la valeur](https://enclair.media/articles/prime-partage-valeur-guide-complet-employeur) (PPV) et l'intéressement. Le premier est simple et rapide à mettre en place. Le second est plus structurant mais plus contraignant. Lequel choisir ?
 
 La réponse dépend de votre taille, de votre régularité de versement et de vos objectifs à moyen terme.
 
@@ -20,7 +26,7 @@ La réponse dépend de votre taille, de votre régularité de versement et de vo
 
 La PPV peut être mise en place par décision unilatérale de l'employeur, sans négociation d'accord collectif (après simple consultation du CSE). Elle peut être versée deux fois par an. Son montant est discrétionnaire, dans la limite des plafonds d'exonération.
 
-L'exonération sociale est totale pour les entreprises de moins de 50 salariés et les salariés gagnant moins de 3 SMIC : pas de cotisations sociales, pas de CSG-CRDS, pas d'impôt sur le revenu, dans la limite de 3 000 euros par an (6 000 euros avec un accord d'intéressement ou de participation).
+L'exonération sociale est totale pour les entreprises de moins de 50 salariés et les salariés gagnant moins de 3 SMIC : pas de [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025), pas de CSG-CRDS, pas d'impôt sur le revenu, dans la limite de 3 000 euros par an (6 000 euros avec un accord d'intéressement ou de participation).
 
 Pour les entreprises de 50 salariés et plus : exonération de cotisations sociales, mais CSG-CRDS (9,7 %) et impôt sur le revenu dus par le salarié, plus forfait social de 20 % pour l'employeur.
 
@@ -44,7 +50,7 @@ Avec la PPV (entreprise de moins de 50 salariés, salariés à moins de 3 SMIC) 
 
 Avec l'intéressement (entreprise de moins de 250 salariés) : coût employeur = 2 000 euros par salarié (pas de forfait social). Net perçu par le salarié = 2 000 - 194 euros de CSG-CRDS = 1 806 euros. Mais si affecté au PEE : pas d'impôt sur le revenu à la sortie. Coût total pour 40 salariés : 80 000 euros.
 
-Dans ce cas, la PPV est légèrement plus avantageuse à court terme pour le salarié (pas de CSG-CRDS). Mais l'intéressement offre un cadre structurant et peut être affecté à l'épargne salariale avec des avantages fiscaux à long terme.
+Dans ce cas, la PPV est légèrement plus avantageuse à court terme pour le salarié (pas de CSG-CRDS). Mais l'intéressement offre un cadre structurant et peut être affecté à l'[épargne salariale](https://enclair.media/articles/epargne-salariale-obligation-pme-plus-50) avec des avantages fiscaux à long terme.
 
 Pour une entreprise de plus de 50 salariés, l'avantage bascule nettement en faveur de l'intéressement : la PPV est soumise au forfait social de 20 % et à la CSG-CRDS, tandis que l'intéressement bénéficie d'une exonération de forfait social jusqu'à 250 salariés.
 

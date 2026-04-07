@@ -1,20 +1,26 @@
 ---
-title: "Prise d'acte : quand le salarié claque la porte avec raison"
-excerpt: "Le salarié démissionne en invoquant des manquements graves de l'employeur. Ce n'est pas une démission mais une prise d'acte. Si les manquements sont avérés, c'est un licenciement sans cause — ou nul. Le risque maximal pour l'employeur."
-date: "2026-02-02"
-category: "jurisprudence"
-tags: ["prise d'acte", "rupture du contrat", "manquements employeur", "licenciement"]
-readTime: "7 min"
+title: 'Prise d''acte : quand le salarié claque la porte avec raison'
+excerpt: >-
+  Le salarié démissionne en invoquant des manquements graves de l'employeur. Ce
+  n'est pas une démission mais une prise d'acte.
+date: '2026-02-02'
+category: jurisprudence
+tags:
+  - prise d'acte
+  - rupture du contrat
+  - manquements employeur
+  - licenciement
+readTime: 7 min
 sources:
-  - "Code du travail, article L.1451-1"
-  - "Cass. soc., 26 mars 2014, n° 12-23.634"
-  - "Cass. soc., 15 mars 2023, n° 21-22.174"
-  - "Cass. soc., 12 juin 2024, n° 22-20.396"
+  - 'Code du travail, article L.1451-1'
+  - 'Cass. soc., 26 mars 2014, n° 12-23.634'
+  - 'Cass. soc., 15 mars 2023, n° 21-22.174'
+  - 'Cass. soc., 12 juin 2024, n° 22-20.396'
 ---
 
-Votre responsable administratif vous envoie un courrier recommandé. Il vous informe qu'il met fin à son contrat de travail en raison de manquements graves : non-paiement d'heures supplémentaires depuis deux ans, absence d'entretien professionnel, non-respect de la convention collective sur la prime d'ancienneté.
+Votre responsable administratif vous envoie un courrier recommandé. Il vous informe qu'il met fin à son contrat de travail en raison de manquements graves : non-paiement d'heures supplémentaires depuis deux ans, absence d'entretien professionnel, non-respect de la [convention collective](https://enclair.media/articles/heure-recherche-emploi-droit-convention-collective) sur la prime d'ancienneté.
 
-Vous pensez que c'est une démission. En réalité, c'est une prise d'acte de la rupture aux torts de l'employeur. Si les manquements sont reconnus par le juge, cette rupture produira les effets d'un licenciement sans cause réelle et sérieuse — avec les indemnités correspondantes.
+Vous pensez que c'est une démission. En réalité, c'est une prise d'acte de la rupture aux torts de l'employeur. Si les manquements sont reconnus par le juge, cette rupture produira les effets d'un licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher) — avec les indemnités correspondantes.
 
 ## Le mécanisme de la prise d'acte
 
@@ -26,7 +32,7 @@ C'est donc un quitte ou double pour le salarié — mais aussi un risque consid�
 
 ## Les manquements qui justifient la prise d'acte
 
-La jurisprudence a identifié de nombreux manquements justifiant une prise d'acte. Le non-paiement des heures supplémentaires, même partiellement. Le non-respect de l'obligation de sécurité (harcèlement non traité, conditions de travail dangereuses). La modification unilatérale du contrat de travail (rémunération, lieu, qualification). Le non-paiement de primes prévues par le contrat ou la convention collective (Cass. soc., 26 mars 2014, n° 12-23.634). L'absence de visite médicale obligatoire. Le non-respect du droit au repos.
+La jurisprudence a identifié de nombreux manquements justifiant une prise d'acte. Le non-paiement des heures supplémentaires, même partiellement. Le non-respect de l'obligation de sécurité (harcèlement non traité, [conditions de travail](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail) dangereuses). La modification unilatérale du contrat de travail (rémunération, lieu, qualification). Le non-paiement de primes prévues par le contrat ou la convention collective (Cass. soc., 26 mars 2014, n° 12-23.634). L'absence de visite médicale obligatoire. Le non-respect du droit au repos.
 
 Le critère déterminant est la gravité du manquement : il doit rendre impossible la poursuite du contrat. Un retard de quelques jours dans le versement d'une prime ne suffit pas. Un non-paiement systématique depuis des mois, oui.
 

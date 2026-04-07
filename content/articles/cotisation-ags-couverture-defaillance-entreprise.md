@@ -1,14 +1,20 @@
 ---
-title: "Cotisation AGS : ce que ça couvre en cas de défaillance"
-excerpt: "L'AGS garantit le paiement des salaires en cas de redressement ou liquidation judiciaire. Mais les plafonds et les délais de garantie sont souvent méconnus des dirigeants."
-date: "2025-09-12"
-category: "economie"
-tags: ["AGS", "défaillance", "liquidation judiciaire", "garantie salaires"]
-readTime: "5 min"
+title: 'Cotisation AGS : ce que ça couvre en cas de défaillance'
+excerpt: >-
+  L'AGS garantit le paiement des salaires en cas de redressement ou liquidation
+  judiciaire. Mais les plafonds et les délais de garantie sont souvent.
+date: '2025-09-12'
+category: economie
+tags:
+  - AGS
+  - défaillance
+  - liquidation judiciaire
+  - garantie salaires
+readTime: 5 min
 sources:
-  - "Code du travail, articles L.3253-1 à L.3253-23"
-  - "Code du travail, article D.3253-5 (plafonds AGS)"
-  - "AGS, Rapport annuel 2024"
+  - 'Code du travail, articles L.3253-1 à L.3253-23'
+  - 'Code du travail, article D.3253-5 (plafonds AGS)'
+  - 'AGS, Rapport annuel 2024'
 ---
 
 ## Votre entreprise est en difficulté. Vos salariés seront-ils payés si vous déposez le bilan ?
@@ -30,7 +36,7 @@ L'AGS couvre les sommes dues aux salariés à la date du jugement d'ouverture de
 - **Indemnités de licenciement** (légale ou conventionnelle)
 - **Indemnité compensatrice de préavis**
 - **Indemnité compensatrice de congés payés**
-- **Dommages et intérêts** pour licenciement sans cause réelle et sérieuse (si fixés par jugement avant la liquidation)
+- **Dommages et intérêts** pour licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher) (si fixés par jugement avant la liquidation)
 - **Indemnité de rupture du CDD** (précarité)
 
 ### Les plafonds de garantie
@@ -46,7 +52,7 @@ Au-delà de ces plafonds, les créances restent dues par l'entreprise en liquida
 ### Les exclusions
 
 L'AGS ne couvre pas :
-- Les cotisations sociales (qui restent à la charge de l'entreprise)
+- Les [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025) (qui restent à la charge de l'entreprise)
 - Les créances des dirigeants non-salariés
 - Les créances postérieures au jugement de liquidation (sauf les salaires de la période d'observation en redressement)
 - L'épargne salariale (intéressement, participation) sauf cas particuliers

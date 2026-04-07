@@ -1,15 +1,21 @@
 ---
-title: "Travail dissimulé : les présomptions de la Cour de cassation"
-excerpt: "La Cour de cassation a développé des présomptions facilitant la preuve du travail dissimulé. Heures supplémentaires non payées, faux indépendants, sous-déclaration : les situations où l'intention est présumée."
-date: "2025-12-05"
-category: "jurisprudence"
-tags: ["travail dissimulé", "présomption", "Cour de cassation", "heures supplémentaires"]
-readTime: "6 min"
+title: 'Travail dissimulé : les présomptions de la Cour de cassation'
+excerpt: >-
+  La Cour de cassation a développé des présomptions facilitant la preuve du
+  travail dissimulé. Heures supplémentaires non payées, faux indépendants,.
+date: '2025-12-05'
+category: jurisprudence
+tags:
+  - travail dissimulé
+  - présomption
+  - Cour de cassation
+  - heures supplémentaires
+readTime: 6 min
 sources:
-  - "Article L. 8221-5 du Code du travail"
-  - "Article L. 8223-1 du Code du travail (indemnité de 6 mois)"
-  - "Cass. soc., 16 novembre 2022, n° 21-16.138"
-  - "Cass. crim., 5 avril 2023, n° 22-82.654"
+  - Article L. 8221-5 du Code du travail
+  - Article L. 8223-1 du Code du travail (indemnité de 6 mois)
+  - 'Cass. soc., 16 novembre 2022, n° 21-16.138'
+  - 'Cass. crim., 5 avril 2023, n° 22-82.654'
 ---
 
 Le travail dissimulé est une infraction intentionnelle. Pourtant, la Cour de cassation a développé des présomptions qui facilitent considérablement la preuve de l'élément intentionnel. Pour l'employeur, ces présomptions constituent autant de situations à risque.
@@ -24,7 +30,7 @@ Une simple erreur matérielle ou un retard administratif ne suffisent pas en pri
 
 ### Le non-paiement systématique d'heures supplémentaires connues
 
-Lorsque l'employeur ne peut ignorer que ses salariés effectuent des heures supplémentaires (par exemple parce qu'il fixe des objectifs nécessitant de travailler au-delà de la durée contractuelle), le caractère intentionnel est présumé (Cass. soc., 16 novembre 2022, n° 21-16.138).
+Lorsque l'employeur ne peut ignorer que ses salariés effectuent des [heures supplémentaires](https://enclair.media/articles/travail-dissimule-infraction-commise-sans-le-savoir) (par exemple parce qu'il fixe des objectifs nécessitant de travailler au-delà de la durée contractuelle), le caractère intentionnel est présumé (Cass. soc., 16 novembre 2022, n° 21-16.138).
 
 Les indices retenus par la Cour : cadence de travail incompatible avec un temps partiel, amplitudes horaires d'ouverture du commerce dépassant les horaires contractuels, témoignages de clients ou de collègues.
 
@@ -47,7 +53,7 @@ L'article L. 8223-1 du Code du travail prévoit qu'en cas de rupture du contrat 
 ## Les recommandations
 
 1. **Mettre en place un décompte fiable** du temps de travail
-2. **Payer toutes les heures** réellement effectuées, y compris les heures supplémentaires
+2. **Payer toutes les heures** réellement effectuées, y compris les [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif)
 3. **Auditer les contrats** avec les indépendants pour vérifier l'absence de lien de subordination
 4. **Former les managers** à ne pas demander de travail non déclaré
 5. **Conserver les preuves** de bonne foi en cas de contentieux

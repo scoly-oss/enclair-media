@@ -1,19 +1,25 @@
 ---
-title: "Modification du lieu de travail : avec ou sans clause de mobilité"
-excerpt: "Le changement de lieu de travail est-il une modification du contrat ou un simple changement des conditions de travail ? La réponse dépend de la présence d'une clause de mobilité et du secteur géographique. Analyse de la jurisprudence."
-date: "2026-03-09"
-category: "jurisprudence"
-tags: ["lieu de travail", "clause mobilité", "secteur géographique", "mutation"]
-readTime: "6 min"
+title: 'Modification du lieu de travail : avec ou sans clause de mobilité'
+excerpt: >-
+  Le changement de lieu de travail est-il une modification du contrat ou un
+  simple changement des conditions de travail ?
+date: '2026-03-09'
+category: jurisprudence
+tags:
+  - lieu de travail
+  - clause mobilité
+  - secteur géographique
+  - mutation
+readTime: 6 min
 sources:
-  - "Cass. soc., 3 juin 2003, n° 01-43.573"
-  - "Cass. soc., 14 octobre 2008, n° 07-40.523"
-  - "Cass. soc., 12 janvier 2016, n° 14-23.290"
-  - "Article L.1222-1 du Code du travail"
-  - "Cass. soc., 13 mars 2013, n° 11-28.916"
+  - 'Cass. soc., 3 juin 2003, n° 01-43.573'
+  - 'Cass. soc., 14 octobre 2008, n° 07-40.523'
+  - 'Cass. soc., 12 janvier 2016, n° 14-23.290'
+  - Article L.1222-1 du Code du travail
+  - 'Cass. soc., 13 mars 2013, n° 11-28.916'
 ---
 
-La question du changement de lieu de travail est l'une des plus contentieuses en droit social. Elle se résume à une alternative : s'agit-il d'un simple changement des conditions de travail que le salarié doit accepter, ou d'une modification du contrat nécessitant son accord ? La réponse dépend de la notion de secteur géographique et de la présence éventuelle d'une clause de mobilité.
+La question du changement de lieu de travail est l'une des plus contentieuses en droit social. Elle se résume à une alternative : s'agit-il d'un simple changement des conditions de travail que le salarié doit accepter, ou d'une [modification du contrat](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail) nécessitant son accord ? La réponse dépend de la notion de secteur géographique et de la présence éventuelle d'une [clause de mobilité](https://enclair.media/articles/clause-de-mobilite-quand-le-salarie-peut-refuser).
 
 ## Le principe : la notion de secteur géographique
 
@@ -40,7 +46,7 @@ Le refus du salarié de respecter une clause de mobilité valable peut constitue
 ## Les protections particulières
 
 Certains salariés bénéficient de protections spécifiques :
-- Les **représentants du personnel** ne peuvent être mutés en dehors de leur secteur géographique sans leur accord, même avec une clause de mobilité
+- Les **[représentants du personnel](https://enclair.media/articles/elections-cse-calendrier-etapes)** ne peuvent être mutés en dehors de leur secteur géographique sans leur accord, même avec une clause de mobilité
 - Les **salariées enceintes** ne peuvent se voir imposer une mutation dans un autre établissement sans leur accord
 - Les **salariés en situation de handicap** voient leur situation personnelle prise en compte de manière renforcée
 

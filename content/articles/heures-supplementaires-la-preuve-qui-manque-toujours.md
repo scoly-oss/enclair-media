@@ -1,20 +1,26 @@
 ---
-title: "Heures supplémentaires : la preuve qui manque toujours"
-excerpt: "Un salarié réclame deux ans d'heures supplémentaires impayées. Vous n'avez aucun décompte. Qui doit prouver quoi ? La réponse de la Cour de cassation va vous surprendre — et vous inquiéter."
-date: "2025-01-27"
-category: "droit-social"
-tags: ["heures supplémentaires", "preuve", "temps de travail", "prud'hommes"]
-readTime: "7 min"
+title: 'Heures supplémentaires : la preuve qui manque toujours'
+excerpt: >-
+  Un salarié réclame deux ans d'heures supplémentaires impayées. Vous n'avez
+  aucun décompte. Qui doit prouver quoi ?
+date: '2025-01-27'
+category: droit-social
+tags:
+  - heures supplémentaires
+  - preuve
+  - temps de travail
+  - prud'hommes
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.3171-2 à L.3171-4"
-  - "Cass. soc., 18 mars 2020, n° 18-10.919"
-  - "Cass. soc., 27 janvier 2021, n° 17-31.046"
-  - "Directive européenne 2003/88/CE"
+  - 'Code du travail, articles L.3171-2 à L.3171-4'
+  - 'Cass. soc., 18 mars 2020, n° 18-10.919'
+  - 'Cass. soc., 27 janvier 2021, n° 17-31.046'
+  - Directive européenne 2003/88/CE
 ---
 
-Un ancien commercial vous assigne aux prud'hommes. Il réclame 47 000 euros d'heures supplémentaires sur trois ans. Vous n'avez jamais validé ces heures. Il n'a jamais pointé. Vous pensez que l'absence de preuve joue en votre faveur.
+Un ancien commercial vous assigne aux prud'hommes. Il réclame 47 000 euros d'[heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif) sur trois ans. Vous n'avez jamais validé ces heures. Il n'a jamais pointé. Vous pensez que l'absence de preuve joue en votre faveur.
 
-C'est exactement l'inverse. Et c'est la raison pour laquelle le contentieux des heures supplémentaires est devenu le premier poste de condamnation devant les conseils de prud'hommes.
+C'est exactement l'inverse. Et c'est la raison pour laquelle le contentieux des [heures supplémentaires](https://enclair.media/articles/duree-maximale-travail-trois-plafonds) est devenu le premier poste de condamnation devant les conseils de prud'hommes.
 
 ## Un régime de preuve partagé — mais déséquilibré
 
@@ -34,7 +40,7 @@ La Cour de justice de l'Union européenne a enfoncé le clou dans son arrêt du 
 
 ## Les situations les plus dangereuses
 
-**Les forfaits jours mal encadrés.** Un cadre en forfait jours n'est pas soumis aux heures supplémentaires — en théorie. Mais si votre convention de forfait est nulle (absence d'accord collectif conforme, absence de clause contractuelle, absence de suivi de la charge de travail), le salarié bascule dans le régime de droit commun et peut réclamer toutes ses heures supplémentaires sur trois ans. L'arrêt du 27 janvier 2021 (n° 17-31.046) rappelle que l'employeur doit assurer un suivi effectif de la charge de travail.
+**Les forfaits jours mal encadrés.** Un cadre en forfait jours n'est pas soumis aux [heures supplémentaires](https://enclair.media/articles/repos-compensateur-droit-acquis) — en théorie. Mais si votre convention de forfait est nulle (absence d'accord collectif conforme, absence de clause contractuelle, absence de suivi de la charge de travail), le salarié bascule dans le régime de droit commun et peut réclamer toutes ses heures supplémentaires sur trois ans. L'arrêt du 27 janvier 2021 (n° 17-31.046) rappelle que l'employeur doit assurer un suivi effectif de la charge de travail.
 
 **Les cadres « autonomes » sans forfait.** Si votre cadre n'a pas de convention de forfait valide et travaille régulièrement au-delà de 35 heures, il cumule des heures supplémentaires. Même s'il ne les a jamais réclamées. Même s'il est directeur de service. Le statut cadre ne dispense pas du décompte des heures.
 

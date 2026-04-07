@@ -1,14 +1,20 @@
 ---
-title: "Affichages obligatoires 2025 : la liste complète par taille d'entreprise"
-excerpt: "Les obligations d'affichage varient selon l'effectif de l'entreprise. En 2025, certains affichages ont été remplacés par une obligation d'information individuelle. Mais pas tous."
-date: "2025-06-15"
-category: "decryptage"
-tags: ["affichage obligatoire", "information salariés", "inspection du travail", "conformité"]
-readTime: "6 min"
+title: 'Affichages obligatoires 2025 : la liste complète par taille d''entreprise'
+excerpt: >-
+  Les obligations d'affichage varient selon l'effectif de l'entreprise. En 2025,
+  certains affichages ont été remplacés par une obligation d'information.
+date: '2025-06-15'
+category: decryptage
+tags:
+  - affichage obligatoire
+  - information salariés
+  - inspection du travail
+  - conformité
+readTime: 6 min
 sources:
-  - "Code du travail, articles R.2262-1 à R.2262-3"
-  - "Code du travail, article D.4711-1 (affichages sécurité)"
-  - "Décret n°2016-1417 du 20 octobre 2016 (remplacement de certains affichages)"
+  - 'Code du travail, articles R.2262-1 à R.2262-3'
+  - 'Code du travail, article D.4711-1 (affichages sécurité)'
+  - Décret n°2016-1417 du 20 octobre 2016 (remplacement de certains affichages)
 ---
 
 ## L'inspecteur du travail regarde vos murs. Qu'y trouve-t-il ?
@@ -55,9 +61,9 @@ Note : l'obligation de règlement intérieur est passée de 20 à **50 salariés
 
 ### À partir de 50 salariés
 
-- **Accord de participation** : les salariés doivent être informés de l'existence de l'accord et de ses modalités (pas d'affichage obligatoire mais information par tout moyen)
+- **Accord de participation** : les salariés doivent être informés de l'existence de l'accord et de ses modalités (pas d'[affichage obligatoire](https://enclair.media/articles/nouveau-code-travail-numerique-obligations-affichage) mais information par tout moyen)
 - **Document récapitulatif de l'épargne salariale** : information individuelle obligatoire
-- **Liste des postes disponibles** pour les reclassements (en cas de licenciement économique)
+- **Liste des postes disponibles** pour les reclassements (en cas de [licenciement économique](https://enclair.media/articles/co-emploi-societe-mere-responsable-salaries-filiale))
 
 ## Les affichages souvent oubliés
 

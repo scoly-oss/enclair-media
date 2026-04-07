@@ -1,14 +1,21 @@
 ---
-title: "Preuve par SMS : recevable ou pas devant les prud'hommes"
-excerpt: "Les SMS, emails et messages WhatsApp sont de plus en plus utilisés comme preuves aux prud'hommes. Mais leur recevabilité dépend de conditions que beaucoup ignorent."
-date: "2025-05-08"
-category: "jurisprudence"
-tags: ["preuve", "SMS", "prud'hommes", "vie privée", "RGPD"]
-readTime: "6 min"
+title: 'Preuve par SMS : recevable ou pas devant les prud''hommes'
+excerpt: >-
+  Les SMS, emails et messages WhatsApp sont de plus en plus utilisés comme
+  preuves aux prud'hommes. Mais leur recevabilité dépend de conditions que.
+date: '2025-05-08'
+category: jurisprudence
+tags:
+  - preuve
+  - SMS
+  - prud'hommes
+  - vie privée
+  - RGPD
+readTime: 6 min
 sources:
-  - "Code de procédure civile, articles 9 et 145"
-  - "Cass. soc., 25 novembre 2020, n°17-19.523"
-  - "Cass. soc., 22 mars 2023, n°21-20.535"
+  - 'Code de procédure civile, articles 9 et 145'
+  - 'Cass. soc., 25 novembre 2020, n°17-19.523'
+  - 'Cass. soc., 22 mars 2023, n°21-20.535'
 ---
 
 ## Un salarié produit des captures d'écran de SMS de son manager comme preuve de harcèlement. Ces preuves sont-elles recevables ?
@@ -19,7 +26,7 @@ Le contentieux prud'homal est de plus en plus numérique. Les SMS, les emails, l
 
 Devant les prud'hommes, la preuve est **libre**. Contrairement au droit civil classique, il n'y a pas de hiérarchie des preuves imposée. Les SMS, emails et autres messages électroniques sont donc **recevables en principe** (article 9 du Code de procédure civile).
 
-La Cour de cassation l'a confirmé à de nombreuses reprises : un SMS peut constituer un mode de preuve valable dès lors qu'il est **soumis au débat contradictoire** (le destinataire peut le contester, l'expéditeur peut en discuter le contexte).
+La [Cour de cassation](https://enclair.media/articles/cass-soc-2025-10-arrets-tout-drh-devrait-connaitre) l'a confirmé à de nombreuses reprises : un SMS peut constituer un mode de preuve valable dès lors qu'il est **soumis au débat contradictoire** (le destinataire peut le contester, l'expéditeur peut en discuter le contexte).
 
 ## Les limites : la loyauté de la preuve
 
@@ -27,7 +34,7 @@ La Cour de cassation l'a confirmé à de nombreuses reprises : un SMS peut const
 
 Un salarié qui enregistre une conversation avec son employeur à son insu produit une preuve **déloyale**. Pendant longtemps, la Cour de cassation écartait systématiquement ces preuves.
 
-Mais un revirement majeur est intervenu. La Cour de cassation, dans un arrêt d'assemblée plénière du 22 décembre 2023, a admis qu'une preuve illicite ou déloyale peut être **recevable** si elle est **indispensable** à l'exercice du droit à la preuve et si l'atteinte à la vie privée est **proportionnée** au but poursuivi.
+Mais un revirement majeur est intervenu. La Cour de cassation, dans un arrêt d'[assemblée plénière](https://enclair.media/articles/preuve-deloyale-videosurveillance-sauve-ou-coule-dossier) du 22 décembre 2023, a admis qu'une [preuve illicite](https://enclair.media/articles/videosurveillance-rgpd-preuve-illicite-admissible) ou déloyale peut être **recevable** si elle est **indispensable** à l'exercice du droit à la preuve et si l'atteinte à la vie privée est **proportionnée** au but poursuivi.
 
 Concrètement : un enregistrement clandestin d'un entretien de harcèlement peut être recevable si c'est le seul moyen pour le salarié de prouver les faits. Le juge fait un **contrôle de proportionnalité** au cas par cas.
 

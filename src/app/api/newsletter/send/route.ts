@@ -5,14 +5,19 @@ const RESEND_API_KEY = process.env.RESEND_API_KEY || "";
 const CRON_SECRET = process.env.CRON_SECRET || "";
 const UNSUBSCRIBE_SECRET = process.env.CRON_SECRET || "enclair-unsub-secret";
 
-// WordPress API for En Clair articles (category 658)
-const WP_API_URL =
-  "https://dairia-blog.bl-nk.io/wp-json/wp/v2/posts?categories=658&per_page=5&orderby=date&order=desc";
+interface ArticleFeedItem {
+  slug: string;
+  title: string;
+  excerpt: string;
+  date: string;
+  category: string;
+  tags: string[];
+}
 
-interface WPPost {
-  id: number;
-  title: { rendered: string };
-  excerpt: { rendered: string };
+// Unified article shape for the newsletter
+interface NewsletterArticle {
+  title: string;
+  excerpt: string;
   link: string;
   date: string;
 }
@@ -32,25 +37,27 @@ async function getSubscribers(): Promise<string[]> {
   );
 }
 
-// --- WordPress fetch ---
+// --- Articles feed (generated at build time) ---
 
-async function getLatestArticlesFromWP(): Promise<WPPost[]> {
+async function getLatestArticles(): Promise<NewsletterArticle[]> {
   try {
-    const res = await fetch(WP_API_URL, {
-      headers: { "User-Agent": "EnClair-Newsletter/1.0" },
+    const res = await fetch("https://enclair.media/articles-feed.json", {
       next: { revalidate: 0 },
     });
     if (!res.ok) {
-      console.error(`WordPress API error: ${res.status} ${res.statusText}`);
+      console.error(`Articles feed error: ${res.status}`);
       return [];
     }
-    const posts: WPPost[] = await res.json();
-    // Filter to posts from the last 7 days
-    const oneWeekAgo = new Date();
-    oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
-    return posts.filter((p) => new Date(p.date) >= oneWeekAgo);
+    const articles: ArticleFeedItem[] = await res.json();
+    // Take the 5 most recent articles (already sorted by date desc)
+    return articles.slice(0, 5).map((a) => ({
+      title: a.title,
+      excerpt: a.excerpt,
+      link: `https://enclair.media/articles/${a.slug}`,
+      date: a.date,
+    }));
   } catch (error) {
-    console.error("Failed to fetch WordPress articles:", error);
+    console.error("Failed to fetch articles feed:", error);
     return [];
   }
 }
@@ -141,7 +148,7 @@ function getRandomTip(): { tip: string; source: string } {
 // --- Email template ---
 
 function buildNewsletterHTML(
-  articles: WPPost[],
+  articles: NewsletterArticle[],
   issueNumber: number,
   recipientEmail: string
 ): string {
@@ -158,8 +165,8 @@ function buildNewsletterHTML(
     articles.length > 0
       ? articles
           .map((a) => {
-            const title = stripHtml(a.title.rendered);
-            const excerpt = truncateExcerpt(stripHtml(a.excerpt.rendered));
+            const title = a.title;
+            const excerpt = truncateExcerpt(a.excerpt);
             return `
     <tr><td style="padding:0 0 24px;">
       <h2 style="margin:0 0 8px;font-size:19px;color:#1a1a1a;line-height:1.35;font-family:Georgia,'Times New Roman',serif;">
@@ -190,7 +197,7 @@ function buildNewsletterHTML(
 
 <!-- Preheader -->
 <div style="display:none;font-size:1px;color:#f5f4f0;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden;">
-  En Clair #${issueNumber} — Le brief juridique de la semaine${articles.length > 0 ? ` : ${stripHtml(articles[0].title.rendered)}` : ""}
+  En Clair #${issueNumber} — Le brief juridique de la semaine${articles.length > 0 ? ` : ${articles[0].title}` : ""}
 </div>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="background-color:#f5f4f0;">
@@ -348,9 +355,9 @@ export async function GET(req: NextRequest) {
     }
     console.log(`Newsletter: ${subscribers.length} subscribers found`);
 
-    // 2. Get articles from WordPress
-    const articles = await getLatestArticlesFromWP();
-    console.log(`Newsletter: ${articles.length} articles from WordPress`);
+    // 2. Get latest articles from feed
+    const articles = await getLatestArticles();
+    console.log(`Newsletter: ${articles.length} articles from feed`);
 
     // 3. Get issue number
     const redis = await getRedis();
@@ -360,7 +367,7 @@ export async function GET(req: NextRequest) {
     // 4. Build subject
     const subject =
       articles.length > 0
-        ? `En Clair #${issueNum} — ${stripHtml(articles[0].title.rendered)}`
+        ? `En Clair #${issueNum} — ${articles[0].title}`
         : `En Clair #${issueNum} — Votre brief juridique hebdomadaire`;
 
     // 5. Send to all subscribers

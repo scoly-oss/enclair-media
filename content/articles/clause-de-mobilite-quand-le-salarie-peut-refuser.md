@@ -1,15 +1,21 @@
 ---
-title: "Clause de mobilité : quand le salarié peut légalement refuser"
-excerpt: "Vous pensez que votre clause de mobilité vous donne carte blanche pour muter un salarié ? La jurisprudence est bien plus nuancée — et le refus du salarié n'est pas toujours une faute."
-date: "2025-01-13"
-category: "droit-social"
-tags: ["clause de mobilité", "mutation", "contrat de travail", "refus du salarié"]
-readTime: "7 min"
+title: 'Clause de mobilité : quand le salarié peut légalement refuser'
+excerpt: >-
+  Vous pensez que votre clause de mobilité vous donne carte blanche pour muter
+  un salarié ? La jurisprudence est bien plus nuancée — et le refus du.
+date: '2025-01-13'
+category: droit-social
+tags:
+  - clause de mobilité
+  - mutation
+  - contrat de travail
+  - refus du salarié
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.1221-1 et L.1222-1"
-  - "Cass. soc., 14 octobre 2008, n° 07-40.523"
-  - "Cass. soc., 12 juillet 2010, n° 08-45.516"
-  - "Cass. soc., 3 février 2010, n° 08-41.412"
+  - 'Code du travail, articles L.1221-1 et L.1222-1'
+  - 'Cass. soc., 14 octobre 2008, n° 07-40.523'
+  - 'Cass. soc., 12 juillet 2010, n° 08-45.516'
+  - 'Cass. soc., 3 février 2010, n° 08-41.412'
 ---
 
 Votre entreprise ouvre un nouveau site à 150 kilomètres. Vous avez besoin d'y transférer un chef d'équipe. Son contrat contient une clause de mobilité couvrant toute la France métropolitaine. Vous lui notifiez sa mutation. Il refuse. Vous le licenciez pour faute. Et vous perdez aux prud'hommes.
@@ -26,7 +32,7 @@ En pratique, vérifiez vos contrats : si la clause mentionne « la France entiè
 
 ## La mise en oeuvre doit être loyale et de bonne foi
 
-Même avec une clause parfaitement rédigée, sa mise en oeuvre peut être abusive. L'article L.1222-1 du Code du travail impose une exécution de bonne foi du contrat de travail, et cette obligation pèse sur l'employeur autant que sur le salarié.
+Même avec une clause parfaitement rédigée, sa mise en oeuvre peut être abusive. L'article L.1222-1 du Code du travail impose une exécution de bonne foi du [contrat de travail](https://enclair.media/articles/clause-dedit-formation-conditions-validite), et cette obligation pèse sur l'employeur autant que sur le salarié.
 
 La Cour de cassation a posé le cadre dans un arrêt fondateur du 14 octobre 2008 (n° 07-40.523) : la mise en oeuvre d'une clause de mobilité ne doit pas porter atteinte au droit du salarié à une vie personnelle et familiale, sauf si cette atteinte est justifiée par la tâche à accomplir et proportionnée au but recherché.
 
@@ -40,13 +46,13 @@ La jurisprudence a progressivement construit une liste de situations où le refu
 
 **Délai de prévenance insuffisant.** Aucun texte ne fixe de délai précis, mais les tribunaux sanctionnent les mutations notifiées avec un préavis dérisoire. Moins de deux semaines pour un déménagement est généralement jugé abusif.
 
-**Modification d'un élément essentiel du contrat déguisée.** Si la mutation s'accompagne d'un changement de fonctions, d'une réduction de rémunération ou d'une modification des horaires, ce n'est plus une simple mise en oeuvre de la clause de mobilité. C'est une modification du contrat qui nécessite l'accord du salarié (Cass. soc., 3 février 2010, n° 08-41.412).
+**Modification d'un élément essentiel du contrat déguisée.** Si la mutation s'accompagne d'un changement de fonctions, d'une réduction de rémunération ou d'une modification des horaires, ce n'est plus une simple mise en oeuvre de la clause de mobilité. C'est une [modification du contrat](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail) qui nécessite l'accord du salarié (Cass. soc., 3 février 2010, n° 08-41.412).
 
 **Motif discriminatoire.** Si la mutation cible un représentant du personnel, un salarié ayant récemment exercé un droit (grève, signalement), ou un salarié en raison de son état de santé, le refus est non seulement légitime, mais la mutation elle-même est constitutive d'un délit.
 
 ## Ce que risque l'employeur
 
-Si vous licenciez un salarié pour refus de mutation alors que la clause est nulle ou que sa mise en oeuvre est abusive, le licenciement sera jugé sans cause réelle et sérieuse. Les conséquences financières dépendent de l'ancienneté du salarié (barème Macron, articles L.1235-3 du Code du travail), mais elles s'accompagnent souvent de dommages et intérêts complémentaires pour exécution déloyale du contrat.
+Si vous licenciez un salarié pour refus de mutation alors que la clause est nulle ou que sa mise en oeuvre est abusive, le licenciement sera jugé [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher). Les conséquences financières dépendent de l'ancienneté du salarié (barème Macron, articles L.1235-3 du Code du travail), mais elles s'accompagnent souvent de dommages et intérêts complémentaires pour exécution déloyale du contrat.
 
 Dans les cas les plus graves — mutation discriminatoire ou constitutive d'un harcèlement — le licenciement peut être déclaré nul, avec les indemnités plancher de six mois de salaire et sans plafond.
 

@@ -1,23 +1,32 @@
 ---
-title: "Réforme des retraites 2025 : les impacts sur la gestion des fins de carrière"
-excerpt: "La réforme des retraites a repoussé l'âge légal de départ. Pour les employeurs, cela modifie la gestion des fins de carrière, les mises à la retraite et les dispositifs de transition emploi-retraite. Le point complet."
-date: "2026-03-25"
-category: "alerte"
-tags: ["réforme retraites", "fins de carrière", "âge légal", "retraite progressive"]
-readTime: "7 min"
+title: 'Réforme des retraites 2025 : les impacts sur la gestion des fins de carrière'
+excerpt: >-
+  La réforme des retraites a repoussé l'âge légal de départ. Pour les
+  employeurs, cela modifie la gestion des fins de carrière, les mises à la
+  retraite.
+date: '2026-03-25'
+category: alerte
+tags:
+  - réforme retraites
+  - fins de carrière
+  - âge légal
+  - retraite progressive
+readTime: 7 min
 sources:
-  - "Loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale"
-  - "Article L.161-17-2 du Code de la sécurité sociale"
-  - "Article L.351-15 du Code de la sécurité sociale"
-  - "Article L.1237-5 du Code du travail"
-  - "Décret n° 2023-436 du 3 juin 2023"
+  - >-
+    Loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité
+    sociale
+  - Article L.161-17-2 du Code de la sécurité sociale
+  - Article L.351-15 du Code de la sécurité sociale
+  - Article L.1237-5 du Code du travail
+  - Décret n° 2023-436 du 3 juin 2023
 ---
 
 La réforme des retraites entrée en vigueur le 1er septembre 2023 continue de déployer ses effets en 2026. Le relèvement progressif de l'âge légal de départ à 64 ans et l'allongement de la durée de cotisation à 43 annuités modifient en profondeur la gestion des fins de carrière dans les entreprises. Pour les DRH et les dirigeants, plusieurs ajustements sont nécessaires.
 
 ## Le nouveau calendrier de l'âge légal
 
-L'article L.161-17-2 du Code de la sécurité sociale, modifié par la loi du 14 avril 2023, prévoit un relèvement progressif de l'âge légal de départ à la retraite de 62 à 64 ans, à raison de 3 mois par génération :
+L'article L.161-17-2 du Code de la [sécurité sociale](https://enclair.media/articles/calcul-ijss-verification-employeur), modifié par la loi du 14 avril 2023, prévoit un relèvement progressif de l'âge légal de départ à la retraite de 62 à 64 ans, à raison de 3 mois par génération :
 
 | Année de naissance | Âge légal de départ |
 |-------------------|---------------------|
@@ -43,7 +52,7 @@ Pour l'employeur, cela signifie concrètement un **allongement de la présence**
 
 ## La retraite progressive : un outil à exploiter
 
-La retraite progressive permet au salarié de réduire son temps de travail tout en percevant une fraction de sa pension de retraite. Depuis la réforme, ce dispositif est accessible dès **60 ans** (article L.351-15 du Code de la sécurité sociale), avec 150 trimestres validés.
+La [retraite progressive](https://enclair.media/articles/retraite-progressive-nouveau-dispositif-employeur) permet au salarié de réduire son [temps de travail](https://enclair.media/articles/astreinte-temps-de-travail-effectif) tout en percevant une fraction de sa pension de retraite. Depuis la réforme, ce dispositif est accessible dès **60 ans** (article L.351-15 du Code de la sécurité sociale), avec 150 trimestres validés.
 
 **Le mécanisme :** le salarié passe à temps partiel (entre 40 % et 80 % du temps plein), perçoit son salaire réduit et une fraction de sa pension proportionnelle à la réduction d'activité.
 

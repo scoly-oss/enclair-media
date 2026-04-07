@@ -1,21 +1,27 @@
 ---
-title: "Intérim : la responsabilité de l'entreprise utilisatrice"
-excerpt: "L'entreprise utilisatrice d'intérimaires n'est pas l'employeur juridique. Mais elle assume des responsabilités considérables en matière de sécurité, de conditions de travail et de rémunération."
-date: "2025-06-23"
-category: "droit-social"
-tags: ["intérim", "entreprise utilisatrice", "responsabilité", "égalité de traitement"]
-readTime: "6 min"
+title: 'Intérim : la responsabilité de l''entreprise utilisatrice'
+excerpt: >-
+  L'entreprise utilisatrice d'intérimaires n'est pas l'employeur juridique. Mais
+  elle assume des responsabilités considérables en matière de sécurité, de.
+date: '2025-06-23'
+category: droit-social
+tags:
+  - intérim
+  - entreprise utilisatrice
+  - responsabilité
+  - égalité de traitement
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.1251-1 à L.1251-63"
-  - "Code du travail, article L.1251-24 (égalité de rémunération)"
-  - "Cass. soc., 13 décembre 2023, n°22-15.789"
+  - 'Code du travail, articles L.1251-1 à L.1251-63'
+  - 'Code du travail, article L.1251-24 (égalité de rémunération)'
+  - 'Cass. soc., 13 décembre 2023, n°22-15.789'
 ---
 
 ## Vous utilisez des intérimaires. Vous n'êtes pas leur employeur. Mais vous êtes responsable.
 
 Vous faites appel à une agence d'intérim pour un surcroît d'activité. L'agence gère le contrat, la paie, les cotisations. Vous, vous leur donnez du travail. Simple et sans risque ?
 
-Pas exactement. L'entreprise utilisatrice est responsable des conditions de travail, de la sécurité, et peut même être tenue pour co-employeur en cas de manquement grave.
+Pas exactement. L'entreprise utilisatrice est responsable des [conditions de travail](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail), de la sécurité, et peut même être tenue pour co-employeur en cas de manquement grave.
 
 ## Les responsabilités que vous portez déjà
 
@@ -28,7 +34,7 @@ Pendant toute la durée de la mission, l'entreprise utilisatrice est responsable
 - La santé et la sécurité au travail
 - Le travail des femmes, des jeunes et des travailleurs handicapés
 
-En matière de **sécurité**, la responsabilité de l'entreprise utilisatrice est totale. Si un intérimaire se blesse dans vos locaux, c'est votre obligation de sécurité qui est en cause, pas celle de l'agence d'intérim.
+En matière de **sécurité**, la responsabilité de l'entreprise utilisatrice est totale. Si un intérimaire se blesse dans vos locaux, c'est votre [obligation de sécurité](https://enclair.media/articles/droit-de-retrait-quand-salarie-peut-arreter-travailler) qui est en cause, pas celle de l'agence d'intérim.
 
 ### Égalité de rémunération (article L.1251-24)
 
@@ -75,7 +81,7 @@ La requalification en CDI entraîne :
 
 L'entreprise utilisatrice doit assurer une **formation renforcée à la sécurité** aux intérimaires affectés à des postes présentant des risques particuliers (article L.4142-2). Cette formation doit être dispensée **avant la prise de poste**.
 
-La liste des postes à risques est établie par l'entreprise en concertation avec le médecin du travail et le CSE. L'absence de formation à la sécurité avant l'affectation à un poste à risques est une circonstance aggravante en cas d'accident du travail.
+La liste des postes à risques est établie par l'entreprise en concertation avec le médecin du travail et le CSE. L'absence de formation à la sécurité avant l'affectation à un poste à risques est une circonstance aggravante en cas d'[accident du travail](https://enclair.media/articles/accident-du-travail-les-48h-que-vous-ne-pouvez-pas-rater).
 
 ## Ce que vous devez faire lundi matin
 

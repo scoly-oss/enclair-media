@@ -1,18 +1,25 @@
 ---
-title: "Jours fériés : les obligations de l'employeur selon la convention collective"
-excerpt: "Le Code du travail fixe 11 jours fériés légaux, mais les obligations de l'employeur varient considérablement selon la convention collective applicable. Panorama des règles que tout dirigeant doit maîtriser."
-date: "2025-10-07"
-category: "droit-social"
-tags: ["jours fériés", "convention collective", "rémunération", "temps de travail"]
-readTime: "6 min"
+title: 'Jours fériés : les obligations de l''employeur selon la convention collective'
+excerpt: >-
+  Le Code du travail fixe 11 jours fériés légaux, mais les obligations de
+  l'employeur varient considérablement selon la convention collective
+  applicable.
+date: '2025-10-07'
+category: droit-social
+tags:
+  - jours fériés
+  - convention collective
+  - rémunération
+  - temps de travail
+readTime: 6 min
 sources:
-  - "Articles L. 3133-1 à L. 3133-12 du Code du travail"
-  - "Article L. 3133-3-1 du Code du travail (journée de solidarité)"
-  - "Cass. soc., 2 mars 2022, n° 20-16.683"
-  - "Convention collective nationale de l'hôtellerie-restauration (IDCC 1979)"
+  - Articles L. 3133-1 à L. 3133-12 du Code du travail
+  - Article L. 3133-3-1 du Code du travail (journée de solidarité)
+  - 'Cass. soc., 2 mars 2022, n° 20-16.683'
+  - Convention collective nationale de l'hôtellerie-restauration (IDCC 1979)
 ---
 
-La gestion des jours fériés en entreprise est souvent perçue comme simple. En réalité, elle constitue un véritable piège juridique tant les règles varient selon le Code du travail, la convention collective applicable et les usages d'entreprise.
+La gestion des jours fériés en entreprise est souvent perçue comme simple. En réalité, elle constitue un véritable piège juridique tant les règles varient selon le Code du travail, la [convention collective](https://enclair.media/articles/convention-collective-identifier-applicable) applicable et les usages d'entreprise.
 
 ## Les 11 jours fériés légaux
 
@@ -32,7 +39,7 @@ Pour les 10 autres jours fériés, le Code du travail prévoit un principe de ch
 
 L'article L. 3133-3 dispose que le chômage des jours fériés ne peut entraîner aucune perte de rémunération pour les salariés justifiant d'au moins **3 mois d'ancienneté** dans l'entreprise. C'est une règle de maintien de salaire, pas une interdiction de travailler.
 
-En pratique, c'est la convention collective, l'accord d'entreprise ou l'usage qui déterminent :
+En pratique, c'est la [convention collective](https://enclair.media/articles/prime-anciennete-convention-collective-piege), l'accord d'entreprise ou l'usage qui déterminent :
 
 - Si les jours fériés sont chômés ou travaillés
 - Si le travail un jour férié donne droit à une majoration
@@ -80,7 +87,7 @@ L'employeur peut imposer un jour de RTT ou de repos sur un jour de pont, mais il
 
 ## La rémunération des jours fériés travaillés
 
-En l'absence de convention collective plus favorable, le Code du travail ne prévoit **aucune majoration** pour le travail un jour férié (hors 1er mai). C'est une idée reçue tenace : travailler le 25 décembre ne donne légalement droit à aucune majoration, sauf si la convention collective le prévoit.
+En l'absence de [convention collective](https://enclair.media/articles/forfait-jours-droit-sante-qpc) plus favorable, le Code du travail ne prévoit **aucune majoration** pour le travail un jour férié (hors 1er mai). C'est une idée reçue tenace : travailler le 25 décembre ne donne légalement droit à aucune majoration, sauf si la convention collective le prévoit.
 
 La Cour de cassation rappelle régulièrement que les majorations pour jours fériés relèvent exclusivement de la convention collective ou de l'accord d'entreprise (Cass. soc., 2 mars 2022, n° 20-16.683).
 

@@ -1,16 +1,22 @@
 ---
-title: "Indemnité de licenciement : la base de calcul qui pose problème"
-excerpt: "Le calcul de l'indemnité de licenciement repose sur le salaire de référence, dont la détermination est source de nombreux litiges. Primes, avantages en nature, variable : quels éléments intégrer ? Le guide complet."
-date: "2026-02-25"
-category: "droit-social"
-tags: ["indemnité licenciement", "salaire référence", "calcul", "primes"]
-readTime: "7 min"
+title: 'Indemnité de licenciement : la base de calcul qui pose problème'
+excerpt: >-
+  Le calcul de l'indemnité de licenciement repose sur le salaire de référence,
+  dont la détermination est source de nombreux litiges.
+date: '2026-02-25'
+category: droit-social
+tags:
+  - indemnité licenciement
+  - salaire référence
+  - calcul
+  - primes
+readTime: 7 min
 sources:
-  - "Article L.1234-9 du Code du travail"
-  - "Article R.1234-1 du Code du travail"
-  - "Article R.1234-2 du Code du travail"
-  - "Article R.1234-4 du Code du travail"
-  - "Cass. soc., 23 mai 2017, n° 15-22.223"
+  - Article L.1234-9 du Code du travail
+  - Article R.1234-1 du Code du travail
+  - Article R.1234-2 du Code du travail
+  - Article R.1234-4 du Code du travail
+  - 'Cass. soc., 23 mai 2017, n° 15-22.223'
 ---
 
 L'indemnité légale de licenciement constitue un droit pour tout salarié en CDI justifiant d'au moins huit mois d'ancienneté. Si son principe est simple, son calcul est en pratique source de nombreuses erreurs et de contentieux récurrents. La détermination du salaire de référence, en particulier, exige une rigueur que beaucoup d'employeurs sous-estiment.
@@ -45,7 +51,7 @@ Le salaire de référence comprend l'ensemble des éléments de rémunération s
 
 **Les primes récurrentes** : prime d'ancienneté, 13e mois, prime de vacances, prime de rendement. La Cour de cassation a jugé que toute prime versée régulièrement en contrepartie du travail doit être intégrée (Cass. soc., 23 mai 2017, n° 15-22.223).
 
-**Les heures supplémentaires** : les heures supplémentaires structurelles, c'est-à-dire effectuées de manière régulière, doivent être incluses dans le salaire de référence.
+**Les [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif)** : les [heures supplémentaires](https://enclair.media/articles/duree-maximale-travail-trois-plafonds) structurelles, c'est-à-dire effectuées de manière régulière, doivent être incluses dans le salaire de référence.
 
 **Les avantages en nature** : véhicule de fonction, logement, nourriture. Leur valeur, telle qu'évaluée pour le calcul des cotisations sociales, s'ajoute au salaire de référence.
 

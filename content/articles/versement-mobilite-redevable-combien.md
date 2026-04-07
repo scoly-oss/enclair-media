@@ -1,14 +1,20 @@
 ---
-title: "Versement mobilité : qui est redevable et combien"
-excerpt: "Le versement mobilité (ex-versement transport) finance les transports en commun. Mais les taux varient selon la commune et les seuils d'effectif sont mal compris. Le risque : un redressement URSSAF."
-date: "2025-09-16"
-category: "economie"
-tags: ["versement mobilité", "transport", "URSSAF", "cotisations"]
-readTime: "5 min"
+title: 'Versement mobilité : qui est redevable et combien'
+excerpt: >-
+  Le versement mobilité (ex-versement transport) finance les transports en
+  commun. Mais les taux varient selon la commune et les seuils d'effectif sont.
+date: '2025-09-16'
+category: economie
+tags:
+  - versement mobilité
+  - transport
+  - URSSAF
+  - cotisations
+readTime: 5 min
 sources:
-  - "Code général des collectivités territoriales, article L.2333-64"
-  - "URSSAF, Taux du versement mobilité 2025"
-  - "Code des transports, articles L.2333-64 à L.2333-75"
+  - 'Code général des collectivités territoriales, article L.2333-64'
+  - 'URSSAF, Taux du versement mobilité 2025'
+  - 'Code des transports, articles L.2333-64 à L.2333-75'
 ---
 
 ## Votre entreprise vient de passer 11 salariés. Vous devez peut-être une nouvelle cotisation que vous ne connaissez pas.
@@ -19,7 +25,7 @@ Le versement mobilité est une cotisation patronale destinée à financer les tr
 
 ### Le seuil de 11 salariés
 
-Le versement mobilité est dû par les employeurs qui emploient **11 salariés et plus** dans le périmètre d'une AOM. Le décompte se fait selon les règles habituelles de l'effectif (article L.130-1 du Code de la sécurité sociale).
+Le versement mobilité est dû par les employeurs qui emploient **11 salariés et plus** dans le périmètre d'une AOM. Le décompte se fait selon les règles habituelles de l'effectif (article L.130-1 du Code de la [sécurité sociale](https://enclair.media/articles/calcul-ijss-verification-employeur)).
 
 **Le piège de la franchise** : lorsqu'une entreprise atteint ou dépasse le seuil de 11 salariés, elle bénéficie d'une **dispense de paiement** pendant les **3 premières années**. Puis le versement mobilité est dû progressivement : 75 % la 4e année, 100 % la 5e année et les suivantes.
 
@@ -27,7 +33,7 @@ Beaucoup d'entreprises qui ont dépassé le seuil il y a plus de 5 ans n'ont jam
 
 ### L'assiette de calcul
 
-Le versement mobilité est calculé sur la **totalité des rémunérations brutes** soumises à cotisations sociales. Pas de plafond de sécurité sociale : l'assiette est déplafonnée.
+Le versement mobilité est calculé sur la **totalité des rémunérations brutes** soumises à [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025). Pas de plafond de sécurité sociale : l'assiette est déplafonnée.
 
 ### Le taux applicable
 

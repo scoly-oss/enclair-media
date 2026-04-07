@@ -1,24 +1,30 @@
 ---
-title: "Harcèlement moral : l'obligation de moyens renforcée"
-excerpt: "L'employeur n'est plus seulement tenu de réagir au harcèlement. Il doit prouver qu'il l'a prévenu. Les arrêts récents durcissent considérablement les exigences de la Cour de cassation. Votre dispositif de prévention est-il suffisant ?"
-date: "2025-12-01"
-category: "jurisprudence"
-tags: ["harcèlement moral", "obligation de sécurité", "prévention", "enquête interne"]
-readTime: "7 min"
+title: 'Harcèlement moral : l''obligation de moyens renforcée'
+excerpt: >-
+  L'employeur n'est plus seulement tenu de réagir au harcèlement. Il doit
+  prouver qu'il l'a prévenu. Les arrêts récents durcissent considérablement les.
+date: '2025-12-01'
+category: jurisprudence
+tags:
+  - harcèlement moral
+  - obligation de sécurité
+  - prévention
+  - enquête interne
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.1152-1 à L.1152-6"
-  - "Cass. soc., 1er juin 2016, n° 14-19.702 (Air France)"
-  - "Cass. soc., 29 juin 2022, n° 21-11.437"
-  - "Cass. soc., 12 juin 2024, n° 23-13.975"
+  - 'Code du travail, articles L.1152-1 à L.1152-6'
+  - 'Cass. soc., 1er juin 2016, n° 14-19.702 (Air France)'
+  - 'Cass. soc., 29 juin 2022, n° 21-11.437'
+  - 'Cass. soc., 12 juin 2024, n° 23-13.975'
 ---
 
-Une salariée dénonce des agissements de harcèlement moral de la part de son N+1. Vous diligentez une enquête interne. L'enquête conclut à des tensions relationnelles sans harcèlement caractérisé. La salariée saisit les prud'hommes. Et le juge vous condamne — non pas parce que le harcèlement est prouvé, mais parce que vous n'avez pas pris de mesures de prévention suffisantes en amont.
+Une salariée dénonce des agissements de [harcèlement moral](https://enclair.media/articles/mediation-entreprise-outil-anti-harcelement) de la part de son N+1. Vous diligentez une enquête interne. L'enquête conclut à des tensions relationnelles sans harcèlement caractérisé. La salariée saisit les prud'hommes. Et le juge vous condamne — non pas parce que le harcèlement est prouvé, mais parce que vous n'avez pas pris de mesures de prévention suffisantes en amont.
 
 Ce scénario, de plus en plus fréquent, illustre le glissement de la jurisprudence vers une obligation de moyens renforcée en matière de prévention du harcèlement moral.
 
 ## De l'obligation de résultat à l'obligation de moyens renforcée
 
-Pendant longtemps, la Cour de cassation imposait à l'employeur une obligation de sécurité de résultat : la survenance du harcèlement engageait automatiquement sa responsabilité. L'arrêt Air France du 1er juin 2016 (n° 14-19.702) a fait évoluer la jurisprudence vers une obligation de moyens renforcée : l'employeur peut s'exonérer s'il prouve avoir pris toutes les mesures nécessaires pour prévenir le harcèlement et avoir réagi immédiatement lorsque des agissements ont été portés à sa connaissance.
+Pendant longtemps, la Cour de cassation imposait à l'employeur une [obligation de sécurité](https://enclair.media/articles/harcelement-managerial-style-management-illicite) de résultat : la survenance du harcèlement engageait automatiquement sa responsabilité. L'arrêt Air France du 1er juin 2016 (n° 14-19.702) a fait évoluer la jurisprudence vers une obligation de moyens renforcée : l'employeur peut s'exonérer s'il prouve avoir pris toutes les mesures nécessaires pour prévenir le harcèlement et avoir réagi immédiatement lorsque des agissements ont été portés à sa connaissance.
 
 Mais cette exonération est soumise à un standard probatoire de plus en plus élevé. Les arrêts de 2022-2024 ont précisé ce que signifie « toutes les mesures nécessaires ».
 
@@ -54,4 +60,4 @@ Si l'employeur est condamné pour manquement à son obligation de prévention, m
 
 Vérifiez que votre DUERP intègre le risque de harcèlement. Mettez en place ou formalisez un dispositif d'alerte interne. Formez vos managers. Rédigez une procédure d'enquête interne et identifiez les personnes compétentes pour la conduire.
 
-Si un signalement est en cours, assurez-vous que l'enquête respecte les exigences méthodologiques de la jurisprudence. Et n'oubliez pas : la prévention du harcèlement n'est pas un sujet RH parmi d'autres. C'est une obligation légale dont le non-respect engage votre responsabilité civile et, dans les cas les plus graves, votre responsabilité pénale.
+Si un signalement est en cours, assurez-vous que l'enquête respecte les exigences méthodologiques de la jurisprudence. Et n'oubliez pas : la prévention du harcèlement n'est pas un sujet RH parmi d'autres. C'est une obligation légale dont le non-respect engage votre responsabilité civile et, dans les cas les plus graves, votre [responsabilité pénale](https://enclair.media/articles/responsabilite-penale-employeur-infractions-poursuivies).

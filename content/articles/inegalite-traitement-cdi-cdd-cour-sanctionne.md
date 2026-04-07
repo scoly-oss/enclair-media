@@ -1,16 +1,22 @@
 ---
-title: "Inégalité de traitement entre CDI et CDD : ce que la Cour sanctionne"
-excerpt: "Le principe d'égalité de traitement impose que les salariés en CDD bénéficient des mêmes avantages que les CDI placés dans une situation comparable. La Cour de cassation veille au respect strict de cette règle."
-date: "2026-03-21"
-category: "jurisprudence"
-tags: ["égalité de traitement", "CDD", "CDI", "discrimination"]
-readTime: "7 min"
+title: 'Inégalité de traitement entre CDI et CDD : ce que la Cour sanctionne'
+excerpt: >-
+  Le principe d'égalité de traitement impose que les salariés en CDD bénéficient
+  des mêmes avantages que les CDI placés dans une situation comparable.
+date: '2026-03-21'
+category: jurisprudence
+tags:
+  - égalité de traitement
+  - CDD
+  - CDI
+  - discrimination
+readTime: 7 min
 sources:
-  - "Cass. soc., 11 janvier 2023, n° 21-11.251"
-  - "Article L.1242-14 du Code du travail"
-  - "Cass. soc., 9 février 2022, n° 20-14.627"
-  - "Directive 1999/70/CE du 28 juin 1999"
-  - "Article L.1242-17 du Code du travail"
+  - 'Cass. soc., 11 janvier 2023, n° 21-11.251'
+  - Article L.1242-14 du Code du travail
+  - 'Cass. soc., 9 février 2022, n° 20-14.627'
+  - Directive 1999/70/CE du 28 juin 1999
+  - Article L.1242-17 du Code du travail
 ---
 
 Le droit du travail français, en conformité avec la directive européenne 1999/70/CE, prohibe toute discrimination fondée sur le type de contrat. Les salariés en CDD doivent bénéficier des mêmes droits que les salariés en CDI, sauf justification objective. La Cour de cassation sanctionne avec constance les manquements à ce principe d'égalité.
@@ -29,9 +35,9 @@ Concrètement, un salarié en CDD a droit :
 
 **Primes d'ancienneté.** La Cour a jugé qu'un salarié en CDD successifs totalisant plusieurs années de présence effective dans l'entreprise pouvait prétendre à la prime d'ancienneté prévue par la convention collective, calculée sur la base de son ancienneté réelle (Cass. soc., 11 janvier 2023, n° 21-11.251).
 
-**Chèques cadeaux et avantages CSE.** L'exclusion des salariés en CDD du bénéfice des chèques cadeaux distribués par le CSE constitue une inégalité de traitement injustifiée (Cass. soc., 9 février 2022, n° 20-14.627). Le seul fait d'être en CDD ne justifie pas l'exclusion d'un avantage.
+**Chèques cadeaux et avantages CSE.** L'exclusion des salariés en CDD du bénéfice des chèques cadeaux distribués par le CSE constitue une in[égalité de traitement](https://enclair.media/articles/egalite-traitement-justification-objective) injustifiée (Cass. soc., 9 février 2022, n° 20-14.627). Le seul fait d'être en CDD ne justifie pas l'exclusion d'un avantage.
 
-**Formation professionnelle.** Les salariés en CDD ont droit à l'entretien professionnel et aux actions de formation dans les mêmes conditions que les CDI, proportionnellement à la durée de leur contrat.
+**[Formation professionnelle](https://enclair.media/articles/clause-dedit-formation-conditions-validite).** Les salariés en CDD ont droit à l'[entretien professionnel](https://enclair.media/articles/conge-parental-nouvelles-regles-retour-poste) et aux actions de formation dans les mêmes conditions que les CDI, proportionnellement à la durée de leur contrat.
 
 ## Les justifications objectives admises
 

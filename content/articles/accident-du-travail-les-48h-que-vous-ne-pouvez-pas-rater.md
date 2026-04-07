@@ -1,18 +1,24 @@
 ---
-title: "Accident du travail : les 48h que vous ne pouvez pas rater"
-excerpt: "Un salarié se blesse sur son poste. Vous avez exactement 48 heures pour déclarer l'accident du travail à la CPAM. Passé ce délai, les sanctions s'accumulent — et votre responsabilité personnelle peut être engagée."
-date: "2025-02-10"
-category: "droit-social"
-tags: ["accident du travail", "déclaration", "CPAM", "responsabilité employeur"]
-readTime: "6 min"
+title: 'Accident du travail : les 48h que vous ne pouvez pas rater'
+excerpt: >-
+  Un salarié se blesse sur son poste. Vous avez exactement 48 heures pour
+  déclarer l'accident du travail à la CPAM.
+date: '2025-02-10'
+category: droit-social
+tags:
+  - accident du travail
+  - déclaration
+  - CPAM
+  - responsabilité employeur
+readTime: 6 min
 sources:
-  - "Code de la sécurité sociale, articles L.441-1 à L.441-4"
-  - "Code de la sécurité sociale, article R.441-3"
-  - "Cass. 2e civ., 9 mars 2023, n° 21-20.579"
-  - "Code du travail, article L.4121-1"
+  - 'Code de la sécurité sociale, articles L.441-1 à L.441-4'
+  - 'Code de la sécurité sociale, article R.441-3'
+  - 'Cass. 2e civ., 9 mars 2023, n° 21-20.579'
+  - 'Code du travail, article L.4121-1'
 ---
 
-Jeudi matin, un ouvrier se tord la cheville sur un sol glissant dans l'atelier. Il continue sa journée en boitant. Le lendemain, il consulte son médecin qui délivre un arrêt de travail avec certificat médical initial d'accident du travail. Le salarié vous informe le lundi. Vous déclarez le mardi.
+Jeudi matin, un ouvrier se tord la cheville sur un sol glissant dans l'atelier. Il continue sa journée en boitant. Le lendemain, il consulte son médecin qui délivre un arrêt de travail avec certificat médical initial d'[accident du travail](https://enclair.media/articles/accident-trajet-distinction-accident-travail). Le salarié vous informe le lundi. Vous déclarez le mardi.
 
 Problème : le délai de 48 heures court à partir du moment où vous avez eu connaissance de l'accident, pas du moment où vous recevez le certificat médical. Et les conséquences d'un dépassement sont bien plus lourdes qu'une simple amende.
 
@@ -44,11 +50,11 @@ La seule exception concerne les accidents bénins n'entraînant ni arrêt de tra
 
 ## La faute inexcusable : le risque ultime
 
-Au-delà de la déclaration, l'accident du travail peut engager votre responsabilité au titre de la faute inexcusable si le salarié prouve que vous aviez conscience du danger et que vous n'avez pas pris les mesures nécessaires pour l'en préserver (Cass. 2e civ., 9 mars 2023, n° 21-20.579).
+Au-delà de la déclaration, l'accident du travail peut engager votre responsabilité au titre de la [faute inexcusable](https://enclair.media/articles/maladie-professionnelle-declaration-employeur) si le salarié prouve que vous aviez conscience du danger et que vous n'avez pas pris les mesures nécessaires pour l'en préserver (Cass. 2e civ., 9 mars 2023, n° 21-20.579).
 
 L'article L.4121-1 du Code du travail impose à l'employeur une obligation de sécurité qui inclut l'évaluation des risques (DUERP), la formation à la sécurité, la fourniture d'équipements de protection individuelle et la mise en conformité des locaux.
 
-En cas de faute inexcusable, le salarié obtient une majoration de sa rente ou de son capital, plus la réparation intégrale de ses préjudices (souffrances physiques et morales, préjudice esthétique, préjudice d'agrément, perte de promotion professionnelle). La CPAM verse ces sommes au salarié puis en demande le remboursement à l'employeur, majoré de 50 %.
+En cas de faute inexcusable, le salarié obtient une majoration de sa rente ou de son capital, plus la [réparation intégrale](https://enclair.media/articles/accident-travail-faute-employeur-reparation-integrale) de ses préjudices (souffrances physiques et morales, préjudice esthétique, préjudice d'agrément, perte de promotion professionnelle). La CPAM verse ces sommes au salarié puis en demande le remboursement à l'employeur, majoré de 50 %.
 
 ## Ce que vous devez faire lundi matin
 

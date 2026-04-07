@@ -1,15 +1,22 @@
 ---
-title: "BDESE : le contenu obligatoire que personne ne met à jour"
-excerpt: "La base de données économiques, sociales et environnementales est obligatoire dans toutes les entreprises de 50 salariés et plus. Son absence ou son caractère lacunaire constitue un délit d'entrave — et un argument pour le CSE en cas de contentieux."
-date: "2026-01-12"
-category: "decryptage"
-tags: ["BDESE", "CSE", "information", "consultation", "délit d'entrave"]
-readTime: "6 min"
+title: 'BDESE : le contenu obligatoire que personne ne met à jour'
+excerpt: >-
+  La base de données économiques, sociales et environnementales est obligatoire
+  dans toutes les entreprises de 50 salariés et plus.
+date: '2026-01-12'
+category: decryptage
+tags:
+  - BDESE
+  - CSE
+  - information
+  - consultation
+  - délit d'entrave
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.2312-18 à L.2312-36"
-  - "Code du travail, articles R.2312-7 à R.2312-9"
-  - "Loi n° 2021-1104 du 22 août 2021 (loi Climat et résilience)"
-  - "Cass. soc., 28 mars 2018, n° 17-13.081"
+  - 'Code du travail, articles L.2312-18 à L.2312-36'
+  - 'Code du travail, articles R.2312-7 à R.2312-9'
+  - Loi n° 2021-1104 du 22 août 2021 (loi Climat et résilience)
+  - 'Cass. soc., 28 mars 2018, n° 17-13.081'
 ---
 
 Votre CSE vous demande des informations pour préparer la consultation annuelle sur la situation économique et financière. Vous leur envoyez un tableau Excel par courrier. Le CSE répond que l'information aurait dû figurer dans la BDESE et qu'il refuse de rendre son avis tant que la base n'est pas alimentée.
@@ -18,7 +25,7 @@ Ce blocage n'est pas un caprice. La BDESE est le support obligatoire de l'inform
 
 ## Le contenu obligatoire de la BDESE
 
-La BDESE doit contenir des informations couvrant les deux années précédentes, l'année en cours et les perspectives des trois années suivantes, sur neuf thèmes obligatoires : l'investissement social (emploi, formation, conditions de travail), l'investissement matériel et immatériel, l'égalité professionnelle entre les femmes et les hommes, les fonds propres et l'endettement, l'ensemble des éléments de la rémunération des salariés et des dirigeants, les activités sociales et culturelles, la rémunération des financeurs, les flux financiers à destination de l'entreprise, et les conséquences environnementales de l'activité.
+La BDESE doit contenir des informations couvrant les deux années précédentes, l'année en cours et les perspectives des trois années suivantes, sur neuf thèmes obligatoires : l'investissement social (emploi, formation, conditions de travail), l'investissement matériel et immatériel, l'[égalité professionnelle](https://enclair.media/articles/index-egalite-femmes-hommes-publication-sanctions-2026) entre les femmes et les hommes, les fonds propres et l'endettement, l'ensemble des éléments de la rémunération des salariés et des dirigeants, les activités sociales et culturelles, la rémunération des financeurs, les flux financiers à destination de l'entreprise, et les conséquences environnementales de l'activité.
 
 Ce dernier thème, ajouté par la loi Climat et résilience du 22 août 2021, concerne le bilan des émissions de gaz à effet de serre, la consommation d'énergie et d'eau, l'utilisation des ressources et les déchets. Beaucoup d'entreprises ne l'ont pas encore intégré.
 
@@ -36,7 +43,7 @@ La mise à jour doit être régulière. Les informations historiques doivent êt
 
 L'absence de BDESE constitue un manquement de l'employeur à son obligation d'information du CSE. Ce manquement a plusieurs conséquences.
 
-Le CSE peut refuser de rendre son avis lors des consultations obligatoires tant que la BDESE n'est pas alimentée (Cass. soc., 28 mars 2018, n° 17-13.081). Ce report peut paralyser des décisions de gestion conditionnées à l'avis du CSE (licenciement économique collectif, plan de sauvegarde de l'emploi).
+Le CSE peut refuser de rendre son avis lors des consultations obligatoires tant que la BDESE n'est pas alimentée (Cass. soc., 28 mars 2018, n° 17-13.081). Ce report peut paralyser des décisions de gestion conditionnées à l'avis du CSE ([licenciement économique](https://enclair.media/articles/co-emploi-societe-mere-responsable-salaries-filiale) collectif, plan de sauvegarde de l'emploi).
 
 Le CSE peut saisir le tribunal judiciaire en référé pour contraindre l'employeur à mettre la BDESE à disposition. Le juge peut ordonner l'alimentation de la base sous astreinte.
 
@@ -48,4 +55,4 @@ Si votre BDESE n'existe pas, créez-la. Elle peut prendre la forme d'un fichier 
 
 Si votre BDESE existe mais n'est pas à jour, planifiez une mise à jour trimestrielle. Désignez un responsable (RH ou DAF) chargé de l'alimentation régulière. Et n'oubliez pas le volet environnemental, obligatoire depuis 2022.
 
-La BDESE n'est pas un document de plus. C'est le socle de votre dialogue social. Un socle solide prévient les conflits. Un socle absent les provoque.
+La BDESE n'est pas un document de plus. C'est le socle de votre [dialogue social](https://enclair.media/articles/bdese-contenu-2026). Un socle solide prévient les conflits. Un socle absent les provoque.

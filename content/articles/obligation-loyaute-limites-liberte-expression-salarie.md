@@ -1,23 +1,29 @@
 ---
-title: "Obligation de loyauté : les limites de la liberté d'expression du salarié"
-excerpt: "Le salarié bénéficie de la liberté d'expression, y compris pour critiquer son employeur. Mais cette liberté n'est pas absolue : l'obligation de loyauté pose des limites dont le franchissement peut justifier un licenciement."
-date: "2026-02-01"
-category: "droit-social"
-tags: ["loyauté", "liberté expression", "critique employeur", "réseaux sociaux"]
-readTime: "6 min"
+title: 'Obligation de loyauté : les limites de la liberté d''expression du salarié'
+excerpt: >-
+  Le salarié bénéficie de la liberté d'expression, y compris pour critiquer son
+  employeur. Mais cette liberté n'est pas absolue : l'obligation de loyauté.
+date: '2026-02-01'
+category: droit-social
+tags:
+  - loyauté
+  - liberté expression
+  - critique employeur
+  - réseaux sociaux
+readTime: 6 min
 sources:
-  - "Article L.1121-1 du Code du travail"
-  - "Article 10 de la Convention européenne des droits de l'homme"
-  - "Cass. soc., 11 avril 2018, n° 16-18.590"
-  - "Cass. soc., 12 septembre 2018, n° 16-11.690"
-  - "Cass. soc., 20 décembre 2017, n° 16-14.179"
+  - Article L.1121-1 du Code du travail
+  - Article 10 de la Convention européenne des droits de l'homme
+  - 'Cass. soc., 11 avril 2018, n° 16-18.590'
+  - 'Cass. soc., 12 septembre 2018, n° 16-11.690'
+  - 'Cass. soc., 20 décembre 2017, n° 16-14.179'
 ---
 
-La liberté d'expression est un droit fondamental garanti par l'article 10 de la Convention européenne des droits de l'homme. Le salarié en bénéficie pleinement, y compris dans l'entreprise et pour critiquer son employeur. Mais cette liberté se heurte à l'obligation de loyauté inhérente au contrat de travail. La frontière entre critique légitime et manquement à la loyauté est une ligne que la jurisprudence trace avec nuance.
+La [liberté d'expression](https://enclair.media/articles/obligation-loyaute-salarie-limites-cour) est un droit fondamental garanti par l'article 10 de la Convention européenne des droits de l'homme. Le salarié en bénéficie pleinement, y compris dans l'entreprise et pour critiquer son employeur. Mais cette liberté se heurte à l'obligation de loyauté inhérente au contrat de travail. La frontière entre critique légitime et manquement à la loyauté est une ligne que la jurisprudence trace avec nuance.
 
 ## Le principe : la liberté d'expression dans l'entreprise
 
-L'article L.1121-1 du Code du travail pose le principe selon lequel nul ne peut apporter aux droits des personnes et aux libertés individuelles des restrictions qui ne seraient pas justifiées par la nature de la tâche à accomplir ni proportionnées au but recherché.
+L'article L.1121-1 du Code du travail pose le principe selon lequel nul ne peut apporter aux droits des personnes et aux [libertés individuelles](https://enclair.media/articles/reglement-interieur-clauses-illicites) des restrictions qui ne seraient pas justifiées par la nature de la tâche à accomplir ni proportionnées au but recherché.
 
 Ce texte protège la liberté d'expression du salarié sous toutes ses formes : expression orale lors de réunions, courriers adressés à la direction, publications sur les réseaux sociaux, témoignages dans le cadre de contentieux.
 
@@ -67,7 +73,7 @@ Des propos publiés en mode public ou partagés avec des centaines de « amis »
 
 Certains salariés bénéficient d'une protection renforcée de leur liberté d'expression.
 
-**Les représentants du personnel.** Les élus du CSE et les délégués syndicaux bénéficient d'une liberté d'expression élargie dans le cadre de leur mandat. Ils peuvent critiquer avec vigueur la politique de l'entreprise sans que cela constitue un abus.
+**Les [représentants du personnel](https://enclair.media/articles/representants-personnel-heures-delegation-mode-emploi).** Les élus du CSE et les délégués syndicaux bénéficient d'une liberté d'expression élargie dans le cadre de leur mandat. Ils peuvent critiquer avec vigueur la politique de l'entreprise sans que cela constitue un abus.
 
 **Les lanceurs d'alerte.** La loi du 21 mars 2022 (loi Waserman) protège les salariés qui signalent de bonne foi des faits constitutifs d'un délit ou d'un crime. Cette protection interdit toute sanction liée à l'alerte.
 

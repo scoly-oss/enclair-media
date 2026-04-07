@@ -1,19 +1,25 @@
 ---
-title: "Budget CSE : les 0,2% et 0,22% que vous devez verser"
-excerpt: "Le financement du CSE repose sur deux budgets distincts : le budget de fonctionnement (0,2% ou 0,22%) et la contribution aux activités sociales et culturelles. Les règles de calcul, d'utilisation et de transfert décryptées."
-date: "2026-03-07"
-category: "economie"
-tags: ["CSE", "budget fonctionnement", "ASC", "0.2%"]
-readTime: "6 min"
+title: 'Budget CSE : les 0,2% et 0,22% que vous devez verser'
+excerpt: >-
+  Le financement du CSE repose sur deux budgets distincts : le budget de
+  fonctionnement (0,2% ou 0,22%) et la contribution aux activités sociales et.
+date: '2026-03-07'
+category: economie
+tags:
+  - CSE
+  - budget fonctionnement
+  - ASC
+  - 0.2%
+readTime: 6 min
 sources:
-  - "Article L.2315-61 du Code du travail"
-  - "Article L.2312-81 du Code du travail"
-  - "Article L.2315-61 al. 2 du Code du travail"
-  - "Cass. soc., 7 février 2018, n° 16-16.086"
-  - "Article L.2312-83 du Code du travail"
+  - Article L.2315-61 du Code du travail
+  - Article L.2312-81 du Code du travail
+  - Article L.2315-61 al. 2 du Code du travail
+  - 'Cass. soc., 7 février 2018, n° 16-16.086'
+  - Article L.2312-83 du Code du travail
 ---
 
-Le comité social et économique (CSE) dispose de deux budgets distincts que l'employeur est tenu de financer. Le budget de fonctionnement, assis sur la masse salariale brute, et la contribution aux activités sociales et culturelles (ASC). Leur calcul, leur utilisation et les possibilités de transfert entre les deux sont des sujets que tout dirigeant doit maîtriser.
+Le comité social et économique (CSE) dispose de deux budgets distincts que l'employeur est tenu de financer. Le budget de fonctionnement, assis sur la masse salariale brute, et la contribution aux [activités sociales](https://enclair.media/articles/budget-cse-calcul-erreurs-frequentes) et culturelles (ASC). Leur calcul, leur utilisation et les possibilités de transfert entre les deux sont des sujets que tout dirigeant doit maîtriser.
 
 ## Le budget de fonctionnement : 0,2% ou 0,22%
 
@@ -26,7 +32,7 @@ Pour les entreprises de moins de 50 salariés, le CSE existe mais ne dispose pas
 
 **La masse salariale brute** servant d'assiette correspond à l'ensemble des gains et rémunérations soumis à cotisations de sécurité sociale au sens de l'article L.242-1 du Code de la sécurité sociale, à l'exception des indemnités versées à l'occasion de la rupture du contrat de travail à durée indéterminée (Cass. soc., 7 février 2018, n° 16-16.086).
 
-Sont donc exclus de l'assiette : les indemnités de licenciement, les indemnités de rupture conventionnelle, et les indemnités de mise à la retraite.
+Sont donc exclus de l'assiette : les indemnités de licenciement, les indemnités de [rupture conventionnelle](https://enclair.media/articles/nouveau-formulaire-rupture-conventionnelle-ce-qui-change), et les indemnités de mise à la retraite.
 
 ## L'utilisation du budget de fonctionnement
 
@@ -46,7 +52,7 @@ Depuis les ordonnances Macron, le CSE peut transférer jusqu'à **10 %** de l'ex
 
 ## Le budget des activités sociales et culturelles (ASC)
 
-Le montant de la contribution aux ASC n'est pas fixé par la loi. Il est déterminé par accord d'entreprise ou, à défaut, par rapport aux dépenses sociales de l'année de référence (article L.2312-81).
+Le montant de la contribution aux ASC n'est pas fixé par la loi. Il est déterminé par [accord d'entreprise](https://enclair.media/articles/accord-entreprise-conditions-validite-ordonnances-macron) ou, à défaut, par rapport aux dépenses sociales de l'année de référence (article L.2312-81).
 
 L'article L.2312-83 précise que la contribution ne peut être inférieure au total le plus élevé des sommes affectées aux dépenses sociales de l'entreprise atteint au cours des trois dernières années.
 

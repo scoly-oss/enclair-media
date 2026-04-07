@@ -1,23 +1,29 @@
 ---
-title: "Modification de la rémunération : quand l'accord du salarié est indispensable"
-excerpt: "La rémunération est un élément essentiel du contrat de travail. Toute modification, même minime, nécessite l'accord exprès du salarié. Analyse des règles et des pièges à éviter pour l'employeur."
-date: "2026-03-15"
-category: "droit-social"
-tags: ["rémunération", "modification contrat", "accord salarié", "élément essentiel"]
-readTime: "7 min"
+title: 'Modification de la rémunération : quand l''accord du salarié est indispensable'
+excerpt: >-
+  La rémunération est un élément essentiel du contrat de travail. Toute
+  modification, même minime, nécessite l'accord exprès du salarié.
+date: '2026-03-15'
+category: droit-social
+tags:
+  - rémunération
+  - modification contrat
+  - accord salarié
+  - élément essentiel
+readTime: 7 min
 sources:
-  - "Cass. soc., 19 mai 1998, n° 96-41.573 (arrêt Raquin)"
-  - "Cass. soc., 3 mars 2010, n° 08-44.152"
-  - "Article 1103 du Code civil"
-  - "Article L.1222-6 du Code du travail"
-  - "Cass. soc., 18 mai 2011, n° 09-69.175"
+  - 'Cass. soc., 19 mai 1998, n° 96-41.573 (arrêt Raquin)'
+  - 'Cass. soc., 3 mars 2010, n° 08-44.152'
+  - Article 1103 du Code civil
+  - Article L.1222-6 du Code du travail
+  - 'Cass. soc., 18 mai 2011, n° 09-69.175'
 ---
 
 La rémunération occupe une place à part dans le contrat de travail. Considérée comme un élément essentiel du contrat, elle bénéficie d'une protection renforcée que la Cour de cassation a construite au fil de décennies de jurisprudence. Toute modification, qu'elle porte sur le montant, la structure ou le mode de calcul, requiert impérativement le consentement du salarié.
 
 ## Le principe : la rémunération est intouchable sans accord
 
-Depuis l'arrêt fondateur Raquin du 19 mai 1998 (Cass. soc., n° 96-41.573), la Cour de cassation distingue clairement la modification du contrat de travail du simple changement des conditions de travail. La rémunération relève invariablement de la première catégorie.
+Depuis l'arrêt fondateur Raquin du 19 mai 1998 (Cass. soc., n° 96-41.573), la Cour de cassation distingue clairement la [modification du contrat](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail) de travail du simple changement des conditions de travail. La rémunération relève invariablement de la première catégorie.
 
 Ce principe repose sur le droit commun des contrats. L'article 1103 du Code civil dispose que les contrats légalement formés tiennent lieu de loi à ceux qui les ont faits. L'employeur ne peut donc pas modifier unilatéralement ce qui a été convenu contractuellement, et la rémunération figure toujours parmi les éléments contractuels.
 
@@ -53,9 +59,9 @@ Le refus du salarié de voir sa rémunération modifiée ne constitue pas une fa
 
 **Option 1 : renoncer à la modification.** Le contrat se poursuit aux conditions antérieures. C'est la solution la plus sûre juridiquement.
 
-**Option 2 : licencier le salarié.** L'employeur peut procéder au licenciement, mais le motif du licenciement ne sera pas le refus du salarié. Le motif sera la raison sous-jacente qui justifiait la modification proposée — généralement un motif économique. L'employeur devra alors respecter l'intégralité de la procédure de licenciement économique, y compris l'obligation de reclassement.
+**Option 2 : licencier le salarié.** L'employeur peut procéder au licenciement, mais le motif du licenciement ne sera pas le refus du salarié. Le motif sera la raison sous-jacente qui justifiait la modification proposée — généralement un motif économique. L'employeur devra alors respecter l'intégralité de la procédure de [licenciement économique](https://enclair.media/articles/licenciement-economique-5-etapes-obligatoires), y compris l'obligation de reclassement.
 
-La Cour de cassation a jugé que le licenciement fondé sur le seul refus du salarié d'accepter une modification de sa rémunération est **dépourvu de cause réelle et sérieuse** (Cass. soc., 3 mars 2010, n° 08-44.152).
+La Cour de cassation a jugé que le licenciement fondé sur le seul refus du salarié d'accepter une modification de sa rémunération est **dépourvu de [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse)** (Cass. soc., 3 mars 2010, n° 08-44.152).
 
 ## Les pièges classiques à éviter
 

@@ -1,15 +1,21 @@
 ---
-title: "Heure de recherche d'emploi : un droit prévu par la CC, pas par la loi"
-excerpt: "Les heures de recherche d'emploi pendant le préavis sont un avantage conventionnel souvent méconnu. Le Code du travail ne les prévoit pas, mais la quasi-totalité des conventions collectives les imposent. Modalités et pièges."
-date: "2026-01-14"
-category: "jurisprudence"
-tags: ["préavis", "recherche d'emploi", "convention collective", "licenciement"]
-readTime: "5 min"
+title: 'Heure de recherche d''emploi : un droit prévu par la CC, pas par la loi'
+excerpt: >-
+  Les heures de recherche d'emploi pendant le préavis sont un avantage
+  conventionnel souvent méconnu. Le Code du travail ne les prévoit pas, mais la.
+date: '2026-01-14'
+category: jurisprudence
+tags:
+  - préavis
+  - recherche d'emploi
+  - convention collective
+  - licenciement
+readTime: 5 min
 sources:
-  - "Convention collective nationale de la métallurgie (IDCC 3248), article 78"
-  - "Convention collective Syntec (IDCC 1486), article 15"
-  - "Cass. soc., 4 mai 2017, n° 15-24.898"
-  - "Cass. soc., 9 février 2022, n° 20-15.795"
+  - 'Convention collective nationale de la métallurgie (IDCC 3248), article 78'
+  - 'Convention collective Syntec (IDCC 1486), article 15'
+  - 'Cass. soc., 4 mai 2017, n° 15-24.898'
+  - 'Cass. soc., 9 février 2022, n° 20-15.795'
 ---
 
 Pendant le préavis de licenciement, le salarié dispose-t-il d'heures pour rechercher un emploi ? Contrairement à une idée très répandue, le Code du travail ne prévoit aucun droit en la matière. Ce sont les conventions collectives qui instaurent cette faculté, avec des modalités très variables.
@@ -18,13 +24,13 @@ Pendant le préavis de licenciement, le salarié dispose-t-il d'heures pour rech
 
 Aucun article du Code du travail ne prévoit un droit à des heures de recherche d'emploi pendant le préavis. C'est une source de confusion fréquente, tant les salariés et les employeurs considèrent ce droit comme acquis.
 
-Le droit aux heures de recherche d'emploi est exclusivement d'**origine conventionnelle** : convention collective, accord d'entreprise ou usage.
+Le droit aux heures de recherche d'emploi est exclusivement d'**origine conventionnelle** : [convention collective](https://enclair.media/articles/forfait-jours-droit-sante-qpc), accord d'entreprise ou usage.
 
 ## Les dispositions conventionnelles types
 
 ### Le volume d'heures
 
-La plupart des conventions collectives prévoient un crédit d'heures de recherche d'emploi variant de **2 heures par jour** à **1 journée par semaine**, selon les conventions et les catégories professionnelles.
+La plupart des conventions collectives prévoient un crédit d'heures de recherche d'emploi variant de **2 heures par jour** à **1 journée par semaine**, selon les conventions et les [catégories professionnelles](https://enclair.media/articles/ordre-licenciements-economiques-criteres-obligatoires).
 
 La métallurgie (IDCC 3248) prévoit des heures de recherche d'emploi dont le volume varie selon la catégorie et l'ancienneté. La convention Syntec (IDCC 1486) prévoit 50 heures par mois pour les cadres.
 
@@ -46,7 +52,7 @@ Les conventions fixent les modalités de prise des heures : en bloc ou répartie
 
 ### Ne pas appliquer la convention collective
 
-L'employeur qui ne propose pas les heures de recherche d'emploi prévues par la convention collective commet une faute contractuelle. Le salarié peut réclamer le paiement des heures non prises.
+L'employeur qui ne propose pas les heures de recherche d'emploi prévues par la [convention collective](https://enclair.media/articles/convention-collective-identifier-applicable) commet une faute contractuelle. Le salarié peut réclamer le paiement des heures non prises.
 
 ### Refuser le cumul en fin de préavis
 

@@ -1,18 +1,24 @@
 ---
-title: "Taux AT/MP : comment contester efficacement"
-excerpt: "Le taux de cotisation accidents du travail et maladies professionnelles pèse lourd dans les charges de l'entreprise. Il est pourtant contestable. Procédure, délais et arguments à faire valoir pour réduire votre taux."
-date: "2025-11-10"
-category: "economie"
-tags: ["taux AT/MP", "cotisations", "contestation", "CPAM"]
-readTime: "7 min"
+title: 'Taux AT/MP : comment contester efficacement'
+excerpt: >-
+  Le taux de cotisation accidents du travail et maladies professionnelles pèse
+  lourd dans les charges de l'entreprise. Il est pourtant contestable.
+date: '2025-11-10'
+category: economie
+tags:
+  - taux AT/MP
+  - cotisations
+  - contestation
+  - CPAM
+readTime: 7 min
 sources:
-  - "Articles L. 242-5 et D. 242-6-1 du Code de la sécurité sociale"
-  - "Arrêté du 24 décembre 2021 relatif à la tarification des risques AT/MP"
-  - "Cass. 2e civ., 14 mars 2024, n° 22-15.624"
-  - "Article R. 142-1 du Code de la sécurité sociale (recours)"
+  - Articles L. 242-5 et D. 242-6-1 du Code de la sécurité sociale
+  - Arrêté du 24 décembre 2021 relatif à la tarification des risques AT/MP
+  - 'Cass. 2e civ., 14 mars 2024, n° 22-15.624'
+  - Article R. 142-1 du Code de la sécurité sociale (recours)
 ---
 
-Le taux de cotisation AT/MP représente un coût significatif pour les entreprises, variant de 0,7 % à plus de 10 % de la masse salariale selon le secteur et la sinistralité. Pourtant, de nombreux employeurs ignorent qu'ils peuvent contester ce taux et les éléments qui servent à le calculer.
+Le taux de cotisation AT/MP représente un coût significatif pour les entreprises, variant de 0,7 % à plus de 10 % de la [masse salariale](https://enclair.media/articles/masse-salariale-composantes-surveiller-daf) selon le secteur et la sinistralité. Pourtant, de nombreux employeurs ignorent qu'ils peuvent contester ce taux et les éléments qui servent à le calculer.
 
 ## Les modes de tarification
 
@@ -34,7 +40,7 @@ Les entreprises de 150 salariés et plus relèvent de la tarification individuel
 
 Le moyen le plus efficace de réduire le taux est de contester la prise en charge des sinistres par la CPAM. Chaque AT ou MP reconnu impacte le taux pendant 3 ans.
 
-L'employeur peut contester la matérialité de l'accident, le caractère professionnel, le lien de causalité en matière de maladie professionnelle et la durée des arrêts via une expertise médicale.
+L'employeur peut contester la matérialité de l'accident, le caractère professionnel, le lien de causalité en matière de [maladie professionnelle](https://enclair.media/articles/maladie-professionnelle-declaration-employeur) et la durée des arrêts via une expertise médicale.
 
 ### Contester le taux notifié
 
@@ -68,7 +74,7 @@ La contestation du taux est portée devant la CARSAT puis devant la cour d'appel
 
 1. **Émettre des réserves systématiques** lors de chaque déclaration d'AT dont les circonstances sont incertaines
 2. **Suivre les dossiers** auprès de la CPAM et demander communication du dossier avant la décision
-3. **Contrôler la durée des arrêts** via un contrôle médical patronal en cas d'arrêts anormalement longs
+3. **Contrôler la durée des arrêts** via un [contrôle médical](https://enclair.media/articles/controle-arrets-maladie-contre-visite-patronale) patronal en cas d'arrêts anormalement longs
 4. **Vérifier la notification annuelle** du taux : effectif, code risque, sinistres imputés
 5. **Investir dans la prévention** : la réduction de la sinistralité est le levier le plus durable
 6. **Mandater un conseil spécialisé** : les cabinets de gestion du taux AT/MP génèrent des économies significatives

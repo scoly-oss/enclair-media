@@ -1,20 +1,28 @@
 ---
-title: "Clause de non-concurrence : les 4 conditions pour qu'elle soit valable"
-excerpt: "Limitation dans le temps, dans l'espace, à une activité précise et contrepartie financière. Si l'une de ces conditions manque, la clause est nulle. Voici ce que la jurisprudence exige."
-date: "2026-03-08"
-category: "jurisprudence"
-tags: ["clause-non-concurrence", "contrat-de-travail", "contrepartie-financière", "jurisprudence", "validité"]
-readTime: "5 min"
+title: 'Clause de non-concurrence : les 4 conditions pour qu''elle soit valable'
+excerpt: >-
+  Limitation dans le temps, dans l'espace, à une activité précise et
+  contrepartie financière. Si l'une de ces conditions manque, la clause est
+  nulle.
+date: '2026-03-08'
+category: jurisprudence
+tags:
+  - clause-non-concurrence
+  - contrat-de-travail
+  - contrepartie-financière
+  - jurisprudence
+  - validité
+readTime: 5 min
 sources:
-  - "Cass. soc., 10 juillet 2002, n°00-45.135 et n°99-43.334 et n°99-43.336"
-  - "Cass. soc., 15 mars 2023, n°21-21.998"
-  - "Cass. soc., 13 septembre 2023, n°21-12.006"
-  - "Cass. soc., 13 octobre 2021, n°20-12.059"
-  - "Cass. soc., 25 mai 2016, n°14-20.578"
-  - "Cass. soc., 22 juin 2011, n°09-68.762"
+  - 'Cass. soc., 10 juillet 2002, n°00-45.135 et n°99-43.334 et n°99-43.336'
+  - 'Cass. soc., 15 mars 2023, n°21-21.998'
+  - 'Cass. soc., 13 septembre 2023, n°21-12.006'
+  - 'Cass. soc., 13 octobre 2021, n°20-12.059'
+  - 'Cass. soc., 25 mai 2016, n°14-20.578'
+  - 'Cass. soc., 22 juin 2011, n°09-68.762'
 ---
 
-Vous recrutez un commercial, un directeur technique ou un cadre dirigeant. Vous voulez l'empêcher d'aller travailler chez un concurrent si la relation se termine. Vous insérez une clause de non-concurrence dans son contrat. Classique.
+Vous recrutez un commercial, un directeur technique ou un cadre dirigeant. Vous voulez l'empêcher d'aller travailler chez un concurrent si la relation se termine. Vous insérez une [clause de non-concurrence](https://enclair.media/articles/non-concurrence-clause-qui-coute-meme-si-salarie-viole) dans son contrat. Classique.
 
 Sauf que la clause de non-concurrence est l'une des clauses les plus encadrées du droit du travail. Si elle ne remplit pas les 4 conditions cumulatives fixées par la Cour de cassation, elle est nulle. Et une clause nulle, c'est une clause qui ne protège pas.
 
@@ -40,7 +48,7 @@ La clause ne peut pas interdire au salarié de travailler tout court. Elle doit 
 
 ### 4. La contrepartie financière
 
-C'est la condition qui génère le plus de contentieux. Depuis les arrêts du 10 juillet 2002, la clause de non-concurrence **doit** prévoir une contrepartie financière versée au salarié après la rupture du contrat.
+C'est la condition qui génère le plus de contentieux. Depuis les arrêts du 10 juillet 2002, la clause de non-concurrence **doit** prévoir une [contrepartie financière](https://enclair.media/articles/clause-non-concurrence-contrepartie-financiere-insuffisante) versée au salarié après la rupture du contrat.
 
 **Pas de contrepartie = clause nulle.** Ce point est non négociable.
 
@@ -52,7 +60,7 @@ La contrepartie prend généralement la forme d'une indemnité mensuelle versée
 
 L'employeur peut renoncer à la clause de non-concurrence pour ne pas avoir à payer la contrepartie financière. Mais cette renonciation est strictement encadrée.
 
-**Cass. soc., 22 juin 2011, n°09-68.762** : la renonciation doit intervenir au moment de la rupture du contrat et dans les conditions prévues par la clause elle-même ou par la convention collective. L'employeur ne peut pas renoncer tardivement, après le départ du salarié.
+**Cass. soc., 22 juin 2011, n°09-68.762** : la renonciation doit intervenir au moment de la rupture du contrat et dans les conditions prévues par la clause elle-même ou par la [convention collective](https://enclair.media/articles/forfait-jours-droit-sante-qpc). L'employeur ne peut pas renoncer tardivement, après le départ du salarié.
 
 **Cass. soc., 13 octobre 2021, n°20-12.059** : un employeur renonce à la clause de non-concurrence par courrier envoyé 3 semaines après la fin du contrat de travail. La Cour de cassation juge la renonciation tardive. Conséquence : l'employeur doit verser la contrepartie financière intégrale, même si le salarié n'a pas respecté l'interdiction.
 

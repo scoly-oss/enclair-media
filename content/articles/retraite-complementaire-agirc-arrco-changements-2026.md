@@ -1,18 +1,25 @@
 ---
-title: "Retraite complémentaire AGIRC-ARRCO : les changements 2026"
-excerpt: "Les paramètres de la retraite complémentaire AGIRC-ARRCO évoluent chaque année. Taux de cotisation, valeur du point, conditions de la décote temporaire : ce qui change pour les employeurs et les salariés en 2026."
-date: "2025-11-20"
-category: "economie"
-tags: ["retraite complémentaire", "AGIRC-ARRCO", "cotisations", "pension"]
-readTime: "6 min"
+title: 'Retraite complémentaire AGIRC-ARRCO : les changements 2026'
+excerpt: >-
+  Les paramètres de la retraite complémentaire AGIRC-ARRCO évoluent chaque
+  année. Taux de cotisation, valeur du point, conditions de la décote
+  temporaire.
+date: '2025-11-20'
+category: economie
+tags:
+  - retraite complémentaire
+  - AGIRC-ARRCO
+  - cotisations
+  - pension
+readTime: 6 min
 sources:
-  - "Accord national interprofessionnel du 10 mai 2019 (AGIRC-ARRCO)"
-  - "ANI du 5 octobre 2023 relatif aux retraites complémentaires"
-  - "Articles L. 921-1 et suivants du Code de la sécurité sociale"
-  - "Délibération du conseil d'administration AGIRC-ARRCO du 8 octobre 2025"
+  - Accord national interprofessionnel du 10 mai 2019 (AGIRC-ARRCO)
+  - ANI du 5 octobre 2023 relatif aux retraites complémentaires
+  - Articles L. 921-1 et suivants du Code de la sécurité sociale
+  - Délibération du conseil d'administration AGIRC-ARRCO du 8 octobre 2025
 ---
 
-Le régime de retraite complémentaire AGIRC-ARRCO concerne l'ensemble des salariés du secteur privé. Ses paramètres sont négociés par les partenaires sociaux et ajustés annuellement. Voici les éléments que tout employeur et tout gestionnaire de paie doivent intégrer pour 2026.
+Le régime de [retraite complémentaire](https://enclair.media/articles/cotisations-retraite-cadres-changements-agirc-arrco) AGIRC-ARRCO concerne l'ensemble des salariés du secteur privé. Ses paramètres sont négociés par les partenaires sociaux et ajustés annuellement. Voici les éléments que tout employeur et tout gestionnaire de paie doivent intégrer pour 2026.
 
 ## La structure des cotisations
 
@@ -75,7 +82,7 @@ La distinction entre les catégories de salariés (cadres, non-cadres, assimilé
 ## Les points de vigilance pour 2026
 
 1. **Mettre à jour les taux** dans le logiciel de paie dès publication des paramètres définitifs
-2. **Vérifier la catégorisation** des salariés, en particulier en cas de changement de convention collective (nouvelle convention métallurgie)
+2. **Vérifier la catégorisation** des salariés, en particulier en cas de changement de [convention collective](https://enclair.media/articles/mutuelle-entreprise-minimum-conventionnel) (nouvelle convention métallurgie)
 3. **Anticiper l'impact** de la hausse éventuelle du PMSS sur la répartition entre tranches
 4. **Informer les salariés** proches de la retraite des conditions de liquidation et de la suppression du coefficient de solidarité
 5. **Contrôler les bordereaux** AGIRC-ARRCO pour détecter les écarts avec la paie

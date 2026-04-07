@@ -1,24 +1,32 @@
 ---
-title: "Barème Macron : bilan 5 ans après et positions des cours d'appel"
-excerpt: "Le barème d'indemnisation du licenciement sans cause réelle et sérieuse fête ses 5 ans d'application. Validé par la Cour de cassation, contesté par certaines cours d'appel, appliqué par la majorité : état des lieux d'un contentieux qui perdure."
-date: "2025-12-15"
-category: "jurisprudence"
-tags: ["barème Macron", "licenciement", "indemnisation", "cours d'appel"]
-readTime: "7 min"
+title: 'Barème Macron : bilan 5 ans après et positions des cours d''appel'
+excerpt: >-
+  Le barème d'indemnisation du licenciement sans cause réelle et sérieuse fête
+  ses 5 ans d'application.
+date: '2025-12-15'
+category: jurisprudence
+tags:
+  - barème Macron
+  - licenciement
+  - indemnisation
+  - cours d'appel
+readTime: 7 min
 sources:
-  - "Article L. 1235-3 du Code du travail"
-  - "Cass. soc., 11 mai 2022, n° 21-14.490 et n° 21-15.247 (validation du barème)"
-  - "Comité européen des droits sociaux, décision du 23 mars 2022 (réclamation CGT)"
-  - "CA Grenoble, 8 novembre 2024 (écart du barème)"
+  - Article L. 1235-3 du Code du travail
+  - 'Cass. soc., 11 mai 2022, n° 21-14.490 et n° 21-15.247 (validation du barème)'
+  - >-
+    Comité européen des droits sociaux, décision du 23 mars 2022 (réclamation
+    CGT)
+  - 'CA Grenoble, 8 novembre 2024 (écart du barème)'
 ---
 
-Instauré par les ordonnances du 22 septembre 2017, le barème d'indemnisation du licenciement sans cause réelle et sérieuse (article L. 1235-3 du Code du travail) a profondément modifié le contentieux prud'homal. Cinq ans après sa validation par la Cour de cassation, le bilan est contrasté.
+Instauré par les ordonnances du 22 septembre 2017, le barème d'indemnisation du licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher) (article L. 1235-3 du Code du travail) a profondément modifié le contentieux prud'homal. Cinq ans après sa validation par la Cour de cassation, le bilan est contrasté.
 
 ## Le rappel du barème
 
 Le barème fixe des planchers et des plafonds d'indemnisation en fonction de l'ancienneté du salarié et de la taille de l'entreprise. Les montants s'échelonnent de 1 mois de salaire brut (pour les faibles anciennetés dans les entreprises de moins de 11 salariés) à 20 mois de salaire brut (pour 30 ans d'ancienneté et plus).
 
-Le barème ne s'applique qu'aux cas de licenciement sans cause réelle et sérieuse. Il ne s'applique **pas** aux licenciements **nuls** (discrimination, harcèlement, violation d'une liberté fondamentale), pour lesquels l'indemnisation minimale reste de 6 mois de salaire sans plafond.
+Le barème ne s'applique qu'aux cas de licenciement sans [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse). Il ne s'applique **pas** aux licenciements **nuls** (discrimination, harcèlement, violation d'une liberté fondamentale), pour lesquels l'indemnisation minimale reste de 6 mois de salaire sans plafond.
 
 ## La validation par la Cour de cassation
 
@@ -60,7 +68,7 @@ Le barème ne s'applique pas aux cas suivants, pour lesquels l'indemnisation min
 - Licenciement nul pour discrimination
 - Licenciement nul pour harcèlement moral ou sexuel
 - Violation d'une liberté fondamentale
-- Licenciement nul lié à la maternité, à l'accident du travail ou au statut de salarié protégé
+- Licenciement nul lié à la maternité, à l'[accident du travail](https://enclair.media/articles/licenciement-salarie-at-conditions-strictes) ou au statut de salarié protégé
 - Licenciement nul en violation du droit de grève
 
 ## Les recommandations pour les employeurs

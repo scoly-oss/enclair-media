@@ -17,7 +17,7 @@ Chaque annee en janvier, la CARSAT vous notifie votre taux de cotisation AT/MP. 
 
 ## Ce que vous payez vraiment
 
-La cotisation AT/MP est a votre charge exclusive en tant qu'employeur. Elle finance les indemnites journalieres, les rentes, les soins verses par la branche AT/MP de la securite sociale en cas d'accident du travail, d'accident de trajet ou de maladie professionnelle.
+La cotisation AT/MP est a votre charge exclusive en tant qu'employeur. Elle finance les indemnites journalieres, les rentes, les soins verses par la branche AT/MP de la securite sociale en cas d'[accident du travail](https://enclair.media/articles/accident-du-travail-les-48h-que-vous-ne-pouvez-pas-rater), d'accident de trajet ou de [maladie professionnelle](https://enclair.media/articles/burnout-faute-inexcusable-reconnaissance-juges).
 
 En 2026, le **taux net moyen national** est de **2,08 %**, en legere augmentation par rapport aux 2,12 % de 2025 (arrete du 30 decembre 2025, publie au JORF le 31 decembre 2025). Mais ce chiffre moyen ne veut pas dire grand-chose : votre taux reel depend de votre effectif, de votre secteur d'activite et de votre sinistralite propre.
 
@@ -37,7 +37,7 @@ C'est un melange entre le taux collectif et le taux individuel. Plus votre effec
 
 ### Taux individuel (150 salaries et plus)
 
-Le taux est calcule directement sur la base de votre sinistralite propre sur les trois dernieres annees connues. Chaque accident du travail, chaque maladie professionnelle impacte directement votre taux -- et donc votre masse salariale.
+Le taux est calcule directement sur la base de votre sinistralite propre sur les trois dernieres annees connues. Chaque accident du travail, chaque [maladie professionnelle](https://enclair.media/articles/faute-inexcusable-presomption-maladie-professionnelle) impacte directement votre taux -- et donc votre masse salariale.
 
 **Point cle** : pour la tarification 2026, c'est l'effectif de l'annee 2024 qui sert de reference.
 

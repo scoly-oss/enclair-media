@@ -1,16 +1,22 @@
 ---
-title: "Provision pour risques prud'homaux : comment la calculer"
-excerpt: "Toute entreprise confrontée à un litige prud'homal doit constituer une provision comptable. Le calcul repose sur la probabilité de condamnation, le barème Macron et les frais de procédure. Guide méthodologique pour le DAF."
-date: "2026-03-11"
-category: "economie"
-tags: ["provision", "risques prud'homaux", "comptabilité", "barème Macron"]
-readTime: "6 min"
+title: 'Provision pour risques prud''homaux : comment la calculer'
+excerpt: >-
+  Toute entreprise confrontée à un litige prud'homal doit constituer une
+  provision comptable. Le calcul repose sur la probabilité de condamnation, le.
+date: '2026-03-11'
+category: economie
+tags:
+  - provision
+  - risques prud'homaux
+  - comptabilité
+  - barème Macron
+readTime: 6 min
 sources:
-  - "Article L.1235-3 du Code du travail"
-  - "PCG Article 212-3 (provision pour risques)"
-  - "Règlement ANC 2014-03"
-  - "IAS 37 (normes IFRS)"
-  - "Statistiques Ministère de la Justice, contentieux prud'homal 2024"
+  - Article L.1235-3 du Code du travail
+  - PCG Article 212-3 (provision pour risques)
+  - Règlement ANC 2014-03
+  - IAS 37 (normes IFRS)
+  - 'Statistiques Ministère de la Justice, contentieux prud''homal 2024'
 ---
 
 Dès qu'un contentieux prud'homal est engagé — ou même simplement probable —, l'entreprise doit constituer une provision pour risques dans ses comptes. Ce poste, souvent négligé dans les PME, peut avoir un impact significatif sur le résultat. Le calcul exige une méthode rigoureuse croisant probabilité de condamnation, montants estimés et frais connexes.
@@ -33,10 +39,10 @@ En pratique, toute saisine du conseil de prud'hommes déclenche l'obligation de 
 
 Les statistiques du Ministère de la Justice montrent que le taux de condamnation de l'employeur devant les prud'hommes est d'environ **65 à 70 %** en bureau de jugement. Ce taux varie selon la nature du contentieux :
 
-- Licenciement sans cause réelle et sérieuse : 60 à 70 %
+- Licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher) : 60 à 70 %
 - Harcèlement moral : 40 à 50 %
 - Rappels de salaire : 70 à 80 %
-- Heures supplémentaires : 55 à 65 %
+- [Heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif) : 55 à 65 %
 
 L'avocat de l'entreprise doit évaluer la probabilité propre au dossier, en tenant compte de la solidité des arguments et des preuves.
 

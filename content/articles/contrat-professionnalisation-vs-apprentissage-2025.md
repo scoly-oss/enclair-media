@@ -1,14 +1,20 @@
 ---
-title: "Contrat de professionnalisation vs apprentissage : le bon choix en 2025"
-excerpt: "Apprentissage ou professionnalisation ? Les deux contrats en alternance ont des régimes juridiques, des coûts et des aides très différents. En 2025, le choix est encore plus déterminant."
-date: "2025-06-12"
-category: "droit-social"
-tags: ["apprentissage", "professionnalisation", "alternance", "aides embauche"]
-readTime: "6 min"
+title: 'Contrat de professionnalisation vs apprentissage : le bon choix en 2025'
+excerpt: >-
+  Apprentissage ou professionnalisation ? Les deux contrats en alternance ont
+  des régimes juridiques, des coûts et des aides très différents.
+date: '2025-06-12'
+category: droit-social
+tags:
+  - apprentissage
+  - professionnalisation
+  - alternance
+  - aides embauche
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.6221-1 à L.6226-1 (apprentissage)"
-  - "Code du travail, articles L.6325-1 à L.6325-24 (professionnalisation)"
-  - "Décret n°2024-1234 relatif aux aides à l'embauche en alternance"
+  - 'Code du travail, articles L.6221-1 à L.6226-1 (apprentissage)'
+  - 'Code du travail, articles L.6325-1 à L.6325-24 (professionnalisation)'
+  - Décret n°2024-1234 relatif aux aides à l'embauche en alternance
 ---
 
 ## Vous recrutez un alternant. Avez-vous choisi le bon contrat ?
@@ -29,7 +35,7 @@ Le contrat de professionnalisation a donc un **public plus large**, incluant not
 
 **Apprentissage** : obligatoirement un diplôme ou titre inscrit au RNCP (Répertoire National des Certifications Professionnelles).
 
-**Professionnalisation** : un diplôme, un titre RNCP, un CQP (Certificat de Qualification Professionnelle) ou une qualification reconnue dans les classifications d'une convention collective.
+**Professionnalisation** : un diplôme, un titre RNCP, un CQP (Certificat de Qualification Professionnelle) ou une qualification reconnue dans les classifications d'une [convention collective](https://enclair.media/articles/convention-collective-identifier-applicable).
 
 Le contrat de professionnalisation offre plus de souplesse, notamment pour des formations qualifiantes courtes non diplômantes.
 
@@ -84,7 +90,7 @@ En professionnalisation, la formation doit représenter entre **15 % et 25 %** d
 
 Les règles de rupture sont très différentes :
 
-**Apprentissage** : pendant les 45 premiers jours en entreprise, rupture libre par l'une ou l'autre des parties. Ensuite, uniquement par accord mutuel, résiliation judiciaire, licenciement pour faute grave, inaptitude, ou démission après médiation.
+**Apprentissage** : pendant les 45 premiers jours en entreprise, rupture libre par l'une ou l'autre des parties. Ensuite, uniquement par accord mutuel, [résiliation judiciaire](https://enclair.media/articles/prise-acte-resiliation-judiciaire-quelle-voie-salarie), licenciement pour faute grave, inaptitude, ou démission après médiation.
 
 **Professionnalisation** : les règles classiques du CDD (pas de rupture anticipée sauf faute grave, force majeure ou accord mutuel) ou du CDI s'appliquent.
 
@@ -94,7 +100,7 @@ Le maître d'apprentissage doit justifier d'un diplôme au moins équivalent à 
 
 Le tuteur en professionnalisation doit justifier d'au moins 2 ans d'expérience dans la qualification visée.
 
-L'absence de maître d'apprentissage ou de tuteur conforme peut entraîner la suspension du contrat par l'inspection du travail.
+L'absence de maître d'apprentissage ou de tuteur conforme peut entraîner la suspension du contrat par l'[inspection du travail](https://enclair.media/articles/affichages-obligatoires-2025-liste-complete).
 
 ## Ce que vous devez faire lundi matin
 

@@ -1,16 +1,22 @@
 ---
-title: "Masse salariale : les composantes à surveiller pour le DAF"
-excerpt: "La masse salariale représente souvent 50 à 70 % des charges d'une entreprise. Sa décomposition en composantes pilotables est un exercice indispensable pour le DAF. Définitions, indicateurs clés et leviers d'action."
-date: "2026-02-02"
-category: "economie"
-tags: ["masse salariale", "DAF", "pilotage", "charges personnel"]
-readTime: "7 min"
+title: 'Masse salariale : les composantes à surveiller pour le DAF'
+excerpt: >-
+  La masse salariale représente souvent 50 à 70 % des charges d'une entreprise.
+  Sa décomposition en composantes pilotables est un exercice indispensable.
+date: '2026-02-02'
+category: economie
+tags:
+  - masse salariale
+  - DAF
+  - pilotage
+  - charges personnel
+readTime: 7 min
 sources:
-  - "Article L.242-1 du Code de la sécurité sociale"
-  - "PCG, comptes 641 à 648"
-  - "Article L.3312-4 du Code du travail"
-  - "INSEE, Note de conjoncture mars 2026"
-  - "DARES, Enquête Activité et conditions d'emploi de la main-d'oeuvre (ACEMO)"
+  - Article L.242-1 du Code de la sécurité sociale
+  - 'PCG, comptes 641 à 648'
+  - Article L.3312-4 du Code du travail
+  - 'INSEE, Note de conjoncture mars 2026'
+  - 'DARES, Enquête Activité et conditions d''emploi de la main-d''oeuvre (ACEMO)'
 ---
 
 La masse salariale est le premier poste de dépenses de la plupart des entreprises. Sa maîtrise suppose de la décomposer en composantes distinctes, chacune obéissant à des dynamiques propres. Ce guide identifie les 8 composantes clés et les indicateurs de pilotage que tout DAF doit suivre.
@@ -19,11 +25,11 @@ La masse salariale est le premier poste de dépenses de la plupart des entrepris
 
 La notion de masse salariale recouvre plusieurs définitions selon l'usage :
 
-**Masse salariale brute** : total des rémunérations brutes versées aux salariés (salaires de base, primes, heures supplémentaires, avantages en nature). C'est l'assiette de calcul des cotisations sociales.
+**Masse salariale brute** : total des rémunérations brutes versées aux salariés (salaires de base, primes, [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif), avantages en nature). C'est l'assiette de calcul des cotisations sociales.
 
-**Masse salariale chargée** : masse salariale brute + cotisations patronales. C'est le coût réel du travail pour l'employeur. Le ratio charges patronales / brut se situe généralement entre 40 et 50 %.
+**Masse salariale chargée** : masse salariale brute + [cotisations patronales](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour). C'est le coût réel du travail pour l'employeur. Le ratio charges patronales / brut se situe généralement entre 40 et 50 %.
 
-**Masse salariale comptable** : comptes 641 à 648 du PCG. Elle inclut les rémunérations, les cotisations patronales et les autres charges de personnel.
+**Masse salariale comptable** : comptes 641 à 648 du PCG. Elle inclut les rémunérations, les [cotisations patronales](https://enclair.media/articles/reduction-generale-cotisations-formule-2026) et les autres charges de personnel.
 
 Pour le pilotage, c'est la **masse salariale chargée** qui constitue la référence pertinente.
 

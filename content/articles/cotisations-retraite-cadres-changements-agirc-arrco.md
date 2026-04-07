@@ -1,19 +1,25 @@
 ---
-title: "Cotisations retraite cadres : les changements AGIRC-ARRCO"
-excerpt: "Le régime de retraite complémentaire AGIRC-ARRCO a fusionné ses deux régimes historiques. Les taux, tranches et répartitions employeur/salarié en vigueur en 2026 décryptés pour les gestionnaires de paie."
-date: "2026-02-19"
-category: "economie"
-tags: ["AGIRC-ARRCO", "retraite complémentaire", "cotisations cadres", "tranches"]
-readTime: "6 min"
+title: 'Cotisations retraite cadres : les changements AGIRC-ARRCO'
+excerpt: >-
+  Le régime de retraite complémentaire AGIRC-ARRCO a fusionné ses deux régimes
+  historiques. Les taux, tranches et répartitions employeur/salarié en.
+date: '2026-02-19'
+category: economie
+tags:
+  - AGIRC-ARRCO
+  - retraite complémentaire
+  - cotisations cadres
+  - tranches
+readTime: 6 min
 sources:
-  - "ANI du 17 novembre 2017 relatif à la retraite complémentaire"
-  - "Accord AGIRC-ARRCO du 5 octobre 2023"
-  - "Circulaire AGIRC-ARRCO 2026-01"
-  - "Article L.921-4 du Code de la sécurité sociale"
-  - "Article D.242-4 du Code de la sécurité sociale"
+  - ANI du 17 novembre 2017 relatif à la retraite complémentaire
+  - Accord AGIRC-ARRCO du 5 octobre 2023
+  - Circulaire AGIRC-ARRCO 2026-01
+  - Article L.921-4 du Code de la sécurité sociale
+  - Article D.242-4 du Code de la sécurité sociale
 ---
 
-Le régime de retraite complémentaire AGIRC-ARRCO, né de la fusion des deux régimes historiques en 2019, constitue le deuxième pilier de la retraite des salariés du secteur privé. En 2026, les taux et les modalités de cotisation poursuivent leur évolution. Voici le point complet sur les cotisations applicables, avec un focus sur les spécificités cadres.
+Le régime de [retraite complémentaire AGIRC](https://enclair.media/articles/retraite-complementaire-agirc-arrco-changements-2026)-ARRCO, né de la fusion des deux régimes historiques en 2019, constitue le deuxième pilier de la retraite des salariés du secteur privé. En 2026, les taux et les modalités de cotisation poursuivent leur évolution. Voici le point complet sur les cotisations applicables, avec un focus sur les spécificités cadres.
 
 ## Les tranches de cotisation 2026
 
@@ -66,7 +72,7 @@ La CEG, instituée lors de la fusion AGIRC-ARRCO, assure le financement des retr
 | Part salariale | 0,86 % | 1,08 % |
 | Part patronale | 1,29 % | 1,62 % |
 
-Cette contribution est incluse dans les taux d'appel mentionnés ci-dessus. Elle n'apparaît pas comme une ligne distincte sur le bulletin de paie simplifié.
+Cette contribution est incluse dans les taux d'appel mentionnés ci-dessus. Elle n'apparaît pas comme une ligne distincte sur le [bulletin de paie](https://enclair.media/articles/bulletin-paie-simplifie-changements-2025) simplifié.
 
 ## Le coefficient de solidarité (malus temporaire)
 
@@ -80,7 +86,7 @@ Ce mécanisme incite les salariés cadres, dont la retraite complémentaire repr
 
 **Vérifier le paramétrage de la tranche 2.** Seuls les salariés dont la rémunération dépasse le PASS cotisent en T2. Le passage du PASS modifie les effectifs concernés chaque année.
 
-**Maintenir la prévoyance cadres.** L'obligation de cotisation prévoyance à 1,50 % en T1 pour les cadres est une obligation conventionnelle dont le non-respect peut engager la responsabilité de l'employeur.
+**Maintenir la prévoyance cadres.** L'obligation de cotisation prévoyance à 1,50 % en T1 pour les cadres est une [obligation conventionnelle](https://enclair.media/articles/prevoyance-collective-obligation-conventionnelle-oubliee) dont le non-respect peut engager la responsabilité de l'employeur.
 
 **Informer les salariés sur le coefficient de solidarité.** Dans le cadre de l'accompagnement des fins de carrière, alerter les salariés sur l'existence du malus et du bonus pour optimiser leur départ.
 

@@ -1,15 +1,23 @@
 ---
-title: "Base de données économiques et sociales (BDESE) : contenu 2026"
-excerpt: "La BDESE est l'outil d'information central du CSE. Son contenu obligatoire a été élargi aux données environnementales depuis 2022. Thèmes, indicateurs et sanctions en cas de défaut de mise en place."
-date: "2026-01-09"
-category: "decryptage"
-tags: ["BDESE", "CSE", "dialogue social", "environnement"]
-readTime: "6 min"
+title: 'Base de données économiques et sociales (BDESE) : contenu 2026'
+excerpt: >-
+  La BDESE est l'outil d'information central du CSE. Son contenu obligatoire a
+  été élargi aux données environnementales depuis 2022.
+date: '2026-01-09'
+category: decryptage
+tags:
+  - BDESE
+  - CSE
+  - dialogue social
+  - environnement
+readTime: 6 min
 sources:
-  - "Articles L. 2312-18 à L. 2312-36 du Code du travail"
-  - "Articles R. 2312-8 et R. 2312-9 du Code du travail (contenu supplétif)"
-  - "Loi n° 2021-1104 du 22 août 2021 (loi Climat et Résilience, ajout du volet environnemental)"
-  - "Cass. soc., 28 mars 2023, n° 21-22.455"
+  - Articles L. 2312-18 à L. 2312-36 du Code du travail
+  - Articles R. 2312-8 et R. 2312-9 du Code du travail (contenu supplétif)
+  - >-
+    Loi n° 2021-1104 du 22 août 2021 (loi Climat et Résilience, ajout du volet
+    environnemental)
+  - 'Cass. soc., 28 mars 2023, n° 21-22.455'
 ---
 
 La base de données économiques, sociales et environnementales (BDESE) est le support d'information obligatoire du CSE. Depuis la loi Climat et Résilience de 2021, elle intègre un volet environnemental. Son contenu, ses modalités d'accès et les conséquences de son absence sont des enjeux majeurs du dialogue social.
@@ -24,9 +32,9 @@ La BDESE est obligatoire dans toutes les entreprises d'au moins **50 salariés**
 
 L'article R. 2312-8 (entreprises de 50 à 299 salariés) et R. 2312-9 (entreprises de 300 salariés et plus) fixent le contenu supplétif de la BDESE, organisé autour des thèmes suivants :
 
-1. **Investissement social** : emploi, évolution des effectifs, formation professionnelle, conditions de travail
+1. **Investissement social** : emploi, évolution des effectifs, [formation professionnelle](https://enclair.media/articles/clause-dedit-formation-conditions-validite), conditions de travail
 2. **Investissement matériel et immatériel** : évolution des actifs, dépenses de R&D
-3. **Égalité professionnelle** entre les femmes et les hommes : indicateurs de l'index, écarts de rémunération
+3. **[Égalité professionnelle](https://enclair.media/articles/index-egalite-femmes-hommes-publication-sanctions-2026)** entre les femmes et les hommes : indicateurs de l'index, écarts de rémunération
 4. **Fonds propres, endettement et impôts** : structure financière de l'entreprise
 5. **Rémunération des salariés et dirigeants** : évolution des rémunérations, épargne salariale
 6. **Activités sociales et culturelles** : budget et réalisations du CSE
@@ -49,7 +57,7 @@ Les membres du CSE et les délégués syndicaux doivent être informés des moda
 
 ### Le délit d'entrave
 
-L'absence de BDESE ou son caractère manifestement insuffisant constitue un **délit d'entrave** au fonctionnement du CSE (article L. 2317-1 du Code du travail), puni d'un an d'emprisonnement et 3 750 euros d'amende.
+L'absence de BDESE ou son caractère manifestement insuffisant constitue un **[délit d'entrave](https://enclair.media/articles/bdese-contenu-obligatoire-personne-ne-met-a-jour)** au fonctionnement du CSE (article L. 2317-1 du Code du travail), puni d'un an d'emprisonnement et 3 750 euros d'amende.
 
 ### La suspension des consultations
 

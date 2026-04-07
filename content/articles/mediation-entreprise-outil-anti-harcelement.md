@@ -1,15 +1,21 @@
 ---
-title: "Médiation en entreprise : le nouvel outil anti-harcèlement"
-excerpt: "La médiation est désormais un levier reconnu pour prévenir et traiter les situations de harcèlement moral en entreprise. Le Code du travail l'encourage, la jurisprudence la valorise. Mode d'emploi pour les dirigeants et DRH."
-date: "2025-11-03"
-category: "droit-social"
-tags: ["harcèlement moral", "médiation", "prévention", "RPS"]
-readTime: "6 min"
+title: 'Médiation en entreprise : le nouvel outil anti-harcèlement'
+excerpt: >-
+  La médiation est désormais un levier reconnu pour prévenir et traiter les
+  situations de harcèlement moral en entreprise.
+date: '2025-11-03'
+category: droit-social
+tags:
+  - harcèlement moral
+  - médiation
+  - prévention
+  - RPS
+readTime: 6 min
 sources:
-  - "Article L. 1152-6 du Code du travail (médiation en cas de harcèlement moral)"
-  - "Article L. 1153-5-1 du Code du travail (référent harcèlement sexuel)"
-  - "ANI du 26 mars 2010 sur le harcèlement et la violence au travail"
-  - "Cass. soc., 1er juin 2016, n° 14-19.702 (obligation de prévention)"
+  - Article L. 1152-6 du Code du travail (médiation en cas de harcèlement moral)
+  - Article L. 1153-5-1 du Code du travail (référent harcèlement sexuel)
+  - ANI du 26 mars 2010 sur le harcèlement et la violence au travail
+  - 'Cass. soc., 1er juin 2016, n° 14-19.702 (obligation de prévention)'
 ---
 
 Face à la montée des contentieux liés au harcèlement moral et aux risques psychosociaux (RPS), la médiation en entreprise s'impose comme un outil complémentaire de prévention et de résolution des conflits. Le Code du travail la prévoit expressément, et les employeurs ont tout intérêt à s'en saisir.
@@ -30,7 +36,7 @@ L'ANI du 26 mars 2010 sur le harcèlement et la violence au travail encourage le
 
 ### L'obligation de prévention de l'employeur
 
-L'employeur a une **obligation de sécurité** en matière de harcèlement moral (article L. 1152-4 du Code du travail). La Cour de cassation a précisé que l'employeur peut s'exonérer de sa responsabilité s'il justifie avoir pris toutes les mesures de prévention nécessaires et avoir agi immédiatement en cas de signalement (Cass. soc., 1er juin 2016, n° 14-19.702).
+L'employeur a une **[obligation de sécurité](https://enclair.media/articles/harcelement-moral-obligation-moyens-renforcee)** en matière de harcèlement moral (article L. 1152-4 du Code du travail). La Cour de cassation a précisé que l'employeur peut s'exonérer de sa responsabilité s'il justifie avoir pris toutes les mesures de prévention nécessaires et avoir agi immédiatement en cas de signalement (Cass. soc., 1er juin 2016, n° 14-19.702).
 
 La mise en place d'un dispositif de médiation contribue à démontrer le respect de cette obligation. C'est un élément de preuve positif en cas de contentieux.
 
@@ -80,7 +86,7 @@ L'idéal est de formaliser le dispositif de médiation dans un accord d'entrepri
 
 ### Étape 2 : former les acteurs
 
-Les managers, les représentants du personnel, les référents harcèlement et les professionnels RH doivent être formés à la détection précoce des conflits et à l'orientation vers la médiation.
+Les managers, les [représentants du personnel](https://enclair.media/articles/representants-personnel-heures-delegation-mode-emploi), les référents harcèlement et les professionnels RH doivent être formés à la détection précoce des conflits et à l'orientation vers la médiation.
 
 ### Étape 3 : communiquer
 

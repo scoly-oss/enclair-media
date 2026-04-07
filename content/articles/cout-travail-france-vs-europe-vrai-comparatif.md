@@ -1,18 +1,24 @@
 ---
-title: "Coût du travail en France vs Europe : le vrai comparatif"
-excerpt: "La France est-elle vraiment le pays où le travail coûte le plus cher ? Les chiffres bruts cachent une réalité plus nuancée. Décryptage des données Eurostat 2025 et de ce qu'elles signifient pour votre compétitivité."
-date: "2025-07-23"
-category: "economie"
-tags: ["coût du travail", "compétitivité", "cotisations sociales", "Europe"]
-readTime: "7 min"
+title: 'Coût du travail en France vs Europe : le vrai comparatif'
+excerpt: >-
+  La France est-elle vraiment le pays où le travail coûte le plus cher ? Les
+  chiffres bruts cachent une réalité plus nuancée.
+date: '2025-07-23'
+category: economie
+tags:
+  - coût du travail
+  - compétitivité
+  - cotisations sociales
+  - Europe
+readTime: 7 min
 sources:
-  - "Eurostat, Labour Cost Index, données 2025"
-  - "DARES, Le coût du travail en France, décembre 2025"
-  - "Cour des comptes, rapport sur les exonérations de cotisations, octobre 2025"
-  - "OCDE, Taxing Wages 2025"
+  - 'Eurostat, Labour Cost Index, données 2025'
+  - 'DARES, Le coût du travail en France, décembre 2025'
+  - 'Cour des comptes, rapport sur les exonérations de cotisations, octobre 2025'
+  - 'OCDE, Taxing Wages 2025'
 ---
 
-« Le travail coûte trop cher en France. » Cette affirmation revient dans toutes les conversations de dirigeants. Mais est-elle fondée ? Et surtout, est-elle opérationnelle ? Parce que le coût du travail ne se résume pas au taux facial de cotisations patronales. Il intègre des éléments que beaucoup de comparaisons internationales passent sous silence.
+« Le travail coûte trop cher en France. » Cette affirmation revient dans toutes les conversations de dirigeants. Mais est-elle fondée ? Et surtout, est-elle opérationnelle ? Parce que le coût du travail ne se résume pas au taux facial de [cotisations patronales](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour). Il intègre des éléments que beaucoup de comparaisons internationales passent sous silence.
 
 Voici les chiffres réels, et ce qu'ils signifient pour votre gestion.
 
@@ -20,7 +26,7 @@ Voici les chiffres réels, et ce qu'ils signifient pour votre gestion.
 
 Selon les dernières données Eurostat, le coût horaire moyen de la main-d'oeuvre dans le secteur marchand en France s'établit à environ 41 euros en 2025, contre 43 euros en Allemagne, 45 euros au Danemark, 44 euros en Belgique et 42 euros aux Pays-Bas. La France se situe au 5e rang des pays de l'Union européenne.
 
-Ce classement intègre les salaires bruts, les cotisations patronales, les charges annexes (formation, transport, restauration) et les taxes sur les salaires. Il place la France au-dessus de la moyenne européenne (30 euros), mais en dessous de ses principaux concurrents industriels directs.
+Ce classement intègre les salaires bruts, les [cotisations patronales](https://enclair.media/articles/reduction-generale-cotisations-formule-2026), les charges annexes (formation, transport, restauration) et les taxes sur les salaires. Il place la France au-dessus de la moyenne européenne (30 euros), mais en dessous de ses principaux concurrents industriels directs.
 
 La comparaison avec l'Espagne (23 euros), l'Italie (30 euros) ou le Portugal (16 euros) est moins favorable, mais ces pays ont des niveaux de productivité horaire inférieurs. Le coût unitaire du travail — qui rapporte le coût horaire à la productivité — réduit significativement l'écart.
 
@@ -48,7 +54,7 @@ Le coût unitaire du travail (coût horaire divisé par la productivité horaire
 
 ## Ce que ces chiffres changent pour vous
 
-Le coût du travail en France n'est pas une fatalité. Il est en partie le résultat de choix que vous pouvez optimiser. La structure de votre masse salariale (proportion de salaires bas, moyens, hauts), la bonne application des exonérations, le recours aux dispositifs d'épargne salariale (exonérés de cotisations dans certaines limites), et l'utilisation des aides à l'embauche sont autant de leviers d'optimisation.
+Le coût du travail en France n'est pas une fatalité. Il est en partie le résultat de choix que vous pouvez optimiser. La structure de votre masse salariale (proportion de salaires bas, moyens, hauts), la bonne application des exonérations, le recours aux dispositifs d'[épargne salariale](https://enclair.media/articles/epargne-salariale-obligation-pme-plus-50) (exonérés de cotisations dans certaines limites), et l'utilisation des aides à l'embauche sont autant de leviers d'optimisation.
 
 ## Ce que vous devez faire lundi matin
 

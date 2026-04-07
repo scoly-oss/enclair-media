@@ -1,14 +1,20 @@
 ---
-title: "Responsabilité pénale de l'employeur : les infractions les plus poursuivies"
-excerpt: "Travail dissimulé, mise en danger, harcèlement, discrimination : la responsabilité pénale de l'employeur n'est pas théorique. Certaines infractions sont poursuivies avec une fréquence qui devrait alerter tout dirigeant."
-date: "2025-09-02"
-category: "jurisprudence"
-tags: ["responsabilité pénale", "travail dissimulé", "mise en danger", "dirigeant"]
-readTime: "7 min"
+title: 'Responsabilité pénale de l''employeur : les infractions les plus poursuivies'
+excerpt: >-
+  Travail dissimulé, mise en danger, harcèlement, discrimination : la
+  responsabilité pénale de l'employeur n'est pas théorique.
+date: '2025-09-02'
+category: jurisprudence
+tags:
+  - responsabilité pénale
+  - travail dissimulé
+  - mise en danger
+  - dirigeant
+readTime: 7 min
 sources:
-  - "Code pénal, article 121-2 (responsabilité des personnes morales)"
-  - "Code du travail, article L.8224-1 (travail dissimulé)"
-  - "Cass. crim., 11 mars 2024, n°23-80.547"
+  - 'Code pénal, article 121-2 (responsabilité des personnes morales)'
+  - 'Code du travail, article L.8224-1 (travail dissimulé)'
+  - 'Cass. crim., 11 mars 2024, n°23-80.547'
 ---
 
 ## Vous pensez que le droit pénal du travail ne concerne que les cas extrêmes. Les statistiques disent le contraire.
@@ -31,7 +37,7 @@ L'article 121-2 du Code pénal permet la poursuite de la personne morale pour to
 
 ### 1. Travail dissimulé (articles L.8221-1 à L.8224-6)
 
-C'est l'infraction reine du droit pénal du travail. Le travail dissimulé recouvre deux réalités :
+C'est l'infraction reine du droit pénal du travail. Le [travail dissimulé](https://enclair.media/articles/travail-dissimule-presomptions-cour-cassation) recouvre deux réalités :
 - La **dissimulation d'activité** : exercer une activité sans immatriculation, sans déclaration fiscale ou sociale
 - La **dissimulation d'emploi salarié** : ne pas déclarer un salarié (absence de DPAE), ne pas délivrer de bulletin de paie, mentionner un nombre d'heures inférieur à la réalité
 
@@ -41,11 +47,11 @@ C'est l'infraction reine du droit pénal du travail. Le travail dissimulé recou
 
 ### 2. Mise en danger de la vie d'autrui (article 223-1 du Code pénal)
 
-Exposer un salarié à un **risque immédiat de mort ou de blessures graves** par violation manifestement délibérée d'une obligation de sécurité constitue un délit, même si aucun accident ne survient.
+Exposer un salarié à un **risque immédiat de mort ou de blessures graves** par violation manifestement délibérée d'une [obligation de sécurité](https://enclair.media/articles/harcelement-managerial-style-management-illicite) constitue un délit, même si aucun accident ne survient.
 
 **Peines** : 1 an d'emprisonnement et 15 000 euros d'amende.
 
-En cas d'accident effectif, les peines sont celles de l'homicide involontaire (3 à 5 ans) ou des blessures involontaires, aggravées par la violation d'une obligation de sécurité.
+En cas d'accident effectif, les peines sont celles de l'homicide involontaire (3 à 5 ans) ou des blessures involontaires, aggravées par la violation d'une [obligation de sécurité](https://enclair.media/articles/harcelement-moral-obligation-moyens-renforcee).
 
 ### 3. Harcèlement moral et sexuel
 

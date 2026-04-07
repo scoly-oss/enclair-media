@@ -1,21 +1,27 @@
 ---
-title: "Freelance ou salarié déguisé : le test en 5 questions"
-excerpt: "La requalification d'un freelance en salarié est le cauchemar des entreprises qui font appel à des indépendants. Cinq questions simples permettent d'évaluer votre niveau de risque."
-date: "2025-06-28"
-category: "droit-social"
-tags: ["freelance", "requalification", "lien de subordination", "travail dissimulé"]
-readTime: "6 min"
+title: 'Freelance ou salarié déguisé : le test en 5 questions'
+excerpt: >-
+  La requalification d'un freelance en salarié est le cauchemar des entreprises
+  qui font appel à des indépendants.
+date: '2025-06-28'
+category: droit-social
+tags:
+  - freelance
+  - requalification
+  - lien de subordination
+  - travail dissimulé
+readTime: 6 min
 sources:
-  - "Code du travail, article L.8221-6"
-  - "Cass. soc., 28 novembre 2018, n°17-20.079 (arrêt Take Eat Easy)"
-  - "Cass. soc., 4 mars 2020, n°19-13.316 (arrêt Uber)"
+  - 'Code du travail, article L.8221-6'
+  - 'Cass. soc., 28 novembre 2018, n°17-20.079 (arrêt Take Eat Easy)'
+  - 'Cass. soc., 4 mars 2020, n°19-13.316 (arrêt Uber)'
 ---
 
 ## Votre développeur freelance travaille exclusivement pour vous depuis 14 mois. Ça devrait vous inquiéter.
 
 Il est là tous les jours. Il participe aux stand-ups, utilise votre Slack, a une adresse email de votre entreprise. Il est payé à la facture mensuelle. Tout le monde dans l'équipe le considère comme un collègue. Sauf que sur le papier, c'est un indépendant.
 
-Jusqu'au jour où il demande la requalification de sa collaboration en contrat de travail.
+Jusqu'au jour où il demande la requalification de sa collaboration en [contrat de travail](https://enclair.media/articles/succession-cdd-meme-poste-delai-carence).
 
 ## Le coût de la requalification
 
@@ -24,7 +30,7 @@ Quand un freelance obtient la requalification en salarié, l'entreprise est cond
 - Le rappel des **cotisations sociales** (part patronale et part salariale) sur toute la période
 - Les **congés payés** non pris (10 % de la rémunération brute reconstituée)
 - L'indemnité pour **travail dissimulé** : 6 mois de salaire minimum (article L.8223-1)
-- Si la relation cesse : indemnité de licenciement, préavis, dommages et intérêts pour licenciement sans cause réelle et sérieuse
+- Si la relation cesse : indemnité de licenciement, préavis, dommages et intérêts pour licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher)
 
 Pour un freelance facturant 500 euros HT/jour depuis 2 ans, le redressement total peut dépasser **200 000 euros**.
 
@@ -52,7 +58,7 @@ Un freelance organise librement son temps. Si vous :
 - Contrôlez les absences ou les jours de congé
 - Imposez la participation à des réunions régulières à heure fixe
 
-... vous exercez un contrôle du temps de travail caractéristique du lien de subordination.
+... vous exercez un contrôle du temps de travail caractéristique du [lien de subordination](https://enclair.media/articles/portage-salarial-risques-requalification-client).
 
 ### Question 3 : Le freelance a-t-il d'autres clients ?
 

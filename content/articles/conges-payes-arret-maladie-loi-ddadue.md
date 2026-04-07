@@ -1,26 +1,33 @@
 ---
-title: "Congés payés et arrêt maladie : ce que change la loi DDADUE"
-excerpt: "Depuis avril 2024, les salariés en arrêt maladie acquièrent des congés payés. Cette révolution silencieuse a un effet rétroactif qui peut coûter des milliers d'euros par salarié. Êtes-vous prêt ?"
-date: "2025-02-24"
-category: "droit-social"
-tags: ["congés payés", "arrêt maladie", "DDADUE", "droit européen", "rétroactivité"]
-readTime: "8 min"
+title: 'Congés payés et arrêt maladie : ce que change la loi DDADUE'
+excerpt: >-
+  Depuis avril 2024, les salariés en arrêt maladie acquièrent des congés payés.
+  Cette révolution silencieuse a un effet rétroactif qui peut coûter des.
+date: '2025-02-24'
+category: droit-social
+tags:
+  - congés payés
+  - arrêt maladie
+  - DDADUE
+  - droit européen
+  - rétroactivité
+readTime: 8 min
 sources:
-  - "Loi n° 2024-364 du 22 avril 2024 (DDADUE)"
-  - "Code du travail, articles L.3141-5 et L.3141-5-1 (nouveaux)"
-  - "CJUE, 24 janvier 2012, C-282/10, Dominguez"
-  - "Cons. const., 8 février 2024, n° 2023-1079 QPC"
+  - Loi n° 2024-364 du 22 avril 2024 (DDADUE)
+  - 'Code du travail, articles L.3141-5 et L.3141-5-1 (nouveaux)'
+  - 'CJUE, 24 janvier 2012, C-282/10, Dominguez'
+  - 'Cons. const., 8 février 2024, n° 2023-1079 QPC'
 ---
 
-Pendant des décennies, un salarié en arrêt maladie non professionnelle n'acquérait aucun congé payé. C'était la règle en droit français. C'était aussi une violation du droit européen. En avril 2024, la loi DDADUE a corrigé cette anomalie. Mais elle l'a fait avec un effet rétroactif qui transforme cette mise en conformité en bombe financière pour les employeurs.
+Pendant des décennies, un salarié en arrêt maladie non professionnelle n'acquérait aucun congé payé. C'était la règle en droit français. C'était aussi une violation du [droit européen](https://enclair.media/articles/conges-payes-regles-acquisition-loi-ddadue). En avril 2024, la loi DDADUE a corrigé cette anomalie. Mais elle l'a fait avec un effet rétroactif qui transforme cette mise en conformité en bombe financière pour les employeurs.
 
 Si vous n'avez pas encore mesuré l'impact sur votre masse salariale et vos provisions, il est urgent de le faire.
 
 ## Ce que dit la nouvelle loi
 
-La loi n° 2024-364 du 22 avril 2024, dite loi DDADUE (Diverses Dispositions d'Adaptation au Droit de l'Union Européenne), modifie l'article L.3141-5 du Code du travail. Désormais, les périodes d'arrêt maladie non professionnelle sont assimilées à du temps de travail effectif pour l'acquisition des congés payés, dans la limite de deux jours ouvrables par mois, soit 24 jours ouvrables par an (contre 30 pour un arrêt d'origine professionnelle).
+La loi n° 2024-364 du 22 avril 2024, dite loi DDADUE (Diverses Dispositions d'Adaptation au Droit de l'Union Européenne), modifie l'article L.3141-5 du Code du travail. Désormais, les périodes d'arrêt maladie non professionnelle sont assimilées à du [temps de travail effectif](https://enclair.media/articles/temps-de-trajet-temps-travail-effectif) pour l'acquisition des congés payés, dans la limite de deux jours ouvrables par mois, soit 24 jours ouvrables par an (contre 30 pour un arrêt d'origine professionnelle).
 
-Pour les arrêts d'origine professionnelle (accident du travail, maladie professionnelle), le droit à congés payés reste de 2,5 jours ouvrables par mois, sans limitation de durée.
+Pour les arrêts d'origine professionnelle (accident du travail, [maladie professionnelle](https://enclair.media/articles/maladie-professionnelle-declaration-employeur)), le droit à congés payés reste de 2,5 jours ouvrables par mois, sans limitation de durée.
 
 Cette distinction entre maladie professionnelle et non professionnelle est un compromis politique. Le droit européen (directive 2003/88/CE) garantit un minimum de quatre semaines de congés payés annuels, ce que le nouveau texte respecte pour la maladie non professionnelle avec ses 24 jours ouvrables.
 

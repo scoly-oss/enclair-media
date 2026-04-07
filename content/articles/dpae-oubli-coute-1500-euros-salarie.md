@@ -1,14 +1,20 @@
 ---
-title: "DPAE : l'oubli qui coûte 1 500 euros par salarié"
-excerpt: "La Déclaration Préalable à l'Embauche doit être faite avant la prise de poste. Chaque oubli est sanctionné d'une pénalité pouvant atteindre 1 549 euros. Et l'URSSAF contrôle de plus en plus."
-date: "2025-07-25"
-category: "economie"
-tags: ["DPAE", "embauche", "URSSAF", "travail dissimulé"]
-readTime: "5 min"
+title: 'DPAE : l''oubli qui coûte 1 500 euros par salarié'
+excerpt: >-
+  La Déclaration Préalable à l'Embauche doit être faite avant la prise de poste.
+  Chaque oubli est sanctionné d'une pénalité pouvant atteindre 1 549 euros.
+date: '2025-07-25'
+category: economie
+tags:
+  - DPAE
+  - embauche
+  - URSSAF
+  - travail dissimulé
+readTime: 5 min
 sources:
-  - "Code de la sécurité sociale, article R.243-14"
-  - "Code du travail, articles L.1221-10 à L.1221-12"
-  - "URSSAF, Pénalités DPAE, barème 2025"
+  - 'Code de la sécurité sociale, article R.243-14'
+  - 'Code du travail, articles L.1221-10 à L.1221-12'
+  - 'URSSAF, Pénalités DPAE, barème 2025'
 ---
 
 ## Votre nouveau commercial a commencé lundi. La DPAE a été faite mercredi. Vous devez 1 549 euros.
@@ -17,12 +23,12 @@ La scène est banale : le recrutement s'est finalisé vendredi soir, le salarié
 
 ## Une formalité simple, des conséquences lourdes
 
-La DPAE n'est pas une paperasse parmi d'autres. C'est la première formalité qui **atteste de l'existence du contrat de travail** vis-à-vis des organismes sociaux. Son absence est l'un des critères du travail dissimulé.
+La DPAE n'est pas une paperasse parmi d'autres. C'est la première formalité qui **atteste de l'existence du [contrat de travail](https://enclair.media/articles/periode-essai-7-erreurs-qui-la-rendent-nulle)** vis-à-vis des organismes sociaux. Son absence est l'un des critères du [travail dissimulé](https://enclair.media/articles/travail-dissimule-infraction-commise-sans-le-savoir).
 
 ### Les pénalités
 
 - **Pénalité de retard** : 1 549 euros par salarié et par déclaration manquante ou tardive (barème 2025)
-- **Travail dissimulé** (si absence systématique) : 3 ans d'emprisonnement et 45 000 euros d'amende pour une personne physique, 225 000 euros pour une personne morale
+- **[Travail dissimulé](https://enclair.media/articles/freelance-salarie-deguise-test-5-questions)** (si absence systématique) : 3 ans d'emprisonnement et 45 000 euros d'amende pour une personne physique, 225 000 euros pour une personne morale
 - **Annulation des exonérations de charges** : toutes les réductions et exonérations de cotisations sont perdues si la DPAE n'a pas été effectuée
 
 ### Ce que la DPAE déclenche

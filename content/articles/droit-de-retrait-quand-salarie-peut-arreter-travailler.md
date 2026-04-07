@@ -1,15 +1,21 @@
 ---
-title: "Droit de retrait : quand le salarié peut légalement arrêter de travailler"
-excerpt: "Un salarié quitte son poste en invoquant le droit de retrait. Pouvez-vous le sanctionner ? Devez-vous le payer ? La réponse dépend d'une seule question : le danger était-il réel et imminent ?"
-date: "2025-05-14"
-category: "droit-social"
-tags: ["droit de retrait", "danger grave", "obligation de sécurité", "sanction"]
-readTime: "6 min"
+title: 'Droit de retrait : quand le salarié peut légalement arrêter de travailler'
+excerpt: >-
+  Un salarié quitte son poste en invoquant le droit de retrait. Pouvez-vous le
+  sanctionner ? Devez-vous le payer ?
+date: '2025-05-14'
+category: droit-social
+tags:
+  - droit de retrait
+  - danger grave
+  - obligation de sécurité
+  - sanction
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.4131-1 à L.4131-4"
-  - "Cass. soc., 9 mai 2000, n° 97-44.234"
-  - "Cass. soc., 25 novembre 2015, n° 14-21.272"
-  - "Cass. crim., 8 octobre 2002, n° 01-83.476"
+  - 'Code du travail, articles L.4131-1 à L.4131-4'
+  - 'Cass. soc., 9 mai 2000, n° 97-44.234'
+  - 'Cass. soc., 25 novembre 2015, n° 14-21.272'
+  - 'Cass. crim., 8 octobre 2002, n° 01-83.476'
 ---
 
 Un ouvrier refuse de travailler sur un échafaudage dont il estime que le garde-corps est défectueux. Il quitte son poste en invoquant son droit de retrait. Le chef de chantier considère que l'échafaudage est conforme et menace de sanctionner l'ouvrier pour abandon de poste.
@@ -30,7 +36,7 @@ L'article L.4131-3 est formel : aucune sanction, aucune retenue de salaire ne pe
 
 Cela signifie que même si, après vérification, le danger n'était pas réel, le salarié qui avait un motif raisonnable de le croire ne peut pas être sanctionné. La bonne foi du salarié est présumée.
 
-En revanche, si le salarié exerce abusivement son droit de retrait — sans danger réel ni motif raisonnable — l'employeur peut procéder à une retenue sur salaire pour les heures non travaillées et, le cas échéant, prononcer une sanction disciplinaire. Mais la preuve de l'abus incombe à l'employeur, ce qui est en pratique très délicat.
+En revanche, si le salarié exerce abusivement son droit de retrait — sans danger réel ni motif raisonnable — l'employeur peut procéder à une retenue sur salaire pour les heures non travaillées et, le cas échéant, prononcer une [sanction disciplinaire](https://enclair.media/articles/avertissement-pourquoi-le-votre-est-peut-etre-nul). Mais la preuve de l'abus incombe à l'employeur, ce qui est en pratique très délicat.
 
 ## L'obligation d'agir de l'employeur
 
@@ -50,4 +56,4 @@ En revanche, le simple sentiment d'inconfort, le stress professionnel habituel o
 
 Formez vos managers à la gestion du droit de retrait. Le premier réflexe ne doit pas être de contester ou de sanctionner, mais de sécuriser la situation. Faites vérifier le danger signalé. Si le danger est avéré, prenez les mesures correctives avant de demander la reprise du travail. Si le danger n'est pas avéré, documentez votre analyse avec des éléments objectifs avant toute décision.
 
-Et mettez à jour votre DUERP. Un document unique d'évaluation des risques professionnels à jour est votre meilleure protection contre les exercices abusifs du droit de retrait — et votre meilleur argument si un vrai danger était signalé et non traité.
+Et mettez à jour votre DUERP. Un document unique d'évaluation des [risques professionnels](https://enclair.media/articles/obligation-securite-employeur-doit-prouver) à jour est votre meilleure protection contre les exercices abusifs du droit de retrait — et votre meilleur argument si un vrai danger était signalé et non traité.

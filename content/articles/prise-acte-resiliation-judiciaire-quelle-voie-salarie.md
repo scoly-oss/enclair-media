@@ -1,23 +1,29 @@
 ---
-title: "Prise d'acte vs résiliation judiciaire : quelle voie pour le salarié"
-excerpt: "Face à des manquements graves de son employeur, le salarié dispose de deux options : la prise d'acte ou la résiliation judiciaire. Deux mécanismes aux conséquences radicalement différentes que tout dirigeant doit connaître."
-date: "2026-03-03"
-category: "droit-social"
-tags: ["prise d'acte", "résiliation judiciaire", "rupture contrat", "manquements employeur"]
-readTime: "7 min"
+title: 'Prise d''acte vs résiliation judiciaire : quelle voie pour le salarié'
+excerpt: >-
+  Face à des manquements graves de son employeur, le salarié dispose de deux
+  options : la prise d'acte ou la résiliation judiciaire.
+date: '2026-03-03'
+category: droit-social
+tags:
+  - prise d'acte
+  - résiliation judiciaire
+  - rupture contrat
+  - manquements employeur
+readTime: 7 min
 sources:
-  - "Cass. soc., 25 juin 2003, n° 01-42.679"
-  - "Cass. soc., 26 mars 2014, n° 12-23.634"
-  - "Article L.1451-1 du Code du travail"
-  - "Cass. soc., 29 juin 2005, n° 03-42.804"
-  - "Article L.1235-3 du Code du travail"
+  - 'Cass. soc., 25 juin 2003, n° 01-42.679'
+  - 'Cass. soc., 26 mars 2014, n° 12-23.634'
+  - Article L.1451-1 du Code du travail
+  - 'Cass. soc., 29 juin 2005, n° 03-42.804'
+  - Article L.1235-3 du Code du travail
 ---
 
-Lorsqu'un employeur commet des manquements graves à ses obligations contractuelles — non-paiement du salaire, harcèlement, modification unilatérale du contrat —, le salarié n'est pas contraint de subir la situation ou de démissionner. Deux voies juridiques s'offrent à lui : la prise d'acte de la rupture et la résiliation judiciaire du contrat. Le choix entre ces deux mécanismes est stratégique, et leurs conséquences diffèrent considérablement.
+Lorsqu'un employeur commet des manquements graves à ses obligations contractuelles — non-paiement du salaire, harcèlement, modification unilatérale du contrat —, le salarié n'est pas contraint de subir la situation ou de démissionner. Deux voies juridiques s'offrent à lui : la prise d'acte de la rupture et la [résiliation judiciaire](https://enclair.media/articles/resiliation-judiciaire-manquements-graves-cour) du contrat. Le choix entre ces deux mécanismes est stratégique, et leurs conséquences diffèrent considérablement.
 
 ## La prise d'acte : rupture immédiate à risque
 
-La prise d'acte est un mode de rupture du contrat de travail par lequel le salarié met fin à son contrat en imputant la responsabilité de cette rupture à l'employeur. Elle a été consacrée par la Cour de cassation dans un arrêt de principe du 25 juin 2003 (n° 01-42.679).
+La prise d'acte est un mode de [rupture du contrat](https://enclair.media/articles/prise-acte-quand-salarie-claque-porte-avec-raison) de travail par lequel le salarié met fin à son contrat en imputant la responsabilité de cette rupture à l'employeur. Elle a été consacrée par la Cour de cassation dans un arrêt de principe du 25 juin 2003 (n° 01-42.679).
 
 **Le mécanisme.** Le salarié adresse à son employeur une lettre dans laquelle il prend acte de la rupture de son contrat de travail en raison de manquements qu'il énumère. Le contrat est rompu immédiatement, sans préavis.
 
@@ -25,7 +31,7 @@ La prise d'acte est un mode de rupture du contrat de travail par lequel le salar
 
 **Le risque majeur.** La prise d'acte est un pari. C'est le conseil de prud'hommes qui appréciera, a posteriori, si les manquements invoqués par le salarié étaient suffisamment graves pour justifier la rupture :
 
-- Si les manquements sont établis et suffisamment graves, la prise d'acte produit les effets d'un **licenciement sans cause réelle et sérieuse**. Le salarié obtient l'indemnité de licenciement, l'indemnité compensatrice de préavis et des dommages et intérêts.
+- Si les manquements sont établis et suffisamment graves, la prise d'acte produit les effets d'un **licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher)**. Le salarié obtient l'indemnité de licenciement, l'indemnité compensatrice de préavis et des dommages et intérêts.
 - Si les manquements ne sont pas établis ou ne sont pas suffisamment graves, la prise d'acte produit les effets d'une **démission**. Le salarié ne perçoit rien et peut même être condamné à verser une indemnité compensatrice de préavis à l'employeur.
 
 **Le délai de jugement.** L'article L.1451-1 du Code du travail, issu de la loi du 14 juin 2013, impose au conseil de prud'hommes de statuer dans un délai d'**un mois** à compter de sa saisine en cas de prise d'acte. En pratique, ce délai est rarement respecté, mais la procédure reste plus rapide qu'une résiliation judiciaire classique.

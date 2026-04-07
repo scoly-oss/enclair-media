@@ -1,19 +1,25 @@
 ---
-title: "Élections CSE : le calendrier et les étapes à ne pas rater"
-excerpt: "L'organisation des élections du CSE est une obligation de l'employeur. Le non-respect du calendrier ou des étapes constitue un délit d'entrave. Voici le guide complet."
-date: "2025-07-02"
-category: "decryptage"
-tags: ["CSE", "élections", "représentants du personnel", "protocole préélectoral"]
-readTime: "7 min"
+title: 'Élections CSE : le calendrier et les étapes à ne pas rater'
+excerpt: >-
+  L'organisation des élections du CSE est une obligation de l'employeur. Le
+  non-respect du calendrier ou des étapes constitue un délit d'entrave.
+date: '2025-07-02'
+category: decryptage
+tags:
+  - CSE
+  - élections
+  - représentants du personnel
+  - protocole préélectoral
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.2311-1 à L.2314-37"
-  - "Code du travail, article L.2317-1 (délit d'entrave)"
-  - "Cass. soc., 22 novembre 2023, n°22-13.089"
+  - 'Code du travail, articles L.2311-1 à L.2314-37'
+  - 'Code du travail, article L.2317-1 (délit d''entrave)'
+  - 'Cass. soc., 22 novembre 2023, n°22-13.089'
 ---
 
 ## Votre CSE arrive en fin de mandat. Avez-vous lancé le processus électoral à temps ?
 
-Le mandat du CSE est de 4 ans (sauf accord collectif prévoyant 2 ou 3 ans). L'employeur doit organiser les élections de renouvellement. Le processus prend **au minimum 90 jours** entre l'information des salariés et le second tour de scrutin. Et chaque retard est une infraction.
+Le mandat du CSE est de 4 ans (sauf [accord collectif](https://enclair.media/articles/avantage-acquis-distinction-transfert-entreprise) prévoyant 2 ou 3 ans). L'employeur doit organiser les élections de renouvellement. Le processus prend **au minimum 90 jours** entre l'information des salariés et le second tour de scrutin. Et chaque retard est une infraction.
 
 ## L'obligation d'organiser les élections
 
@@ -25,7 +31,7 @@ L'initiative appartient à l'**employeur**. Il doit informer les salariés de l'
 
 ### Le délit d'entrave
 
-Le fait de ne pas organiser les élections constitue un **délit d'entrave** puni de 1 an d'emprisonnement et 7 500 euros d'amende (article L.2317-1). Ce délit est constitué même si aucun salarié ne demande l'organisation des élections.
+Le fait de ne pas organiser les élections constitue un **[délit d'entrave](https://enclair.media/articles/bdese-contenu-obligatoire-personne-ne-met-a-jour)** puni de 1 an d'emprisonnement et 7 500 euros d'amende (article L.2317-1). Ce délit est constitué même si aucun salarié ne demande l'organisation des élections.
 
 ## Le calendrier type (90 jours minimum)
 
@@ -33,7 +39,7 @@ Le fait de ne pas organiser les élections constitue un **délit d'entrave** pun
 
 L'employeur informe les salariés par **tout moyen** de l'organisation prochaine des élections. Il invite simultanément les organisations syndicales représentatives dans l'entreprise et celles légalement habilitées à négocier le **protocole d'accord préélectoral (PAP)**.
 
-L'invitation doit être faite par **courrier** au moins 15 jours avant la première réunion de négociation. Pour le premier tour, l'invitation doit parvenir au plus tard **2 mois** avant l'expiration des mandats en cours.
+L'invitation doit être faite par **courrier** au moins 15 jours avant la première réunion de [négociation](https://enclair.media/articles/inflation-salaires-negociation-annuelle-obligatoire). Pour le premier tour, l'invitation doit parvenir au plus tard **2 mois** avant l'expiration des mandats en cours.
 
 ### J-60 à J-45 : Négociation du protocole préélectoral
 

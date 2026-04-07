@@ -1,15 +1,21 @@
 ---
-title: "Contrôle URSSAF : les nouvelles règles de procédure"
-excerpt: "Les règles du contrôle URSSAF ont évolué : avis préalable modifié, droit au contradictoire renforcé, recours simplifiés. Connaître vos droits peut faire la différence entre un redressement subi et un redressement contesté avec succès."
-date: "2025-10-27"
-category: "decryptage"
-tags: ["contrôle URSSAF", "procédure", "redressement", "droits de l'employeur"]
-readTime: "7 min"
+title: 'Contrôle URSSAF : les nouvelles règles de procédure'
+excerpt: >-
+  Les règles du contrôle URSSAF ont évolué : avis préalable modifié, droit au
+  contradictoire renforcé, recours simplifiés.
+date: '2025-10-27'
+category: decryptage
+tags:
+  - contrôle URSSAF
+  - procédure
+  - redressement
+  - droits de l'employeur
+readTime: 7 min
 sources:
-  - "Code de la sécurité sociale, articles L.243-7 à L.243-14"
-  - "Code de la sécurité sociale, articles R.243-59 et suivants"
-  - "Charte du cotisant contrôlé (mise à jour 2025)"
-  - "Cass. 2e civ., 6 octobre 2022, n° 21-12.007"
+  - 'Code de la sécurité sociale, articles L.243-7 à L.243-14'
+  - 'Code de la sécurité sociale, articles R.243-59 et suivants'
+  - Charte du cotisant contrôlé (mise à jour 2025)
+  - 'Cass. 2e civ., 6 octobre 2022, n° 21-12.007'
 ---
 
 Vous recevez un avis de contrôle URSSAF. Première réaction : la panique. Deuxième réaction : vous cherchez les documents. Troisième réaction : vous appelez votre expert-comptable. Mais avez-vous vérifié que l'avis de contrôle respecte les conditions de forme requises ? Un vice de procédure peut annuler l'intégralité du redressement.
@@ -18,7 +24,7 @@ Le contrôle URSSAF est un exercice encadré par des règles précises. Les conn
 
 ## L'avis préalable de contrôle : un formalisme strict
 
-L'article R.243-59 du Code de la sécurité sociale impose l'envoi d'un avis de contrôle au moins 15 jours avant la première visite. Cet avis doit mentionner la période vérifiée, l'identité des inspecteurs, et la possibilité pour le cotisant de se faire assister du conseil de son choix.
+L'article R.243-59 du Code de la [sécurité sociale](https://enclair.media/articles/calcul-ijss-verification-employeur) impose l'envoi d'un avis de contrôle au moins 15 jours avant la première visite. Cet avis doit mentionner la période vérifiée, l'identité des inspecteurs, et la possibilité pour le cotisant de se faire assister du conseil de son choix.
 
 L'avis doit également mentionner l'existence de la Charte du cotisant contrôlé et l'adresse de sa consultation en ligne. L'absence de cette mention peut entraîner la nullité de la procédure de contrôle (Cass. 2e civ., 6 octobre 2022, n° 21-12.007).
 
@@ -54,6 +60,6 @@ Chaque vice peut entraîner l'annulation du chef de redressement concerné, voir
 
 ## Ce que vous devez faire lundi matin
 
-Préparez un dossier de contrôle URSSAF permanent, mis à jour chaque année, contenant les bulletins de paie, les DSN, les contrats de travail types, les accords collectifs, les justificatifs d'exonérations et les notes de frais professionnels. Le jour du contrôle, ce dossier vous fera gagner un temps précieux et démontrera votre sérieux.
+Préparez un dossier de contrôle URSSAF permanent, mis à jour chaque année, contenant les bulletins de paie, les DSN, les contrats de travail types, les accords collectifs, les justificatifs d'exonérations et les notes de [frais professionnels](https://enclair.media/articles/frais-professionnels-limites-exoneration-urssaf). Le jour du contrôle, ce dossier vous fera gagner un temps précieux et démontrera votre sérieux.
 
 Dès réception de l'avis de contrôle, vérifiez sa régularité formelle. Et consultez un avocat ou un expert-comptable spécialisé avant de répondre à la lettre d'observations. Le délai de 30 jours passe vite, et la qualité de votre réponse détermine souvent l'issue du redressement.

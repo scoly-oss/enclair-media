@@ -17,7 +17,7 @@ Vous avez des cadres au forfait jours. Ils ne pointent pas. Ils gèrent leur emp
 
 **La question que vous devez vous poser maintenant** : est-ce que ma convention de forfait jours tiendrait devant un juge ?
 
-Si la réponse est "je ne sais pas" ou "probablement", lisez ce qui suit. Parce que si elle est déclarée nulle, votre cadre bascule rétroactivement sur un régime de 35 heures. Et il peut réclamer un rappel d'heures supplémentaires sur 3 ans.
+Si la réponse est "je ne sais pas" ou "probablement", lisez ce qui suit. Parce que si elle est déclarée nulle, votre cadre bascule rétroactivement sur un régime de 35 heures. Et il peut réclamer un rappel d'[heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif) sur 3 ans.
 
 L'addition ? Rarement en dessous de 30 000 €. Souvent bien au-dessus.
 
@@ -31,7 +31,7 @@ L'article L.3121-64 du Code du travail est très précis. L'accord collectif qui
 
 - Les modalités de **suivi régulier de la charge de travail** par l'employeur
 - Les modalités de **communication périodique** entre employeur et salarié sur la charge de travail, l'articulation vie pro/vie perso, la rémunération et l'organisation du travail
-- Les modalités d'exercice du **droit à la déconnexion**
+- Les modalités d'exercice du **[droit à la déconnexion](https://enclair.media/articles/droit-deconnexion-obligation-negocier)**
 
 Votre convention collective de branche ne prévoit pas tout ça ? **Toutes les conventions individuelles de forfait conclues sur ce fondement sont nulles.** Ce n'est pas théorique — c'est le motif principal des contentieux actuels.
 

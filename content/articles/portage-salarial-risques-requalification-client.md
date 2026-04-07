@@ -1,25 +1,32 @@
 ---
-title: "Portage salarial : les risques de requalification pour le client"
-excerpt: "Le portage salarial semble sécuriser la relation avec un prestataire indépendant. Mais si les conditions ne sont pas respectées, c'est l'entreprise cliente qui risque la requalification en contrat de travail."
-date: "2025-06-17"
-category: "droit-social"
-tags: ["portage salarial", "requalification", "prestataire", "lien de subordination"]
-readTime: "6 min"
+title: 'Portage salarial : les risques de requalification pour le client'
+excerpt: >-
+  Le portage salarial semble sécuriser la relation avec un prestataire
+  indépendant. Mais si les conditions ne sont pas respectées, c'est
+  l'entreprise.
+date: '2025-06-17'
+category: droit-social
+tags:
+  - portage salarial
+  - requalification
+  - prestataire
+  - lien de subordination
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.1254-1 à L.1254-31"
-  - "Ordonnance n°2015-380 du 2 avril 2015"
-  - "Cass. soc., 28 novembre 2018, n°17-18.763"
+  - 'Code du travail, articles L.1254-1 à L.1254-31'
+  - Ordonnance n°2015-380 du 2 avril 2015
+  - 'Cass. soc., 28 novembre 2018, n°17-18.763'
 ---
 
 ## Vous faites appel à un consultant en portage salarial. Êtes-vous sûr de ne pas être son employeur ?
 
 Le portage salarial est devenu le mode de collaboration préféré des PME avec les consultants et experts indépendants. Pas de risque de requalification, pas de charges sociales, pas de complexité RH. C'est du moins ce que vous croyez.
 
-En réalité, si la relation de travail présente les caractéristiques d'un lien de subordination, l'entreprise cliente peut être reconnue comme l'**employeur réel** du salarié porté -- avec toutes les conséquences que cela implique.
+En réalité, si la relation de travail présente les caractéristiques d'un [lien de subordination](https://enclair.media/articles/freelance-salarie-deguise-test-5-questions), l'entreprise cliente peut être reconnue comme l'**employeur réel** du salarié porté -- avec toutes les conséquences que cela implique.
 
 ## Le risque que personne ne vous explique
 
-La requalification en contrat de travail entre le salarié porté et l'entreprise cliente entraîne :
+La requalification en [contrat de travail](https://enclair.media/articles/succession-cdd-meme-poste-delai-carence) entre le salarié porté et l'entreprise cliente entraîne :
 - Le paiement rétroactif des **cotisations sociales** (part patronale et part salariale) sur toute la durée de la mission
 - La reconnaissance d'un **CDI** (le contrat sera présumé à durée indéterminée)
 - L'obligation de respecter la procédure de licenciement si vous mettez fin à la mission
@@ -35,7 +42,7 @@ Pour une mission de 2 ans à 600 euros/jour, le redressement peut dépasser 100 
 Le portage salarial repose sur une **relation tripartite** (article L.1254-1) :
 
 1. Le **salarié porté** : un professionnel qualifié qui trouve ses missions et négocie ses conditions
-2. L'**entreprise de portage** : l'employeur juridique qui établit le contrat de travail et verse le salaire
+2. L'**entreprise de portage** : l'employeur juridique qui établit le [contrat de travail](https://enclair.media/articles/temps-partiel-mentions-obligatoires-oubliees) et verse le salaire
 3. L'**entreprise cliente** : celle qui bénéficie de la prestation
 
 Le salarié porté est lié par un contrat de travail avec l'entreprise de portage. L'entreprise de portage conclut un contrat commercial avec l'entreprise cliente.

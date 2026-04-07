@@ -1,19 +1,25 @@
 ---
-title: "Avantages en nature : le redressement qui guette"
-excerpt: "Véhicule de fonction, téléphone, logement, repas : les avantages en nature doivent être évalués et déclarés. L'oubli est la première cause de redressement URSSAF dans les PME."
-date: "2025-08-25"
-category: "economie"
-tags: ["avantages en nature", "URSSAF", "véhicule de fonction", "redressement"]
-readTime: "6 min"
+title: 'Avantages en nature : le redressement qui guette'
+excerpt: >-
+  Véhicule de fonction, téléphone, logement, repas : les avantages en nature
+  doivent être évalués et déclarés.
+date: '2025-08-25'
+category: economie
+tags:
+  - avantages en nature
+  - URSSAF
+  - véhicule de fonction
+  - redressement
+readTime: 6 min
 sources:
-  - "Code de la sécurité sociale, article L.242-1"
-  - "BOSS, Bulletin officiel de la Sécurité sociale, rubrique Avantages en nature"
-  - "Arrêté du 10 décembre 2002 relatif à l'évaluation des avantages en nature"
+  - 'Code de la sécurité sociale, article L.242-1'
+  - 'BOSS, Bulletin officiel de la Sécurité sociale, rubrique Avantages en nature'
+  - Arrêté du 10 décembre 2002 relatif à l'évaluation des avantages en nature
 ---
 
 ## Votre directeur commercial utilise sa voiture de fonction le week-end. Avez-vous intégré l'avantage en nature dans son bulletin de paie ?
 
-Vous avez fourni un véhicule de fonction à 3 de vos cadres. Ils l'utilisent pour leurs déplacements professionnels et, bien sûr, pour leurs trajets personnels le soir et le week-end. Vous n'avez jamais déclaré d'avantage en nature. L'URSSAF, elle, le remarquera.
+Vous avez fourni un [véhicule de fonction](https://enclair.media/articles/geolocalisation-vehicules-conditions-strictes) à 3 de vos cadres. Ils l'utilisent pour leurs déplacements professionnels et, bien sûr, pour leurs trajets personnels le soir et le week-end. Vous n'avez jamais déclaré d'[avantage en nature](https://enclair.media/articles/avantage-nature-vehicule-baremes-urssaf-2026). L'URSSAF, elle, le remarquera.
 
 ## Pourquoi c'est le premier poste de redressement URSSAF
 
@@ -22,7 +28,7 @@ Les avantages en nature constituent le **premier motif de redressement** lors de
 - Mal évalués (l'employeur sous-estime la valeur)
 - Incomplets (certains avantages sont déclarés, d'autres non)
 
-Le redressement porte sur les **3 dernières années** et inclut les cotisations patronales et salariales, majorées de 5 % de pénalité de retard et d'intérêts moratoires.
+Le redressement porte sur les **3 dernières années** et inclut les [cotisations patronales](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour) et salariales, majorées de 5 % de pénalité de retard et d'intérêts moratoires.
 
 ## Les principaux avantages en nature à déclarer
 

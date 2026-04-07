@@ -1,23 +1,29 @@
 ---
-title: "Liberté vestimentaire au travail : les limites posées par la Cour"
-excerpt: "Le salarié est libre de se vêtir comme il l'entend, mais cette liberté peut être restreinte par des exigences professionnelles justifiées. La Cour de cassation trace une ligne entre liberté individuelle et nécessités de l'entreprise."
-date: "2026-02-24"
-category: "jurisprudence"
-tags: ["liberté vestimentaire", "tenue de travail", "restriction", "apparence"]
-readTime: "6 min"
+title: 'Liberté vestimentaire au travail : les limites posées par la Cour'
+excerpt: >-
+  Le salarié est libre de se vêtir comme il l'entend, mais cette liberté peut
+  être restreinte par des exigences professionnelles justifiées.
+date: '2026-02-24'
+category: jurisprudence
+tags:
+  - liberté vestimentaire
+  - tenue de travail
+  - restriction
+  - apparence
+readTime: 6 min
 sources:
-  - "Cass. soc., 28 mai 2003, n° 02-40.273 (arrêt bermuda)"
-  - "Cass. soc., 12 novembre 2008, n° 07-42.220"
-  - "Article L.1121-1 du Code du travail"
-  - "Cass. soc., 8 juillet 2020, n° 18-23.743"
-  - "Article L.1321-3 du Code du travail"
+  - 'Cass. soc., 28 mai 2003, n° 02-40.273 (arrêt bermuda)'
+  - 'Cass. soc., 12 novembre 2008, n° 07-42.220'
+  - Article L.1121-1 du Code du travail
+  - 'Cass. soc., 8 juillet 2020, n° 18-23.743'
+  - Article L.1321-3 du Code du travail
 ---
 
 La liberté de se vêtir est une liberté individuelle que le salarié conserve dans l'entreprise. Mais cette liberté, contrairement aux libertés fondamentales (religion, expression), ne bénéficie pas d'une protection absolue. L'employeur peut imposer des contraintes vestimentaires dès lors qu'elles sont justifiées par la nature de la tâche et proportionnées au but recherché.
 
 ## Le cadre juridique
 
-L'article L.1121-1 du Code du travail constitue la base de la réflexion : nul ne peut apporter aux droits des personnes et aux libertés individuelles des restrictions qui ne seraient pas justifiées par la nature de la tâche à accomplir ni proportionnées au but recherché.
+L'article L.1121-1 du Code du travail constitue la base de la réflexion : nul ne peut apporter aux droits des personnes et aux [libertés individuelles](https://enclair.media/articles/reglement-interieur-clauses-illicites) des restrictions qui ne seraient pas justifiées par la nature de la tâche à accomplir ni proportionnées au but recherché.
 
 La Cour de cassation a qualifié la liberté de se vêtir à sa guise de **liberté individuelle** — et non de liberté fondamentale. Cette qualification a des conséquences pratiques importantes : les restrictions sont plus facilement admises que pour une liberté fondamentale.
 
@@ -33,7 +39,7 @@ Ce qui n'est pas une liberté fondamentale peut néanmoins faire l'objet d'un co
 
 **L'hygiène et la sécurité.** Le port d'équipements de protection individuelle (EPI) ou d'une tenue spécifique peut être imposé pour des raisons de sécurité. Le refus du salarié constitue une faute.
 
-**Le règlement intérieur.** L'article L.1321-3 du Code du travail permet au règlement intérieur de prévoir des clauses restrictives en matière vestimentaire, à condition qu'elles soient justifiées et proportionnées.
+**Le [règlement intérieur](https://enclair.media/articles/droit-disciplinaire-gradation-sanctions-expliquee).** L'article L.1321-3 du Code du travail permet au [règlement intérieur](https://enclair.media/articles/mise-a-pied-disciplinaire-duree-procedure-pieges) de prévoir des clauses restrictives en matière vestimentaire, à condition qu'elles soient justifiées et proportionnées.
 
 ## Les restrictions interdites
 

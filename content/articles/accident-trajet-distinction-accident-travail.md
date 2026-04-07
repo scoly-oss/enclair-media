@@ -1,18 +1,24 @@
 ---
-title: "Accident de trajet : la distinction avec l'AT qui change tout"
-excerpt: "Accident du travail et accident de trajet relèvent de régimes juridiques différents avec des conséquences radicalement distinctes pour l'employeur. Maîtriser cette distinction est indispensable pour gérer correctement les sinistres."
-date: "2025-10-22"
-category: "droit-social"
-tags: ["accident du travail", "accident de trajet", "AT/MP", "indemnisation"]
-readTime: "7 min"
+title: 'Accident de trajet : la distinction avec l''AT qui change tout'
+excerpt: >-
+  Accident du travail et accident de trajet relèvent de régimes juridiques
+  différents avec des conséquences radicalement distinctes pour l'employeur.
+date: '2025-10-22'
+category: droit-social
+tags:
+  - accident du travail
+  - accident de trajet
+  - AT/MP
+  - indemnisation
+readTime: 7 min
 sources:
-  - "Article L. 411-1 du Code de la sécurité sociale (accident du travail)"
-  - "Article L. 411-2 du Code de la sécurité sociale (accident de trajet)"
-  - "Cass. 2e civ., 7 mai 2020, n° 18-25.535"
-  - "Cass. 2e civ., 2 mars 2017, n° 16-11.986"
+  - Article L. 411-1 du Code de la sécurité sociale (accident du travail)
+  - Article L. 411-2 du Code de la sécurité sociale (accident de trajet)
+  - 'Cass. 2e civ., 7 mai 2020, n° 18-25.535'
+  - 'Cass. 2e civ., 2 mars 2017, n° 16-11.986'
 ---
 
-La confusion entre accident du travail (AT) et accident de trajet est fréquente en entreprise. Pourtant, ces deux qualifications entraînent des conséquences juridiques et financières très différentes pour l'employeur. Bien distinguer les deux est essentiel.
+La confusion entre [accident du travail](https://enclair.media/articles/accident-du-travail-les-48h-que-vous-ne-pouvez-pas-rater) (AT) et accident de trajet est fréquente en entreprise. Pourtant, ces deux qualifications entraînent des conséquences juridiques et financières très différentes pour l'employeur. Bien distinguer les deux est essentiel.
 
 ## Les définitions légales
 
@@ -49,7 +55,7 @@ En cas d'accident de trajet, la faute inexcusable de l'employeur est **quasi imp
 
 Le salarié victime d'un accident du travail bénéficie d'une **protection renforcée** pendant son arrêt. L'article L. 1226-9 du Code du travail interdit le licenciement sauf faute grave ou impossibilité de maintenir le contrat pour un motif étranger à l'accident. Le licenciement prononcé en violation de cette protection est **nul**.
 
-Le salarié victime d'un accident de trajet bénéficie de la même protection que pour une maladie non professionnelle. Le licenciement est possible si l'employeur justifie d'une cause réelle et sérieuse (nécessité de remplacement définitif, motif économique, etc.), sans obligation de démontrer la faute grave.
+Le salarié victime d'un accident de trajet bénéficie de la même protection que pour une maladie non professionnelle. Le licenciement est possible si l'employeur justifie d'une [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse) (nécessité de remplacement définitif, motif économique, etc.), sans obligation de démontrer la faute grave.
 
 ### 4. L'obligation de reclassement à la reprise
 
@@ -71,7 +77,7 @@ Lorsque le salarié travaille à domicile, la notion de trajet entre le domicile
 
 ### Le déplacement professionnel
 
-Un accident survenant lors d'un déplacement professionnel (visite client, formation, mission) est un **accident du travail** et non un accident de trajet, car le salarié se trouve sous l'autorité de l'employeur pendant toute la durée de la mission (Cass. 2e civ., 7 mai 2020, n° 18-25.535).
+Un accident survenant lors d'un [déplacement professionnel](https://enclair.media/articles/temps-de-trajet-temps-travail-effectif) (visite client, formation, mission) est un **accident du travail** et non un accident de trajet, car le salarié se trouve sous l'autorité de l'employeur pendant toute la durée de la mission (Cass. 2e civ., 7 mai 2020, n° 18-25.535).
 
 ### Le détour pour motif personnel
 

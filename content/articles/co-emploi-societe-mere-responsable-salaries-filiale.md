@@ -1,15 +1,21 @@
 ---
-title: "Co-emploi : quand la société mère est responsable des salariés de la filiale"
-excerpt: "Le co-emploi permet d'engager la responsabilité d'une société mère envers les salariés d'une filiale. Mais les critères sont stricts depuis le revirement de 2014. Analyse des conditions retenues par la Cour de cassation."
-date: "2025-11-15"
-category: "jurisprudence"
-tags: ["co-emploi", "groupe de sociétés", "licenciement économique", "responsabilité"]
-readTime: "6 min"
+title: 'Co-emploi : quand la société mère est responsable des salariés de la filiale'
+excerpt: >-
+  Le co-emploi permet d'engager la responsabilité d'une société mère envers les
+  salariés d'une filiale.
+date: '2025-11-15'
+category: jurisprudence
+tags:
+  - co-emploi
+  - groupe de sociétés
+  - licenciement économique
+  - responsabilité
+readTime: 6 min
 sources:
-  - "Cass. soc., 2 juillet 2014, n° 13-15.208 (arrêt Molex)"
-  - "Cass. soc., 6 juillet 2016, n° 14-26.541 (arrêt Continental)"
-  - "Cass. soc., 25 novembre 2020, n° 18-13.769"
-  - "Article L. 1233-3 du Code du travail (motif économique)"
+  - 'Cass. soc., 2 juillet 2014, n° 13-15.208 (arrêt Molex)'
+  - 'Cass. soc., 6 juillet 2016, n° 14-26.541 (arrêt Continental)'
+  - 'Cass. soc., 25 novembre 2020, n° 18-13.769'
+  - Article L. 1233-3 du Code du travail (motif économique)
 ---
 
 La théorie du co-emploi permet aux salariés d'une filiale d'engager la responsabilité de la société mère en cas de licenciement. Mais depuis l'arrêt Molex de 2014, la Cour de cassation a resserré les conditions de reconnaissance du co-emploi, limitant cette action aux cas d'immixtion caractérisée.
@@ -43,7 +49,7 @@ Pour que le co-emploi soit retenu, il faut démontrer que la société mère :
 
 ### La solidarité dans les obligations
 
-Si le co-emploi est reconnu, la société mère est **solidairement responsable** des obligations de l'employeur envers les salariés : paiement des salaires, respect de la convention collective, obligations liées au licenciement.
+Si le co-emploi est reconnu, la société mère est **solidairement responsable** des obligations de l'employeur envers les salariés : paiement des salaires, respect de la [convention collective](https://enclair.media/articles/forfait-jours-droit-sante-qpc), obligations liées au licenciement.
 
 ### L'extension du motif économique
 

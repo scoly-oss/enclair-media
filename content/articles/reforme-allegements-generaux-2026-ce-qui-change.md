@@ -1,18 +1,30 @@
 ---
-title: "Allègements généraux 2026 : la refonte qui va impacter votre masse salariale"
-excerpt: "Suppression des taux réduits maladie et famille, nouvelle réduction générale dégressive unique — ce que la LFSS 2025 change concrètement pour les employeurs dès janvier 2026."
-date: "2025-12-31"
-category: "decryptage"
-tags: ["cotisations", "LFSS", "masse-salariale", "URSSAF"]
-readTime: "5 min"
+title: 'Allègements généraux 2026 : la refonte qui va impacter votre masse salariale'
+excerpt: >-
+  Suppression des taux réduits maladie et famille, nouvelle réduction générale
+  dégressive unique — ce que la LFSS 2025 change concrètement pour les.
+date: '2025-12-31'
+category: decryptage
+tags:
+  - cotisations
+  - LFSS
+  - masse-salariale
+  - URSSAF
+readTime: 5 min
 sources:
-  - "Article 18 de la loi n°2025-199 de financement de la sécurité sociale pour 2025"
-  - "Décret n°2025-887 du 4 septembre 2025 relatif aux modalités d'application des dispositifs de réduction de cotisations patronales"
-  - "BOSS — Rubrique Allègements généraux, mise à jour décembre 2025"
-  - "BOSS — Communiqué du 31/12/2025, évolutions réglementaires sous-jacentes à la LFSS pour 2026"
+  - >-
+    Article 18 de la loi n°2025-199 de financement de la sécurité sociale pour
+    2025
+  - >-
+    Décret n°2025-887 du 4 septembre 2025 relatif aux modalités d'application
+    des dispositifs de réduction de cotisations patronales
+  - 'BOSS — Rubrique Allègements généraux, mise à jour décembre 2025'
+  - >-
+    BOSS — Communiqué du 31/12/2025, évolutions réglementaires sous-jacentes à
+    la LFSS pour 2026
 ---
 
-Depuis le 1er janvier 2026, le paysage des allègements de cotisations patronales a profondément changé. Si vous dirigez une entreprise, ce qui suit impacte directement votre bulletin de paie — et donc votre trésorerie.
+Depuis le 1er janvier 2026, le paysage des [allègements](https://enclair.media/articles/smic-2026-cout-reel-employeur) de [cotisations patronales](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour) a profondément changé. Si vous dirigez une entreprise, ce qui suit impacte directement votre [bulletin de paie](https://enclair.media/articles/cotisations-sociales-2026-ce-qui-change-bulletins) — et donc votre trésorerie.
 
 ## Ce qui disparaît
 

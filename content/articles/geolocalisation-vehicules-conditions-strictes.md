@@ -1,14 +1,20 @@
 ---
-title: "Géolocalisation des véhicules : les conditions strictes d'utilisation"
-excerpt: "La géolocalisation des véhicules de fonction est autorisée mais soumise à des conditions strictes de proportionnalité et d'information. La CNIL et les prud'hommes sanctionnent les abus."
-date: "2025-07-10"
-category: "jurisprudence"
-tags: ["géolocalisation", "CNIL", "vie privée", "véhicule de fonction"]
-readTime: "6 min"
+title: 'Géolocalisation des véhicules : les conditions strictes d''utilisation'
+excerpt: >-
+  La géolocalisation des véhicules de fonction est autorisée mais soumise à des
+  conditions strictes de proportionnalité et d'information.
+date: '2025-07-10'
+category: jurisprudence
+tags:
+  - géolocalisation
+  - CNIL
+  - vie privée
+  - véhicule de fonction
+readTime: 6 min
 sources:
-  - "Cass. soc., 19 décembre 2018, n°17-14.631"
-  - "CNIL, Délibération n°2015-165 du 4 juin 2015"
-  - "Code du travail, article L.1121-1 (proportionnalité)"
+  - 'Cass. soc., 19 décembre 2018, n°17-14.631'
+  - 'CNIL, Délibération n°2015-165 du 4 juin 2015'
+  - 'Code du travail, article L.1121-1 (proportionnalité)'
 ---
 
 ## Vous avez installé des GPS sur vos véhicules de fonction. Avez-vous informé vos salariés ?
@@ -23,7 +29,7 @@ Le salarié doit être individuellement informé avant la mise en place du syst�
 
 ### La proportionnalité
 
-L'article L.1121-1 du Code du travail interdit les restrictions aux libertés individuelles qui ne sont pas justifiées par la nature de la tâche et proportionnées au but recherché. La géolocalisation est proportionnée pour vérifier le respect des itinéraires clients, mais pas pour contrôler chaque minute de la journée d'un salarié autonome.
+L'article L.1121-1 du Code du travail interdit les restrictions aux [libertés individuelles](https://enclair.media/articles/reglement-interieur-clauses-illicites) qui ne sont pas justifiées par la nature de la tâche et proportionnées au but recherché. La géolocalisation est proportionnée pour vérifier le respect des itinéraires clients, mais pas pour contrôler chaque minute de la journée d'un salarié autonome.
 
 La Cour de cassation a jugé que la géolocalisation ne peut pas être utilisée pour contrôler le temps de travail d'un salarié lorsqu'un autre moyen moins intrusif existe (badgeuse, déclaration horaire). Elle ne peut pas non plus être utilisée pour surveiller un salarié de manière permanente.
 
@@ -40,7 +46,7 @@ La CNIL n'autorise la géolocalisation que pour des finalités limitatives :
 
 La géolocalisation ne peut pas servir à :
 - Contrôler le respect des limitations de vitesse (c'est le rôle de la police)
-- Surveiller les déplacements des représentants du personnel dans l'exercice de leur mandat
+- Surveiller les déplacements des [représentants du personnel](https://enclair.media/articles/elections-cse-calendrier-etapes) dans l'exercice de leur mandat
 - Tracer les déplacements privés du salarié en dehors du temps de travail
 - Constituer un outil de surveillance permanente des salariés
 
@@ -53,7 +59,7 @@ Les données de géolocalisation ne peuvent pas être conservées plus de **2 mo
 Un système de géolocalisation non conforme expose l'entreprise à :
 - Une sanction CNIL pouvant atteindre **4 % du chiffre d'affaires mondial** (RGPD)
 - L'irrecevabilité des preuves obtenues par géolocalisation devant les prud'hommes
-- Des dommages et intérêts pour atteinte à la vie privée du salarié
+- Des [dommages et intérêts](https://enclair.media/articles/discrimination-syndicale-comparaison-carriere-imposee) pour atteinte à la vie privée du salarié
 - Un délit d'entrave si le CSE n'a pas été consulté
 
 ## Ce que vous devez faire lundi matin

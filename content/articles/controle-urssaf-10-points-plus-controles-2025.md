@@ -1,15 +1,23 @@
 ---
-title: "Contrôle URSSAF : les 10 points les plus contrôlés en 2025"
-excerpt: "L'URSSAF cible ses contrôles sur des thématiques récurrentes qui concentrent les redressements. Frais professionnels, avantages en nature, réduction Fillon : les 10 points que les contrôleurs vérifient systématiquement."
-date: "2025-10-25"
-category: "economie"
-tags: ["URSSAF", "contrôle", "redressement", "cotisations sociales"]
-readTime: "8 min"
+title: 'Contrôle URSSAF : les 10 points les plus contrôlés en 2025'
+excerpt: >-
+  L'URSSAF cible ses contrôles sur des thématiques récurrentes qui concentrent
+  les redressements. Frais professionnels, avantages en nature, réduction.
+date: '2025-10-25'
+category: economie
+tags:
+  - URSSAF
+  - contrôle
+  - redressement
+  - cotisations sociales
+readTime: 8 min
 sources:
-  - "Articles L. 243-7 et R. 243-59 du Code de la sécurité sociale"
-  - "Rapport d'activité ACOSS 2024"
-  - "BOSS, Bulletin officiel de la sécurité sociale, rubriques 'Avantages en nature' et 'Frais professionnels'"
-  - "Charte du cotisant contrôlé (mise à jour 2024)"
+  - Articles L. 243-7 et R. 243-59 du Code de la sécurité sociale
+  - Rapport d'activité ACOSS 2024
+  - >-
+    BOSS, Bulletin officiel de la sécurité sociale, rubriques 'Avantages en
+    nature' et 'Frais professionnels'
+  - Charte du cotisant contrôlé (mise à jour 2024)
 ---
 
 Le contrôle URSSAF est un exercice que toute entreprise rencontrera un jour. Avec plus de 100 000 contrôles réalisés chaque année (dont 45 000 contrôles comptables d'assiette), les thématiques sont bien rodées. Voici les 10 points les plus fréquemment contrôlés et les redressements associés.
@@ -23,7 +31,7 @@ C'est le premier poste de redressement depuis des années. Les contrôleurs vér
 - La **conservation des justificatifs** pour les remboursements au réel
 - L'**absence de cumul** entre allocation forfaitaire et remboursement au réel pour un même frais
 
-Les indemnités kilométriques sont particulièrement scrutées : véhicule de fonction et indemnités kilométriques ne sont pas cumulables.
+Les [indemnités kilométriques](https://enclair.media/articles/frais-professionnels-limites-exoneration-urssaf) sont particulièrement scrutées : [véhicule de fonction](https://enclair.media/articles/avantages-en-nature-redressement-guette) et indemnités kilométriques ne sont pas cumulables.
 
 ## 2. Les avantages en nature
 
@@ -49,7 +57,7 @@ Le régime social des indemnités versées à l'occasion de la rupture du contra
 
 - Le **respect des seuils d'exonération** (2 PASS ou montant conventionnel/légal)
 - La bonne qualification (indemnité de licenciement, indemnité transactionnelle, indemnité de rupture conventionnelle)
-- L'assujettissement de la fraction excédentaire aux cotisations sociales et à la CSG-CRDS
+- L'assujettissement de la fraction excédentaire aux [cotisations sociales](https://enclair.media/articles/cotisations-sociales-2026-ce-qui-change-bulletins) et à la CSG-CRDS
 
 ## 5. Les cotisations de retraite complémentaire
 

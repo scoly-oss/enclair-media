@@ -1,18 +1,27 @@
 ---
-title: "Épargne retraite d'entreprise (PERE/PERECO) : les avantages employeur"
-excerpt: "Les plans d'épargne retraite d'entreprise (PERE et PERECO) offrent des avantages sociaux et fiscaux significatifs pour l'employeur comme pour le salarié. Fonctionnement, abondement et régime d'exonération."
-date: "2026-01-12"
-category: "economie"
-tags: ["épargne retraite", "PER", "PERECO", "avantages sociaux"]
-readTime: "6 min"
+title: 'Épargne retraite d''entreprise (PERE/PERECO) : les avantages employeur'
+excerpt: >-
+  Les plans d'épargne retraite d'entreprise (PERE et PERECO) offrent des
+  avantages sociaux et fiscaux significatifs pour l'employeur comme pour le
+  salarié.
+date: '2026-01-12'
+category: economie
+tags:
+  - épargne retraite
+  - PER
+  - PERECO
+  - avantages sociaux
+readTime: 6 min
 sources:
-  - "Articles L. 224-1 à L. 224-40 du Code monétaire et financier"
-  - "Loi PACTE n° 2019-486 du 22 mai 2019"
-  - "Article L. 242-1 du Code de la sécurité sociale (exonération de l'abondement)"
-  - "Article 163 quatervicies du CGI (déductibilité fiscale)"
+  - Articles L. 224-1 à L. 224-40 du Code monétaire et financier
+  - Loi PACTE n° 2019-486 du 22 mai 2019
+  - >-
+    Article L. 242-1 du Code de la sécurité sociale (exonération de
+    l'abondement)
+  - Article 163 quatervicies du CGI (déductibilité fiscale)
 ---
 
-La loi PACTE de 2019 a créé le Plan d'Épargne Retraite (PER), unifiant les anciens dispositifs (PERP, Madelin, PERCO, article 83). Pour l'employeur, le PER d'entreprise collectif (PERECO) et le PER d'entreprise obligatoire (PERO, ex-article 83) constituent des outils de fidélisation aux avantages sociaux et fiscaux substantiels.
+La loi PACTE de 2019 a créé le Plan d'Épargne Retraite (PER), unifiant les anciens dispositifs (PERP, Madelin, PERCO, article 83). Pour l'employeur, le PER d'entreprise collectif (PERECO) et le PER d'entreprise obligatoire (PERO, ex-article 83) constituent des outils de fidélisation aux [avantages sociaux](https://enclair.media/articles/cheques-vacances-regime-social-favorable) et fiscaux substantiels.
 
 ## Les deux dispositifs d'entreprise
 
@@ -28,7 +37,7 @@ Le PERO succède à l'article 83. Il est mis en place par accord collectif, réf
 
 ### Exonération de l'abondement PERECO
 
-L'abondement de l'employeur au PERECO est exonéré de cotisations sociales dans la limite de **16 % du PASS** par an et par salarié (environ 7 400 euros en 2025). Il reste soumis à la CSG-CRDS et au forfait social (16 % pour les PERECO, contre 20 % pour les PEE).
+L'abondement de l'employeur au PERECO est exonéré de [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025) dans la limite de **16 % du PASS** par an et par salarié (environ 7 400 euros en 2025). Il reste soumis à la CSG-CRDS et au forfait social (16 % pour les PERECO, contre 20 % pour les PEE).
 
 ### Exonération des cotisations PERO
 

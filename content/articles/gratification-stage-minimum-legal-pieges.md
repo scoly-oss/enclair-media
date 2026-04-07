@@ -1,15 +1,21 @@
 ---
-title: "Gratification de stage : le minimum légal et les pièges"
-excerpt: "La gratification de stage est obligatoire au-delà de 2 mois. Son montant minimal, son régime social et les erreurs de gestion qui exposent l'employeur à un redressement ou à une requalification en contrat de travail."
-date: "2026-01-02"
-category: "economie"
-tags: ["stage", "gratification", "convention de stage", "URSSAF"]
-readTime: "6 min"
+title: 'Gratification de stage : le minimum légal et les pièges'
+excerpt: >-
+  La gratification de stage est obligatoire au-delà de 2 mois. Son montant
+  minimal, son régime social et les erreurs de gestion qui exposent l'employeur.
+date: '2026-01-02'
+category: economie
+tags:
+  - stage
+  - gratification
+  - convention de stage
+  - URSSAF
+readTime: 6 min
 sources:
-  - "Articles L. 124-6 et L. 124-7 du Code de l'éducation"
-  - "Article D. 124-6 du Code de l'éducation (montant minimal)"
-  - "Article L. 242-4-1 du Code de la sécurité sociale (franchise)"
-  - "Cass. soc., 29 janvier 2020, n° 18-15.359"
+  - Articles L. 124-6 et L. 124-7 du Code de l'éducation
+  - Article D. 124-6 du Code de l'éducation (montant minimal)
+  - Article L. 242-4-1 du Code de la sécurité sociale (franchise)
+  - 'Cass. soc., 29 janvier 2020, n° 18-15.359'
 ---
 
 Le recours aux stagiaires est encadré par des règles strictes dont la gratification est un élément central. Son non-respect expose l'employeur à des sanctions et à la requalification du stage en contrat de travail. Tour d'horizon des obligations et des pièges.
@@ -24,9 +30,9 @@ Le montant minimal est fixé à **15 % du plafond horaire de la sécurité socia
 
 ### La franchise de cotisations
 
-La gratification versée dans la limite du montant minimal (15 % du PHSS) est exonérée de cotisations sociales. Seuls l'employeur et le stagiaire doivent acquitter la CSG-CRDS.
+La gratification versée dans la limite du montant minimal (15 % du PHSS) est exonérée de [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025). Seuls l'employeur et le stagiaire doivent acquitter la CSG-CRDS.
 
-Au-delà de ce seuil, la fraction excédentaire est soumise à l'ensemble des cotisations sociales, comme un salaire.
+Au-delà de ce seuil, la fraction excédentaire est soumise à l'ensemble des [cotisations sociales](https://enclair.media/articles/cotisations-sociales-2026-ce-qui-change-bulletins), comme un salaire.
 
 ### L'impact sur le contrôle URSSAF
 
@@ -49,7 +55,7 @@ Un délai de carence égal au **tiers de la durée du stage précédent** doit �
 ## Les droits du stagiaire
 
 Le stagiaire bénéficie de certains droits des salariés :
-- Accès au **restaurant d'entreprise** et aux titres-restaurant
+- Accès au **restaurant d'entreprise** et aux [titres-restaurant](https://enclair.media/articles/titres-restaurant-2026-nouvelles-regles-urssaf)
 - Prise en charge de **50 % des frais de transport** en commun
 - Bénéfice des **activités sociales et culturelles** du CSE
 - Durée de travail alignée sur celle des salariés (pas de travail de nuit sauf dérogation)

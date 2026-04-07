@@ -1,25 +1,33 @@
 ---
-title: "Frais professionnels : les limites d'exonération URSSAF"
-excerpt: "Les remboursements de frais professionnels sont exonérés de cotisations sociales, mais dans des limites strictes. Un dépassement non justifié déclenche un redressement."
-date: "2025-08-20"
-category: "economie"
-tags: ["frais professionnels", "URSSAF", "indemnités kilométriques", "frais de repas"]
-readTime: "5 min"
+title: 'Frais professionnels : les limites d''exonération URSSAF'
+excerpt: >-
+  Les remboursements de frais professionnels sont exonérés de cotisations
+  sociales, mais dans des limites strictes.
+date: '2025-08-20'
+category: economie
+tags:
+  - frais professionnels
+  - URSSAF
+  - indemnités kilométriques
+  - frais de repas
+readTime: 5 min
 sources:
-  - "BOSS, Bulletin officiel de la Sécurité sociale, rubrique Frais professionnels"
-  - "Arrêté du 20 décembre 2002 relatif aux frais professionnels"
-  - "Code de la sécurité sociale, article L.242-1"
+  - >-
+    BOSS, Bulletin officiel de la Sécurité sociale, rubrique Frais
+    professionnels
+  - Arrêté du 20 décembre 2002 relatif aux frais professionnels
+  - 'Code de la sécurité sociale, article L.242-1'
 ---
 
 ## Vous remboursez les repas de vos commerciaux à 25 euros. Le plafond URSSAF est à 20,70 euros. La différence est un avantage en nature soumis à cotisations.
 
-Les frais professionnels sont exonérés de cotisations sociales dans la mesure où ils correspondent à des **dépenses réelles** engagées par le salarié dans l'intérêt de l'entreprise. Mais cette exonération n'est pas illimitée.
+Les frais professionnels sont exonérés de [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025) dans la mesure où ils correspondent à des **dépenses réelles** engagées par le salarié dans l'intérêt de l'entreprise. Mais cette exonération n'est pas illimitée.
 
 ## Les barèmes forfaitaires 2025
 
 ### Frais de repas
 
-- **Repas au restaurant** (déplacement professionnel empêchant le retour au domicile ou au lieu de travail) : **20,70 euros** par repas
+- **Repas au restaurant** ([déplacement professionnel](https://enclair.media/articles/temps-de-trajet-temps-travail-effectif) empêchant le retour au domicile ou au lieu de travail) : **20,70 euros** par repas
 - **Repas sur le lieu de travail** (salarié contraint de prendre son repas sur place, par exemple en raison de conditions de travail particulières) : **7,30 euros**
 - **Repas hors des locaux** (salarié en déplacement, sans restaurant) : **10,10 euros**
 

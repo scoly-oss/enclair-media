@@ -1,18 +1,24 @@
 ---
-title: "Compte pénibilité (C2P) : les obligations déclaratives de l'employeur"
-excerpt: "Le compte professionnel de prévention (C2P) impose à l'employeur de déclarer annuellement l'exposition de ses salariés à certains facteurs de risques professionnels. Facteurs concernés, seuils et conséquences en cas de manquement."
-date: "2026-01-05"
-category: "droit-social"
-tags: ["C2P", "pénibilité", "déclaration", "risques professionnels"]
-readTime: "6 min"
+title: 'Compte pénibilité (C2P) : les obligations déclaratives de l''employeur'
+excerpt: >-
+  Le compte professionnel de prévention (C2P) impose à l'employeur de déclarer
+  annuellement l'exposition de ses salariés à certains facteurs de risques.
+date: '2026-01-05'
+category: droit-social
+tags:
+  - C2P
+  - pénibilité
+  - déclaration
+  - risques professionnels
+readTime: 6 min
 sources:
-  - "Articles L. 4163-1 à L. 4163-22 du Code du travail"
-  - "Article D. 4163-2 du Code du travail (facteurs et seuils)"
-  - "Décret n° 2017-1769 du 27 décembre 2017"
-  - "Instruction DGT du 20 mars 2018 relative au C2P"
+  - Articles L. 4163-1 à L. 4163-22 du Code du travail
+  - Article D. 4163-2 du Code du travail (facteurs et seuils)
+  - Décret n° 2017-1769 du 27 décembre 2017
+  - Instruction DGT du 20 mars 2018 relative au C2P
 ---
 
-Le compte professionnel de prévention (C2P), successeur du compte pénibilité, concerne 6 facteurs de risques professionnels. L'employeur a l'obligation de déclarer annuellement l'exposition de chaque salarié concerné. Une obligation souvent mal maîtrisée dont les conséquences financières sont significatives.
+Le compte professionnel de prévention (C2P), successeur du compte pénibilité, concerne 6 facteurs de [risques professionnels](https://enclair.media/articles/obligation-securite-employeur-doit-prouver). L'employeur a l'obligation de déclarer annuellement l'exposition de chaque salarié concerné. Une obligation souvent mal maîtrisée dont les conséquences financières sont significatives.
 
 ## Les 6 facteurs de risques concernés
 
@@ -40,7 +46,7 @@ Travail impliquant la répétition d'un même geste, à une fréquence élevée 
 
 ### Le principe
 
-L'employeur doit évaluer l'exposition de chaque salarié aux 6 facteurs de risques et déclarer via la **DSN** (déclaration sociale nominative) les salariés exposés au-delà des seuils. Cette déclaration est effectuée **annuellement**, au titre de l'année civile écoulée.
+L'employeur doit évaluer l'exposition de chaque salarié aux 6 facteurs de risques et déclarer via la **DSN** ([déclaration sociale](https://enclair.media/articles/dsn-erreurs-qui-coutent-cher) nominative) les salariés exposés au-delà des seuils. Cette déclaration est effectuée **annuellement**, au titre de l'année civile écoulée.
 
 ### L'évaluation de l'exposition
 
@@ -57,7 +63,7 @@ Chaque année d'exposition ouvre droit à l'acquisition de **points** sur le C2P
 
 Le compte est plafonné à **100 points** sur l'ensemble de la carrière. Les points permettent au salarié de financer :
 
-- Une **formation professionnelle** pour accéder à un emploi moins exposé (1 point = 375 euros de formation)
+- Une **[formation professionnelle](https://enclair.media/articles/clause-dedit-formation-conditions-validite)** pour accéder à un emploi moins exposé (1 point = 375 euros de formation)
 - Un **passage à temps partiel** sans perte de rémunération (10 points = un trimestre à mi-temps)
 - Un **départ anticipé à la retraite** (10 points = un trimestre de majoration de durée d'assurance, dans la limite de 8 trimestres)
 

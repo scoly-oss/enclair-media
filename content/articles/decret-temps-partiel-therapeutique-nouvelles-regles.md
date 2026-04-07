@@ -1,16 +1,22 @@
 ---
-title: "Décret temps partiel thérapeutique : les nouvelles règles employeur"
-excerpt: "Le temps partiel thérapeutique permet au salarié de reprendre progressivement le travail après un arrêt maladie. Les conditions de mise en oeuvre ont été précisées par décret. Les nouvelles règles que l'employeur doit connaître."
-date: "2026-02-21"
-category: "alerte"
-tags: ["temps partiel thérapeutique", "reprise travail", "arrêt maladie", "IJSS"]
-readTime: "6 min"
+title: 'Décret temps partiel thérapeutique : les nouvelles règles employeur'
+excerpt: >-
+  Le temps partiel thérapeutique permet au salarié de reprendre progressivement
+  le travail après un arrêt maladie.
+date: '2026-02-21'
+category: alerte
+tags:
+  - temps partiel thérapeutique
+  - reprise travail
+  - arrêt maladie
+  - IJSS
+readTime: 6 min
 sources:
-  - "Article L.323-3 du Code de la sécurité sociale"
-  - "Décret n° 2024-1028 du 14 novembre 2024"
-  - "Article L.1226-1 du Code du travail"
-  - "Cass. soc., 28 janvier 2021, n° 19-13.573"
-  - "Article R.323-3 du Code de la sécurité sociale"
+  - Article L.323-3 du Code de la sécurité sociale
+  - Décret n° 2024-1028 du 14 novembre 2024
+  - Article L.1226-1 du Code du travail
+  - 'Cass. soc., 28 janvier 2021, n° 19-13.573'
+  - Article R.323-3 du Code de la sécurité sociale
 ---
 
 Le temps partiel thérapeutique — communément appelé « mi-temps thérapeutique » bien que la quotité ne soit pas nécessairement de 50 % — est un dispositif permettant au salarié de reprendre progressivement son activité après un arrêt de travail. Le décret du 14 novembre 2024 a clarifié les modalités pratiques, avec des conséquences directes pour les employeurs.
@@ -21,7 +27,7 @@ Le temps partiel thérapeutique est prescrit par le médecin traitant lorsque la
 
 Pendant cette période, le salarié travaille à temps réduit et perçoit :
 - Son **salaire** correspondant au temps effectivement travaillé, versé par l'employeur
-- Des **indemnités journalières** de Sécurité sociale compensant la perte de rémunération liée à la réduction d'activité
+- Des **indemnités journalières** de [Sécurité sociale](https://enclair.media/articles/calcul-ijss-verification-employeur) compensant la perte de rémunération liée à la réduction d'activité
 
 L'article L.323-3 du Code de la sécurité sociale prévoit que le maintien partiel des IJSS est possible lorsque la reprise du travail à temps partiel est reconnue comme favorisant l'amélioration de l'état de santé ou la rééducation professionnelle.
 
@@ -41,7 +47,7 @@ Le décret du 14 novembre 2024 a apporté plusieurs précisions attendues.
 
 **Aménager le poste.** L'employeur doit adapter l'organisation du travail pour permettre l'activité à temps réduit : aménagement des horaires, répartition des tâches, adaptation de la charge de travail.
 
-**Maintenir le salaire au prorata.** Le salarié en temps partiel thérapeutique perçoit son salaire proportionnellement au temps de travail effectué. L'employeur n'est pas tenu de compléter la différence au-delà de ce que prévoit la convention collective ou le contrat.
+**Maintenir le salaire au prorata.** Le salarié en temps partiel thérapeutique perçoit son salaire proportionnellement au temps de travail effectué. L'employeur n'est pas tenu de compléter la différence au-delà de ce que prévoit la [convention collective](https://enclair.media/articles/convention-collective-identifier-applicable) ou le contrat.
 
 **Organiser la visite de reprise.** Lorsque le temps partiel thérapeutique fait suite à un arrêt de plus de 60 jours, une visite médicale de reprise avec le médecin du travail est obligatoire.
 

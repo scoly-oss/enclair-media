@@ -1,18 +1,24 @@
 ---
-title: "Référent harcèlement CSE : les missions et moyens obligatoires"
-excerpt: "Depuis le 1er janvier 2019, le CSE doit désigner un référent en matière de lutte contre le harcèlement sexuel et les agissements sexistes. Un rôle souvent mal défini dont les missions et les moyens méritent d'être clarifiés."
-date: "2026-01-03"
-category: "decryptage"
-tags: ["harcèlement", "CSE", "référent", "prévention"]
-readTime: "6 min"
+title: 'Référent harcèlement CSE : les missions et moyens obligatoires'
+excerpt: >-
+  Depuis le 1er janvier 2019, le CSE doit désigner un référent en matière de
+  lutte contre le harcèlement sexuel et les agissements sexistes.
+date: '2026-01-03'
+category: decryptage
+tags:
+  - harcèlement
+  - CSE
+  - référent
+  - prévention
+readTime: 6 min
 sources:
-  - "Article L. 2314-1 du Code du travail (référent CSE)"
-  - "Article L. 1153-5-1 du Code du travail (référent employeur)"
-  - "Loi n° 2018-771 du 5 septembre 2018 (article 105)"
-  - "Guide du ministère du Travail sur les référents harcèlement (mars 2019)"
+  - Article L. 2314-1 du Code du travail (référent CSE)
+  - Article L. 1153-5-1 du Code du travail (référent employeur)
+  - Loi n° 2018-771 du 5 septembre 2018 (article 105)
+  - Guide du ministère du Travail sur les référents harcèlement (mars 2019)
 ---
 
-La loi du 5 septembre 2018 a imposé la désignation de référents en matière de lutte contre le harcèlement sexuel et les agissements sexistes. Deux référents coexistent : celui du CSE (obligatoire dans toutes les entreprises dotées d'un CSE) et celui de l'employeur (obligatoire dans les entreprises de 250 salariés et plus). Focus sur les missions et moyens du référent CSE.
+La loi du 5 septembre 2018 a imposé la désignation de référents en matière de lutte contre le [harcèlement sexuel](https://enclair.media/articles/harcelement-sexuel-travail-nouvelle-definition-elargie) et les agissements sexistes. Deux référents coexistent : celui du CSE (obligatoire dans toutes les entreprises dotées d'un CSE) et celui de l'employeur (obligatoire dans les entreprises de 250 salariés et plus). Focus sur les missions et moyens du référent CSE.
 
 ## La désignation obligatoire
 
@@ -50,7 +56,7 @@ Le référent bénéficie de la formation nécessaire à l'exercice de ses missi
 
 ### Les heures de délégation
 
-Le référent utilise ses heures de délégation de membre du CSE pour exercer ses missions. Aucun crédit d'heures supplémentaire n'est prévu par la loi, mais un accord d'entreprise peut en prévoir.
+Le référent utilise ses [heures de délégation](https://enclair.media/articles/cse-moyens-renforces-derniere-reforme) de membre du CSE pour exercer ses missions. Aucun crédit d'heures supplémentaire n'est prévu par la loi, mais un [accord d'entreprise](https://enclair.media/articles/accord-entreprise-conditions-validite-ordonnances-macron) peut en prévoir.
 
 ### L'affichage obligatoire
 

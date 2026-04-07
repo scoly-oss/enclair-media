@@ -1,16 +1,22 @@
 ---
-title: "Rupture anticipée du CDD : les seuls cas légalement admis"
-excerpt: "Le CDD ne peut être rompu avant son terme que dans des cas limitativement énumérés par la loi. Toute rupture en dehors de ces hypothèses expose son auteur à des dommages et intérêts. Le point complet sur un sujet source de contentieux."
-date: "2026-02-28"
-category: "droit-social"
-tags: ["CDD", "rupture anticipée", "contrat à durée déterminée", "dommages-intérêts"]
-readTime: "6 min"
+title: 'Rupture anticipée du CDD : les seuls cas légalement admis'
+excerpt: >-
+  Le CDD ne peut être rompu avant son terme que dans des cas limitativement
+  énumérés par la loi. Toute rupture en dehors de ces hypothèses expose son.
+date: '2026-02-28'
+category: droit-social
+tags:
+  - CDD
+  - rupture anticipée
+  - contrat à durée déterminée
+  - dommages-intérêts
+readTime: 6 min
 sources:
-  - "Article L.1243-1 du Code du travail"
-  - "Article L.1243-2 du Code du travail"
-  - "Article L.1243-3 du Code du travail"
-  - "Article L.1243-4 du Code du travail"
-  - "Cass. soc., 3 novembre 2016, n° 15-20.190"
+  - Article L.1243-1 du Code du travail
+  - Article L.1243-2 du Code du travail
+  - Article L.1243-3 du Code du travail
+  - Article L.1243-4 du Code du travail
+  - 'Cass. soc., 3 novembre 2016, n° 15-20.190'
 ---
 
 Le contrat à durée déterminée offre une stabilité que la loi protège avec fermeté. Contrairement au CDI, où la rupture est libre sous réserve de respecter les procédures, le CDD ne peut être rompu avant son terme que dans des cas **limitativement énumérés** par le Code du travail. Toute rupture en dehors de ces hypothèses expose son auteur à des sanctions financières lourdes.
@@ -33,7 +39,7 @@ En pratique, il est indispensable de formaliser cet accord par écrit, signé pa
 
 ### 2. La faute grave
 
-La faute grave de l'une ou l'autre des parties justifie la rupture anticipée du CDD. Les critères de la faute grave sont les mêmes qu'en matière de CDI : il doit s'agir d'un fait ou d'un ensemble de faits imputables au salarié constituant une violation des obligations résultant du contrat de travail d'une importance telle qu'elle rend impossible le maintien du salarié dans l'entreprise.
+La faute grave de l'une ou l'autre des parties justifie la rupture anticipée du CDD. Les critères de la faute grave sont les mêmes qu'en matière de CDI : il doit s'agir d'un fait ou d'un ensemble de faits imputables au salarié constituant une violation des obligations résultant du [contrat de travail](https://enclair.media/articles/contrat-de-chantier-alternative-cdd) d'une importance telle qu'elle rend impossible le maintien du salarié dans l'entreprise.
 
 L'employeur doit respecter la procédure disciplinaire : convocation à un entretien préalable, respect du délai de deux jours, notification motivée de la rupture.
 
@@ -67,7 +73,7 @@ Concrètement, si un employeur rompt un CDD de 12 mois après 3 mois d'exécutio
 
 ## Les erreurs fréquentes des employeurs
 
-**Invoquer le motif économique.** Le licenciement économique n'est pas un cas de rupture anticipée du CDD. Un employeur confronté à des difficultés économiques ne peut pas rompre les CDD en cours, sauf à invoquer la force majeure — ce qui est quasiment impossible à démontrer.
+**Invoquer le motif économique.** Le [licenciement économique](https://enclair.media/articles/licenciement-economique-5-etapes-obligatoires) n'est pas un cas de rupture anticipée du CDD. Un employeur confronté à des difficultés économiques ne peut pas rompre les CDD en cours, sauf à invoquer la force majeure — ce qui est quasiment impossible à démontrer.
 
 **Confondre la période d'essai et la rupture anticipée.** Pendant la période d'essai, le CDD peut être librement rompu. Mais une fois la période d'essai expirée, seuls les cinq cas énumérés s'appliquent.
 

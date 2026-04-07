@@ -1,16 +1,24 @@
 ---
-title: "Index senior : la nouvelle obligation de publication pour les entreprises de +1000 salariés"
-excerpt: "Les entreprises de 1 000 salariés et plus doivent publier un index senior mesurant l'emploi des travailleurs âgés. Cette nouvelle obligation, issue de la réforme des retraites, impose transparence et action. Le mode d'emploi complet."
-date: "2026-02-14"
-category: "alerte"
-tags: ["index senior", "emploi seniors", "publication", "obligation entreprise"]
-readTime: "7 min"
+title: >-
+  Index senior : la nouvelle obligation de publication pour les entreprises de
+  +1000 salariés
+excerpt: >-
+  Les entreprises de 1 000 salariés et plus doivent publier un index senior
+  mesurant l'emploi des travailleurs âgés.
+date: '2026-02-14'
+category: alerte
+tags:
+  - index senior
+  - emploi seniors
+  - publication
+  - obligation entreprise
+readTime: 7 min
 sources:
-  - "Article L.5121-6 du Code du travail"
-  - "Loi n° 2023-270 du 14 avril 2023"
-  - "Décret n° 2024-561 du 18 juin 2024"
-  - "Article D.5121-4 du Code du travail"
-  - "Conseil constitutionnel, décision n° 2023-849 DC du 14 avril 2023"
+  - Article L.5121-6 du Code du travail
+  - Loi n° 2023-270 du 14 avril 2023
+  - Décret n° 2024-561 du 18 juin 2024
+  - Article D.5121-4 du Code du travail
+  - 'Conseil constitutionnel, décision n° 2023-849 DC du 14 avril 2023'
 ---
 
 La réforme des retraites de 2023 a introduit une obligation inédite : la publication d'un **index senior** par les entreprises de 1 000 salariés et plus. Ce dispositif vise à mesurer et à rendre public l'emploi des travailleurs âgés, dans un contexte où le relèvement de l'âge légal de départ à la retraite impose de maintenir les seniors en activité plus longtemps.
@@ -47,9 +55,9 @@ La première publication devait intervenir au 1er novembre 2023 pour les entrepr
 
 ## Les sanctions
 
-Le Conseil constitutionnel ayant censuré la pénalité financière initialement prévue (1 % de la masse salariale), les sanctions directes sont actuellement limitées. Toutefois :
+Le Conseil constitutionnel ayant censuré la pénalité financière initialement prévue (1 % de la [masse salariale](https://enclair.media/articles/masse-salariale-composantes-surveiller-daf)), les sanctions directes sont actuellement limitées. Toutefois :
 
-- Le **non-respect de l'obligation de publication** peut être relevé par l'inspection du travail
+- Le **non-respect de l'obligation de publication** peut être relevé par l'[inspection du travail](https://enclair.media/articles/affichages-obligatoires-2025-liste-complete)
 - L'absence de publication peut être utilisée dans le cadre de **contentieux individuels** par des salariés seniors invoquant une discrimination liée à l'âge
 - L'image employeur peut être **affectée** par une absence de transparence sur ce sujet
 
@@ -69,7 +77,7 @@ Le législateur pourrait rétablir des sanctions financières dans un prochain t
 
 **Former les seniors.** Inclure systématiquement les salariés de 55 ans et plus dans les plans de formation, en privilégiant les formations d'adaptation aux nouvelles technologies.
 
-**Aménager les fins de carrière.** Proposer des dispositifs de retraite progressive, de tutorat, de mécénat de compétences.
+**Aménager les fins de carrière.** Proposer des dispositifs de [retraite progressive](https://enclair.media/articles/reforme-retraites-2025-impacts-fins-carriere), de tutorat, de mécénat de compétences.
 
 **Prévenir l'usure professionnelle.** Adapter les postes de travail pour maintenir l'employabilité des salariés âgés, en cohérence avec le document unique d'évaluation des risques.
 

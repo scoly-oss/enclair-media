@@ -1,15 +1,21 @@
 ---
-title: "Aide à l'embauche ZRR/ZFU : les zones et conditions en 2026"
-excerpt: "Les zones de revitalisation rurale et les zones franches urbaines offrent des exonérations de charges significatives. Mais les conditions d'éligibilité sont strictes et le dispositif ZRR est en cours de refonte avec France Ruralités Revitalisation."
-date: "2025-12-10"
-category: "economie"
-tags: ["ZRR", "ZFU", "exonérations", "aide embauche"]
-readTime: "6 min"
+title: 'Aide à l''embauche ZRR/ZFU : les zones et conditions en 2026'
+excerpt: >-
+  Les zones de revitalisation rurale et les zones franches urbaines offrent des
+  exonérations de charges significatives.
+date: '2025-12-10'
+category: economie
+tags:
+  - ZRR
+  - ZFU
+  - exonérations
+  - aide embauche
+readTime: 6 min
 sources:
-  - "Articles 44 sexies et suivants du CGI"
-  - "Article L. 131-4-2 du Code de la sécurité sociale (ZRR)"
-  - "Loi n° 2023-1322 du 29 décembre 2023 (réforme ZRR/FRR)"
-  - "Décret n° 2024-695 du 5 juillet 2024 (France Ruralités Revitalisation)"
+  - Articles 44 sexies et suivants du CGI
+  - Article L. 131-4-2 du Code de la sécurité sociale (ZRR)
+  - Loi n° 2023-1322 du 29 décembre 2023 (réforme ZRR/FRR)
+  - Décret n° 2024-695 du 5 juillet 2024 (France Ruralités Revitalisation)
 ---
 
 Les exonérations liées aux zones géographiques constituent un levier d'allègement de charges significatif pour les entreprises implantées dans certains territoires. En 2026, le paysage évolue avec la transition des ZRR vers le dispositif France Ruralités Revitalisation (FRR). État des lieux.
@@ -18,7 +24,7 @@ Les exonérations liées aux zones géographiques constituent un levier d'allèg
 
 ### Le dispositif historique ZRR
 
-Les zones de revitalisation rurale offraient une exonération de cotisations patronales pour les embauches en CDI ou CDD de plus de 12 mois, pendant 12 mois. L'exonération portait sur les cotisations d'assurances sociales et d'allocations familiales, dans la limite de 1,5 SMIC.
+Les zones de revitalisation rurale offraient une exonération de [cotisations patronales](https://enclair.media/articles/reduction-generale-cotisations-formule-2026) pour les embauches en CDI ou CDD de plus de 12 mois, pendant 12 mois. L'exonération portait sur les cotisations d'assurances sociales et d'allocations familiales, dans la limite de 1,5 SMIC.
 
 ### La refonte : France Ruralités Revitalisation (FRR)
 
@@ -34,13 +40,13 @@ Pour bénéficier de l'exonération FRR/ZRR, l'employeur doit :
 - Avoir un effectif inférieur à **50 salariés**
 - Embaucher en CDI ou CDD de plus de 12 mois
 - Le salarié ne doit pas avoir été employé par l'entreprise dans les 12 mois précédents
-- L'embauche ne doit pas faire suite à un licenciement économique
+- L'embauche ne doit pas faire suite à un [licenciement économique](https://enclair.media/articles/co-emploi-societe-mere-responsable-salaries-filiale)
 
 ## Les zones franches urbaines (ZFU-TE)
 
 ### Le dispositif
 
-Les zones franches urbaines - territoires entrepreneurs (ZFU-TE) offrent une exonération de cotisations patronales pour les entreprises de moins de 50 salariés implantées dans ces zones et embauchant des résidents de la zone ou du quartier prioritaire.
+Les zones franches urbaines - territoires entrepreneurs (ZFU-TE) offrent une exonération de [cotisations patronales](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour) pour les entreprises de moins de 50 salariés implantées dans ces zones et embauchant des résidents de la zone ou du quartier prioritaire.
 
 L'exonération est dégressive : totale jusqu'à 1,4 SMIC, puis dégressive entre 1,4 et 2 SMIC.
 

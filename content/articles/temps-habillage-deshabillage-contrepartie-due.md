@@ -1,15 +1,21 @@
 ---
-title: "Temps d'habillage et de déshabillage : la contrepartie due"
-excerpt: "Lorsque le port d'une tenue de travail est obligatoire et que l'habillage doit se faire dans l'entreprise, le salarié a droit à une contrepartie. Les conditions et les pièges que tout employeur doit connaître."
-date: "2025-11-12"
-category: "droit-social"
-tags: ["temps de travail", "habillage", "contrepartie", "rémunération"]
-readTime: "6 min"
+title: 'Temps d''habillage et de déshabillage : la contrepartie due'
+excerpt: >-
+  Lorsque le port d'une tenue de travail est obligatoire et que l'habillage doit
+  se faire dans l'entreprise, le salarié a droit à une contrepartie.
+date: '2025-11-12'
+category: droit-social
+tags:
+  - temps de travail
+  - habillage
+  - contrepartie
+  - rémunération
+readTime: 6 min
 sources:
-  - "Article L. 3121-3 du Code du travail"
-  - "Cass. soc., 26 janvier 2022, n° 20-19.301"
-  - "Cass. soc., 12 juin 2019, n° 17-25.938"
-  - "Cass. soc., 21 novembre 2012, n° 11-15.696"
+  - Article L. 3121-3 du Code du travail
+  - 'Cass. soc., 26 janvier 2022, n° 20-19.301'
+  - 'Cass. soc., 12 juin 2019, n° 17-25.938'
+  - 'Cass. soc., 21 novembre 2012, n° 11-15.696'
 ---
 
 Le temps passé par les salariés à enfiler et retirer leur tenue de travail dans l'entreprise est un sujet récurrent de contentieux. L'article L. 3121-3 du Code du travail pose un droit à contrepartie qui est souvent méconnu ou mal appliqué.
@@ -56,11 +62,11 @@ La jurisprudence ne fixe pas de montant minimum, mais une contrepartie dérisoir
 
 ### Repos compensateur
 
-L'alternative est d'accorder un temps de repos équivalent au temps d'habillage et de déshabillage. Ce repos peut être intégré à l'organisation du temps de travail (prise de poste 10 minutes après le pointage, fin de poste 10 minutes avant).
+L'alternative est d'accorder un temps de repos équivalent au temps d'habillage et de déshabillage. Ce repos peut être intégré à l'organisation du [temps de travail](https://enclair.media/articles/temps-deplacement-professionnel-contrepartie-obligatoire) (prise de poste 10 minutes après le pointage, fin de poste 10 minutes avant).
 
 ## La distinction avec le temps de travail effectif
 
-Le temps d'habillage et de déshabillage n'est pas, en lui-même, du **temps de travail effectif** au sens de l'article L. 3121-1 du Code du travail. C'est précisément pour cette raison que le législateur a prévu une contrepartie spécifique.
+Le temps d'habillage et de déshabillage n'est pas, en lui-même, du **[temps de travail effectif](https://enclair.media/articles/temps-de-trajet-temps-travail-effectif)** au sens de l'article L. 3121-1 du Code du travail. C'est précisément pour cette raison que le législateur a prévu une contrepartie spécifique.
 
 Toutefois, si l'employeur impose au salarié de se présenter en tenue de travail à l'heure de prise de poste (c'est-à-dire d'être habillé avant le début de son horaire), le temps d'habillage s'ajoute au temps de travail et peut être requalifié en temps de travail effectif.
 
@@ -74,7 +80,7 @@ L'absence totale de contrepartie alors que les deux conditions sont réunies exp
 
 ### Considérer que le salaire intègre déjà la contrepartie
 
-La Cour de cassation a jugé qu'en l'absence de mention expresse dans le contrat de travail ou la convention collective, l'employeur ne peut pas prétendre que le salaire inclut déjà la contrepartie d'habillage (Cass. soc., 26 janvier 2022, n° 20-19.301). La contrepartie doit être **identifiable et distincte**.
+La Cour de cassation a jugé qu'en l'absence de mention expresse dans le contrat de travail ou la [convention collective](https://enclair.media/articles/jours-feries-obligations-employeur-convention-collective), l'employeur ne peut pas prétendre que le salaire inclut déjà la contrepartie d'habillage (Cass. soc., 26 janvier 2022, n° 20-19.301). La contrepartie doit être **identifiable et distincte**.
 
 ### Ignorer les avenants conventionnels
 

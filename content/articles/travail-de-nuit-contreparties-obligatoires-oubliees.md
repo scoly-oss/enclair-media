@@ -1,14 +1,20 @@
 ---
-title: "Travail de nuit : les contreparties obligatoires oubliées"
-excerpt: "Le travail de nuit ouvre droit à des contreparties en repos et en salaire que beaucoup d'employeurs ne versent pas. L'inspection du travail intensifie ses contrôles."
-date: "2025-05-10"
-category: "droit-social"
-tags: ["travail de nuit", "contreparties", "repos compensateur", "surveillance médicale"]
-readTime: "6 min"
+title: 'Travail de nuit : les contreparties obligatoires oubliées'
+excerpt: >-
+  Le travail de nuit ouvre droit à des contreparties en repos et en salaire que
+  beaucoup d'employeurs ne versent pas.
+date: '2025-05-10'
+category: droit-social
+tags:
+  - travail de nuit
+  - contreparties
+  - repos compensateur
+  - surveillance médicale
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.3122-1 à L.3122-24"
-  - "Code du travail, article R.3122-8 (durée maximale)"
-  - "Cass. soc., 4 octobre 2023, n°22-11.547"
+  - 'Code du travail, articles L.3122-1 à L.3122-24'
+  - 'Code du travail, article R.3122-8 (durée maximale)'
+  - 'Cass. soc., 4 octobre 2023, n°22-11.547'
 ---
 
 ## Vos salariés travaillent après 21 heures ? Vous leur devez probablement plus que ce que vous leur versez.
@@ -19,7 +25,7 @@ Restauration, logistique, industrie, sécurité, santé : des millions de salari
 
 Le non-respect des règles sur le travail de nuit expose à deux types de sanctions :
 
-- **Des rappels de repos compensateurs** pouvant remonter sur 3 ans, avec intérêts de retard. Pour un salarié travaillant de nuit depuis 5 ans, cela peut représenter plusieurs milliers d'euros.
+- **Des rappels de [repos compensateur](https://enclair.media/articles/repos-compensateur-droit-acquis)s** pouvant remonter sur 3 ans, avec intérêts de retard. Pour un salarié travaillant de nuit depuis 5 ans, cela peut représenter plusieurs milliers d'euros.
 - **Des sanctions pénales** : l'amende pour non-respect des dispositions sur le travail de nuit est de 750 euros par salarié et par infraction (contravention de 5e classe), applicable autant de fois qu'il y a de salariés concernés.
 
 L'inspection du travail a identifié le travail de nuit comme une priorité de contrôle depuis 2023.
@@ -59,7 +65,7 @@ Le dépassement de ces durées est une infraction pénale, même si le salarié 
 
 Tout travailleur de nuit bénéficie d'un **suivi individuel régulier** de son état de santé par le médecin du travail. Ce suivi doit intervenir **avant l'affectation au poste de nuit**, puis selon une périodicité fixée par le médecin du travail, avec un maximum de **3 ans** entre deux visites.
 
-Le médecin du travail peut prescrire un transfert sur un poste de jour si l'état de santé du salarié l'exige. Ce transfert ne constitue pas une modification du contrat de travail nécessitant l'accord du salarié.
+Le médecin du travail peut prescrire un transfert sur un poste de jour si l'état de santé du salarié l'exige. Ce transfert ne constitue pas une [modification du contrat](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail) de travail nécessitant l'accord du salarié.
 
 ### 4. Les protections spécifiques
 
@@ -70,7 +76,7 @@ Le médecin du travail peut prescrire un transfert sur un poste de jour si l'ét
 
 Le travail de nuit doit rester **exceptionnel** (article L.3122-1). Il ne peut être mis en place que lorsqu'il est justifié par la nécessité d'assurer la continuité de l'activité économique ou des services d'utilité sociale.
 
-Sa mise en place nécessite un **accord collectif** (d'entreprise ou de branche). À défaut, l'employeur peut être autorisé par l'inspecteur du travail après consultation des représentants du personnel.
+Sa mise en place nécessite un **accord collectif** (d'entreprise ou de branche). À défaut, l'employeur peut être autorisé par l'inspecteur du travail après consultation des [représentants du personnel](https://enclair.media/articles/representants-personnel-heures-delegation-mode-emploi).
 
 Un employeur qui fait travailler des salariés de nuit sans accord collectif et sans autorisation de l'inspecteur du travail s'expose à la nullité de l'organisation du travail de nuit et au paiement de dommages et intérêts.
 

@@ -1,25 +1,31 @@
 ---
-title: "Licenciement économique : les 5 étapes que vous ne pouvez pas sauter"
-excerpt: "Un licenciement économique mal conduit peut être annulé par le juge, avec des indemnités pouvant atteindre 20 mois de salaire. Voici les 5 étapes que vous devez impérativement respecter, dans l'ordre."
-date: "2025-04-02"
-category: "droit-social"
-tags: ["licenciement économique", "procédure", "restructuration", "PSE"]
-readTime: "7 min"
+title: 'Licenciement économique : les 5 étapes que vous ne pouvez pas sauter'
+excerpt: >-
+  Un licenciement économique mal conduit peut être annulé par le juge, avec des
+  indemnités pouvant atteindre 20 mois de salaire.
+date: '2025-04-02'
+category: droit-social
+tags:
+  - licenciement économique
+  - procédure
+  - restructuration
+  - PSE
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.1233-1 à L.1233-91"
-  - "Cass. soc., 18 janvier 2023, n°21-10.233"
-  - "Ministère du Travail, Guide du licenciement économique, 2024"
+  - 'Code du travail, articles L.1233-1 à L.1233-91'
+  - 'Cass. soc., 18 janvier 2023, n°21-10.233'
+  - 'Ministère du Travail, Guide du licenciement économique, 2024'
 ---
 
 ## Vous restructurez votre entreprise ? Un oubli de procédure peut tout annuler
 
 Vous traversez une période difficile. Les commandes baissent, un client majeur est parti, la trésorerie se tend. Vous avez fait vos calculs : il faut supprimer des postes. Vous pensez que la décision est logique, justifiée, et que tout le monde comprendra.
 
-Sauf que le droit du licenciement économique ne fonctionne pas sur la logique. Il fonctionne sur la **procédure**. Et une étape manquée, c'est un licenciement sans cause réelle et sérieuse -- même si votre entreprise était objectivement en difficulté.
+Sauf que le droit du [licenciement économique](https://enclair.media/articles/obligation-reclassement-licenciement-economique-perimetre) ne fonctionne pas sur la logique. Il fonctionne sur la **procédure**. Et une étape manquée, c'est un licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher) -- même si votre entreprise était objectivement en difficulté.
 
 ## Le risque que vous ne voyez pas
 
-En 2024, plus de 40 % des licenciements économiques contestés devant les prud'hommes ont été jugés irréguliers ou sans cause réelle et sérieuse. Non pas parce que le motif économique n'existait pas, mais parce que l'employeur avait **sauté une étape** ou **inversé l'ordre des étapes**.
+En 2024, plus de 40 % des licenciements économiques contestés devant les prud'hommes ont été jugés irréguliers ou sans [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse). Non pas parce que le motif économique n'existait pas, mais parce que l'employeur avait **sauté une étape** ou **inversé l'ordre des étapes**.
 
 Le coût ? Entre 3 et 20 mois de salaire brut par salarié concerné, selon l'ancienneté et la taille de l'entreprise. Sans compter les dommages et intérêts pour non-respect de la procédure, qui s'ajoutent aux indemnités de fond.
 

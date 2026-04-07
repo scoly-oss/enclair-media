@@ -1,19 +1,25 @@
 ---
-title: "Forfait heures : l'alternative au forfait jours que personne n'utilise"
-excerpt: "Le forfait en heures sur l'année permet une flexibilité du temps de travail sans les risques juridiques du forfait jours. Pourtant, moins de 5 % des entreprises l'utilisent."
-date: "2025-05-05"
-category: "droit-social"
-tags: ["forfait heures", "temps de travail", "forfait jours", "convention"]
-readTime: "6 min"
+title: 'Forfait heures : l''alternative au forfait jours que personne n''utilise'
+excerpt: >-
+  Le forfait en heures sur l'année permet une flexibilité du temps de travail
+  sans les risques juridiques du forfait jours.
+date: '2025-05-05'
+category: droit-social
+tags:
+  - forfait heures
+  - temps de travail
+  - forfait jours
+  - convention
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.3121-56 à L.3121-59"
-  - "Code du travail, articles L.3121-53 à L.3121-55"
-  - "Cass. soc., 27 mars 2024, n°22-19.887"
+  - 'Code du travail, articles L.3121-56 à L.3121-59'
+  - 'Code du travail, articles L.3121-53 à L.3121-55'
+  - 'Cass. soc., 27 mars 2024, n°22-19.887'
 ---
 
 ## Vous êtes en forfait jours et vous angoissez sur les contentieux ? Il existe une alternative.
 
-Le forfait jours est le dispositif star de la gestion du temps de travail des cadres. Plus de 50 % des cadres en France sont au forfait jours. Mais c'est aussi le dispositif le plus contesté devant les tribunaux : conventions invalidées, heures supplémentaires réclamées sur 3 ans, rappels de salaire considérables.
+Le forfait jours est le dispositif star de la gestion du temps de travail des cadres. Plus de 50 % des cadres en France sont au forfait jours. Mais c'est aussi le dispositif le plus contesté devant les tribunaux : conventions invalidées, [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif) réclamées sur 3 ans, rappels de salaire considérables.
 
 Et si la solution était un dispositif prévu par le même Code du travail, tout aussi flexible, mais infiniment moins risqué juridiquement ?
 
@@ -21,7 +27,7 @@ Et si la solution était un dispositif prévu par le même Code du travail, tout
 
 Rappelons les risques du forfait jours :
 - Si la convention collective ne prévoit pas de garanties suffisantes sur la charge de travail, les conventions individuelles sont **nulles** (jurisprudence constante depuis 2011)
-- Le salarié peut alors réclamer le paiement d'**heures supplémentaires** sur les 3 dernières années
+- Le salarié peut alors réclamer le paiement d'**[heures supplémentaires](https://enclair.media/articles/duree-maximale-travail-trois-plafonds)** sur les 3 dernières années
 - Les montants en jeu dépassent régulièrement 50 000 euros par salarié
 
 Depuis l'arrêt du 29 juin 2011 (n°09-71.107), la Cour de cassation a invalidé des dizaines de conventions collectives en matière de forfait jours. Syntec, publicité, commerce de gros, banque... la liste s'allonge régulièrement.
@@ -30,7 +36,7 @@ Depuis l'arrêt du 29 juin 2011 (n°09-71.107), la Cour de cassation a invalidé
 
 ### Le principe
 
-Le forfait en heures permet de fixer, par convention individuelle, un nombre d'heures de travail sur la semaine, le mois ou l'année, **incluant un volume prédéterminé d'heures supplémentaires** (articles L.3121-56 et suivants).
+Le forfait en heures permet de fixer, par convention individuelle, un nombre d'heures de travail sur la semaine, le mois ou l'année, **incluant un volume prédéterminé d'[heures supplémentaires](https://enclair.media/articles/heures-supplementaires-la-preuve-qui-manque-toujours)** (articles L.3121-56 et suivants).
 
 Concrètement, au lieu de dire "ce cadre travaille 218 jours par an" (forfait jours), vous dites "ce cadre travaille 1 787 heures par an, dont 180 heures supplémentaires intégrées dans sa rémunération".
 

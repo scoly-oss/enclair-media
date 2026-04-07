@@ -1,14 +1,20 @@
 ---
-title: "Aide à l'embauche des jeunes : conditions et montants 2025"
-excerpt: "Les aides à l'embauche des jeunes ont été réformées en 2025. Entre apprentissage, contrat pro et emplois francs, le paysage est complexe. Voici ce que vous pouvez encore obtenir."
-date: "2025-07-30"
-category: "economie"
-tags: ["aide embauche", "jeunes", "apprentissage", "emplois francs"]
-readTime: "5 min"
+title: 'Aide à l''embauche des jeunes : conditions et montants 2025'
+excerpt: >-
+  Les aides à l'embauche des jeunes ont été réformées en 2025. Entre
+  apprentissage, contrat pro et emplois francs, le paysage est complexe.
+date: '2025-07-30'
+category: economie
+tags:
+  - aide embauche
+  - jeunes
+  - apprentissage
+  - emplois francs
+readTime: 5 min
 sources:
-  - "Décret n°2024-1234 relatif à l'aide unique aux employeurs d'apprentis"
-  - "Code du travail, article L.6243-1 (aide unique apprentissage)"
-  - "France Travail, Aides à l'embauche 2025"
+  - Décret n°2024-1234 relatif à l'aide unique aux employeurs d'apprentis
+  - 'Code du travail, article L.6243-1 (aide unique apprentissage)'
+  - 'France Travail, Aides à l''embauche 2025'
 ---
 
 ## Vous recrutez un jeune de 24 ans en CDI. Savez-vous que vous passez peut-être à côté de 6 000 euros ?
@@ -33,7 +39,7 @@ C'est l'aide la plus significative. En 2025, elle s'élève à **6 000 euros** p
 Les aides spécifiques au contrat de professionnalisation sont plus limitées en 2025. L'aide exceptionnelle qui existait pendant la crise Covid a été remplacée par des dispositifs ciblés :
 
 - **Aide de France Travail** pour les demandeurs d'emploi de 26 ans et plus embauchés en contrat de professionnalisation
-- **Exonération de cotisations patronales** pour les groupements d'employeurs qui organisent des parcours d'insertion et de qualification
+- **Exonération de [cotisations patronales](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour)** pour les groupements d'employeurs qui organisent des parcours d'insertion et de qualification
 
 ### L'aide aux emplois francs
 
@@ -45,7 +51,7 @@ Le dispositif des emplois francs concerne l'embauche de résidents des **quartie
 
 **Conditions** :
 - Le salarié doit résider dans un QPV au moment de la signature du contrat
-- L'embauche ne doit pas intervenir dans les 6 mois suivant un licenciement économique sur le même poste
+- L'embauche ne doit pas intervenir dans les 6 mois suivant un [licenciement économique](https://enclair.media/articles/co-emploi-societe-mere-responsable-salaries-filiale) sur le même poste
 
 Ce dispositif est cumulable avec les allègements de cotisations (Fillon), ce qui en fait l'une des aides les plus avantageuses financièrement.
 

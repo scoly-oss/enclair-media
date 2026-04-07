@@ -1,15 +1,21 @@
 ---
-title: "Abandon de poste : la présomption de démission, mode d'emploi"
-excerpt: "Depuis avril 2023, un salarié qui abandonne son poste peut être présumé démissionnaire. Mais la procédure est stricte, et les pièges nombreux. Mal appliquée, la présomption se retourne contre vous."
-date: "2025-06-02"
-category: "droit-social"
-tags: ["abandon de poste", "présomption de démission", "procédure", "mise en demeure"]
-readTime: "7 min"
+title: 'Abandon de poste : la présomption de démission, mode d''emploi'
+excerpt: >-
+  Depuis avril 2023, un salarié qui abandonne son poste peut être présumé
+  démissionnaire. Mais la procédure est stricte, et les pièges nombreux.
+date: '2025-06-02'
+category: droit-social
+tags:
+  - abandon de poste
+  - présomption de démission
+  - procédure
+  - mise en demeure
+readTime: 7 min
 sources:
-  - "Code du travail, article L.1237-1-1"
-  - "Décret n° 2023-275 du 17 avril 2023"
-  - "Code du travail, article R.1237-13"
-  - "Cons. const., 18 novembre 2022, n° 2022-844 DC"
+  - 'Code du travail, article L.1237-1-1'
+  - Décret n° 2023-275 du 17 avril 2023
+  - 'Code du travail, article R.1237-13'
+  - 'Cons. const., 18 novembre 2022, n° 2022-844 DC'
 ---
 
 Depuis des années, l'abandon de poste était un casse-tête pour les employeurs. Le salarié ne venait plus travailler, ne démissionnait pas, et l'employeur devait engager une procédure de licenciement pour faute — avec le coût que cela implique. La loi du 21 décembre 2022 et son décret d'application du 17 avril 2023 ont changé la donne en créant une présomption de démission.
@@ -26,7 +32,7 @@ Si le salarié ne reprend pas le travail et ne justifie pas son absence dans le 
 
 ## Les motifs légitimes qui bloquent la présomption
 
-Le texte prévoit explicitement que le salarié peut invoquer un motif légitime pour justifier son absence et faire échec à la présomption. L'article L.1237-1-1 mentionne quatre cas non limitatifs : des raisons médicales, l'exercice du droit de retrait prévu à l'article L.4131-1, l'exercice du droit de grève, et le refus du salarié d'exécuter une instruction contraire à une réglementation.
+Le texte prévoit explicitement que le salarié peut invoquer un motif légitime pour justifier son absence et faire échec à la présomption. L'article L.1237-1-1 mentionne quatre cas non limitatifs : des raisons médicales, l'exercice du [droit de retrait](https://enclair.media/articles/droit-de-retrait-quand-salarie-peut-arreter-travailler) prévu à l'article L.4131-1, l'exercice du droit de grève, et le [refus du salarié](https://enclair.media/articles/clause-de-mobilite-quand-le-salarie-peut-refuser) d'exécuter une instruction contraire à une réglementation.
 
 Si le salarié répond à la mise en demeure en invoquant un motif légitime, vous ne pouvez pas appliquer la présomption de démission. Vous devez examiner le motif invoqué et, s'il n'est pas fondé, engager une procédure de licenciement classique.
 
@@ -40,7 +46,7 @@ Mais cette indemnité n'est pas automatique. L'employeur doit prouver un préjud
 
 ## Les risques de la procédure
 
-**La contestation devant les prud'hommes.** Le salarié peut contester la présomption de démission devant le conseil de prud'hommes dans le cadre d'un référé. Le bureau de jugement doit statuer dans un délai d'un mois. Si le juge considère que l'abandon de poste n'était pas volontaire ou que le salarié avait un motif légitime, la démission est requalifiée en licenciement sans cause réelle et sérieuse — avec toutes les conséquences financières associées.
+**La contestation devant les prud'hommes.** Le salarié peut contester la présomption de démission devant le conseil de prud'hommes dans le cadre d'un référé. Le bureau de jugement doit statuer dans un délai d'un mois. Si le juge considère que l'abandon de poste n'était pas volontaire ou que le salarié avait un motif légitime, la démission est requalifiée en licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher) — avec toutes les conséquences financières associées.
 
 **La mise en demeure irrégulière.** Si la mise en demeure ne mentionne pas le délai de 15 jours, ne précise pas les conséquences de l'absence de réponse, ou n'est pas envoyée par lettre recommandée avec AR, la procédure est viciée. La présomption ne joue pas.
 

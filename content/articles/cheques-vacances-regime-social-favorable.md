@@ -1,18 +1,24 @@
 ---
-title: "Chèques-vacances : le régime social favorable que vous sous-utilisez"
-excerpt: "Les chèques-vacances bénéficient d'un régime d'exonération de cotisations sociales avantageux. Pourtant, de nombreuses PME n'exploitent pas cet outil de pouvoir d'achat. Conditions, plafonds et mise en place."
-date: "2026-01-15"
-category: "economie"
-tags: ["chèques-vacances", "avantages sociaux", "CSE", "exonérations"]
-readTime: "5 min"
+title: 'Chèques-vacances : le régime social favorable que vous sous-utilisez'
+excerpt: >-
+  Les chèques-vacances bénéficient d'un régime d'exonération de cotisations
+  sociales avantageux. Pourtant, de nombreuses PME n'exploitent pas cet outil.
+date: '2026-01-15'
+category: economie
+tags:
+  - chèques-vacances
+  - avantages sociaux
+  - CSE
+  - exonérations
+readTime: 5 min
 sources:
-  - "Ordonnance n° 82-283 du 26 mars 1982 relative aux chèques-vacances"
-  - "Article L. 411-9 du Code du tourisme"
-  - "Article L. 411-11 du Code du tourisme (exonération)"
-  - "BOSS, Bulletin officiel de la sécurité sociale, rubrique 'Chèques-vacances'"
+  - Ordonnance n° 82-283 du 26 mars 1982 relative aux chèques-vacances
+  - Article L. 411-9 du Code du tourisme
+  - Article L. 411-11 du Code du tourisme (exonération)
+  - 'BOSS, Bulletin officiel de la sécurité sociale, rubrique ''Chèques-vacances'''
 ---
 
-Les chèques-vacances sont un dispositif d'aide aux vacances et aux loisirs qui bénéficie d'un régime social particulièrement avantageux pour l'employeur. Exonérés de cotisations sociales dans certaines limites, ils constituent un complément de rémunération efficace et peu coûteux.
+Les chèques-vacances sont un dispositif d'aide aux vacances et aux loisirs qui bénéficie d'un régime social particulièrement avantageux pour l'employeur. Exonérés de [cotisations sociales](https://enclair.media/articles/exonerations-urssaf-celles-que-vous-ne-demandez-pas) dans certaines limites, ils constituent un complément de rémunération efficace et peu coûteux.
 
 ## Le dispositif
 
@@ -40,13 +46,13 @@ Les entreprises de moins de 50 salariés dépourvues de CSE peuvent attribuer di
 
 ### Dans les entreprises dotées d'un CSE
 
-Le CSE peut financer les chèques-vacances sur son budget des activités sociales et culturelles. La contribution du CSE est exonérée sans condition de plafond par rapport au salaire.
+Le CSE peut financer les chèques-vacances sur son budget des [activités sociales](https://enclair.media/articles/budget-cse-calcul-erreurs-frequentes) et culturelles. La contribution du CSE est exonérée sans condition de plafond par rapport au salaire.
 
 ## L'intérêt pour l'employeur
 
 ### Un coût maîtrisé
 
-La contribution de l'employeur est exonérée de cotisations patronales (hors CSG-CRDS). Le coût pour l'entreprise est donc sensiblement inférieur à celui d'une augmentation de salaire équivalente.
+La contribution de l'employeur est exonérée de [cotisations patronales](https://enclair.media/articles/reduction-generale-cotisations-formule-2026) (hors CSG-CRDS). Le coût pour l'entreprise est donc sensiblement inférieur à celui d'une augmentation de salaire équivalente.
 
 ### Un outil de fidélisation
 

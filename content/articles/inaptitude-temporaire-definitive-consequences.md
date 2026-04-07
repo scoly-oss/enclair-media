@@ -1,15 +1,27 @@
 ---
-title: "Inaptitude temporaire vs définitive : les conséquences radicalement différentes"
-excerpt: "L'inaptitude temporaire et l'inaptitude définitive n'emportent pas les mêmes obligations pour l'employeur. Confondre les deux expose à des erreurs de gestion aux conséquences lourdes : licenciement nul, indemnités majorées, contentieux prud'homal."
-date: "2025-10-27"
-category: "droit-social"
-tags: ["inaptitude", "médecine du travail", "reclassement", "licenciement"]
-readTime: "7 min"
+title: >-
+  Inaptitude temporaire vs définitive : les conséquences radicalement
+  différentes
+excerpt: >-
+  L'inaptitude temporaire et l'inaptitude définitive n'emportent pas les mêmes
+  obligations pour l'employeur.
+date: '2025-10-27'
+category: droit-social
+tags:
+  - inaptitude
+  - médecine du travail
+  - reclassement
+  - licenciement
+readTime: 7 min
 sources:
-  - "Articles L. 1226-2 à L. 1226-4-3 du Code du travail (inaptitude non professionnelle)"
-  - "Articles L. 1226-10 à L. 1226-14 du Code du travail (inaptitude professionnelle)"
-  - "Article R. 4624-42 du Code du travail (visite de reprise)"
-  - "Cass. soc., 13 avril 2023, n° 21-24.812"
+  - >-
+    Articles L. 1226-2 à L. 1226-4-3 du Code du travail (inaptitude non
+    professionnelle)
+  - >-
+    Articles L. 1226-10 à L. 1226-14 du Code du travail (inaptitude
+    professionnelle)
+  - Article R. 4624-42 du Code du travail (visite de reprise)
+  - 'Cass. soc., 13 avril 2023, n° 21-24.812'
 ---
 
 La distinction entre inaptitude temporaire et inaptitude définitive prononcée par le médecin du travail est fondamentale dans la gestion du contrat de travail. L'une suspend le contrat, l'autre déclenche un processus pouvant mener au licenciement. Comprendre cette distinction est essentiel pour tout employeur.
@@ -26,7 +38,7 @@ L'inaptitude temporaire ne relève pas du médecin du travail mais du médecin t
 
 Pendant l'arrêt, l'employeur doit :
 
-- Maintenir le salaire dans les conditions prévues par la convention collective (complément aux IJSS)
+- Maintenir le salaire dans les conditions prévues par la [convention collective](https://enclair.media/articles/heure-recherche-emploi-droit-convention-collective) (complément aux IJSS)
 - Ne pas licencier le salarié en raison de son état de santé (discrimination prohibée par l'article L. 1132-1 du Code du travail)
 - Organiser la visite de reprise auprès du médecin du travail au retour du salarié, obligatoire après un arrêt d'au moins 30 jours (article R. 4624-31 du Code du travail)
 
@@ -59,7 +71,7 @@ L'employeur est dispensé de cette obligation uniquement lorsque le médecin du 
 
 ### La consultation du CSE
 
-Avant toute proposition de reclassement, l'employeur doit consulter le comité social et économique (CSE) sur les postes envisagés. Le défaut de consultation rend le licenciement ultérieur sans cause réelle et sérieuse.
+Avant toute proposition de reclassement, l'employeur doit consulter le comité social et économique (CSE) sur les postes envisagés. Le défaut de consultation rend le licenciement ultérieur [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher).
 
 ### Le licenciement pour inaptitude
 
@@ -93,6 +105,6 @@ Ce délai court à compter de la date de l'avis d'inaptitude. Passé ce délai, 
 
 **Ne pas contester l'avis du médecin du travail dans les délais.** L'employeur comme le salarié peuvent contester l'avis d'inaptitude devant le conseil de prud'hommes dans un délai de **15 jours** (article L. 4624-7 du Code du travail). Passé ce délai, l'avis est définitif.
 
-**Oublier de reprendre le salaire après un mois.** Le non-paiement du salaire après le délai d'un mois peut justifier une prise d'acte de la rupture aux torts de l'employeur, avec les conséquences d'un licenciement sans cause réelle et sérieuse.
+**Oublier de reprendre le salaire après un mois.** Le non-paiement du salaire après le délai d'un mois peut justifier une prise d'acte de la rupture aux torts de l'employeur, avec les conséquences d'un licenciement sans [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse).
 
 La gestion de l'inaptitude est l'un des processus RH les plus risqués juridiquement. Chaque étape doit être scrupuleusement respectée sous peine de contentieux coûteux.

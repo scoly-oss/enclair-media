@@ -1,18 +1,24 @@
 ---
-title: "Activité partielle : les conditions durcies en 2026"
-excerpt: "Le régime d'activité partielle post-Covid est terminé. Les conditions d'accès se sont resserrées, les taux d'indemnisation ont baissé et les contrôles se multiplient. Ce que vous devez savoir avant de déposer une demande."
-date: "2025-06-23"
-category: "economie"
-tags: ["activité partielle", "chômage partiel", "indemnisation", "DREETS"]
-readTime: "6 min"
+title: 'Activité partielle : les conditions durcies en 2026'
+excerpt: >-
+  Le régime d'activité partielle post-Covid est terminé. Les conditions d'accès
+  se sont resserrées, les taux d'indemnisation ont baissé et les contrôles.
+date: '2025-06-23'
+category: economie
+tags:
+  - activité partielle
+  - chômage partiel
+  - indemnisation
+  - DREETS
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.5122-1 à L.5122-5"
-  - "Décret n° 2024-1253 du 30 décembre 2024"
-  - "Code du travail, articles R.5122-1 à R.5122-26"
-  - "Instruction DGEFP du 15 janvier 2025"
+  - 'Code du travail, articles L.5122-1 à L.5122-5'
+  - Décret n° 2024-1253 du 30 décembre 2024
+  - 'Code du travail, articles R.5122-1 à R.5122-26'
+  - Instruction DGEFP du 15 janvier 2025
 ---
 
-Pendant la crise sanitaire, l'activité partielle est devenue un réflexe. Des centaines de milliers d'entreprises l'ont utilisée, souvent dans l'urgence et avec des conditions d'accès assouplies. Cette époque est révolue. En 2026, le régime d'activité partielle est revenu à ses fondamentaux — et les conditions sont nettement plus strictes.
+Pendant la crise sanitaire, l'[activité partielle](https://enclair.media/articles/chomage-partiel-longue-duree-apld-bilan-perspectives) est devenue un réflexe. Des centaines de milliers d'entreprises l'ont utilisée, souvent dans l'urgence et avec des conditions d'accès assouplies. Cette époque est révolue. En 2026, le régime d'activité partielle est revenu à ses fondamentaux — et les conditions sont nettement plus strictes.
 
 Si vous envisagez de recourir à l'activité partielle, assurez-vous de remplir les conditions actuelles. Sinon, vous risquez un remboursement intégral des allocations perçues, assorti de pénalités.
 
@@ -28,7 +34,7 @@ Le salarié placé en activité partielle perçoit une indemnité horaire versé
 
 Le reste à charge pour l'employeur est donc de 24 % de la rémunération brute — un coût significatif qui rend l'activité partielle moins attractive qu'en période de prise en charge à 100 %.
 
-Pour les entreprises relevant de secteurs spécifiques (APLD, accords de branche), des taux majorés peuvent s'appliquer, mais sous condition de négociation d'un accord collectif et d'engagements de maintien de l'emploi.
+Pour les entreprises relevant de secteurs spécifiques (APLD, accords de branche), des taux majorés peuvent s'appliquer, mais sous condition de négociation d'un [accord collectif](https://enclair.media/articles/avantage-acquis-distinction-transfert-entreprise) et d'engagements de maintien de l'emploi.
 
 ## La procédure de demande renforcée
 
@@ -48,7 +54,7 @@ En cas de fraude constatée, l'employeur doit rembourser les allocations indûme
 
 L'APLD permet de réduire l'horaire de travail jusqu'à 40 % de la durée légale (contre 100 % pour l'activité partielle de droit commun) sur une durée pouvant aller jusqu'à 36 mois, avec un taux d'allocation majoré pour l'employeur.
 
-Mais l'APLD nécessite un accord collectif d'établissement, d'entreprise ou de branche. Cet accord doit prévoir des engagements en matière de maintien de l'emploi et de formation des salariés. Le non-respect de ces engagements entraîne le remboursement des allocations majorées.
+Mais l'APLD nécessite un [accord collectif](https://enclair.media/articles/teletravail-avenant-que-personne-ne-signe) d'établissement, d'entreprise ou de branche. Cet accord doit prévoir des engagements en matière de maintien de l'emploi et de formation des salariés. Le non-respect de ces engagements entraîne le remboursement des allocations majorées.
 
 ## Ce que vous devez faire lundi matin
 

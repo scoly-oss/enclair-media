@@ -1,15 +1,21 @@
 ---
-title: "Prélèvement à la source : les obligations de l'employeur"
-excerpt: "L'employeur est le collecteur du prélèvement à la source de l'impôt sur le revenu. Taux, base de calcul, changements de situation, régularisation : les obligations à maîtriser et les erreurs à éviter."
-date: "2025-12-01"
-category: "economie"
-tags: ["prélèvement à la source", "impôt", "paie", "obligations employeur"]
-readTime: "6 min"
+title: 'Prélèvement à la source : les obligations de l''employeur'
+excerpt: >-
+  L'employeur est le collecteur du prélèvement à la source de l'impôt sur le
+  revenu. Taux, base de calcul, changements de situation, régularisation : les.
+date: '2025-12-01'
+category: economie
+tags:
+  - prélèvement à la source
+  - impôt
+  - paie
+  - obligations employeur
+readTime: 6 min
 sources:
-  - "Articles 204 A à 204 N du Code général des impôts"
-  - "BOI-IR-PAS du 6 juin 2024"
-  - "Article 1671 du CGI (sanctions en cas de manquement)"
-  - "Décret n° 2017-866 du 9 mai 2017 relatif au PAS"
+  - Articles 204 A à 204 N du Code général des impôts
+  - BOI-IR-PAS du 6 juin 2024
+  - Article 1671 du CGI (sanctions en cas de manquement)
+  - Décret n° 2017-866 du 9 mai 2017 relatif au PAS
 ---
 
 Depuis le 1er janvier 2019, l'employeur est le collecteur du prélèvement à la source (PAS) de l'impôt sur le revenu de ses salariés. Cette obligation fait peser sur l'entreprise une responsabilité fiscale directe, avec des sanctions en cas de manquement.
@@ -26,9 +32,9 @@ L'administration fiscale transmet à l'employeur le taux de PAS applicable à ch
 
 ### La base de calcul
 
-Le PAS est calculé sur le **revenu net imposable** versé au salarié, soit le salaire brut diminué des cotisations sociales déductibles. Les indemnités journalières de sécurité sociale subrogées sont incluses dans la base.
+Le PAS est calculé sur le **revenu net imposable** versé au salarié, soit le salaire brut diminué des [cotisations sociales](https://enclair.media/articles/regularisation-progressive-cotisations) déductibles. Les indemnités journalières de sécurité sociale subrogées sont incluses dans la base.
 
-Sont exclues de la base du PAS : les indemnités de rupture exonérées d'impôt, les remboursements de frais professionnels, les abondements de l'employeur à l'épargne salariale.
+Sont exclues de la base du PAS : les [indemnités de rupture](https://enclair.media/articles/indemnites-rupture-regime-social-fiscal-2026) exonérées d'impôt, les remboursements de frais professionnels, les abondements de l'employeur à l'épargne salariale.
 
 ## Les obligations concrètes de l'employeur
 

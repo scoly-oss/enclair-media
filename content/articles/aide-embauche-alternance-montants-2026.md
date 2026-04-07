@@ -1,16 +1,22 @@
 ---
-title: "Aide à l'embauche en alternance : les montants 2026"
-excerpt: "L'aide à l'embauche d'alternants est reconduite en 2026. Apprentissage et contrat de professionnalisation bénéficient de montants significatifs. Les conditions d'éligibilité et les démarches à connaître."
-date: "2026-02-26"
-category: "economie"
-tags: ["alternance", "aide embauche", "apprentissage", "contrat pro"]
-readTime: "6 min"
+title: 'Aide à l''embauche en alternance : les montants 2026'
+excerpt: >-
+  L'aide à l'embauche d'alternants est reconduite en 2026. Apprentissage et
+  contrat de professionnalisation bénéficient de montants significatifs.
+date: '2026-02-26'
+category: economie
+tags:
+  - alternance
+  - aide embauche
+  - apprentissage
+  - contrat pro
+readTime: 6 min
 sources:
-  - "Décret n° 2025-1456 relatif à l'aide à l'embauche d'alternants"
-  - "Article L.6243-1 du Code du travail"
-  - "Article D.6243-3 du Code du travail"
-  - "Loi de finances pour 2026"
-  - "Article L.6325-1 du Code du travail"
+  - Décret n° 2025-1456 relatif à l'aide à l'embauche d'alternants
+  - Article L.6243-1 du Code du travail
+  - Article D.6243-3 du Code du travail
+  - Loi de finances pour 2026
+  - Article L.6325-1 du Code du travail
 ---
 
 L'alternance reste l'un des dispositifs les plus soutenus financièrement par les pouvoirs publics. En 2026, l'aide à l'embauche d'apprentis et de salariés en contrat de professionnalisation est maintenue, avec des montants qui en font un levier de recrutement incontournable pour les entreprises de toutes tailles.
@@ -53,7 +59,7 @@ Le coût net d'un apprenti est considérablement réduit par l'aide et les exon�
 | Poste | Montant mensuel |
 |-------|----------------|
 | Rémunération brute (51 % du SMIC) | 938 € |
-| Cotisations patronales (après réduction générale) | ~150 € |
+| [Cotisations patronales](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour) (après réduction générale) | ~150 € |
 | **Coût brut mensuel** | **~1 088 €** |
 | Aide à l'embauche (-500 €/mois, 1re année) | -500 € |
 | **Coût net mensuel (1re année)** | **~588 €** |
@@ -74,7 +80,7 @@ La première année, le coût net d'un apprenti peut être inférieur à 600 eur
 
 L'aide à l'embauche se cumule avec d'autres avantages :
 
-- **Exonération de cotisations sociales** dans le cadre de la réduction générale (ex-Fillon)
+- **Exonération de [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025)** dans le cadre de la réduction générale (ex-Fillon)
 - **Crédit d'impôt apprentissage** (pour les entreprises soumises à l'IS ou à l'IR)
 - **Prise en charge des frais de formation** par l'OPCO
 

@@ -1,18 +1,26 @@
 ---
-title: "Calcul des IJSS : ce que l'employeur doit vérifier"
-excerpt: "Les indemnités journalières de sécurité sociale sont calculées par la CPAM, mais des erreurs surviennent régulièrement. L'employeur, surtout en cas de subrogation, a tout intérêt à vérifier les montants. Mode opératoire."
-date: "2025-10-05"
-category: "economie"
-tags: ["IJSS", "sécurité sociale", "arrêt maladie", "subrogation"]
-readTime: "7 min"
+title: 'Calcul des IJSS : ce que l''employeur doit vérifier'
+excerpt: >-
+  Les indemnités journalières de sécurité sociale sont calculées par la CPAM,
+  mais des erreurs surviennent régulièrement.
+date: '2025-10-05'
+category: economie
+tags:
+  - IJSS
+  - sécurité sociale
+  - arrêt maladie
+  - subrogation
+readTime: 7 min
 sources:
-  - "Articles L. 323-1 et R. 323-4 du Code de la sécurité sociale"
-  - "Article R. 323-8 du Code de la sécurité sociale (plafond IJSS)"
-  - "Circulaire CNAM CIR-7/2024 du 15 janvier 2024"
-  - "BOSS, Bulletin officiel de la sécurité sociale, rubrique 'Prestations en espèces'"
+  - Articles L. 323-1 et R. 323-4 du Code de la sécurité sociale
+  - Article R. 323-8 du Code de la sécurité sociale (plafond IJSS)
+  - Circulaire CNAM CIR-7/2024 du 15 janvier 2024
+  - >-
+    BOSS, Bulletin officiel de la sécurité sociale, rubrique 'Prestations en
+    espèces'
 ---
 
-Les indemnités journalières de sécurité sociale (IJSS) représentent un élément central de la rémunération du salarié en arrêt maladie. Lorsque l'employeur pratique la subrogation, il perçoit les IJSS à la place du salarié et doit s'assurer de leur exactitude. Les erreurs de la CPAM sont plus fréquentes qu'on ne le pense.
+Les indemnités journalières de sécurité sociale (IJSS) représentent un élément central de la rémunération du salarié en [arrêt maladie](https://enclair.media/articles/decret-temps-partiel-therapeutique-nouvelles-regles). Lorsque l'employeur pratique la subrogation, il perçoit les IJSS à la place du salarié et doit s'assurer de leur exactitude. Les erreurs de la CPAM sont plus fréquentes qu'on ne le pense.
 
 ## Le mécanisme de calcul des IJSS maladie
 
@@ -92,7 +100,7 @@ Les IJSS subrogées sont soumises à la **CSG et à la CRDS** au taux réduit de
 
 ### Les IJSS AT/MP
 
-Les IJSS pour accident du travail ou maladie professionnelle sont calculées différemment :
+Les IJSS pour accident du travail ou [maladie professionnelle](https://enclair.media/articles/burnout-faute-inexcusable-reconnaissance-juges) sont calculées différemment :
 
 - **Pendant les 28 premiers jours** : 60 % du salaire journalier de base
 - **À partir du 29e jour** : 80 % du SJB

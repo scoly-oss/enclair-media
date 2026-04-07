@@ -1,16 +1,22 @@
 ---
-title: "Frais de transport : remboursement obligatoire et options"
-excerpt: "L'employeur est tenu de prendre en charge 50 % des frais de transport en commun. Des options complémentaires existent pour le vélo, le covoiturage ou le véhicule personnel. Le point complet sur les obligations et les exonérations."
-date: "2026-02-16"
-category: "economie"
-tags: ["frais transport", "remboursement", "forfait mobilité", "Navigo"]
-readTime: "6 min"
+title: 'Frais de transport : remboursement obligatoire et options'
+excerpt: >-
+  L'employeur est tenu de prendre en charge 50 % des frais de transport en
+  commun. Des options complémentaires existent pour le vélo, le covoiturage ou.
+date: '2026-02-16'
+category: economie
+tags:
+  - frais transport
+  - remboursement
+  - forfait mobilité
+  - Navigo
+readTime: 6 min
 sources:
-  - "Article L.3261-2 du Code du travail"
-  - "Article L.3261-3-1 du Code du travail"
-  - "Article R.3261-1 du Code du travail"
-  - "BOSS, fiche Frais professionnels, §360"
-  - "Loi n° 2022-1158 du 16 août 2022 (loi pouvoir d'achat)"
+  - Article L.3261-2 du Code du travail
+  - Article L.3261-3-1 du Code du travail
+  - Article R.3261-1 du Code du travail
+  - 'BOSS, fiche Frais professionnels, §360'
+  - Loi n° 2022-1158 du 16 août 2022 (loi pouvoir d'achat)
 ---
 
 La prise en charge des frais de transport domicile-travail est une obligation patronale souvent réduite, à tort, au seul remboursement du pass Navigo. En réalité, le dispositif est plus riche et offre plusieurs options — certaines obligatoires, d'autres facultatives — avec des régimes sociaux et fiscaux avantageux.
@@ -40,7 +46,7 @@ L'article L.3261-3-1 du Code du travail permet à l'employeur de verser un **for
 
 Le FMD est **facultatif** : l'employeur n'est pas obligé de le mettre en place. Mais s'il le fait, il bénéficie d'un régime social et fiscal attractif.
 
-**Montant exonéré en 2026 :** jusqu'à **700 € par an et par salarié** (800 € dans les DOM). Ce montant est exonéré de cotisations sociales et d'impôt sur le revenu.
+**Montant exonéré en 2026 :** jusqu'à **700 € par an et par salarié** (800 € dans les DOM). Ce montant est exonéré de [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025) et d'impôt sur le revenu.
 
 ## La prime transport
 
@@ -75,7 +81,7 @@ Le cumul abonnement transport en commun + FMD est plafonné à **900 euros par a
 
 ## Les recommandations pour l'employeur
 
-**Mettre en place le FMD.** C'est un avantage apprécié des salariés, avec un coût exonéré pour l'entreprise. Il peut être instauré par accord d'entreprise, par accord de branche ou par décision unilatérale.
+**Mettre en place le FMD.** C'est un avantage apprécié des salariés, avec un coût exonéré pour l'entreprise. Il peut être instauré par [accord d'entreprise](https://enclair.media/articles/accord-entreprise-conditions-validite-ordonnances-macron), par accord de branche ou par décision unilatérale.
 
 **Communiquer sur les options.** Beaucoup de salariés ignorent l'existence du FMD ou de la prime transport. Une communication claire favorise l'attractivité employeur.
 

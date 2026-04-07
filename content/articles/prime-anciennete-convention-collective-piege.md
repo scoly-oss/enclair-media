@@ -1,18 +1,24 @@
 ---
-title: "Prime d'ancienneté : quand la convention collective vous piège"
-excerpt: "Vous pensez appliquer correctement votre convention collective sur la prime d'ancienneté ? Vérifiez : les erreurs de calcul, d'assiette et de seuil sont les premières causes de rappel de salaire aux prud'hommes."
-date: "2025-03-03"
-category: "droit-social"
-tags: ["prime d'ancienneté", "convention collective", "bulletin de paie", "rappel de salaire"]
-readTime: "6 min"
+title: 'Prime d''ancienneté : quand la convention collective vous piège'
+excerpt: >-
+  Vous pensez appliquer correctement votre convention collective sur la prime
+  d'ancienneté ? Vérifiez : les erreurs de calcul, d'assiette et de seuil.
+date: '2025-03-03'
+category: droit-social
+tags:
+  - prime d'ancienneté
+  - convention collective
+  - bulletin de paie
+  - rappel de salaire
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.2261-22 et L.2254-1"
-  - "Cass. soc., 4 juin 2014, n° 13-11.372"
-  - "Cass. soc., 20 février 2008, n° 06-40.085"
-  - "Cass. soc., 17 octobre 2018, n° 17-14.392"
+  - 'Code du travail, articles L.2261-22 et L.2254-1'
+  - 'Cass. soc., 4 juin 2014, n° 13-11.372'
+  - 'Cass. soc., 20 février 2008, n° 06-40.085'
+  - 'Cass. soc., 17 octobre 2018, n° 17-14.392'
 ---
 
-Votre convention collective prévoit une prime d'ancienneté. Vous l'appliquez. Vous êtes en règle. Vraiment ?
+Votre [convention collective](https://enclair.media/articles/convention-collective-identifier-applicable) prévoit une prime d'ancienneté. Vous l'appliquez. Vous êtes en règle. Vraiment ?
 
 Chaque année, des milliers de salariés obtiennent des rappels de prime d'ancienneté devant les prud'hommes. Non pas parce que l'employeur refuse de la verser, mais parce qu'il la calcule mal. Mauvaise assiette, mauvais seuil, mauvaise ancienneté de référence — les pièges sont nombreux et les erreurs souvent systémiques, touchant l'ensemble de l'effectif.
 
@@ -26,11 +32,11 @@ La Cour de cassation a jugé que les périodes de CDD antérieures, lorsqu'elles
 
 ## L'assiette de calcul : le piège le plus fréquent
 
-Chaque convention collective définit sa propre assiette de calcul de la prime d'ancienneté. Certaines la calculent sur le salaire minimum conventionnel, d'autres sur le salaire de base réel, d'autres encore sur les minima hiérarchiques.
+Chaque [convention collective](https://enclair.media/articles/jours-feries-obligations-employeur-convention-collective) définit sa propre assiette de calcul de la prime d'ancienneté. Certaines la calculent sur le salaire minimum conventionnel, d'autres sur le salaire de base réel, d'autres encore sur les minima hiérarchiques.
 
 Erreur classique : appliquer le pourcentage d'ancienneté au salaire minimum conventionnel alors que la convention prévoit une application sur le salaire réel, ou inversement. L'écart peut paraître minime mois par mois, mais sur trois ans de prescription, il s'accumule.
 
-La convention collective de la métallurgie (IDCC 3248), par exemple, prévoit des dispositifs spécifiques de valorisation de l'ancienneté intégrés dans les minima. La convention Syntec (IDCC 1486) prévoit une prime d'ancienneté calculée sur le salaire minimum conventionnel de la catégorie du salarié. La convention du commerce de gros (IDCC 573) calcule sur les appointements réels.
+La [convention collective](https://enclair.media/articles/forfait-jours-droit-sante-qpc) de la métallurgie (IDCC 3248), par exemple, prévoit des dispositifs spécifiques de valorisation de l'ancienneté intégrés dans les minima. La convention Syntec (IDCC 1486) prévoit une prime d'ancienneté calculée sur le salaire minimum conventionnel de la catégorie du salarié. La convention du commerce de gros (IDCC 573) calcule sur les appointements réels.
 
 Si vous appliquez la mauvaise assiette, l'erreur touche potentiellement tous les salariés de l'entreprise.
 

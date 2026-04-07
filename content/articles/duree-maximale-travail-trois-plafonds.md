@@ -1,15 +1,23 @@
 ---
-title: "Durée maximale de travail : les 3 plafonds que vous dépassez peut-être"
-excerpt: "La durée du travail est encadrée par trois plafonds impératifs : quotidien, hebdomadaire et hebdomadaire moyen. Le dépassement de l'un d'entre eux cause un préjudice automatiquement indemnisable. État des lieux des règles à respecter."
-date: "2025-12-12"
-category: "droit-social"
-tags: ["durée du travail", "heures supplémentaires", "temps de travail", "repos"]
-readTime: "6 min"
+title: 'Durée maximale de travail : les 3 plafonds que vous dépassez peut-être'
+excerpt: >-
+  La durée du travail est encadrée par trois plafonds impératifs : quotidien,
+  hebdomadaire et hebdomadaire moyen.
+date: '2025-12-12'
+category: droit-social
+tags:
+  - durée du travail
+  - heures supplémentaires
+  - temps de travail
+  - repos
+readTime: 6 min
 sources:
-  - "Articles L. 3121-18 à L. 3121-24 du Code du travail"
-  - "Directive 2003/88/CE du 4 novembre 2003 concernant l'aménagement du temps de travail"
-  - "Cass. soc., 26 janvier 2022, n° 20-21.636 (préjudice nécessaire)"
-  - "Cass. soc., 11 mai 2023, n° 21-22.281"
+  - Articles L. 3121-18 à L. 3121-24 du Code du travail
+  - >-
+    Directive 2003/88/CE du 4 novembre 2003 concernant l'aménagement du temps de
+    travail
+  - 'Cass. soc., 26 janvier 2022, n° 20-21.636 (préjudice nécessaire)'
+  - 'Cass. soc., 11 mai 2023, n° 21-22.281'
 ---
 
 Le droit du travail fixe trois plafonds impératifs de durée du travail que l'employeur ne peut dépasser, sauf dérogations strictement encadrées. La jurisprudence récente a renforcé les sanctions en consacrant un droit à réparation automatique en cas de dépassement.
@@ -60,14 +68,14 @@ La Cour de cassation considère que l'employeur a l'obligation de s'assurer que 
 
 ### Les PME sans suivi du temps de travail
 
-L'absence de système de décompte du temps de travail rend le dépassement indétectable par l'employeur mais ne l'exonère pas. En cas de contentieux, c'est au salarié d'étayer sa demande d'heures supplémentaires par des éléments suffisamment précis, et à l'employeur de justifier des horaires réellement effectués (article L. 3171-4 du Code du travail).
+L'absence de système de décompte du temps de travail rend le dépassement indétectable par l'employeur mais ne l'exonère pas. En cas de contentieux, c'est au salarié d'étayer sa demande d'[heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif) par des éléments suffisamment précis, et à l'employeur de justifier des horaires réellement effectués (article L. 3171-4 du Code du travail).
 
 ## Les temps à inclure dans le calcul
 
 Le calcul de la durée du travail inclut :
 
 - Le **temps de travail effectif** : temps pendant lequel le salarié est à la disposition de l'employeur
-- Les **heures supplémentaires** réalisées
+- Les **[heures supplémentaires](https://enclair.media/articles/heures-supplementaires-la-preuve-qui-manque-toujours)** réalisées
 - Le **temps de déplacement professionnel** dépassant le trajet habituel domicile-travail (doit être compensé, et peut être du temps de travail effectif selon les circonstances)
 - Le **temps de formation** sur temps de travail
 - Les **temps d'intervention** pendant les astreintes
@@ -84,7 +92,7 @@ Le dépassement des durées maximales constitue une contravention de 4e classe (
 
 Outre les dommages-intérêts pour dépassement, le salarié peut obtenir :
 
-- Le paiement des **heures supplémentaires** avec majorations
+- Le paiement des **[heures supplémentaires](https://enclair.media/articles/repos-compensateur-droit-acquis)** avec majorations
 - Des dommages-intérêts pour **non-respect du repos** quotidien ou hebdomadaire
 - La **rupture du contrat** aux torts de l'employeur si les dépassements sont massifs et répétés
 

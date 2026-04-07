@@ -1,19 +1,25 @@
 ---
-title: "Droit à la preuve : les écoutes téléphoniques sont-elles recevables ?"
-excerpt: "La Cour de cassation a fait évoluer sa position sur la recevabilité des preuves obtenues de manière déloyale. Enregistrements, écoutes, vidéosurveillance : le point sur ce que l'employeur et le salarié peuvent produire devant le juge."
-date: "2026-02-20"
-category: "droit-social"
-tags: ["preuve", "écoutes téléphoniques", "vie privée", "procès équitable"]
-readTime: "7 min"
+title: 'Droit à la preuve : les écoutes téléphoniques sont-elles recevables ?'
+excerpt: >-
+  La Cour de cassation a fait évoluer sa position sur la recevabilité des
+  preuves obtenues de manière déloyale.
+date: '2026-02-20'
+category: droit-social
+tags:
+  - preuve
+  - écoutes téléphoniques
+  - vie privée
+  - procès équitable
+readTime: 7 min
 sources:
-  - "Cass. ass. plén., 22 décembre 2023, n° 20-20.648"
-  - "Article 6 de la Convention européenne des droits de l'homme"
-  - "Article 9 du Code civil"
-  - "Article L.1222-4 du Code du travail"
-  - "Cass. soc., 25 novembre 2020, n° 17-19.523"
+  - 'Cass. ass. plén., 22 décembre 2023, n° 20-20.648'
+  - Article 6 de la Convention européenne des droits de l'homme
+  - Article 9 du Code civil
+  - Article L.1222-4 du Code du travail
+  - 'Cass. soc., 25 novembre 2020, n° 17-19.523'
 ---
 
-Le droit de la preuve en matière sociale connaît depuis quelques années une transformation profonde. L'arrêt d'assemblée plénière de la Cour de cassation du 22 décembre 2023 a marqué un tournant en admettant, sous conditions strictes, la recevabilité de preuves obtenues de manière déloyale. Cette évolution impacte directement les écoutes téléphoniques, les enregistrements clandestins et la vidéosurveillance dans les relations de travail.
+Le droit de la preuve en matière sociale connaît depuis quelques années une transformation profonde. L'arrêt d'assemblée plénière de la [Cour de cassation](https://enclair.media/articles/faute-lourde-definition-etroite-cour-cassation) du 22 décembre 2023 a marqué un tournant en admettant, sous conditions strictes, la recevabilité de preuves obtenues de manière déloyale. Cette évolution impacte directement les écoutes téléphoniques, les enregistrements clandestins et la vidéosurveillance dans les relations de travail.
 
 ## Le principe traditionnel : loyauté de la preuve
 
@@ -41,7 +47,7 @@ En matière d'écoutes téléphoniques au travail, plusieurs situations doivent 
 
 **Les écoutes sans information préalable.** Lorsque l'employeur enregistre les conversations d'un salarié sans l'en avoir informé, la preuve est obtenue de manière illicite. Depuis le revirement de 2023, elle peut néanmoins être recevable si le juge estime qu'elle était indispensable et que l'atteinte à la vie privée est proportionnée.
 
-**Les enregistrements par le salarié.** Un salarié qui enregistre à l'insu de son employeur une conversation — par exemple un entretien préalable ou une réunion au cours de laquelle il est victime de harcèlement — produit une preuve déloyale. Mais le test de proportionnalité peut conduire le juge à l'admettre, notamment lorsque le salarié cherche à prouver un harcèlement moral dont il n'existe aucune autre trace.
+**Les enregistrements par le salarié.** Un salarié qui enregistre à l'insu de son employeur une conversation — par exemple un entretien préalable ou une réunion au cours de laquelle il est victime de harcèlement — produit une preuve déloyale. Mais le test de proportionnalité peut conduire le juge à l'admettre, notamment lorsque le salarié cherche à prouver un [harcèlement moral](https://enclair.media/articles/mediation-entreprise-outil-anti-harcelement) dont il n'existe aucune autre trace.
 
 ## Les autres modes de preuve concernés
 
@@ -49,7 +55,7 @@ Le revirement de 2023 ne concerne pas les seules écoutes téléphoniques. Il s'
 
 **La vidéosurveillance.** Un système de vidéosurveillance installé sans information des salariés est illicite. Mais les images peuvent être recevables si elles constituent le seul moyen de prouver un vol ou une fraude.
 
-**Les messages personnels.** L'article 9 du Code civil protège le droit au respect de la vie privée. Les messages identifiés comme personnels sur l'ordinateur professionnel du salarié ne peuvent en principe pas être consultés par l'employeur. Mais là encore, le test de proportionnalité peut permettre leur production.
+**Les messages personnels.** L'article 9 du Code civil protège le droit au respect de la vie privée. Les messages identifiés comme personnels sur l'[ordinateur professionnel](https://enclair.media/articles/email-personnel-ordinateur-pro-employeur-peut-lire) du salarié ne peuvent en principe pas être consultés par l'employeur. Mais là encore, le test de proportionnalité peut permettre leur production.
 
 **Les filatures.** Le recours à un détective privé pour surveiller un salarié constitue une atteinte à la vie privée. La Cour de cassation a toutefois admis, avant même le revirement de 2023, que la filature pouvait être recevable dans certains cas très spécifiques (Cass. soc., 25 novembre 2020, n° 17-19.523).
 

@@ -1,14 +1,20 @@
 ---
-title: "Participation et intéressement : les seuils abaissés"
-excerpt: "L'intéressement est désormais accessible aux plus petites entreprises et la participation évolue. Mais les erreurs de mise en place peuvent entraîner la perte des exonérations sociales et fiscales."
-date: "2025-09-08"
-category: "economie"
-tags: ["participation", "intéressement", "épargne salariale", "exonérations"]
-readTime: "6 min"
+title: 'Participation et intéressement : les seuils abaissés'
+excerpt: >-
+  L'intéressement est désormais accessible aux plus petites entreprises et la
+  participation évolue. Mais les erreurs de mise en place peuvent entraîner.
+date: '2025-09-08'
+category: economie
+tags:
+  - participation
+  - intéressement
+  - épargne salariale
+  - exonérations
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.3311-1 à L.3315-5 (intéressement)"
-  - "Code du travail, articles L.3321-1 à L.3326-2 (participation)"
-  - "Loi n°2023-1107 du 29 novembre 2023 (partage de la valeur)"
+  - 'Code du travail, articles L.3311-1 à L.3315-5 (intéressement)'
+  - 'Code du travail, articles L.3321-1 à L.3326-2 (participation)'
+  - Loi n°2023-1107 du 29 novembre 2023 (partage de la valeur)
 ---
 
 ## Vous avez 35 salariés et vous ne distribuez ni participation ni intéressement. La loi Partage de la valeur pourrait vous y obliger.
@@ -22,8 +28,8 @@ Depuis la loi du 29 novembre 2023 relative au partage de la valeur, les entrepri
 Les entreprises de 11 à 49 salariés sont soumises, à titre expérimental, à l'obligation de mettre en place au moins **un dispositif de partage de la valeur** si elles remplissent les conditions de bénéfice. Elles ont le choix entre :
 - Un accord d'**intéressement**
 - Un accord de **participation** (même si elles sont sous le seuil de 50 salariés)
-- Un **abondement** à un plan d'épargne salariale (PEE, PEI)
-- Le versement d'une **prime de partage de la valeur** (PPV)
+- Un **abondement** à un plan d'[épargne salariale](https://enclair.media/articles/epargne-salariale-obligation-pme-plus-50) (PEE, PEI)
+- Le versement d'une **[prime de partage de la valeur](https://enclair.media/articles/prime-partage-valeur-guide-complet-employeur)** (PPV)
 
 ### La participation obligatoire (entreprises de 50 salariés et plus)
 
@@ -74,6 +80,6 @@ Depuis la loi Partage de la valeur, l'intéressement peut être mis en place par
 
 4. **Déposez vos accords dans les délais** : le dépôt tardif n'est pas un détail, c'est une condition des exonérations.
 
-5. **Communiquez auprès de vos salariés** : un dispositif d'épargne salariale bien expliqué est un puissant levier de fidélisation et d'engagement.
+5. **Communiquez auprès de vos salariés** : un dispositif d'[épargne salariale](https://enclair.media/articles/interessement-regime-simplifie-pme) bien expliqué est un puissant levier de fidélisation et d'engagement.
 
 L'épargne salariale n'est plus réservée aux grands groupes. Les PME ont désormais les outils et les incitations fiscales pour partager la valeur. Et pour certaines, c'est même une obligation.

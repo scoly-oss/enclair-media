@@ -1,15 +1,22 @@
 ---
-title: "Requalification CDI : les cas les plus fréquents en 2025"
-excerpt: "Votre CDD, votre intérim ou votre prestation de service dissimule peut-être un CDI. La requalification est le contentieux le plus fréquent en droit du travail. Voici les cas qui passent le plus souvent devant les juges."
-date: "2026-01-05"
-category: "jurisprudence"
-tags: ["requalification", "CDI", "CDD", "intérim", "contentieux"]
-readTime: "7 min"
+title: 'Requalification CDI : les cas les plus fréquents en 2025'
+excerpt: >-
+  Votre CDD, votre intérim ou votre prestation de service dissimule peut-être un
+  CDI. La requalification est le contentieux le plus fréquent en droit du.
+date: '2026-01-05'
+category: jurisprudence
+tags:
+  - requalification
+  - CDI
+  - CDD
+  - intérim
+  - contentieux
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.1242-1 à L.1242-4"
-  - "Code du travail, article L.1245-1"
-  - "Cass. soc., 21 septembre 2022, n° 20-16.050"
-  - "Cass. soc., 8 mars 2023, n° 21-12.492"
+  - 'Code du travail, articles L.1242-1 à L.1242-4'
+  - 'Code du travail, article L.1245-1'
+  - 'Cass. soc., 21 septembre 2022, n° 20-16.050'
+  - 'Cass. soc., 8 mars 2023, n° 21-12.492'
 ---
 
 Vous utilisez un CDD de remplacement pour couvrir l'absence d'une salariée en congé maternité. Le CDD mentionne le nom de la personne remplacée et le motif. La salariée revient, le CDD prend fin. Tout semble en ordre. Sauf que le contrat ne mentionne pas le poste occupé par le remplaçant. Le salarié demande la requalification en CDI. Et il l'obtient.
@@ -38,11 +45,11 @@ L'erreur classique : le salarié en CDD continue de travailler après le retour 
 
 Le recours à l'intérim est soumis aux mêmes cas de recours que le CDD. La succession de missions d'intérim sur un même poste pour pourvoir durablement un emploi permanent constitue le cas de requalification le plus fréquent en intérim (Cass. soc., 8 mars 2023, n° 21-12.492).
 
-Le salarié intérimaire peut agir contre l'entreprise utilisatrice pour obtenir la requalification en CDI. Les conséquences sont les mêmes que pour un CDD : indemnité de requalification d'un mois de salaire minimum, indemnité de licenciement sans cause réelle et sérieuse, rappel de salaire éventuel.
+Le salarié intérimaire peut agir contre l'[entreprise utilisatrice](https://enclair.media/articles/interim-responsabilite-entreprise-utilisatrice) pour obtenir la requalification en CDI. Les conséquences sont les mêmes que pour un CDD : indemnité de requalification d'un mois de salaire minimum, indemnité de licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher), rappel de salaire éventuel.
 
 ## Le faux prestataire ou le faux indépendant
 
-Le recours à un prestataire indépendant (freelance, auto-entrepreneur) qui travaille dans les mêmes conditions qu'un salarié (lieu de travail imposé, horaires fixes, matériel fourni, directives précises, rémunération mensuelle fixe) peut être requalifié en CDI. Le critère est le lien de subordination juridique : le travailleur reçoit-il des ordres, son exécution est-elle contrôlée, et des sanctions peuvent-elles être prononcées ?
+Le recours à un prestataire indépendant (freelance, auto-entrepreneur) qui travaille dans les mêmes conditions qu'un salarié (lieu de travail imposé, horaires fixes, matériel fourni, directives précises, rémunération mensuelle fixe) peut être requalifié en CDI. Le critère est le [lien de subordination](https://enclair.media/articles/freelance-salarie-deguise-test-5-questions) juridique : le travailleur reçoit-il des ordres, son exécution est-elle contrôlée, et des sanctions peuvent-elles être prononcées ?
 
 Les plateformes numériques sont particulièrement exposées à ce risque, mais les PME qui utilisent régulièrement les mêmes freelances dans des conditions proches du salariat le sont également.
 

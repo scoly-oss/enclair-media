@@ -1,14 +1,20 @@
 ---
-title: "Harcèlement sexuel au travail : la nouvelle définition élargie"
-excerpt: "Depuis 2022, la définition du harcèlement sexuel au travail a été alignée sur le Code pénal et considérablement élargie. Beaucoup d'employeurs n'ont pas mis à jour leurs pratiques de prévention."
-date: "2025-04-24"
-category: "droit-social"
-tags: ["harcèlement sexuel", "prévention", "obligation employeur", "référent"]
-readTime: "7 min"
+title: 'Harcèlement sexuel au travail : la nouvelle définition élargie'
+excerpt: >-
+  Depuis 2022, la définition du harcèlement sexuel au travail a été alignée sur
+  le Code pénal et considérablement élargie.
+date: '2025-04-24'
+category: droit-social
+tags:
+  - harcèlement sexuel
+  - prévention
+  - obligation employeur
+  - référent
+readTime: 7 min
 sources:
-  - "Code du travail, article L.1153-1 (modifié par la loi du 21 mars 2022)"
-  - "Code pénal, article 222-33"
-  - "Cass. soc., 15 novembre 2023, n°22-16.287"
+  - 'Code du travail, article L.1153-1 (modifié par la loi du 21 mars 2022)'
+  - 'Code pénal, article 222-33'
+  - 'Cass. soc., 15 novembre 2023, n°22-16.287'
 ---
 
 ## Vos managers savent-ils que des blagues répétées à connotation sexuelle sont désormais du harcèlement au sens de la loi ?
@@ -21,7 +27,7 @@ Depuis la loi du 21 mars 2022, ce type de comportements **est du harcèlement se
 
 Le harcèlement sexuel expose l'entreprise sur trois fronts simultanés :
 
-- **Civil** : le salarié victime peut obtenir des dommages et intérêts pour manquement de l'employeur à son obligation de sécurité, même si l'auteur est un collègue et non un supérieur.
+- **Civil** : le salarié victime peut obtenir des dommages et intérêts pour manquement de l'employeur à son [obligation de sécurité](https://enclair.media/articles/obligation-securite-employeur-doit-prouver), même si l'auteur est un collègue et non un supérieur.
 - **Pénal** : l'auteur encourt 2 ans d'emprisonnement et 30 000 euros d'amende. L'employeur qui n'a rien fait pour prévenir peut être poursuivi pour complicité.
 - **Prud'homal** : le licenciement d'un salarié qui dénonce un harcèlement sexuel est nul, avec réintégration et indemnisation intégrale du préjudice.
 
@@ -58,7 +64,7 @@ Vous devez prendre **toutes les dispositions nécessaires** pour prévenir le ha
 - Des actions de **formation et d'information** auprès de l'ensemble des salariés et des managers
 - La mise en place de **procédures de signalement** accessibles et sécurisées
 - L'affichage des textes relatifs au harcèlement sexuel dans les lieux de travail (article L.1153-5, alinéa 2)
-- La désignation d'un **référent harcèlement** parmi les membres du CSE (obligatoire dans toutes les entreprises ayant un CSE) et d'un référent RH dans les entreprises de 250 salariés et plus
+- La désignation d'un **[référent harcèlement](https://enclair.media/articles/referent-harcelement-cse-missions-moyens)** parmi les membres du CSE (obligatoire dans toutes les entreprises ayant un CSE) et d'un référent RH dans les entreprises de 250 salariés et plus
 
 ### Obligation de réaction
 
@@ -68,7 +74,7 @@ Dès que vous avez connaissance de faits pouvant constituer du harcèlement sexu
 2. **Protéger la victime** immédiatement (éloignement de l'auteur, pas l'inverse)
 3. **Sanctionner l'auteur** si les faits sont avérés
 
-L'absence de réaction est en elle-même un manquement à l'obligation de sécurité, même si les faits de harcèlement ne sont finalement pas caractérisés.
+L'absence de réaction est en elle-même un manquement à l'[obligation de sécurité](https://enclair.media/articles/harcelement-moral-obligation-moyens-renforcee), même si les faits de harcèlement ne sont finalement pas caractérisés.
 
 ### L'affichage obligatoire
 

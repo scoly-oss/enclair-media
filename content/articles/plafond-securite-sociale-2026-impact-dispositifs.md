@@ -1,19 +1,25 @@
 ---
-title: "Plafond Sécurité sociale 2026 : impact concret sur 15 dispositifs"
-excerpt: "Le plafond de la Sécurité sociale (PASS) est revalorisé chaque année. Son montant 2026 impacte directement les cotisations, les indemnités journalières, les seuils d'exonération et bien d'autres mécanismes. Le point complet."
-date: "2026-03-19"
-category: "economie"
-tags: ["PASS", "plafond sécurité sociale", "cotisations", "seuils 2026"]
-readTime: "7 min"
+title: 'Plafond Sécurité sociale 2026 : impact concret sur 15 dispositifs'
+excerpt: >-
+  Le plafond de la Sécurité sociale (PASS) est revalorisé chaque année. Son
+  montant 2026 impacte directement les cotisations, les indemnités.
+date: '2026-03-19'
+category: economie
+tags:
+  - PASS
+  - plafond sécurité sociale
+  - cotisations
+  - seuils 2026
+readTime: 7 min
 sources:
-  - "Arrêté du 19 décembre 2025 portant fixation du PASS 2026"
-  - "Article L.241-3 du Code de la sécurité sociale"
-  - "Article D.242-4 du Code de la sécurité sociale"
-  - "Article L.242-1 du Code de la sécurité sociale"
-  - "Circulaire AGIRC-ARRCO 2026-01"
+  - Arrêté du 19 décembre 2025 portant fixation du PASS 2026
+  - Article L.241-3 du Code de la sécurité sociale
+  - Article D.242-4 du Code de la sécurité sociale
+  - Article L.242-1 du Code de la sécurité sociale
+  - Circulaire AGIRC-ARRCO 2026-01
 ---
 
-Le plafond annuel de la Sécurité sociale (PASS) est la pierre angulaire du système de cotisations et de prestations sociales en France. Fixé à **47 100 euros** pour 2026 (soit **3 925 euros** par mois), il conditionne le calcul de nombreux dispositifs. Son impact dépasse largement la sphère des cotisations sociales.
+Le plafond annuel de la Sécurité sociale (PASS) est la pierre angulaire du système de cotisations et de prestations sociales en France. Fixé à **47 100 euros** pour 2026 (soit **3 925 euros** par mois), il conditionne le calcul de nombreux dispositifs. Son impact dépasse largement la sphère des [cotisations sociales](https://enclair.media/articles/cotisations-sociales-2026-ce-qui-change-bulletins).
 
 ## Les montants 2026
 
@@ -29,7 +35,7 @@ Le plafond annuel de la Sécurité sociale (PASS) est la pierre angulaire du sys
 
 **1. Cotisation vieillesse plafonnée.** La cotisation d'assurance vieillesse de base est assise sur la rémunération dans la limite du PASS. Le taux est de 6,90 % (part salariale) et 8,55 % (part patronale). Un salarié rémunéré au-delà de 3 925 euros mensuels ne cotise à ce régime que sur cette tranche.
 
-**2. Retraite complémentaire AGIRC-ARRCO — Tranche 1.** La tranche 1 des cotisations de retraite complémentaire correspond à la rémunération comprise entre 0 et 1 PASS. Le taux d'appel est de 7,87 % (total), réparti entre employeur (60 %) et salarié (40 %).
+**2. [Retraite complémentaire AGIRC](https://enclair.media/articles/retraite-complementaire-agirc-arrco-changements-2026)-ARRCO — Tranche 1.** La tranche 1 des cotisations de [retraite complémentaire](https://enclair.media/articles/cotisations-retraite-cadres-changements-agirc-arrco) correspond à la rémunération comprise entre 0 et 1 PASS. Le taux d'appel est de 7,87 % (total), réparti entre employeur (60 %) et salarié (40 %).
 
 **3. Retraite complémentaire — Tranche 2.** La tranche 2 concerne la rémunération entre 1 et 8 PASS (de 3 925 € à 31 400 € mensuels). Le taux d'appel est de 21,59 %. Cette tranche ne concerne que les cadres et assimilés dont la rémunération dépasse le PASS.
 

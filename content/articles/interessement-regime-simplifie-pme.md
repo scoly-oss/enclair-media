@@ -1,15 +1,21 @@
 ---
-title: "Intéressement : le nouveau régime simplifié pour les PME"
-excerpt: "L'intéressement est un puissant levier de motivation et de fidélisation, désormais accessible aux PME grâce à un régime simplifié. Mise en place unilatérale, formule type, avantages sociaux et fiscaux : mode d'emploi."
-date: "2025-12-18"
-category: "economie"
-tags: ["intéressement", "épargne salariale", "PME", "exonérations"]
-readTime: "7 min"
+title: 'Intéressement : le nouveau régime simplifié pour les PME'
+excerpt: >-
+  L'intéressement est un puissant levier de motivation et de fidélisation,
+  désormais accessible aux PME grâce à un régime simplifié.
+date: '2025-12-18'
+category: economie
+tags:
+  - intéressement
+  - épargne salariale
+  - PME
+  - exonérations
+readTime: 7 min
 sources:
-  - "Articles L. 3312-1 à L. 3315-5 du Code du travail"
-  - "Loi n° 2022-1158 du 16 août 2022 (pouvoir d'achat)"
-  - "Article L. 3312-5 du Code du travail (décision unilatérale)"
-  - "BOSS, Bulletin officiel de la sécurité sociale, rubrique Épargne salariale"
+  - Articles L. 3312-1 à L. 3315-5 du Code du travail
+  - Loi n° 2022-1158 du 16 août 2022 (pouvoir d'achat)
+  - Article L. 3312-5 du Code du travail (décision unilatérale)
+  - 'BOSS, Bulletin officiel de la sécurité sociale, rubrique Épargne salariale'
 ---
 
 L'intéressement permet d'associer les salariés aux résultats de l'entreprise en leur versant une prime liée à la performance collective. Longtemps perçu comme un dispositif réservé aux grandes entreprises, il est désormais accessible aux PME grâce à des régimes simplifiés. Avec des exonérations sociales et fiscales attractives, c'est un outil à considérer sérieusement.
@@ -40,7 +46,7 @@ L'accord ou la décision unilatérale est déposé sur la plateforme TéléAccor
 
 ### Pour l'employeur
 
-- **Exonération de cotisations sociales** patronales (hors CSG-CRDS et forfait social)
+- **Exonération de [cotisations sociales](https://enclair.media/articles/exonerations-urssaf-celles-que-vous-ne-demandez-pas)** patronales (hors CSG-CRDS et forfait social)
 - **Forfait social réduit à 0 %** pour les entreprises de moins de 250 salariés (contre 20 % au-delà)
 - **Déductibilité fiscale** des sommes versées du bénéfice imposable
 - **Non-prise en compte** dans le calcul du SMIC et des minima conventionnels
@@ -48,7 +54,7 @@ L'accord ou la décision unilatérale est déposé sur la plateforme TéléAccor
 ### Pour le salarié
 
 - **Exonération de cotisations salariales** (hors CSG-CRDS à 9,7 %)
-- **Exonération d'impôt sur le revenu** si les sommes sont affectées à un plan d'épargne salariale (PEE, PERECO)
+- **Exonération d'impôt sur le revenu** si les sommes sont affectées à un plan d'[épargne salariale](https://enclair.media/articles/epargne-salariale-obligation-pme-plus-50) (PEE, PERECO)
 - Possibilité de percevoir l'intéressement **immédiatement** (soumis à l'IR) ou de le placer en épargne
 
 ## Les conditions de validité
@@ -87,6 +93,6 @@ En cas de redressement, les sommes versées au titre de l'intéressement sont re
 2. **Prévoir une formule claire** permettant un calcul vérifiable par n'importe quel tiers
 3. **Respecter strictement les délais** de dépôt
 4. **Informer les salariés** de la formule, des résultats et du montant distribué
-5. **Proposer un plan d'épargne salariale** (PEE ou PERECO) pour que les salariés puissent bénéficier de l'exonération d'IR
+5. **Proposer un plan d'[épargne salariale](https://enclair.media/articles/participation-interessement-seuils-abaisses)** (PEE ou PERECO) pour que les salariés puissent bénéficier de l'exonération d'IR
 
 L'intéressement est l'un des rares dispositifs qui soit gagnant-gagnant : l'employeur motive ses équipes à moindre coût social, et le salarié perçoit un complément de rémunération faiblement taxé. Sa simplification pour les PME en fait désormais un outil accessible à toutes les entreprises.

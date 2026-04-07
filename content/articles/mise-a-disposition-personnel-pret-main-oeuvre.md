@@ -1,15 +1,21 @@
 ---
-title: "Mise à disposition de personnel : les règles du prêt de main-d'œuvre"
-excerpt: "Le prêt de main-d'œuvre entre entreprises est licite mais strictement encadré. Le franchissement de la ligne entre prêt licite et prêt illicite expose à des sanctions pénales et à la requalification des contrats."
-date: "2025-12-07"
-category: "droit-social"
-tags: ["prêt de main-d'œuvre", "mise à disposition", "marchandage", "sous-traitance"]
-readTime: "7 min"
+title: 'Mise à disposition de personnel : les règles du prêt de main-d''œuvre'
+excerpt: >-
+  Le prêt de main-d'œuvre entre entreprises est licite mais strictement encadré.
+  Le franchissement de la ligne entre prêt licite et prêt illicite expose.
+date: '2025-12-07'
+category: droit-social
+tags:
+  - prêt de main-d'œuvre
+  - mise à disposition
+  - marchandage
+  - sous-traitance
+readTime: 7 min
 sources:
-  - "Articles L. 8241-1 à L. 8241-3 du Code du travail"
-  - "Article L. 8231-1 du Code du travail (marchandage)"
-  - "Loi n° 2011-893 du 28 juillet 2011 (Cherpion)"
-  - "Cass. soc., 18 mai 2022, n° 20-20.647"
+  - Articles L. 8241-1 à L. 8241-3 du Code du travail
+  - Article L. 8231-1 du Code du travail (marchandage)
+  - Loi n° 2011-893 du 28 juillet 2011 (Cherpion)
+  - 'Cass. soc., 18 mai 2022, n° 20-20.647'
 ---
 
 Prêter un salarié à une autre entreprise est une pratique courante dans les groupes et entre partenaires commerciaux. Mais le droit français encadre strictement cette opération. Le non-respect des règles expose au délit de prêt de main-d'œuvre illicite et de marchandage.
@@ -26,7 +32,7 @@ Sont exclus de cette interdiction les cas expressément prévus par la loi : int
 
 La loi du 28 juillet 2011 a organisé le prêt de main-d'œuvre à but non lucratif entre entreprises. Les conditions sont les suivantes :
 
-**Le but non lucratif.** L'entreprise prêteuse ne doit pas tirer de bénéfice de l'opération. Elle ne peut facturer à l'entreprise utilisatrice que les **salaires**, les **charges sociales** et les **frais professionnels** afférents au salarié mis à disposition. Aucune marge ni frais de gestion ne peut être facturée.
+**Le but non lucratif.** L'entreprise prêteuse ne doit pas tirer de bénéfice de l'opération. Elle ne peut facturer à l'[entreprise utilisatrice](https://enclair.media/articles/interim-responsabilite-entreprise-utilisatrice) que les **salaires**, les **charges sociales** et les **[frais professionnels](https://enclair.media/articles/teletravail-avenant-que-personne-ne-signe)** afférents au salarié mis à disposition. Aucune marge ni frais de gestion ne peut être facturée.
 
 **L'accord du salarié.** Le salarié doit donner son **accord exprès**. Son refus ne peut constituer un motif de sanction ou de licenciement. L'accord prend la forme d'un avenant au contrat de travail précisant le travail confié, les horaires, le lieu d'exécution et les caractéristiques du poste.
 
@@ -62,7 +68,7 @@ Si le sous-traitant ne fait que mettre du personnel à disposition sous la direc
 
 ## Le marchandage : une infraction connexe
 
-L'article L. 8231-1 du Code du travail définit le marchandage comme toute opération à but lucratif de fourniture de main-d'œuvre qui cause un **préjudice au salarié** (conditions de travail dégradées, rémunération inférieure) ou qui **élude l'application** des dispositions légales ou conventionnelles.
+L'article L. 8231-1 du Code du travail définit le marchandage comme toute opération à but lucratif de fourniture de main-d'œuvre qui cause un **préjudice au salarié** ([conditions de travail](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail) dégradées, rémunération inférieure) ou qui **élude l'application** des dispositions légales ou conventionnelles.
 
 Le marchandage se distingue du prêt illicite par l'exigence d'un préjudice pour le salarié. En pratique, les deux infractions sont souvent poursuivies conjointement.
 

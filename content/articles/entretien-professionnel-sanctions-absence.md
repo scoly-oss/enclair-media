@@ -1,27 +1,33 @@
 ---
-title: "Entretien professionnel : les sanctions en cas d'absence (3000€/salarié)"
-excerpt: "L'entretien professionnel est une obligation légale biennale. Son absence dans les entreprises de 50 salariés et plus entraîne un abondement correctif de 3 000 euros sur le CPF du salarié. Mode d'emploi d'une obligation souvent négligée."
-date: "2026-02-22"
-category: "droit-social"
-tags: ["entretien professionnel", "CPF", "abondement correctif", "formation"]
-readTime: "6 min"
+title: 'Entretien professionnel : les sanctions en cas d''absence (3000€/salarié)'
+excerpt: >-
+  L'entretien professionnel est une obligation légale biennale. Son absence dans
+  les entreprises de 50 salariés et plus entraîne un abondement correctif.
+date: '2026-02-22'
+category: droit-social
+tags:
+  - entretien professionnel
+  - CPF
+  - abondement correctif
+  - formation
+readTime: 6 min
 sources:
-  - "Article L.6315-1 du Code du travail"
-  - "Article L.6323-13 du Code du travail"
-  - "Article R.6323-3 du Code du travail"
-  - "Loi n° 2018-771 du 5 septembre 2018 (loi Avenir professionnel)"
-  - "Cass. soc., 5 juillet 2023, n° 21-24.122"
+  - Article L.6315-1 du Code du travail
+  - Article L.6323-13 du Code du travail
+  - Article R.6323-3 du Code du travail
+  - Loi n° 2018-771 du 5 septembre 2018 (loi Avenir professionnel)
+  - 'Cass. soc., 5 juillet 2023, n° 21-24.122'
 ---
 
-L'entretien professionnel est l'un des dispositifs les plus méconnus et les plus négligés par les employeurs. Pourtant, son absence expose les entreprises de 50 salariés et plus à une sanction financière automatique : un abondement de 3 000 euros sur le compte personnel de formation (CPF) de chaque salarié concerné.
+L'[entretien professionnel](https://enclair.media/articles/entretien-annuel-vs-entretien-professionnel) est l'un des dispositifs les plus méconnus et les plus négligés par les employeurs. Pourtant, son absence expose les entreprises de 50 salariés et plus à une sanction financière automatique : un abondement de 3 000 euros sur le compte personnel de formation (CPF) de chaque salarié concerné.
 
 ## L'obligation légale : tous les deux ans
 
-L'article L.6315-1 du Code du travail impose à tout employeur d'organiser un entretien professionnel avec chaque salarié **tous les deux ans**. Cet entretien est consacré aux perspectives d'évolution professionnelle du salarié, notamment en termes de qualifications et d'emploi.
+L'article L.6315-1 du Code du travail impose à tout employeur d'organiser un [entretien professionnel](https://enclair.media/articles/obligation-formation-compte-a-rebours-6-ans) avec chaque salarié **tous les deux ans**. Cet entretien est consacré aux perspectives d'évolution professionnelle du salarié, notamment en termes de qualifications et d'emploi.
 
 Cet entretien doit être distingué de l'entretien annuel d'évaluation, qui porte sur les objectifs et les performances. Les deux peuvent être réalisés le même jour, mais doivent faire l'objet de **deux temps distincts et de deux comptes rendus séparés**.
 
-L'entretien professionnel est également obligatoire au retour de certaines absences prolongées : congé maternité, congé parental, arrêt maladie de plus de 6 mois, congé sabbatique, mandat syndical.
+L'[entretien professionnel](https://enclair.media/articles/conge-parental-nouvelles-regles-retour-poste) est également obligatoire au retour de certaines absences prolongées : congé maternité, congé parental, arrêt maladie de plus de 6 mois, congé sabbatique, mandat syndical.
 
 ## Le bilan à 6 ans : l'état des lieux récapitulatif
 

@@ -1,24 +1,30 @@
 ---
-title: "Régularisation progressive des cotisations : comment ça marche"
-excerpt: "La régularisation progressive des cotisations sociales permet de lisser les ajustements de cotisations tout au long de l'année. Un mécanisme technique essentiel pour la fiabilité de la paie et la gestion de trésorerie."
-date: "2025-10-15"
-category: "economie"
-tags: ["cotisations sociales", "régularisation", "paie", "URSSAF"]
-readTime: "6 min"
+title: 'Régularisation progressive des cotisations : comment ça marche'
+excerpt: >-
+  La régularisation progressive des cotisations sociales permet de lisser les
+  ajustements de cotisations tout au long de l'année.
+date: '2025-10-15'
+category: economie
+tags:
+  - cotisations sociales
+  - régularisation
+  - paie
+  - URSSAF
+readTime: 6 min
 sources:
-  - "Article R. 242-2 du Code de la sécurité sociale"
-  - "Circulaire ACOSS n° 2017-0000004 du 9 janvier 2017"
-  - "BOSS, Bulletin officiel de la sécurité sociale, rubrique 'Assiette générale'"
-  - "Article L. 242-1 du Code de la sécurité sociale"
+  - Article R. 242-2 du Code de la sécurité sociale
+  - Circulaire ACOSS n° 2017-0000004 du 9 janvier 2017
+  - 'BOSS, Bulletin officiel de la sécurité sociale, rubrique ''Assiette générale'''
+  - Article L. 242-1 du Code de la sécurité sociale
 ---
 
-La régularisation progressive des cotisations sociales est un mécanisme de calcul qui s'applique chaque mois pour ajuster les cotisations dues. Contrairement à la régularisation annuelle qui concentre les ajustements en fin d'année, la méthode progressive lisse les régularisations mois par mois. Un sujet technique mais crucial pour la fiabilité de la paie.
+La régularisation progressive des [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025) est un mécanisme de calcul qui s'applique chaque mois pour ajuster les cotisations dues. Contrairement à la régularisation annuelle qui concentre les ajustements en fin d'année, la méthode progressive lisse les régularisations mois par mois. Un sujet technique mais crucial pour la fiabilité de la paie.
 
 ## Le principe de la régularisation progressive
 
 ### Le mécanisme
 
-Chaque mois, les cotisations sociales sont calculées sur la rémunération **cumulée depuis le début de l'année**, puis diminuées des cotisations déjà versées sur les mois précédents. Le résultat correspond aux cotisations du mois.
+Chaque mois, les [cotisations sociales](https://enclair.media/articles/cotisations-sociales-2026-ce-qui-change-bulletins) sont calculées sur la rémunération **cumulée depuis le début de l'année**, puis diminuées des cotisations déjà versées sur les mois précédents. Le résultat correspond aux cotisations du mois.
 
 Formule : Cotisations du mois M = Cotisations sur la base cumul janvier à M - Cotisations déjà acquittées de janvier à M-1
 
@@ -65,7 +71,7 @@ La régularisation progressive produit un lissage plus équitable de la réparti
 
 ## L'impact sur la réduction générale de cotisations
 
-La régularisation progressive s'applique également au calcul de la **réduction générale de cotisations patronales** (ex-réduction Fillon). Le coefficient de réduction est recalculé chaque mois sur la base de la rémunération cumulée depuis le début de l'année, rapportée au SMIC cumulé.
+La régularisation progressive s'applique également au calcul de la **réduction générale de [cotisations patronales](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour)** (ex-réduction Fillon). Le coefficient de réduction est recalculé chaque mois sur la base de la rémunération cumulée depuis le début de l'année, rapportée au SMIC cumulé.
 
 Ce mécanisme est essentiel car la réduction générale est dégressive : plus le salaire augmente, plus le coefficient diminue. Sans régularisation progressive, un mois de prime pourrait supprimer totalement la réduction alors que la rémunération annualisée y ouvre droit.
 

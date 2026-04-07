@@ -1,18 +1,24 @@
 ---
-title: "Non-concurrence : la clause qui vous coûte même si le salarié la viole"
-excerpt: "Vous avez inséré une clause de non-concurrence dans tous vos contrats cadres. Mais savez-vous que vous devez la payer même si vous n'en avez plus besoin ? Et que le salarié qui la viole ne vous doit pas forcément un centime ?"
-date: "2025-04-09"
-category: "droit-social"
-tags: ["clause de non-concurrence", "contrepartie financière", "renonciation", "indemnité"]
-readTime: "7 min"
+title: 'Non-concurrence : la clause qui vous coûte même si le salarié la viole'
+excerpt: >-
+  Vous avez inséré une clause de non-concurrence dans tous vos contrats cadres.
+  Mais savez-vous que vous devez la payer même si vous n'en avez plus besoin ?
+date: '2025-04-09'
+category: droit-social
+tags:
+  - clause de non-concurrence
+  - contrepartie financière
+  - renonciation
+  - indemnité
+readTime: 7 min
 sources:
-  - "Cass. soc., 10 juillet 2002, n° 99-43.334 et n° 99-43.336"
-  - "Cass. soc., 13 octobre 2021, n° 20-12.059"
-  - "Cass. soc., 25 mai 2016, n° 14-20.578"
-  - "Cass. soc., 21 mars 2018, n° 16-21.021"
+  - 'Cass. soc., 10 juillet 2002, n° 99-43.334 et n° 99-43.336'
+  - 'Cass. soc., 13 octobre 2021, n° 20-12.059'
+  - 'Cass. soc., 25 mai 2016, n° 14-20.578'
+  - 'Cass. soc., 21 mars 2018, n° 16-21.021'
 ---
 
-Jean-Pierre quitte votre entreprise après huit ans. Son contrat contient une clause de non-concurrence d'un an couvrant la région Île-de-France. Vous ne voulez pas la maintenir — il part dans un secteur différent. Mais vous oubliez de la lever dans les délais. Résultat : vous devez lui verser la contrepartie financière pendant douze mois, sans bénéfice aucun.
+Jean-Pierre quitte votre entreprise après huit ans. Son contrat contient une clause de non-concurrence d'un an couvrant la région Île-de-France. Vous ne voulez pas la maintenir — il part dans un secteur différent. Mais vous oubliez de la lever dans les délais. Résultat : vous devez lui verser la [contrepartie financière](https://enclair.media/articles/clause-non-concurrence-contrepartie-financiere-insuffisante) pendant douze mois, sans bénéfice aucun.
 
 La clause de non-concurrence est l'une des dispositions contractuelles les plus mal gérées en entreprise. Elle coûte cher quand elle fonctionne, et parfois encore plus cher quand elle ne sert à rien.
 
@@ -26,13 +32,13 @@ L'absence de l'une de ces conditions rend la clause nulle. Et c'est le salarié 
 
 La contrepartie financière ne peut pas être dérisoire. La Cour de cassation n'a pas fixé de seuil chiffré, mais les conventions collectives prévoient souvent un minimum (par exemple, un tiers du salaire mensuel pour la convention Syntec). À défaut de disposition conventionnelle, les tribunaux apprécient au cas par cas.
 
-La contrepartie doit être versée mensuellement après la rupture du contrat, pendant toute la durée de l'obligation de non-concurrence. Elle est soumise aux cotisations sociales et à l'impôt sur le revenu. Elle est due quelle que soit la cause de la rupture : licenciement, démission, rupture conventionnelle, fin de CDD.
+La contrepartie doit être versée mensuellement après la rupture du contrat, pendant toute la durée de l'obligation de non-concurrence. Elle est soumise aux cotisations sociales et à l'impôt sur le revenu. Elle est due quelle que soit la cause de la rupture : licenciement, démission, [rupture conventionnelle](https://enclair.media/articles/nouveau-formulaire-rupture-conventionnelle-ce-qui-change), fin de CDD.
 
 Point essentiel : une clause qui minore la contrepartie en cas de démission est nulle. La Cour de cassation a jugé que la contrepartie ne peut pas varier selon le mode de rupture du contrat (Cass. soc., 25 mai 2016, n° 14-20.578). Pourtant, cette clause se retrouve encore dans de nombreux contrats.
 
 ## La renonciation : un délai à ne jamais rater
 
-La plupart des clauses de non-concurrence prévoient la possibilité pour l'employeur de renoncer à la clause, libérant ainsi le salarié de son obligation et se libérant lui-même du paiement de la contrepartie. Mais cette renonciation est enfermée dans un délai strict, prévu par le contrat ou la convention collective.
+La plupart des clauses de non-concurrence prévoient la possibilité pour l'employeur de renoncer à la clause, libérant ainsi le salarié de son obligation et se libérant lui-même du paiement de la contrepartie. Mais cette renonciation est enfermée dans un délai strict, prévu par le contrat ou la [convention collective](https://enclair.media/articles/convention-collective-identifier-applicable).
 
 Si votre convention prévoit que la renonciation doit intervenir dans les 15 jours suivant la notification de la rupture et que vous renoncez au bout de trois semaines, la renonciation est tardive. Vous devez la contrepartie (Cass. soc., 21 mars 2018, n° 16-21.021).
 

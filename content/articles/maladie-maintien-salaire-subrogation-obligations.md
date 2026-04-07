@@ -1,15 +1,21 @@
 ---
-title: "Maladie et maintien de salaire : subrogation et obligations conventionnelles"
-excerpt: "Le maintien de salaire pendant l'arrêt maladie combine obligations légales et conventionnelles, IJSS et subrogation. Un mécanisme complexe que toute entreprise doit maîtriser pour éviter les erreurs de paie coûteuses."
-date: "2025-12-02"
-category: "droit-social"
-tags: ["arrêt maladie", "maintien de salaire", "subrogation", "IJSS"]
-readTime: "7 min"
+title: 'Maladie et maintien de salaire : subrogation et obligations conventionnelles'
+excerpt: >-
+  Le maintien de salaire pendant l'arrêt maladie combine obligations légales et
+  conventionnelles, IJSS et subrogation.
+date: '2025-12-02'
+category: droit-social
+tags:
+  - arrêt maladie
+  - maintien de salaire
+  - subrogation
+  - IJSS
+readTime: 7 min
 sources:
-  - "Articles L. 1226-1 et D. 1226-1 à D. 1226-8 du Code du travail"
-  - "Article R. 323-11 du Code de la sécurité sociale (subrogation)"
-  - "Cass. soc., 20 janvier 2021, n° 19-16.283"
-  - "Convention collective nationale de la métallurgie (IDCC 3248), article 90"
+  - Articles L. 1226-1 et D. 1226-1 à D. 1226-8 du Code du travail
+  - Article R. 323-11 du Code de la sécurité sociale (subrogation)
+  - 'Cass. soc., 20 janvier 2021, n° 19-16.283'
+  - 'Convention collective nationale de la métallurgie (IDCC 3248), article 90'
 ---
 
 Le maintien de salaire pendant un arrêt maladie est un sujet technique qui mêle obligations légales, dispositions conventionnelles plus favorables et mécanisme de subrogation. Les erreurs sont fréquentes et peuvent coûter cher à l'entreprise.
@@ -22,7 +28,7 @@ Le Code du travail prévoit un maintien de salaire par l'employeur en cas d'arr�
 
 - Justifier d'une **ancienneté d'un an** dans l'entreprise (à la date du premier jour d'absence)
 - Avoir transmis le certificat médical dans les **48 heures**
-- Être pris en charge par la sécurité sociale (percevoir les IJSS)
+- Être pris en charge par la [sécurité sociale](https://enclair.media/articles/calcul-ijss-verification-employeur) (percevoir les IJSS)
 - Être soigné en France ou dans un pays de l'EEE
 
 ### Le montant et la durée du maintien légal
@@ -78,13 +84,13 @@ La subrogation est **automatique** lorsque l'employeur maintient le salaire à h
 
 Le principal risque est le **décalage de trésorerie**. L'employeur verse le salaire au salarié mais peut attendre plusieurs semaines le remboursement des IJSS par la CPAM. En cas d'arrêts longs ou multiples, l'impact sur la trésorerie peut être significatif.
 
-Autre risque : si la CPAM refuse de verser les IJSS (par exemple, en cas de contrôle médical concluant à l'aptitude au travail), l'employeur a versé des sommes qu'il ne récupérera pas. Il doit alors se retourner vers le salarié pour récupérer le trop-versé.
+Autre risque : si la CPAM refuse de verser les IJSS (par exemple, en cas de [contrôle médical](https://enclair.media/articles/controle-arrets-maladie-contre-visite-patronale) concluant à l'aptitude au travail), l'employeur a versé des sommes qu'il ne récupérera pas. Il doit alors se retourner vers le salarié pour récupérer le trop-versé.
 
 ## Les erreurs fréquentes
 
 ### Ne pas appliquer la convention collective
 
-L'erreur la plus courante est d'appliquer le minimum légal alors que la convention collective prévoit des dispositions plus favorables. La Cour de cassation rappelle que le salarié a droit au régime le plus favorable entre la loi et la convention (Cass. soc., 20 janvier 2021, n° 19-16.283).
+L'erreur la plus courante est d'appliquer le minimum légal alors que la [convention collective](https://enclair.media/articles/convention-collective-identifier-applicable) prévoit des dispositions plus favorables. La Cour de cassation rappelle que le salarié a droit au régime le plus favorable entre la loi et la convention (Cass. soc., 20 janvier 2021, n° 19-16.283).
 
 ### Mal calculer le maintien en net
 

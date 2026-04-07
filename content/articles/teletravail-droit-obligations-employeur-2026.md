@@ -1,17 +1,24 @@
 ---
-title: "Télétravail en 2026 : droits, obligations et pièges pour l'employeur"
-excerpt: "Accord collectif ou charte unilatérale, prise en charge des frais, accident du travail à domicile, droit à la déconnexion... Le cadre juridique du télétravail est plus strict qu'il n'y paraît."
-date: "2026-02-25"
-category: "droit-social"
-tags: ["télétravail", "accord-collectif", "droit-déconnexion", "accident-du-travail", "frais-professionnels"]
-readTime: "6 min"
+title: 'Télétravail en 2026 : droits, obligations et pièges pour l''employeur'
+excerpt: >-
+  Accord collectif ou charte unilatérale, prise en charge des frais, accident du
+  travail à domicile, droit à la déconnexion...
+date: '2026-02-25'
+category: droit-social
+tags:
+  - télétravail
+  - accord-collectif
+  - droit-déconnexion
+  - accident-du-travail
+  - frais-professionnels
+readTime: 6 min
 sources:
-  - "Cass. soc., 19 juillet 2023, n°22-13.378"
-  - "Cass. civ. 2e, 15 mars 2018, n°17-11.336"
-  - "Cass. soc., 12 avril 2018, n°17-14.631"
-  - "ANI du 26 novembre 2020 relatif au télétravail"
-  - "Articles L.1222-9 à L.1222-11 du Code du travail"
-  - "Article L.2242-17 du Code du travail"
+  - 'Cass. soc., 19 juillet 2023, n°22-13.378'
+  - 'Cass. civ. 2e, 15 mars 2018, n°17-11.336'
+  - 'Cass. soc., 12 avril 2018, n°17-14.631'
+  - ANI du 26 novembre 2020 relatif au télétravail
+  - Articles L.1222-9 à L.1222-11 du Code du travail
+  - Article L.2242-17 du Code du travail
 ---
 
 Le télétravail est devenu la norme dans une majorité de PME. Un, deux ou trois jours par semaine, hybride ou permanent -- les formules se sont banalisées. Mais le cadre juridique, lui, n'a rien de banal.
@@ -67,11 +74,11 @@ Concrètement, si votre salarié se blesse chez lui pendant ses heures de travai
 
 ## Le droit à la déconnexion : pas une option
 
-L'article L.2242-17 du Code du travail impose que la négociation annuelle obligatoire (NAO) sur l'égalité professionnelle et la qualité de vie au travail porte sur les **modalités du plein exercice du droit à la déconnexion** du salarié.
+L'article L.2242-17 du Code du travail impose que la négociation annuelle obligatoire (NAO) sur l'[égalité professionnelle](https://enclair.media/articles/index-egalite-femmes-hommes-publication-sanctions-2026) et la qualité de vie au travail porte sur les **modalités du plein exercice du [droit à la déconnexion](https://enclair.media/articles/droit-deconnexion-obligation-negocier)** du salarié.
 
 En télétravail, la frontière entre vie professionnelle et vie personnelle s'efface. Un courriel à 22h, un message Slack le dimanche, une visio planifiée à 8h le lundi matin -- ces pratiques peuvent constituer un manquement au droit à la déconnexion.
 
-**Cass. soc., 12 avril 2018, n°17-14.631** : la Cour de cassation a jugé que l'envoi systématique de courriels en dehors des heures de travail, même sans injonction explicite de répondre, peut caractériser un manquement de l'employeur à son obligation de sécurité et à son obligation de respecter le temps de repos.
+**Cass. soc., 12 avril 2018, n°17-14.631** : la Cour de cassation a jugé que l'envoi systématique de courriels en dehors des heures de travail, même sans injonction explicite de répondre, peut caractériser un manquement de l'employeur à son [obligation de sécurité](https://enclair.media/articles/droit-de-retrait-quand-salarie-peut-arreter-travailler) et à son obligation de respecter le temps de repos.
 
 **Ce qu'il faut mettre en place** :
 

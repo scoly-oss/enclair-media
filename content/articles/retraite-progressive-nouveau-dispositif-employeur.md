@@ -1,19 +1,27 @@
 ---
-title: "Retraite progressive : le nouveau dispositif employeur"
-excerpt: "La réforme des retraites a élargi l'accès à la retraite progressive. Les employeurs doivent désormais répondre aux demandes de temps partiel de fin de carrière sous peine de sanctions."
-date: "2025-08-10"
-category: "economie"
-tags: ["retraite progressive", "temps partiel", "fin de carrière", "réforme retraites"]
-readTime: "6 min"
+title: 'Retraite progressive : le nouveau dispositif employeur'
+excerpt: >-
+  La réforme des retraites a élargi l'accès à la retraite progressive. Les
+  employeurs doivent désormais répondre aux demandes de temps partiel de fin de.
+date: '2025-08-10'
+category: economie
+tags:
+  - retraite progressive
+  - temps partiel
+  - fin de carrière
+  - réforme retraites
+readTime: 6 min
 sources:
-  - "Code de la sécurité sociale, articles L.351-15 à L.351-16"
-  - "Loi n°2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale"
-  - "Circulaire CNAV 2023-23 du 15 septembre 2023"
+  - 'Code de la sécurité sociale, articles L.351-15 à L.351-16'
+  - >-
+    Loi n°2023-270 du 14 avril 2023 de financement rectificative de la sécurité
+    sociale
+  - Circulaire CNAV 2023-23 du 15 septembre 2023
 ---
 
 ## Un salarié de 60 ans vous demande de passer à temps partiel pour sa retraite progressive. Pouvez-vous refuser ?
 
-Depuis la réforme des retraites de 2023, la retraite progressive est devenue un **droit renforcé** pour les salariés. Et votre marge de manoeuvre pour refuser le passage à temps partiel s'est considérablement réduite.
+Depuis la réforme des retraites de 2023, la [retraite progressive](https://enclair.media/articles/reforme-retraites-2025-impacts-fins-carriere) est devenue un **droit renforcé** pour les salariés. Et votre marge de manoeuvre pour refuser le passage à temps partiel s'est considérablement réduite.
 
 ## Ce qui a changé avec la réforme
 
@@ -58,7 +66,7 @@ Les motifs irrecevables :
 
 ### Maintenir les cotisations retraite à temps plein (option)
 
-L'employeur et le salarié peuvent convenir de maintenir les cotisations de retraite sur la base d'un **salaire à temps plein** (article L.241-3-1 du CSS). L'employeur prend en charge le surplus de cotisations patronales, et le salarié peut prendre en charge le surplus de cotisations salariales.
+L'employeur et le salarié peuvent convenir de maintenir les cotisations de retraite sur la base d'un **salaire à temps plein** (article L.241-3-1 du CSS). L'employeur prend en charge le surplus de [cotisations patronales](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour), et le salarié peut prendre en charge le surplus de cotisations salariales.
 
 Ce dispositif permet au salarié de ne pas être pénalisé sur sa future pension. C'est un outil de négociation de fin de carrière souvent méconnu.
 
@@ -79,7 +87,7 @@ La retraite progressive n'est pas qu'une contrainte. C'est aussi un outil de **g
 
 3. **Étudiez la faisabilité** du temps partiel sur chaque poste concerné. Documentez votre analyse pour pouvoir justifier un éventuel refus.
 
-4. **Proposez le maintien des cotisations** à temps plein : c'est un avantage qui ne coûte que le surplus de cotisations patronales et qui fidélise le salarié en fin de carrière.
+4. **Proposez le maintien des cotisations** à temps plein : c'est un avantage qui ne coûte que le surplus de [cotisations patronales](https://enclair.media/articles/reduction-generale-cotisations-formule-2026) et qui fidélise le salarié en fin de carrière.
 
 5. **Formalisez votre politique** de gestion des fins de carrière dans un accord d'entreprise ou une note de service. Un cadre clair évite les contentieux individuels.
 

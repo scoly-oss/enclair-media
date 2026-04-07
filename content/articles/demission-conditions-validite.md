@@ -1,23 +1,31 @@
 ---
-title: "Démission : les conditions pour qu'elle soit valable (et quand elle ne l'est pas)"
-excerpt: "La démission doit résulter d'une volonté claire et non équivoque du salarié. Lorsque cette condition n'est pas remplie, la rupture peut être requalifiée en licenciement sans cause réelle et sérieuse. Les cas à connaître."
-date: "2026-03-05"
-category: "droit-social"
-tags: ["démission", "volonté claire", "requalification", "vice du consentement"]
-readTime: "7 min"
+title: >-
+  Démission : les conditions pour qu'elle soit valable (et quand elle ne l'est
+  pas)
+excerpt: >-
+  La démission doit résulter d'une volonté claire et non équivoque du salarié.
+  Lorsque cette condition n'est pas remplie, la rupture peut être.
+date: '2026-03-05'
+category: droit-social
+tags:
+  - démission
+  - volonté claire
+  - requalification
+  - vice du consentement
+readTime: 7 min
 sources:
-  - "Cass. soc., 9 mai 2007, n° 05-40.518"
-  - "Article L.1231-1 du Code du travail"
-  - "Article L.1237-1 du Code du travail"
-  - "Cass. soc., 15 mars 2006, n° 03-45.031"
-  - "Cass. soc., 25 mai 2016, n° 14-27.324"
+  - 'Cass. soc., 9 mai 2007, n° 05-40.518'
+  - Article L.1231-1 du Code du travail
+  - Article L.1237-1 du Code du travail
+  - 'Cass. soc., 15 mars 2006, n° 03-45.031'
+  - 'Cass. soc., 25 mai 2016, n° 14-27.324'
 ---
 
 La démission semble être l'acte le plus simple du droit du travail : le salarié décide de quitter son employeur. En réalité, sa validité est subordonnée à une condition fondamentale — la volonté claire et non équivoque — dont l'absence peut entraîner une requalification lourde de conséquences pour l'employeur.
 
 ## La condition essentielle : une volonté claire et non équivoque
 
-La démission n'est définie par aucun texte du Code du travail. C'est la jurisprudence qui en a forgé le régime. La Cour de cassation exige que la démission résulte d'une **volonté claire et non équivoque** du salarié de mettre fin à son contrat de travail (Cass. soc., 9 mai 2007, n° 05-40.518).
+La démission n'est définie par aucun texte du Code du travail. C'est la jurisprudence qui en a forgé le régime. La Cour de cassation exige que la démission résulte d'une **volonté claire et non équivoque** du salarié de mettre fin à son [contrat de travail](https://enclair.media/articles/succession-cdd-meme-poste-delai-carence) (Cass. soc., 9 mai 2007, n° 05-40.518).
 
 Cette exigence implique que la décision du salarié soit :
 - **Libre** : prise sans pression ni contrainte de l'employeur
@@ -37,7 +45,7 @@ En pratique, il est fortement recommandé à l'employeur de ne considérer une d
 
 ## Les situations où la démission est requalifiée
 
-Plusieurs cas de figure conduisent les juges à écarter la qualification de démission et à requalifier la rupture en licenciement sans cause réelle et sérieuse.
+Plusieurs cas de figure conduisent les juges à écarter la qualification de démission et à requalifier la rupture en licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher).
 
 **La démission sous la contrainte.** Lorsque la démission a été obtenue sous la pression de l'employeur — menaces de licenciement pour faute grave, pressions psychologiques, chantage —, elle est nulle. Le salarié peut saisir le conseil de prud'hommes pour faire constater que sa démission est viciée et obtenir les indemnités de rupture.
 
@@ -72,7 +80,7 @@ Une démission valable produit plusieurs effets juridiques.
 
 ## Les recommandations pour l'employeur
 
-**Ne jamais provoquer une démission.** Pousser un salarié à démissionner pour éviter un licenciement est une stratégie risquée. Si le salarié démontre devant les prud'hommes que sa démission a été extorquée, l'employeur sera condamné comme s'il avait procédé à un licenciement sans cause réelle et sérieuse.
+**Ne jamais provoquer une démission.** Pousser un salarié à démissionner pour éviter un licenciement est une stratégie risquée. Si le salarié démontre devant les prud'hommes que sa démission a été extorquée, l'employeur sera condamné comme s'il avait procédé à un licenciement sans [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse).
 
 **Obtenir une confirmation écrite.** Face à une démission orale, demander systématiquement au salarié de confirmer sa décision par écrit, en lui laissant un délai de réflexion raisonnable (24 à 48 heures).
 

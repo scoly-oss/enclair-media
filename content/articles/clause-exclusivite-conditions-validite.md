@@ -1,19 +1,25 @@
 ---
-title: "Clause d'exclusivité : les conditions pour qu'elle soit valable"
-excerpt: "La clause d'exclusivité interdit au salarié d'exercer toute autre activité professionnelle. Pour être valable, elle doit respecter des conditions strictes de justification et de proportionnalité. Tour d'horizon des règles applicables."
-date: "2026-03-10"
-category: "droit-social"
-tags: ["clause exclusivité", "contrat de travail", "cumul d'emplois", "liberté du travail"]
-readTime: "6 min"
+title: 'Clause d''exclusivité : les conditions pour qu''elle soit valable'
+excerpt: >-
+  La clause d'exclusivité interdit au salarié d'exercer toute autre activité
+  professionnelle. Pour être valable, elle doit respecter des conditions.
+date: '2026-03-10'
+category: droit-social
+tags:
+  - clause exclusivité
+  - contrat de travail
+  - cumul d'emplois
+  - liberté du travail
+readTime: 6 min
 sources:
-  - "Article L.1121-1 du Code du travail"
-  - "Article L.1222-5 du Code du travail"
-  - "Cass. soc., 11 juillet 2000, n° 98-40.143"
-  - "Cass. soc., 16 septembre 2009, n° 07-45.346"
-  - "Loi n° 2003-721 du 1er août 2003 (loi Dutreil)"
+  - Article L.1121-1 du Code du travail
+  - Article L.1222-5 du Code du travail
+  - 'Cass. soc., 11 juillet 2000, n° 98-40.143'
+  - 'Cass. soc., 16 septembre 2009, n° 07-45.346'
+  - Loi n° 2003-721 du 1er août 2003 (loi Dutreil)
 ---
 
-La clause d'exclusivité est un outil contractuel puissant qui interdit au salarié d'exercer toute autre activité professionnelle, salariée ou indépendante, pendant la durée de son contrat de travail. Plus restrictive que la clause de non-concurrence — qui ne joue qu'après la rupture du contrat —, elle porte directement atteinte à la liberté du travail et fait l'objet d'un encadrement jurisprudentiel rigoureux.
+La clause d'exclusivité est un outil contractuel puissant qui interdit au salarié d'exercer toute autre activité professionnelle, salariée ou indépendante, pendant la durée de son [contrat de travail](https://enclair.media/articles/clause-de-mobilite-quand-le-salarie-peut-refuser). Plus restrictive que la [clause de non-concurrence](https://enclair.media/articles/non-concurrence-clause-qui-coute-meme-si-salarie-viole) — qui ne joue qu'après la rupture du contrat —, elle porte directement atteinte à la liberté du travail et fait l'objet d'un encadrement jurisprudentiel rigoureux.
 
 ## Le fondement : la liberté du travail comme limite
 
@@ -66,7 +72,7 @@ Le salarié doit informer son employeur de son projet de création, mais n'a pas
 
 Lorsqu'une clause d'exclusivité ne remplit pas les conditions de validité, elle est réputée **non écrite**. Le salarié peut exercer librement une autre activité sans que l'employeur puisse lui en faire le reproche.
 
-Si l'employeur licencie le salarié pour violation d'une clause d'exclusivité jugée nulle, le licenciement sera dépourvu de cause réelle et sérieuse (Cass. soc., 16 septembre 2009, n° 07-45.346).
+Si l'employeur licencie le salarié pour violation d'une clause d'exclusivité jugée nulle, le licenciement sera dépourvu de [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse) (Cass. soc., 16 septembre 2009, n° 07-45.346).
 
 Le salarié qui a subi un préjudice du fait de l'application d'une clause illicite peut également solliciter des dommages et intérêts en réparation de la perte de revenus subie.
 

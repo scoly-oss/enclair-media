@@ -1,26 +1,36 @@
 ---
-title: "Congés payés : les règles d'acquisition que la loi DDADUE a bouleversées"
-excerpt: "La loi du 22 avril 2024 portant adaptation au droit de l'Union européenne a profondément modifié les règles d'acquisition des congés payés pendant les arrêts maladie. Décryptage des nouvelles obligations pour les employeurs."
-date: "2025-10-02"
-category: "droit-social"
-tags: ["congés payés", "arrêt maladie", "DDADUE", "droit européen"]
-readTime: "7 min"
+title: 'Congés payés : les règles d''acquisition que la loi DDADUE a bouleversées'
+excerpt: >-
+  La loi du 22 avril 2024 portant adaptation au droit de l'Union européenne a
+  profondément modifié les règles d'acquisition des congés payés pendant les.
+date: '2025-10-02'
+category: droit-social
+tags:
+  - congés payés
+  - arrêt maladie
+  - DDADUE
+  - droit européen
+readTime: 7 min
 sources:
-  - "Loi n° 2024-364 du 22 avril 2024 portant diverses dispositions d'adaptation au droit de l'Union européenne"
-  - "CJUE, 24 janvier 2012, C-282/10, Dominguez"
-  - "Cass. soc., 13 septembre 2023, n° 22-17.340 (arrêts dits 'congés payés et maladie')"
-  - "Article L. 3141-5 du Code du travail (version modifiée)"
+  - >-
+    Loi n° 2024-364 du 22 avril 2024 portant diverses dispositions d'adaptation
+    au droit de l'Union européenne
+  - 'CJUE, 24 janvier 2012, C-282/10, Dominguez'
+  - >-
+    Cass. soc., 13 septembre 2023, n° 22-17.340 (arrêts dits 'congés payés et
+    maladie')
+  - Article L. 3141-5 du Code du travail (version modifiée)
 ---
 
 La loi n° 2024-364 du 22 avril 2024 portant diverses dispositions d'adaptation au droit de l'Union européenne (dite loi DDADUE) constitue l'un des plus importants bouleversements du droit des congés payés depuis des décennies. En alignant le droit français sur la directive européenne 2003/88/CE, elle remet en cause des pratiques RH solidement ancrées. Dirigeants, DRH et gestionnaires de paie doivent impérativement adapter leurs processus.
 
 ## Le contexte : une non-conformité française historique
 
-Pendant des années, le droit français privait les salariés en arrêt maladie non professionnelle de tout droit à congés payés. L'article L. 3141-5 du Code du travail ne prévoyait l'assimilation à du temps de travail effectif que pour les arrêts d'origine professionnelle, et ce dans la limite d'un an.
+Pendant des années, le droit français privait les salariés en arrêt maladie non professionnelle de tout droit à congés payés. L'article L. 3141-5 du Code du travail ne prévoyait l'assimilation à du [temps de travail effectif](https://enclair.media/articles/temps-de-trajet-temps-travail-effectif) que pour les arrêts d'origine professionnelle, et ce dans la limite d'un an.
 
 Cette position était frontalement contraire à l'article 7 de la directive 2003/88/CE, tel qu'interprété par la Cour de justice de l'Union européenne (CJUE) dans son arrêt Schultz-Hoff du 20 janvier 2009 (C-350/06) puis Dominguez du 24 janvier 2012 (C-282/10).
 
-La Cour de cassation a fini par tirer les conséquences de cette incompatibilité dans ses arrêts historiques du 13 septembre 2023, en écartant les dispositions françaises contraires au droit européen. Le législateur n'avait plus d'autre choix que d'intervenir.
+La Cour de cassation a fini par tirer les conséquences de cette incompatibilité dans ses arrêts historiques du 13 septembre 2023, en écartant les dispositions françaises contraires au [droit européen](https://enclair.media/articles/conges-payes-arret-maladie-loi-ddadue). Le législateur n'avait plus d'autre choix que d'intervenir.
 
 ## Ce que change concrètement la loi DDADUE
 
@@ -32,7 +42,7 @@ Ce différentiel de 6 jours annuels constitue le compromis retenu par le législ
 
 ### Acquisition pendant la maladie professionnelle et l'AT
 
-Pour les arrêts d'origine professionnelle (accident du travail ou maladie professionnelle), la loi supprime la limitation à un an qui existait auparavant. Le salarié acquiert désormais des congés payés pendant **toute la durée** de son arrêt, au taux plein de 2,5 jours ouvrables par mois.
+Pour les arrêts d'origine professionnelle (accident du travail ou [maladie professionnelle](https://enclair.media/articles/maladie-professionnelle-declaration-employeur)), la loi supprime la limitation à un an qui existait auparavant. Le salarié acquiert désormais des congés payés pendant **toute la durée** de son arrêt, au taux plein de 2,5 jours ouvrables par mois.
 
 ### Le droit au report des congés non pris
 

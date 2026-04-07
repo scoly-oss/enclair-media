@@ -1,29 +1,35 @@
 ---
-title: "Temps de déplacement professionnel : la contrepartie obligatoire"
-excerpt: "Le temps de déplacement professionnel excédant le trajet habituel domicile-travail doit donner lieu à une contrepartie. La Cour de cassation a précisé les contours de cette obligation souvent négligée."
-date: "2026-03-13"
-category: "jurisprudence"
-tags: ["déplacement professionnel", "temps de travail", "contrepartie", "trajet"]
-readTime: "6 min"
+title: 'Temps de déplacement professionnel : la contrepartie obligatoire'
+excerpt: >-
+  Le temps de déplacement professionnel excédant le trajet habituel
+  domicile-travail doit donner lieu à une contrepartie.
+date: '2026-03-13'
+category: jurisprudence
+tags:
+  - déplacement professionnel
+  - temps de travail
+  - contrepartie
+  - trajet
+readTime: 6 min
 sources:
-  - "Article L.3121-4 du Code du travail"
-  - "Cass. soc., 5 novembre 2014, n° 13-18.427"
-  - "Cass. soc., 14 novembre 2018, n° 17-20.659"
-  - "Cass. soc., 1er mars 2023, n° 21-19.987"
-  - "Article L.3121-7 du Code du travail"
+  - Article L.3121-4 du Code du travail
+  - 'Cass. soc., 5 novembre 2014, n° 13-18.427'
+  - 'Cass. soc., 14 novembre 2018, n° 17-20.659'
+  - 'Cass. soc., 1er mars 2023, n° 21-19.987'
+  - Article L.3121-7 du Code du travail
 ---
 
-Le temps de trajet entre le domicile et le lieu de travail habituel n'est pas du temps de travail effectif. Mais lorsque le salarié effectue un déplacement professionnel excédant ce trajet normal, une contrepartie est obligatoire. La Cour de cassation a bâti sur l'article L.3121-4 du Code du travail une jurisprudence exigeante que beaucoup d'employeurs ignorent.
+Le temps de trajet entre le domicile et le lieu de travail habituel n'est pas du [temps de travail effectif](https://enclair.media/articles/temps-de-trajet-temps-travail-effectif). Mais lorsque le salarié effectue un déplacement professionnel excédant ce trajet normal, une contrepartie est obligatoire. La Cour de cassation a bâti sur l'article L.3121-4 du Code du travail une jurisprudence exigeante que beaucoup d'employeurs ignorent.
 
 ## Le cadre légal
 
 L'article L.3121-4 du Code du travail distingue deux situations :
 
-**Le temps de trajet domicile-travail habituel** n'est pas du temps de travail effectif. Il n'a pas à être rémunéré ni compensé.
+**Le temps de trajet domicile-travail habituel** n'est pas du [temps de travail](https://enclair.media/articles/temps-habillage-deshabillage-contrepartie-due) effectif. Il n'a pas à être rémunéré ni compensé.
 
 **Le temps de déplacement professionnel dépassant le temps normal de trajet** entre le domicile et le lieu habituel de travail doit faire l'objet d'une **contrepartie** déterminée par accord collectif ou, à défaut, par décision unilatérale de l'employeur après consultation du CSE.
 
-Cette contrepartie peut être sous forme de **repos** ou sous forme **financière**. La loi ne fixe ni montant ni durée minimum, laissant la négociation collective ou l'employeur en déterminer les modalités.
+Cette contrepartie peut être sous forme de **repos** ou sous forme **financière**. La loi ne fixe ni montant ni durée minimum, laissant la [négociation collective](https://enclair.media/articles/accord-entreprise-conditions-validite-ordonnances-macron) ou l'employeur en déterminer les modalités.
 
 ## La jurisprudence de la Cour de cassation
 

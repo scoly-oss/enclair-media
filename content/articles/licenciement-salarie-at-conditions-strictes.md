@@ -1,19 +1,25 @@
 ---
-title: "Licenciement d'un salarié en AT : les conditions très strictes"
-excerpt: "Le salarié en arrêt pour accident du travail ou maladie professionnelle bénéficie d'une protection renforcée contre le licenciement. Les deux seules exceptions admises sont la faute grave et l'impossibilité de maintenir le contrat."
-date: "2026-03-16"
-category: "jurisprudence"
-tags: ["accident du travail", "licenciement", "protection", "maladie professionnelle"]
-readTime: "7 min"
+title: 'Licenciement d''un salarié en AT : les conditions très strictes'
+excerpt: >-
+  Le salarié en arrêt pour accident du travail ou maladie professionnelle
+  bénéficie d'une protection renforcée contre le licenciement.
+date: '2026-03-16'
+category: jurisprudence
+tags:
+  - accident du travail
+  - licenciement
+  - protection
+  - maladie professionnelle
+readTime: 7 min
 sources:
-  - "Article L.1226-9 du Code du travail"
-  - "Cass. soc., 20 décembre 2017, n° 16-21.302"
-  - "Article L.1226-13 du Code du travail"
-  - "Cass. soc., 15 mars 2023, n° 21-21.579"
-  - "Article L.1226-10 du Code du travail"
+  - Article L.1226-9 du Code du travail
+  - 'Cass. soc., 20 décembre 2017, n° 16-21.302'
+  - Article L.1226-13 du Code du travail
+  - 'Cass. soc., 15 mars 2023, n° 21-21.579'
+  - Article L.1226-10 du Code du travail
 ---
 
-Pendant la période de suspension du contrat de travail consécutive à un accident du travail (AT) ou une maladie professionnelle (MP), le salarié bénéficie d'une protection quasi absolue contre le licenciement. L'article L.1226-9 du Code du travail n'admet que deux exceptions, dont la Cour de cassation fait une interprétation particulièrement restrictive.
+Pendant la période de suspension du contrat de travail consécutive à un [accident du travail](https://enclair.media/articles/accident-travail-faute-employeur-reparation-integrale) (AT) ou une [maladie professionnelle](https://enclair.media/articles/burnout-faute-inexcusable-reconnaissance-juges) (MP), le salarié bénéficie d'une protection quasi absolue contre le licenciement. L'article L.1226-9 du Code du travail n'admet que deux exceptions, dont la Cour de cassation fait une interprétation particulièrement restrictive.
 
 ## Le principe : l'interdiction de licencier
 
@@ -23,7 +29,7 @@ Cette protection est d'ordre public. Le licenciement prononcé en violation de c
 
 ## Les deux exceptions
 
-**1. La faute grave du salarié.** L'employeur peut licencier le salarié en AT/MP s'il démontre une faute grave **non liée à l'accident du travail ou à la maladie professionnelle**. La Cour de cassation exige que la faute soit totalement étrangère à la suspension du contrat.
+**1. La faute grave du salarié.** L'employeur peut licencier le salarié en AT/MP s'il démontre une faute grave **non liée à l'accident du travail ou à la [maladie professionnelle](https://enclair.media/articles/faute-inexcusable-presomption-maladie-professionnelle)**. La Cour de cassation exige que la faute soit totalement étrangère à la suspension du contrat.
 
 Exemples retenus : vol commis pendant l'arrêt, exercice d'une activité concurrente, refus de restituer le matériel professionnel malgré mise en demeure.
 

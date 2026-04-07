@@ -1,15 +1,26 @@
 ---
-title: "Inflation et salaires : comment aborder la NAO en 2026"
-excerpt: "L'inflation ralentit mais les attentes salariales restent fortes. Enveloppe budgétaire, alternatives à la hausse de salaire, erreurs à éviter — guide pratique pour aborder la NAO 2026 en dirigeant averti."
-date: "2026-02-12"
-category: "economie"
-tags: ["NAO", "salaires", "inflation", "intéressement", "négociation"]
-readTime: "6 min"
+title: 'Inflation et salaires : comment aborder la NAO en 2026'
+excerpt: >-
+  L'inflation ralentit mais les attentes salariales restent fortes. Enveloppe
+  budgétaire, alternatives à la hausse de salaire, erreurs à éviter — guide.
+date: '2026-02-12'
+category: economie
+tags:
+  - NAO
+  - salaires
+  - inflation
+  - intéressement
+  - négociation
+readTime: 6 min
 sources:
-  - "INSEE — Indice des prix à la consommation, janvier 2026"
-  - "DARES — Évolution des salaires de base dans le secteur privé, T4 2025"
-  - "Banque de France — Enquête sur les anticipations d'inflation des entreprises, février 2026"
-  - "Ministère du Travail — Guide de la négociation annuelle obligatoire, édition 2025"
+  - 'INSEE — Indice des prix à la consommation, janvier 2026'
+  - 'DARES — Évolution des salaires de base dans le secteur privé, T4 2025'
+  - >-
+    Banque de France — Enquête sur les anticipations d'inflation des
+    entreprises, février 2026
+  - >-
+    Ministère du Travail — Guide de la négociation annuelle obligatoire, édition
+    2025
 ---
 
 Si votre entreprise compte au moins 50 salariés et un délégué syndical, vous êtes tenu d'ouvrir une NAO (négociation annuelle obligatoire) sur les salaires. Même en dessous de ce seuil, vos salariés attendent des réponses sur leur pouvoir d'achat. En 2026, le contexte a changé : l'inflation ralentit, mais les attentes restées fortes depuis 2022-2023 n'ont pas disparu. Voici comment aborder cette négociation avec des données solides et une stratégie claire.
@@ -56,9 +67,9 @@ Avant d'entrer en négociation, vous devez maîtriser quatre chiffres :
 
 Si votre marge ne permet pas une augmentation significative, plusieurs leviers permettent d'améliorer la rémunération globale sans alourdir durablement la masse salariale :
 
-**La prime de partage de la valeur (PPV).** Exonérée de cotisations sociales (dans la limite de 3 000 euros, ou 6 000 euros si accord d'intéressement), c'est un outil ponctuel efficace. Attention : les salariés savent que ce n'est pas pérenne. Elle complète une augmentation, elle ne la remplace pas.
+**La [prime de partage de la valeur](https://enclair.media/articles/prime-partage-valeur-guide-complet-employeur) (PPV).** Exonérée de cotisations sociales (dans la limite de 3 000 euros, ou 6 000 euros si accord d'intéressement), c'est un outil ponctuel efficace. Attention : les salariés savent que ce n'est pas pérenne. Elle complète une augmentation, elle ne la remplace pas.
 
-**L'intéressement.** Un accord d'intéressement lié aux résultats de l'entreprise permet de partager la valeur quand elle existe, sans engagement fixe. L'exonération de cotisations patronales (hors CSG-CRDS et forfait social selon la taille) en fait un levier fiscalement avantageux. La loi Partage de la valeur oblige d'ailleurs les entreprises de 11 à 49 salariés ayant réalisé un bénéfice net fiscal d'au moins 1 % du CA pendant trois années consécutives à mettre en place un dispositif de partage de la valeur.
+**L'intéressement.** Un accord d'intéressement lié aux résultats de l'entreprise permet de partager la valeur quand elle existe, sans engagement fixe. L'exonération de [cotisations patronales](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour) (hors CSG-CRDS et forfait social selon la taille) en fait un levier fiscalement avantageux. La loi Partage de la valeur oblige d'ailleurs les entreprises de 11 à 49 salariés ayant réalisé un bénéfice net fiscal d'au moins 1 % du CA pendant trois années consécutives à mettre en place un dispositif de partage de la valeur.
 
 **La participation.** Obligatoire au-delà de 50 salariés, elle est facultative en dessous. Si vous n'en avez pas et que vos résultats le permettent, c'est un signal fort.
 
@@ -89,4 +100,4 @@ Ce n'est pas une formule magique. C'est un point de départ à adapter à votre 
 
 ## En résumé
 
-La NAO 2026 se négocie dans un contexte plus favorable qu'en 2023-2024 : l'inflation ralentit, les entreprises ont retrouvé des marges de manoeuvre. Mais les attentes salariales restent élevées. La clé, c'est de combiner augmentation, dispositifs d'épargne salariale et avantages concrets pour proposer un package global crédible — sans mettre en danger votre équilibre financier.
+La NAO 2026 se négocie dans un contexte plus favorable qu'en 2023-2024 : l'inflation ralentit, les entreprises ont retrouvé des marges de manoeuvre. Mais les attentes salariales restent élevées. La clé, c'est de combiner augmentation, dispositifs d'[épargne salariale](https://enclair.media/articles/epargne-salariale-obligation-pme-plus-50) et avantages concrets pour proposer un package global crédible — sans mettre en danger votre équilibre financier.

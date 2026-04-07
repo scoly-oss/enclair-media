@@ -1,16 +1,24 @@
 ---
-title: "Nouveau code du travail numérique : ce qui change dans les obligations d'affichage"
-excerpt: "La dématérialisation des obligations d'affichage et d'information progresse. Le Code du travail numérique et les évolutions récentes modifient la manière dont l'employeur communique avec ses salariés. Les nouvelles règles à connaître."
-date: "2026-03-02"
-category: "alerte"
-tags: ["affichage obligatoire", "dématérialisation", "Code du travail numérique", "information salariés"]
-readTime: "6 min"
+title: >-
+  Nouveau code du travail numérique : ce qui change dans les obligations
+  d'affichage
+excerpt: >-
+  La dématérialisation des obligations d'affichage et d'information progresse.
+  Le Code du travail numérique et les évolutions récentes modifient la.
+date: '2026-03-02'
+category: alerte
+tags:
+  - affichage obligatoire
+  - dématérialisation
+  - Code du travail numérique
+  - information salariés
+readTime: 6 min
 sources:
-  - "Article R.2262-1 du Code du travail"
-  - "Article D.4711-1 du Code du travail"
-  - "Décret n° 2024-1235 du 15 octobre 2024"
-  - "Article L.1221-5-1 du Code du travail"
-  - "Directive (UE) 2019/1152 du 20 juin 2019"
+  - Article R.2262-1 du Code du travail
+  - Article D.4711-1 du Code du travail
+  - Décret n° 2024-1235 du 15 octobre 2024
+  - Article L.1221-5-1 du Code du travail
+  - Directive (UE) 2019/1152 du 20 juin 2019
 ---
 
 La transformation numérique du droit du travail n'épargne pas les obligations d'affichage et d'information. Traditionnellement cantonnées à des panneaux physiques dans les locaux de l'entreprise, ces obligations évoluent avec la dématérialisation et le développement du travail à distance. Les employeurs doivent adapter leurs pratiques.
@@ -19,7 +27,7 @@ La transformation numérique du droit du travail n'épargne pas les obligations 
 
 Certaines informations doivent toujours faire l'objet d'un affichage physique dans les locaux de l'entreprise, accessibles aux salariés :
 
-- Les **coordonnées de l'inspection du travail** et du médecin du travail
+- Les **coordonnées de l'[inspection du travail](https://enclair.media/articles/affichages-obligatoires-2025-liste-complete)** et du médecin du travail
 - Les **consignes de sécurité** et les plans d'évacuation
 - Les **horaires collectifs de travail** (article D.3171-1)
 - L'**interdiction de fumer** et de vapoter
@@ -32,7 +40,7 @@ Ces affichages ne peuvent pas être intégralement dématérialisés, même si l
 
 Depuis le décret du 15 octobre 2024, plusieurs obligations d'information peuvent être remplies par voie dématérialisée, à condition que les salariés y aient **accès effectif** :
 
-- La **convention collective applicable** : elle peut être mise à disposition sur l'intranet plutôt qu'en consultation physique (article R.2262-1 modifié)
+- La **[convention collective](https://enclair.media/articles/convention-collective-identifier-applicable) applicable** : elle peut être mise à disposition sur l'intranet plutôt qu'en consultation physique (article R.2262-1 modifié)
 - Le **document unique d'évaluation des risques** (DUERP) : sa version numérique est admise
 - Les **accords collectifs d'entreprise** : accessibles sur une base de données interne
 
@@ -40,7 +48,7 @@ L'employeur doit néanmoins informer les salariés par tout moyen des modalités
 
 ## La directive européenne sur les conditions de travail
 
-La directive (UE) 2019/1152 relative à des conditions de travail transparentes et prévisibles, transposée par la loi du 9 mars 2023, impose à l'employeur de communiquer au salarié un ensemble d'informations sur ses conditions de travail dans un délai de **7 jours** suivant l'embauche (article L.1221-5-1 du Code du travail).
+La directive (UE) 2019/1152 relative à des [conditions de travail](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail) transparentes et prévisibles, transposée par la loi du 9 mars 2023, impose à l'employeur de communiquer au salarié un ensemble d'informations sur ses conditions de travail dans un délai de **7 jours** suivant l'embauche (article L.1221-5-1 du Code du travail).
 
 Les informations à communiquer comprennent :
 - L'identité des parties et le lieu de travail

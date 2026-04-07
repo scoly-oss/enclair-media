@@ -1,18 +1,24 @@
 ---
-title: "Faute inexcusable : la présomption en cas de maladie professionnelle"
-excerpt: "En cas de maladie professionnelle, la faute inexcusable de l'employeur est présumée lorsque le salarié ou le CHSCT avait signalé le risque. Cette présomption allège considérablement la charge de la preuve pour le salarié."
-date: "2026-01-06"
-category: "jurisprudence"
-tags: ["faute inexcusable", "maladie professionnelle", "présomption", "AT/MP"]
-readTime: "6 min"
+title: 'Faute inexcusable : la présomption en cas de maladie professionnelle'
+excerpt: >-
+  En cas de maladie professionnelle, la faute inexcusable de l'employeur est
+  présumée lorsque le salarié ou le CHSCT avait signalé le risque.
+date: '2026-01-06'
+category: jurisprudence
+tags:
+  - faute inexcusable
+  - maladie professionnelle
+  - présomption
+  - AT/MP
+readTime: 6 min
 sources:
-  - "Article L. 452-1 du Code de la sécurité sociale"
-  - "Cass. 2e civ., 8 octobre 2020, n° 18-25.021"
-  - "Cass. Ass. plén., 24 juin 2005, n° 03-30.038 (amiante)"
-  - "Cons. const., décision n° 2010-8 QPC du 18 juin 2010"
+  - Article L. 452-1 du Code de la sécurité sociale
+  - 'Cass. 2e civ., 8 octobre 2020, n° 18-25.021'
+  - 'Cass. Ass. plén., 24 juin 2005, n° 03-30.038 (amiante)'
+  - 'Cons. const., décision n° 2010-8 QPC du 18 juin 2010'
 ---
 
-La faute inexcusable de l'employeur est le mécanisme qui permet au salarié victime d'un accident du travail ou d'une maladie professionnelle d'obtenir une indemnisation complémentaire. En cas de maladie professionnelle, une présomption facilite la preuve. Un risque financier majeur pour les entreprises.
+La faute inexcusable de l'employeur est le mécanisme qui permet au salarié victime d'un [accident du travail](https://enclair.media/articles/accident-travail-faute-employeur-reparation-integrale) ou d'une [maladie professionnelle](https://enclair.media/articles/burnout-faute-inexcusable-reconnaissance-juges) d'obtenir une indemnisation complémentaire. En cas de [maladie professionnelle](https://enclair.media/articles/maladie-professionnelle-declaration-employeur), une présomption facilite la preuve. Un risque financier majeur pour les entreprises.
 
 ## La définition de la faute inexcusable
 

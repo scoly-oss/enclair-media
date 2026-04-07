@@ -1,16 +1,22 @@
 ---
-title: "Usage d'entreprise : comment le dénoncer sans risque"
-excerpt: "Un usage d'entreprise peut être supprimé par l'employeur, à condition de respecter une procédure de dénonciation rigoureuse. Information du CSE, notification individuelle, délai de prévenance : les étapes à ne pas manquer."
-date: "2026-02-15"
-category: "droit-social"
-tags: ["usage entreprise", "dénonciation", "CSE", "avantage"]
-readTime: "6 min"
+title: 'Usage d''entreprise : comment le dénoncer sans risque'
+excerpt: >-
+  Un usage d'entreprise peut être supprimé par l'employeur, à condition de
+  respecter une procédure de dénonciation rigoureuse.
+date: '2026-02-15'
+category: droit-social
+tags:
+  - usage entreprise
+  - dénonciation
+  - CSE
+  - avantage
+readTime: 6 min
 sources:
-  - "Cass. soc., 25 février 1988, n° 85-40.821"
-  - "Cass. soc., 16 mars 2011, n° 09-43.090"
-  - "Cass. soc., 6 novembre 2019, n° 18-16.428"
-  - "Article L.2312-8 du Code du travail"
-  - "Cass. soc., 13 février 1996, n° 93-42.309"
+  - 'Cass. soc., 25 février 1988, n° 85-40.821'
+  - 'Cass. soc., 16 mars 2011, n° 09-43.090'
+  - 'Cass. soc., 6 novembre 2019, n° 18-16.428'
+  - Article L.2312-8 du Code du travail
+  - 'Cass. soc., 13 février 1996, n° 93-42.309'
 ---
 
 L'usage d'entreprise est un avantage accordé de manière constante, générale et fixe aux salariés, sans qu'un texte l'impose. Prime de Noël, jour de congé supplémentaire, pause prolongée : ces pratiques répétées créent des droits pour les salariés. L'employeur conserve le pouvoir de les supprimer, mais à une condition impérative : respecter scrupuleusement la procédure de dénonciation.
@@ -33,7 +39,7 @@ L'employeur qui souhaite supprimer un usage d'entreprise doit respecter une proc
 
 ### Étape 1 : Informer les représentants du personnel
 
-L'employeur doit informer le CSE (comité social et économique) de sa décision de dénoncer l'usage. Cette information doit être préalable et permettre aux représentants du personnel de formuler leurs observations.
+L'employeur doit informer le CSE (comité social et économique) de sa décision de dénoncer l'usage. Cette information doit être préalable et permettre aux [représentants du personnel](https://enclair.media/articles/representants-personnel-heures-delegation-mode-emploi) de formuler leurs observations.
 
 L'article L.2312-8 du Code du travail confie au CSE une compétence générale en matière de conditions d'emploi et de travail. La suppression d'un usage entre dans ce champ.
 
@@ -66,11 +72,11 @@ Lorsque la dénonciation est régulière, l'usage cesse de produire ses effets �
 
 En revanche, les droits acquis avant la dénonciation restent dus. Si l'employeur dénonce une prime de Noël en septembre, les salariés peuvent encore prétendre à la prime de l'année en cours si les conditions d'attribution étaient déjà remplies.
 
-La dénonciation d'un usage ne constitue pas une modification du contrat de travail, même si le contrat fait référence à l'avantage. La Cour de cassation distingue en effet entre la simple référence informative à un usage dans le contrat et la véritable contractualisation de l'avantage (Cass. soc., 13 février 1996, n° 93-42.309).
+La dénonciation d'un usage ne constitue pas une [modification du contrat](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail) de travail, même si le contrat fait référence à l'avantage. La Cour de cassation distingue en effet entre la simple référence informative à un usage dans le contrat et la véritable contractualisation de l'avantage (Cass. soc., 13 février 1996, n° 93-42.309).
 
 ## Le piège de la contractualisation
 
-La principale difficulté réside dans la distinction entre usage et avantage contractuel. Si l'avantage a été **expressément intégré au contrat de travail** comme un élément de la rémunération, il ne s'agit plus d'un usage mais d'un droit contractuel qui ne peut être supprimé qu'avec l'accord individuel du salarié.
+La principale difficulté réside dans la distinction entre usage et avantage contractuel. Si l'avantage a été **expressément intégré au [contrat de travail](https://enclair.media/articles/clause-de-mobilite-quand-le-salarie-peut-refuser)** comme un élément de la rémunération, il ne s'agit plus d'un usage mais d'un droit contractuel qui ne peut être supprimé qu'avec l'accord individuel du salarié.
 
 La mention suivante dans un contrat — « Le salarié bénéficiera d'un 13e mois » — contractualise l'avantage. La mention suivante — « Le salarié bénéficie des usages en vigueur dans l'entreprise » — ne le contractualise pas.
 

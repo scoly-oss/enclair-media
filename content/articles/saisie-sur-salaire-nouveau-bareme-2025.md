@@ -1,14 +1,20 @@
 ---
-title: "Saisie sur salaire : le nouveau barème 2025"
-excerpt: "Le barème des saisies sur salaire est revalorisé chaque année. En 2025, les seuils ont changé. Appliquer l'ancien barème vous expose à des poursuites du créancier ou du salarié."
-date: "2025-08-30"
-category: "economie"
-tags: ["saisie sur salaire", "barème", "fraction saisissable", "pension alimentaire"]
-readTime: "5 min"
+title: 'Saisie sur salaire : le nouveau barème 2025'
+excerpt: >-
+  Le barème des saisies sur salaire est revalorisé chaque année. En 2025, les
+  seuils ont changé. Appliquer l'ancien barème vous expose à des poursuites.
+date: '2025-08-30'
+category: economie
+tags:
+  - saisie sur salaire
+  - barème
+  - fraction saisissable
+  - pension alimentaire
+readTime: 5 min
 sources:
-  - "Code du travail, articles L.3252-1 à L.3252-13"
-  - "Code du travail, article R.3252-2 (barème des saisies)"
-  - "Décret n°2025-XX du XX janvier 2025 révisant le barème"
+  - 'Code du travail, articles L.3252-1 à L.3252-13'
+  - 'Code du travail, article R.3252-2 (barème des saisies)'
+  - Décret n°2025-XX du XX janvier 2025 révisant le barème
 ---
 
 ## Vous recevez un acte de saisie sur le salaire d'un employé. Savez-vous calculer la fraction saisissable ?
@@ -42,7 +48,7 @@ Ces seuils sont majorés de **1 740 euros** par personne à charge du salarié (
 
 ### La rémunération à prendre en compte
 
-La base de calcul est la **rémunération nette annuelle**, soit le montant brut diminué des cotisations sociales obligatoires et de la CSG/CRDS. Elle inclut le salaire, les primes, les gratifications, les heures supplémentaires et les indemnités de congés payés.
+La base de calcul est la **rémunération nette annuelle**, soit le montant brut diminué des cotisations sociales obligatoires et de la CSG/CRDS. Elle inclut le salaire, les primes, les gratifications, les [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif) et les indemnités de congés payés.
 
 Sont **exclus** de l'assiette : les remboursements de frais professionnels, les indemnités de licenciement, les allocations d'assurance chômage, les prestations familiales.
 

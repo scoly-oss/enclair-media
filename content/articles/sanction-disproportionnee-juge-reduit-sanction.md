@@ -1,23 +1,29 @@
 ---
-title: "Sanction disproportionnée : quand le juge réduit la sanction"
-excerpt: "Le juge prud'homal dispose du pouvoir d'annuler une sanction disciplinaire qu'il juge disproportionnée. Ce contrôle de proportionnalité est un filet de sécurité pour le salarié et un risque majeur pour l'employeur."
-date: "2026-02-10"
-category: "droit-social"
-tags: ["sanction disciplinaire", "proportionnalité", "pouvoir du juge", "annulation"]
-readTime: "6 min"
+title: 'Sanction disproportionnée : quand le juge réduit la sanction'
+excerpt: >-
+  Le juge prud'homal dispose du pouvoir d'annuler une sanction disciplinaire
+  qu'il juge disproportionnée.
+date: '2026-02-10'
+category: droit-social
+tags:
+  - sanction disciplinaire
+  - proportionnalité
+  - pouvoir du juge
+  - annulation
+readTime: 6 min
 sources:
-  - "Article L.1333-1 du Code du travail"
-  - "Article L.1333-2 du Code du travail"
-  - "Cass. soc., 6 janvier 2016, n° 14-12.767"
-  - "Cass. soc., 13 mars 2019, n° 17-27.070"
-  - "Article L.1332-1 du Code du travail"
+  - Article L.1333-1 du Code du travail
+  - Article L.1333-2 du Code du travail
+  - 'Cass. soc., 6 janvier 2016, n° 14-12.767'
+  - 'Cass. soc., 13 mars 2019, n° 17-27.070'
+  - Article L.1332-1 du Code du travail
 ---
 
 Le pouvoir disciplinaire de l'employeur n'est pas absolu. Le conseil de prud'hommes dispose d'un pouvoir de contrôle étendu sur les sanctions prononcées, incluant le droit de les annuler si elles sont jugées disproportionnées. Ce contrôle constitue un garde-fou essentiel contre l'arbitraire.
 
 ## Le contrôle judiciaire des sanctions disciplinaires
 
-L'article L.1333-1 du Code du travail confère au juge le pouvoir de contrôler les sanctions disciplinaires prononcées par l'employeur. Ce contrôle porte sur trois aspects :
+L'article L.1333-1 du Code du travail confère au juge le pouvoir de contrôler les [sanctions disciplinaires](https://enclair.media/articles/droit-disciplinaire-gradation-sanctions-expliquee) prononcées par l'employeur. Ce contrôle porte sur trois aspects :
 
 **La régularité de la procédure.** Le juge vérifie que l'employeur a respecté les étapes procédurales : convocation à l'entretien préalable, respect des délais, notification motivée de la sanction.
 
@@ -50,7 +56,7 @@ Les juges examinent plusieurs facteurs pour évaluer la proportionnalité d'une 
 
 **Le contexte.** Les circonstances entourant la faute sont prises en compte : stress, surcharge de travail, provocation par un collègue, comportement de l'employeur.
 
-**La pratique habituelle de l'entreprise.** Si d'autres salariés ayant commis les mêmes faits ont reçu une sanction moins sévère, la disproportion sera caractérisée. C'est le principe d'égalité de traitement (Cass. soc., 13 mars 2019, n° 17-27.070).
+**La pratique habituelle de l'entreprise.** Si d'autres salariés ayant commis les mêmes faits ont reçu une sanction moins sévère, la disproportion sera caractérisée. C'est le principe d'[égalité de traitement](https://enclair.media/articles/interim-responsabilite-entreprise-utilisatrice) (Cass. soc., 13 mars 2019, n° 17-27.070).
 
 ## Les exemples jurisprudentiels
 
@@ -66,7 +72,7 @@ Les juges examinent plusieurs facteurs pour évaluer la proportionnalité d'une 
 
 ## L'échelle des sanctions
 
-L'article L.1332-1 du Code du travail définit la sanction disciplinaire comme toute mesure prise par l'employeur à la suite d'un agissement du salarié considéré comme fautif, autre que les observations verbales. L'échelle classique comprend :
+L'article L.1332-1 du Code du travail définit la [sanction disciplinaire](https://enclair.media/articles/avertissement-pourquoi-le-votre-est-peut-etre-nul) comme toute mesure prise par l'employeur à la suite d'un agissement du salarié considéré comme fautif, autre que les observations verbales. L'échelle classique comprend :
 
 1. **L'avertissement** : sanction la plus légère, sans effet sur la présence ou la rémunération
 2. **Le blâme** : similaire à l'avertissement, parfois inscrit au dossier

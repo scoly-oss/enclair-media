@@ -1,15 +1,21 @@
 ---
-title: "Discrimination syndicale : la comparaison de carrière imposée par la Cour"
-excerpt: "Un élu CSE stagne depuis 10 ans au même coefficient tandis que ses collègues progressent. La méthode de comparaison de carrière imposée par la Cour de cassation permet de chiffrer précisément le préjudice — et les montants sont souvent considérables."
-date: "2025-12-15"
-category: "jurisprudence"
-tags: ["discrimination syndicale", "comparaison de carrière", "CSE", "dommages et intérêts"]
-readTime: "6 min"
+title: 'Discrimination syndicale : la comparaison de carrière imposée par la Cour'
+excerpt: >-
+  Un élu CSE stagne depuis 10 ans au même coefficient tandis que ses collègues
+  progressent. La méthode de comparaison de carrière imposée par la Cour de.
+date: '2025-12-15'
+category: jurisprudence
+tags:
+  - discrimination syndicale
+  - comparaison de carrière
+  - CSE
+  - dommages et intérêts
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.1132-1 et L.2141-5"
-  - "Cass. soc., 4 février 2014, n° 12-28.740"
-  - "Cass. soc., 20 décembre 2023, n° 22-18.538"
-  - "Cass. soc., 15 mars 2023, n° 21-18.492"
+  - 'Code du travail, articles L.1132-1 et L.2141-5'
+  - 'Cass. soc., 4 février 2014, n° 12-28.740'
+  - 'Cass. soc., 20 décembre 2023, n° 22-18.538'
+  - 'Cass. soc., 15 mars 2023, n° 21-18.492'
 ---
 
 Paul est délégué syndical depuis 12 ans. Quand il a pris son mandat, il était au coefficient 285 de la convention collective, comme trois collègues entrés la même année avec le même diplôme. Aujourd'hui, ses trois collègues sont au coefficient 365. Paul est toujours au coefficient 285. Il n'a eu aucune augmentation individuelle en 12 ans.
@@ -44,12 +50,12 @@ La Cour de cassation a rappelé que la prescription ne court pas tant que la dis
 
 L'article L.2141-5 du Code du travail interdit à l'employeur de prendre en considération l'appartenance syndicale ou l'exercice d'une activité syndicale pour arrêter ses décisions en matière de recrutement, de promotion, de mutation, de sanction, de rémunération et de formation.
 
-L'article L.2141-5-1 prévoit que les représentants du personnel dont les heures de délégation dépassent 30 % de leur durée contractuelle bénéficient d'une garantie d'évolution de rémunération au moins égale à la moyenne des augmentations individuelles perçues par les salariés de même catégorie.
+L'article L.2141-5-1 prévoit que les [représentants du personnel](https://enclair.media/articles/elections-cse-calendrier-etapes) dont les [heures de délégation](https://enclair.media/articles/cse-moyens-renforces-derniere-reforme) dépassent 30 % de leur durée contractuelle bénéficient d'une garantie d'évolution de rémunération au moins égale à la moyenne des augmentations individuelles perçues par les salariés de même catégorie.
 
 Cette garantie légale est un minimum. Elle ne protège pas contre la discrimination si l'évolution de carrière du salarié protégé reste significativement inférieure à celle de ses pairs.
 
 ## Ce que vous devez faire lundi matin
 
-Réalisez un audit de l'évolution de carrière de vos représentants du personnel. Comparez leur progression salariale et hiérarchique avec celle d'un panel de salariés comparables. Si des écarts significatifs apparaissent, régularisez avant que le salarié ne saisisse les prud'hommes.
+Réalisez un audit de l'évolution de carrière de vos [représentants du personnel](https://enclair.media/articles/representants-personnel-heures-delegation-mode-emploi). Comparez leur progression salariale et hiérarchique avec celle d'un panel de salariés comparables. Si des écarts significatifs apparaissent, régularisez avant que le salarié ne saisisse les prud'hommes.
 
 Documentez chaque décision de promotion ou d'augmentation par des critères objectifs. Et formez vos managers à la gestion des salariés mandatés : le mandat ne dispense pas d'évaluer la performance, mais il interdit d'en tenir compte négativement.

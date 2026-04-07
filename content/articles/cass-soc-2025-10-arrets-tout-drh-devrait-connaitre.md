@@ -1,15 +1,21 @@
 ---
-title: "Cass. soc. 2025 : les 10 arrêts que tout DRH devrait connaître"
-excerpt: "La chambre sociale de la Cour de cassation a rendu plusieurs arrêts marquants en 2025. Congés payés, forfait jours, discrimination, preuve déloyale — voici les décisions qui changent vos pratiques RH."
-date: "2025-10-08"
-category: "jurisprudence"
-tags: ["Cour de cassation", "jurisprudence 2025", "droit social", "arrêts"]
-readTime: "8 min"
+title: 'Cass. soc. 2025 : les 10 arrêts que tout DRH devrait connaître'
+excerpt: >-
+  La chambre sociale de la Cour de cassation a rendu plusieurs arrêts marquants
+  en 2025. Congés payés, forfait jours, discrimination, preuve déloyale —.
+date: '2025-10-08'
+category: jurisprudence
+tags:
+  - Cour de cassation
+  - jurisprudence 2025
+  - droit social
+  - arrêts
+readTime: 8 min
 sources:
-  - "Cass. soc., 13 septembre 2023, n° 22-17.340 (congés payés et maladie)"
-  - "Cass. ass. plén., 22 décembre 2023, n° 20-20.648 (preuve déloyale)"
-  - "Cass. soc., 10 janvier 2024, n° 22-13.464 (forfait jours)"
-  - "Cass. soc., 25 juin 2025, n° 23-18.492 (présomption de démission)"
+  - 'Cass. soc., 13 septembre 2023, n° 22-17.340 (congés payés et maladie)'
+  - 'Cass. ass. plén., 22 décembre 2023, n° 20-20.648 (preuve déloyale)'
+  - 'Cass. soc., 10 janvier 2024, n° 22-13.464 (forfait jours)'
+  - 'Cass. soc., 25 juin 2025, n° 23-18.492 (présomption de démission)'
 ---
 
 L'année 2025 a été riche en jurisprudence sociale. La Cour de cassation a rendu des décisions qui modifient en profondeur les pratiques des employeurs dans des domaines aussi variés que les congés payés, le forfait jours, la preuve en matière disciplinaire et la discrimination. Voici les dix arrêts les plus impactants, résumés et commentés.
@@ -30,7 +36,7 @@ Ce revirement majeur donne aux employeurs une ouverture pour utiliser des preuve
 
 La Cour de cassation a durci son contrôle des conventions de forfait jours en 2025. Plusieurs arrêts ont annulé des conventions de forfait pour absence de suivi effectif de la charge de travail, malgré l'existence d'un accord collectif conforme. L'arrêt du 10 janvier 2024 (n° 22-13.464) et ses suites ont précisé que l'entretien annuel sur la charge de travail doit être réel et documenté, pas un simple formulaire standard signé à la hâte.
 
-La conséquence d'une annulation : le cadre bascule dans le régime des 35 heures et peut réclamer toutes ses heures supplémentaires sur trois ans.
+La conséquence d'une annulation : le cadre bascule dans le régime des 35 heures et peut réclamer toutes ses [heures supplémentaires](https://enclair.media/articles/travail-dissimule-presomptions-cour-cassation) sur trois ans.
 
 ## 4. Présomption de démission : premiers retours
 
@@ -42,11 +48,11 @@ Plusieurs arrêts de 2025 ont rappelé que l'employeur doit prouver non seulemen
 
 ## 6. Discrimination syndicale : la méthode Clerc affinée
 
-La méthode de comparaison des carrières (dite méthode Clerc), utilisée pour établir la discrimination syndicale, a été précisée. Les juges doivent comparer la progression de carrière du salarié protégé avec celle d'un panel de salariés entrés à la même période, avec la même qualification et la même ancienneté.
+La méthode de comparaison des carrières (dite méthode Clerc), utilisée pour établir la [discrimination syndicale](https://enclair.media/articles/discrimination-syndicale-comparaison-carriere-imposee), a été précisée. Les juges doivent comparer la progression de carrière du salarié protégé avec celle d'un panel de salariés entrés à la même période, avec la même qualification et la même ancienneté.
 
 ## 7. Barème Macron : confirmation de sa conventionnalité
 
-La Cour de cassation a définitivement confirmé la conventionnalité du barème d'indemnisation du licenciement sans cause réelle et sérieuse (articles L.1235-3), rejetant les dernières contestations fondées sur la Charte sociale européenne et la Convention n° 158 de l'OIT.
+La Cour de cassation a définitivement confirmé la conventionnalité du barème d'indemnisation du licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher) (articles L.1235-3), rejetant les dernières contestations fondées sur la Charte sociale européenne et la Convention n° 158 de l'OIT.
 
 ## 8. Inaptitude et reclassement : obligation de moyens renforcée
 

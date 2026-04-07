@@ -1,14 +1,22 @@
 ---
-title: "Accord d'entreprise : les conditions de validité depuis les ordonnances Macron"
-excerpt: "Les ordonnances Macron de 2017 ont bouleversé les règles de négociation collective. Un accord d'entreprise peut désormais primer sur l'accord de branche, mais à des conditions de validité strictes."
-date: "2025-09-10"
-category: "decryptage"
-tags: ["accord d'entreprise", "ordonnances Macron", "négociation collective", "CSE"]
-readTime: "7 min"
+title: 'Accord d''entreprise : les conditions de validité depuis les ordonnances Macron'
+excerpt: >-
+  Les ordonnances Macron de 2017 ont bouleversé les règles de négociation
+  collective. Un accord d'entreprise peut désormais primer sur l'accord de.
+date: '2025-09-10'
+category: decryptage
+tags:
+  - accord d'entreprise
+  - ordonnances Macron
+  - négociation collective
+  - CSE
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.2232-12 à L.2232-14"
-  - "Ordonnance n°2017-1385 du 22 septembre 2017"
-  - "Code du travail, article L.2253-1 à L.2253-3 (articulation branche-entreprise)"
+  - 'Code du travail, articles L.2232-12 à L.2232-14'
+  - Ordonnance n°2017-1385 du 22 septembre 2017
+  - >-
+    Code du travail, article L.2253-1 à L.2253-3 (articulation
+    branche-entreprise)
 ---
 
 ## Vous voulez adapter les règles à votre entreprise par accord collectif. Mais savez-vous avec qui négocier et comment valider l'accord ?
@@ -25,12 +33,12 @@ Dans 13 domaines, l'accord de branche **prime** sur l'accord d'entreprise, sauf 
 - Salaires minima hiérarchiques
 - Classifications
 - Mutualisation des fonds de formation
-- Protection sociale complémentaire
+- [Protection sociale](https://enclair.media/articles/detachement-international-obligations-sociales-cachees) complémentaire
 - Durée du travail (certains aspects : équivalences, travail de nuit)
 - CDD et intérim (durée, renouvellement, carence)
 - CDI de chantier
-- Égalité professionnelle
-- Conditions de la mise à disposition d'un salarié temporaire
+- [Égalité professionnelle](https://enclair.media/articles/index-egalite-femmes-hommes-publication-sanctions-2026)
+- Conditions de la [mise à disposition](https://enclair.media/articles/mise-a-disposition-personnel-pret-main-oeuvre) d'un salarié temporaire
 - Rémunération minimale du salarié porté
 - Période d'essai
 - Transfert conventionnel des contrats de travail

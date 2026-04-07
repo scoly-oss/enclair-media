@@ -1,20 +1,26 @@
 ---
-title: "Avertissement : pourquoi le vôtre est peut-être nul"
-excerpt: "Vous avez adressé un avertissement à un salarié. Mais avez-vous respecté le délai de prescription ? Formulé les faits précis ? Vérifié qu'il ne s'agit pas d'une double sanction ? Les pièges de l'avertissement sont sous-estimés."
-date: "2025-03-17"
-category: "droit-social"
-tags: ["avertissement", "sanction disciplinaire", "procédure", "prescription"]
-readTime: "6 min"
+title: 'Avertissement : pourquoi le vôtre est peut-être nul'
+excerpt: >-
+  Vous avez adressé un avertissement à un salarié. Mais avez-vous respecté le
+  délai de prescription ? Formulé les faits précis ?
+date: '2025-03-17'
+category: droit-social
+tags:
+  - avertissement
+  - sanction disciplinaire
+  - procédure
+  - prescription
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.1332-1 à L.1332-4"
-  - "Cass. soc., 23 juin 2021, n° 19-24.020"
-  - "Cass. soc., 6 mars 2007, n° 05-41.374"
-  - "Cass. soc., 3 février 2017, n° 15-11.433"
+  - 'Code du travail, articles L.1332-1 à L.1332-4'
+  - 'Cass. soc., 23 juin 2021, n° 19-24.020'
+  - 'Cass. soc., 6 mars 2007, n° 05-41.374'
+  - 'Cass. soc., 3 février 2017, n° 15-11.433'
 ---
 
 Vous avez surpris un salarié en train de naviguer sur les réseaux sociaux pendant ses heures de travail. Agacé, vous lui envoyez un courriel intitulé « Rappel à l'ordre » en lui indiquant que ce comportement est inacceptable et qu'il s'expose à des sanctions en cas de récidive. Vous pensez avoir fait preuve de fermeté sans excès. En réalité, vous venez peut-être de prononcer un avertissement sans le savoir — et de griller une cartouche disciplinaire.
 
-L'avertissement est la sanction disciplinaire la plus courante et la plus mal maîtrisée. Voici pourquoi.
+L'avertissement est la [sanction disciplinaire](https://enclair.media/articles/mise-a-pied-disciplinaire-duree-procedure-pieges) la plus courante et la plus mal maîtrisée. Voici pourquoi.
 
 ## L'avertissement est une sanction, pas un simple rappel
 
@@ -22,7 +28,7 @@ L'article L.1332-2 du Code du travail définit la sanction disciplinaire comme �
 
 La Cour de cassation juge systématiquement que ce n'est pas l'intitulé du courrier qui compte, mais son contenu (Cass. soc., 6 mars 2007, n° 05-41.374). Un « simple rappel » qui mentionne un manquement et une menace de suite disciplinaire est un avertissement.
 
-Conséquence immédiate : vous ne pourrez pas sanctionner une seconde fois le même fait. Le principe non bis in idem interdit de prononcer deux sanctions pour la même faute. Si votre « rappel » est requalifié en avertissement, le licenciement ultérieur fondé sur le même fait sera sans cause réelle et sérieuse.
+Conséquence immédiate : vous ne pourrez pas sanctionner une seconde fois le même fait. Le principe non bis in idem interdit de prononcer deux sanctions pour la même faute. Si votre « rappel » est requalifié en avertissement, le licenciement ultérieur fondé sur le même fait sera [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher).
 
 ## Le délai de deux mois : une prescription courte
 
@@ -48,7 +54,7 @@ Mais si votre convention collective prévoit un entretien préalable obligatoire
 
 Un avertissement ne peut être invoqué contre le salarié que pendant trois ans. L'article L.1332-5 dispose qu'aucune sanction antérieure de plus de trois ans ne peut être invoquée à l'appui d'une nouvelle sanction. Cela ne signifie pas que l'avertissement disparaît du dossier — il y reste — mais il ne peut plus servir de fondement à une progressivité disciplinaire.
 
-Si vous licenciez un salarié en invoquant « trois avertissements en deux ans » mais que le premier date de quatre ans, vous ne pouvez pas l'utiliser. Et si les deux restants ne suffisent pas à caractériser une cause réelle et sérieuse, votre licenciement tombe.
+Si vous licenciez un salarié en invoquant « trois avertissements en deux ans » mais que le premier date de quatre ans, vous ne pouvez pas l'utiliser. Et si les deux restants ne suffisent pas à caractériser une [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse), votre licenciement tombe.
 
 ## Ce que vous devez faire lundi matin
 

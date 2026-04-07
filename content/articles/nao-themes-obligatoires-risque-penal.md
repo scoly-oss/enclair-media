@@ -1,14 +1,20 @@
 ---
-title: "NAO : les thèmes obligatoires et le risque pénal en cas d'absence"
-excerpt: "La Négociation Annuelle Obligatoire doit porter sur des thèmes précis. Ne pas l'ouvrir est un délit d'entrave. L'ouvrir sans aborder tous les thèmes est presque aussi risqué."
-date: "2025-08-12"
-category: "decryptage"
-tags: ["NAO", "négociation obligatoire", "rémunération", "égalité professionnelle"]
-readTime: "6 min"
+title: 'NAO : les thèmes obligatoires et le risque pénal en cas d''absence'
+excerpt: >-
+  La Négociation Annuelle Obligatoire doit porter sur des thèmes précis. Ne pas
+  l'ouvrir est un délit d'entrave.
+date: '2025-08-12'
+category: decryptage
+tags:
+  - NAO
+  - négociation obligatoire
+  - rémunération
+  - égalité professionnelle
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.2242-1 à L.2242-21"
-  - "Code du travail, article L.2243-1 (sanctions pénales)"
-  - "Cass. soc., 12 janvier 2022, n°20-17.825"
+  - 'Code du travail, articles L.2242-1 à L.2242-21'
+  - 'Code du travail, article L.2243-1 (sanctions pénales)'
+  - 'Cass. soc., 12 janvier 2022, n°20-17.825'
 ---
 
 ## Vous n'avez pas ouvert de NAO depuis 2 ans. Vous êtes en infraction pénale.
@@ -35,10 +41,10 @@ La négociation doit porter **au moins** sur :
 
 La négociation porte sur :
 - L'articulation entre **vie personnelle et vie professionnelle**
-- Les objectifs et mesures en matière d'**égalité professionnelle** (accès à l'emploi, formation, promotion, rémunération)
+- Les objectifs et mesures en matière d'**[égalité professionnelle](https://enclair.media/articles/index-egalite-femmes-hommes-publication-sanctions-2026)** (accès à l'emploi, formation, promotion, rémunération)
 - Les mesures de lutte contre les **discriminations**
 - L'insertion professionnelle et le maintien dans l'emploi des **travailleurs handicapés**
-- Le **droit à la déconnexion**
+- Le **[droit à la déconnexion](https://enclair.media/articles/droit-deconnexion-obligation-negocier)**
 - Le régime de **prévoyance** et de frais de santé (si pas déjà couvert par un accord)
 
 ### Bloc 3 : Gestion des emplois et des parcours professionnels (triennal, entreprises de 300 salariés et plus)
@@ -46,7 +52,7 @@ La négociation porte sur :
 Tous les 3 ans, dans les entreprises de 300 salariés et plus :
 - La mise en place d'un dispositif de **GEPP** (Gestion des Emplois et des Parcours Professionnels)
 - Les conditions de la **mobilité professionnelle** ou géographique
-- Les grandes orientations de la **formation professionnelle**
+- Les grandes orientations de la **[formation professionnelle](https://enclair.media/articles/clause-dedit-formation-conditions-validite)**
 - Le **déroulement de carrière** des salariés exerçant des responsabilités syndicales
 
 ## L'obligation de moyens, pas de résultat

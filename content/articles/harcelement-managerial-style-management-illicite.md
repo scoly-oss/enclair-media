@@ -1,14 +1,20 @@
 ---
-title: "Harcèlement managérial : quand le style de management devient illicite"
-excerpt: "La Cour de cassation reconnaît le harcèlement managérial : un mode de gestion qui soumet les salariés à une pression excessive peut constituer du harcèlement moral, même sans intention de nuire."
-date: "2025-06-05"
-category: "jurisprudence"
-tags: ["harcèlement moral", "management", "pression", "obligation de sécurité"]
-readTime: "6 min"
+title: 'Harcèlement managérial : quand le style de management devient illicite'
+excerpt: >-
+  La Cour de cassation reconnaît le harcèlement managérial : un mode de gestion
+  qui soumet les salariés à une pression excessive peut constituer du.
+date: '2025-06-05'
+category: jurisprudence
+tags:
+  - harcèlement moral
+  - management
+  - pression
+  - obligation de sécurité
+readTime: 6 min
 sources:
-  - "Cass. soc., 10 novembre 2009, n°07-45.321 (arrêt fondateur)"
-  - "Cass. soc., 6 décembre 2023, n°22-14.877"
-  - "Code du travail, article L.1152-1"
+  - 'Cass. soc., 10 novembre 2009, n°07-45.321 (arrêt fondateur)'
+  - 'Cass. soc., 6 décembre 2023, n°22-14.877'
+  - 'Code du travail, article L.1152-1'
 ---
 
 ## Votre directeur commercial "met la pression" sur ses équipes. C'est son style. C'est peut-être aussi du harcèlement.
@@ -38,13 +44,13 @@ La Cour de cassation a validé la qualification de harcèlement managérial dans
 
 ### Le manager est responsable personnellement
 
-Le manager auteur de harcèlement peut être poursuivi **pénalement** (2 ans d'emprisonnement, 30 000 euros d'amende) et condamné à verser des dommages et intérêts au salarié victime.
+Le manager auteur de harcèlement peut être poursuivi **pénalement** (2 ans d'emprisonnement, 30 000 euros d'amende) et condamné à verser des [dommages et intérêts](https://enclair.media/articles/discrimination-syndicale-comparaison-carriere-imposee) au salarié victime.
 
 ### L'entreprise est responsable au titre de l'obligation de sécurité
 
-Même si le harcèlement est le fait d'un manager, l'entreprise est responsable au titre de son **obligation de sécurité** (article L.4121-1). L'employeur doit prouver qu'il a pris toutes les mesures nécessaires pour prévenir le harcèlement ET qu'il a réagi dès qu'il en a eu connaissance.
+Même si le harcèlement est le fait d'un manager, l'entreprise est responsable au titre de son **[obligation de sécurité](https://enclair.media/articles/harcelement-moral-obligation-moyens-renforcee)** (article L.4121-1). L'employeur doit prouver qu'il a pris toutes les mesures nécessaires pour prévenir le harcèlement ET qu'il a réagi dès qu'il en a eu connaissance.
 
-La Cour de cassation juge que l'employeur qui n'a pas mis en place de dispositif de prévention du harcèlement (formation, procédure de signalement, enquête) a manqué à son obligation de sécurité, même s'il ignorait les agissements du manager.
+La Cour de cassation juge que l'employeur qui n'a pas mis en place de dispositif de prévention du harcèlement (formation, procédure de signalement, enquête) a manqué à son [obligation de sécurité](https://enclair.media/articles/droit-de-retrait-quand-salarie-peut-arreter-travailler), même s'il ignorait les agissements du manager.
 
 ### Le licenciement du salarié qui dénonce est nul
 

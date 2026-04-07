@@ -1,18 +1,24 @@
 ---
-title: "Entretien annuel vs entretien professionnel : ne les confondez plus"
-excerpt: "80 % des PME confondent entretien annuel et entretien professionnel. L'un est facultatif, l'autre obligatoire. L'un évalue la performance, l'autre les perspectives d'évolution. Et la confusion vous expose à un abondement correctif de 3 000 euros par salarié."
-date: "2025-05-21"
-category: "droit-social"
-tags: ["entretien professionnel", "entretien annuel", "formation", "CPF"]
-readTime: "6 min"
+title: 'Entretien annuel vs entretien professionnel : ne les confondez plus'
+excerpt: >-
+  80 % des PME confondent entretien annuel et entretien professionnel. L'un est
+  facultatif, l'autre obligatoire.
+date: '2025-05-21'
+category: droit-social
+tags:
+  - entretien professionnel
+  - entretien annuel
+  - formation
+  - CPF
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.6315-1 et L.6323-13"
-  - "Cass. soc., 6 juillet 2016, n° 15-18.419"
-  - "ANI du 14 décembre 2013"
-  - "Loi n° 2014-288 du 5 mars 2014"
+  - 'Code du travail, articles L.6315-1 et L.6323-13'
+  - 'Cass. soc., 6 juillet 2016, n° 15-18.419'
+  - ANI du 14 décembre 2013
+  - Loi n° 2014-288 du 5 mars 2014
 ---
 
-Votre manager a réalisé un entretien avec chaque membre de son équipe en décembre. Il a évalué les objectifs de l'année, fixé les objectifs de l'année suivante et abordé rapidement les souhaits de formation. Dans votre esprit, l'obligation d'entretien professionnel est remplie.
+Votre manager a réalisé un entretien avec chaque membre de son équipe en décembre. Il a évalué les objectifs de l'année, fixé les objectifs de l'année suivante et abordé rapidement les souhaits de formation. Dans votre esprit, l'obligation d'[entretien professionnel](https://enclair.media/articles/entretien-professionnel-sanctions-absence) est remplie.
 
 En réalité, ce n'est probablement pas le cas. Et cette confusion, partagée par la grande majorité des PME françaises, vous expose à une sanction financière de 3 000 euros par salarié.
 
@@ -20,9 +26,9 @@ En réalité, ce n'est probablement pas le cas. Et cette confusion, partagée pa
 
 L'entretien annuel d'évaluation est un outil managérial. Aucun texte légal ne l'impose de manière générale (sauf dispositions conventionnelles). Il porte sur la performance du salarié, l'atteinte de ses objectifs, ses points forts et ses axes d'amélioration. Il est orienté vers le passé et le présent.
 
-L'entretien professionnel, prévu à l'article L.6315-1 du Code du travail, est une obligation légale applicable à toutes les entreprises quelle que soit leur taille. Il porte sur les perspectives d'évolution professionnelle du salarié, notamment en termes de qualifications et d'emploi. Il est orienté vers l'avenir.
+L'[entretien professionnel](https://enclair.media/articles/obligation-formation-compte-a-rebours-6-ans), prévu à l'article L.6315-1 du Code du travail, est une obligation légale applicable à toutes les entreprises quelle que soit leur taille. Il porte sur les perspectives d'évolution professionnelle du salarié, notamment en termes de qualifications et d'emploi. Il est orienté vers l'avenir.
 
-La loi interdit expressément que l'entretien professionnel porte sur l'évaluation du travail du salarié. Un entretien unique qui mêle évaluation de performance et perspectives d'évolution ne respecte pas cette exigence.
+La loi interdit expressément que l'[entretien professionnel](https://enclair.media/articles/conge-parental-nouvelles-regles-retour-poste) porte sur l'évaluation du travail du salarié. Un entretien unique qui mêle évaluation de performance et perspectives d'évolution ne respecte pas cette exigence.
 
 ## La fréquence : tous les deux ans, c'est un minimum
 

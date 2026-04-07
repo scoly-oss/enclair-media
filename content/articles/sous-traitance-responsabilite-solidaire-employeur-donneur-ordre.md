@@ -1,15 +1,24 @@
 ---
-title: "Sous-traitance : la responsabilité solidaire de l'employeur donneur d'ordre"
-excerpt: "Le donneur d'ordre qui fait appel à un sous-traitant est solidairement responsable du paiement des salaires et des cotisations sociales des salariés du sous-traitant. Un risque méconnu aux conséquences financières lourdes."
-date: "2026-01-22"
-category: "decryptage"
-tags: ["sous-traitance", "responsabilité solidaire", "donneur d'ordre", "vigilance"]
-readTime: "7 min"
+title: 'Sous-traitance : la responsabilité solidaire de l''employeur donneur d''ordre'
+excerpt: >-
+  Le donneur d'ordre qui fait appel à un sous-traitant est solidairement
+  responsable du paiement des salaires et des cotisations sociales des salariés
+  du.
+date: '2026-01-22'
+category: decryptage
+tags:
+  - sous-traitance
+  - responsabilité solidaire
+  - donneur d'ordre
+  - vigilance
+readTime: 7 min
 sources:
-  - "Article L. 8222-1 du Code du travail (obligation de vigilance)"
-  - "Articles L. 8222-2 et L. 8222-5 du Code du travail (solidarité financière)"
-  - "Loi n° 2014-790 du 10 juillet 2014 (loi Savary, lutte contre la concurrence déloyale)"
-  - "Cass. soc., 23 mars 2022, n° 20-21.457"
+  - Article L. 8222-1 du Code du travail (obligation de vigilance)
+  - Articles L. 8222-2 et L. 8222-5 du Code du travail (solidarité financière)
+  - >-
+    Loi n° 2014-790 du 10 juillet 2014 (loi Savary, lutte contre la concurrence
+    déloyale)
+  - 'Cass. soc., 23 mars 2022, n° 20-21.457'
 ---
 
 Le recours à la sous-traitance est une pratique courante pour les entreprises. Mais le donneur d'ordre n'est pas à l'abri des défaillances de son sous-traitant en matière de droit du travail. La loi organise une responsabilité solidaire qui peut se retourner contre le donneur d'ordre négligent.
@@ -39,8 +48,8 @@ L'obligation de vigilance s'applique à tout contrat d'un montant au moins égal
 Si le sous-traitant est condamné pour **travail dissimulé**, le donneur d'ordre qui n'a pas respecté son obligation de vigilance est **solidairement responsable** du paiement :
 
 - Des **rémunérations** et indemnités dues aux salariés du sous-traitant
-- Des **cotisations sociales** obligatoires (URSSAF, retraite complémentaire)
-- Des **indemnités de rupture** et de l'indemnité forfaitaire de 6 mois
+- Des **[cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025)** obligatoires (URSSAF, [retraite complémentaire](https://enclair.media/articles/cotisations-retraite-cadres-changements-agirc-arrco))
+- Des **[indemnités de rupture](https://enclair.media/articles/indemnites-rupture-regime-social-fiscal-2026)** et de l'indemnité forfaitaire de 6 mois
 
 ### L'absence d'attestation de vigilance
 

@@ -1,18 +1,24 @@
 ---
-title: "Salariés protégés : ce que vous ne pouvez vraiment pas faire"
-excerpt: "Membres du CSE, délégués syndicaux, conseillers prud'homaux — la liste des salariés protégés est plus longue que vous ne le pensez. Et les conséquences d'un licenciement non autorisé sont parmi les plus lourdes du droit du travail."
-date: "2025-04-16"
-category: "droit-social"
-tags: ["salariés protégés", "CSE", "autorisation administrative", "licenciement nul"]
-readTime: "7 min"
+title: 'Salariés protégés : ce que vous ne pouvez vraiment pas faire'
+excerpt: >-
+  Membres du CSE, délégués syndicaux, conseillers prud'homaux — la liste des
+  salariés protégés est plus longue que vous ne le pensez.
+date: '2025-04-16'
+category: droit-social
+tags:
+  - salariés protégés
+  - CSE
+  - autorisation administrative
+  - licenciement nul
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.2411-1 à L.2411-24"
-  - "Code du travail, article L.2422-1"
-  - "Cass. soc., 15 avril 2015, n° 13-25.283"
-  - "CE, 5 mai 1976, Safer d'Auvergne, n° 98647"
+  - 'Code du travail, articles L.2411-1 à L.2411-24'
+  - 'Code du travail, article L.2422-1'
+  - 'Cass. soc., 15 avril 2015, n° 13-25.283'
+  - 'CE, 5 mai 1976, Safer d''Auvergne, n° 98647'
 ---
 
-Vous envisagez de licencier un salarié pour insuffisance professionnelle. Le dossier est solide. Vous convoquez à l'entretien préalable, vous notifiez le licenciement. Trois semaines plus tard, vous recevez un courrier recommandé : le salarié est membre suppléant du CSE. Vous ne le saviez pas, ou vous pensiez que les suppléants n'étaient pas protégés.
+Vous envisagez de licencier un salarié pour [insuffisance professionnelle](https://enclair.media/articles/insuffisance-professionnelle-criteres-objectifs). Le dossier est solide. Vous convoquez à l'entretien préalable, vous notifiez le licenciement. Trois semaines plus tard, vous recevez un courrier recommandé : le salarié est membre suppléant du CSE. Vous ne le saviez pas, ou vous pensiez que les suppléants n'étaient pas protégés.
 
 Votre licenciement est nul. Et les conséquences financières sont potentiellement catastrophiques.
 
@@ -34,7 +40,7 @@ L'inspecteur vérifie deux éléments : la réalité et le sérieux du motif inv
 
 ## Les conséquences d'un licenciement sans autorisation
 
-Le licenciement d'un salarié protégé sans autorisation de l'inspecteur du travail est nul de plein droit. La nullité a des conséquences bien plus lourdes que l'absence de cause réelle et sérieuse.
+Le licenciement d'un salarié protégé sans autorisation de l'inspecteur du travail est nul de plein droit. La nullité a des conséquences bien plus lourdes que l'absence de [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse).
 
 Le salarié a droit à sa réintégration dans l'entreprise. S'il la demande, l'employeur ne peut pas s'y opposer. Le salarié réintégré a droit au paiement de l'ensemble des salaires entre son licenciement et sa réintégration, sans déduction des revenus de remplacement perçus (Cass. soc., 15 avril 2015, n° 13-25.283). Pour un licenciement contesté après un an de procédure, cela représente douze mois de salaire brut.
 
@@ -50,7 +56,7 @@ Dans certains cas, la facture dépasse 100 000 euros pour un seul salarié.
 
 **Le transfert d'entreprise.** En cas de transfert au titre de l'article L.1224-1, le transfert du contrat d'un salarié protégé est soumis à l'autorisation de l'inspecteur du travail. Le refus du salarié protégé de voir son contrat transféré ne permet pas de le licencier sans autorisation.
 
-**La modification du contrat.** La proposition de modification du contrat de travail d'un salarié protégé ne nécessite pas d'autorisation. Mais si le salarié refuse et que vous envisagez un licenciement consécutif, l'autorisation est requise.
+**La [modification du contrat](https://enclair.media/articles/modification-contrat-vs-changement-conditions-travail).** La proposition de modification du contrat de travail d'un salarié protégé ne nécessite pas d'autorisation. Mais si le salarié refuse et que vous envisagez un licenciement consécutif, l'autorisation est requise.
 
 ## Ce que vous devez faire lundi matin
 

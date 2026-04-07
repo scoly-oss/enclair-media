@@ -1,23 +1,30 @@
 ---
-title: "Email personnel sur ordinateur pro : ce que l'employeur peut lire"
-excerpt: "L'employeur peut-il accéder aux emails personnels d'un salarié sur son ordinateur professionnel ? La Cour de cassation pose des limites claires fondées sur le respect de la vie privée et l'identification des messages."
-date: "2026-02-27"
-category: "jurisprudence"
-tags: ["email personnel", "vie privée", "contrôle employeur", "ordinateur professionnel"]
-readTime: "6 min"
+title: 'Email personnel sur ordinateur pro : ce que l''employeur peut lire'
+excerpt: >-
+  L'employeur peut-il accéder aux emails personnels d'un salarié sur son
+  ordinateur professionnel ? La Cour de cassation pose des limites claires
+  fondées.
+date: '2026-02-27'
+category: jurisprudence
+tags:
+  - email personnel
+  - vie privée
+  - contrôle employeur
+  - ordinateur professionnel
+readTime: 6 min
 sources:
-  - "Cass. soc., 2 octobre 2001, n° 99-42.942 (arrêt Nikon)"
-  - "Cass. soc., 18 octobre 2011, n° 10-26.782"
-  - "Article 9 du Code civil"
-  - "Article L.1121-1 du Code du travail"
-  - "Cass. soc., 17 juin 2009, n° 08-40.274"
+  - 'Cass. soc., 2 octobre 2001, n° 99-42.942 (arrêt Nikon)'
+  - 'Cass. soc., 18 octobre 2011, n° 10-26.782'
+  - Article 9 du Code civil
+  - Article L.1121-1 du Code du travail
+  - 'Cass. soc., 17 juin 2009, n° 08-40.274'
 ---
 
 Depuis l'arrêt Nikon de 2001, le droit français protège la correspondance privée du salarié, y compris sur son ordinateur professionnel. Mais cette protection n'est pas absolue : les messages professionnels sont présumés accessibles à l'employeur, et la frontière entre personnel et professionnel est parfois ténue.
 
 ## Le principe fondateur : l'arrêt Nikon
 
-Dans son arrêt du 2 octobre 2001 (n° 99-42.942), la Cour de cassation a posé un principe majeur : « le salarié a droit, même au temps et au lieu de travail, au respect de l'intimité de sa vie privée ; celle-ci implique en particulier le secret des correspondances ».
+Dans son arrêt du 2 octobre 2001 (n° 99-42.942), la [Cour de cassation](https://enclair.media/articles/cass-soc-2025-10-arrets-tout-drh-devrait-connaitre) a posé un principe majeur : « le salarié a droit, même au temps et au lieu de travail, au respect de l'intimité de sa vie privée ; celle-ci implique en particulier le secret des correspondances ».
 
 En conséquence, l'employeur **ne peut pas** prendre connaissance des messages personnels émis ou reçus par le salarié sur son ordinateur professionnel, même si l'employeur a interdit l'utilisation personnelle de l'outil informatique.
 
@@ -25,7 +32,7 @@ En conséquence, l'employeur **ne peut pas** prendre connaissance des messages p
 
 Tout message envoyé ou reçu sur la messagerie professionnelle du salarié est **présumé professionnel** et peut être consulté librement par l'employeur, sauf s'il est identifié comme personnel.
 
-Un message est identifié comme personnel lorsqu'il porte la mention **« personnel »**, **« privé »** ou **« confidentiel »** dans son objet ou dans le nom du dossier de classement. La Cour de cassation a confirmé cette distinction (Cass. soc., 18 octobre 2011, n° 10-26.782).
+Un message est identifié comme personnel lorsqu'il porte la mention **« personnel »**, **« privé »** ou **« confidentiel »** dans son objet ou dans le nom du dossier de classement. La [Cour de cassation](https://enclair.media/articles/obligation-reclassement-cour-cassation-2025) a confirmé cette distinction (Cass. soc., 18 octobre 2011, n° 10-26.782).
 
 Les dossiers nominatifs (portant le nom du salarié) ne sont pas nécessairement personnels. Seule la mention explicite « personnel » confère une protection.
 
@@ -40,7 +47,7 @@ Le même régime s'applique aux fichiers stockés sur l'ordinateur professionnel
 
 Un email professionnel (non identifié comme personnel) peut être produit en justice par l'employeur pour justifier un licenciement. Il constitue une preuve licite.
 
-Un email personnel ouvert en violation des règles ne peut en principe pas être utilisé comme preuve. Toutefois, depuis le revirement de l'assemblée plénière du 22 décembre 2023 sur le droit à la preuve, une preuve déloyale peut être admise si elle est indispensable et proportionnée.
+Un email personnel ouvert en violation des règles ne peut en principe pas être utilisé comme preuve. Toutefois, depuis le revirement de l'[assemblée plénière](https://enclair.media/articles/preuve-deloyale-videosurveillance-sauve-ou-coule-dossier) du 22 décembre 2023 sur le droit à la preuve, une preuve déloyale peut être admise si elle est indispensable et proportionnée.
 
 ## Les recommandations pour l'employeur
 

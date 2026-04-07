@@ -1,18 +1,24 @@
 ---
-title: "Prime de partage de la valeur : le guide complet employeur"
-excerpt: "La PPV remplace la prime Macron. Elle peut être versée deux fois par an, exonérée de cotisations dans certaines limites. Mais les conditions ont changé en 2024 et 2025. Êtes-vous à jour ?"
-date: "2025-09-29"
-category: "economie"
-tags: ["PPV", "prime de partage de la valeur", "exonération", "pouvoir d'achat"]
-readTime: "7 min"
+title: 'Prime de partage de la valeur : le guide complet employeur'
+excerpt: >-
+  La PPV remplace la prime Macron. Elle peut être versée deux fois par an,
+  exonérée de cotisations dans certaines limites.
+date: '2025-09-29'
+category: economie
+tags:
+  - PPV
+  - prime de partage de la valeur
+  - exonération
+  - pouvoir d'achat
+readTime: 7 min
 sources:
-  - "Loi n° 2022-1158 du 16 août 2022, article 1er"
-  - "Loi n° 2023-1107 du 29 novembre 2023 (loi Partage de la valeur)"
-  - "Code de la sécurité sociale, article L.241-17-1"
-  - "BOSS, Prime de partage de la valeur, mis à jour 2025"
+  - 'Loi n° 2022-1158 du 16 août 2022, article 1er'
+  - Loi n° 2023-1107 du 29 novembre 2023 (loi Partage de la valeur)
+  - 'Code de la sécurité sociale, article L.241-17-1'
+  - 'BOSS, Prime de partage de la valeur, mis à jour 2025'
 ---
 
-La prime de partage de la valeur (PPV), héritière de la prime exceptionnelle de pouvoir d'achat (PEPA) puis de la prime Macron, est devenue un outil incontournable de politique salariale. Exonérée de cotisations sociales dans certaines limites, elle offre une flexibilité appréciée des employeurs.
+La prime de partage de la valeur (PPV), héritière de la prime exceptionnelle de [pouvoir d'achat](https://enclair.media/articles/loi-pouvoir-achat-mesures-encore-vigueur-employeur) (PEPA) puis de la prime Macron, est devenue un outil incontournable de politique salariale. Exonérée de [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025) dans certaines limites, elle offre une flexibilité appréciée des employeurs.
 
 Mais le dispositif a été modifié à plusieurs reprises, et les conditions d'exonération ont évolué. Appliquer les règles de 2022 ou 2023 en 2026, c'est s'exposer à un redressement.
 
@@ -28,7 +34,7 @@ La PPV peut être modulée en fonction de la rémunération, du niveau de classi
 
 Depuis le 1er janvier 2024, le régime d'exonération de la PPV dépend de la taille de l'entreprise et du niveau de rémunération du bénéficiaire.
 
-Pour les entreprises de moins de 50 salariés et les salariés gagnant moins de 3 SMIC : la PPV est exonérée de cotisations sociales (patronales et salariales), de CSG-CRDS et d'impôt sur le revenu dans la limite de 3 000 euros par an et par salarié (6 000 euros si l'entreprise a mis en place un accord d'intéressement ou de participation volontaire).
+Pour les entreprises de moins de 50 salariés et les salariés gagnant moins de 3 SMIC : la PPV est exonérée de [cotisations sociales](https://enclair.media/articles/cotisations-sociales-2026-ce-qui-change-bulletins) (patronales et salariales), de CSG-CRDS et d'impôt sur le revenu dans la limite de 3 000 euros par an et par salarié (6 000 euros si l'entreprise a mis en place un accord d'intéressement ou de participation volontaire).
 
 Pour les entreprises de 50 salariés et plus, ou pour les salariés gagnant 3 SMIC ou plus : la PPV est exonérée de cotisations sociales dans la même limite, mais elle reste soumise à la CSG-CRDS (9,7 %) et à l'impôt sur le revenu. Le forfait social de 20 % s'applique à la part patronale.
 

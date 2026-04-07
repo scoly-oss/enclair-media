@@ -1,18 +1,24 @@
 ---
-title: "Faute grave : les arrêts qui ont changé la donne en 2025"
-excerpt: "La faute grave prive le salarié de préavis et d'indemnité de licenciement. Mais les juges sont de plus en plus exigeants sur sa caractérisation. Tour d'horizon des arrêts récents qui redéfinissent les frontières."
-date: "2025-11-17"
-category: "jurisprudence"
-tags: ["faute grave", "licenciement", "jurisprudence", "procédure disciplinaire"]
-readTime: "7 min"
+title: 'Faute grave : les arrêts qui ont changé la donne en 2025'
+excerpt: >-
+  La faute grave prive le salarié de préavis et d'indemnité de licenciement.
+  Mais les juges sont de plus en plus exigeants sur sa caractérisation.
+date: '2025-11-17'
+category: jurisprudence
+tags:
+  - faute grave
+  - licenciement
+  - jurisprudence
+  - procédure disciplinaire
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.1234-1 et L.1234-5"
-  - "Cass. soc., 12 avril 2023, n° 21-20.903"
-  - "Cass. soc., 18 octobre 2023, n° 22-15.170"
-  - "Cass. soc., 9 novembre 2022, n° 21-15.208"
+  - 'Code du travail, articles L.1234-1 et L.1234-5'
+  - 'Cass. soc., 12 avril 2023, n° 21-20.903'
+  - 'Cass. soc., 18 octobre 2023, n° 22-15.170'
+  - 'Cass. soc., 9 novembre 2022, n° 21-15.208'
 ---
 
-Vous licenciez un salarié pour faute grave parce qu'il a insulté son manager devant toute l'équipe. Le salarié conteste. Le conseil de prud'hommes requalifie la faute grave en cause réelle et sérieuse. Vous devez payer le préavis et l'indemnité de licenciement. Soit plusieurs mois de salaire que vous n'aviez pas budgétés.
+Vous licenciez un salarié pour faute grave parce qu'il a insulté son manager devant toute l'équipe. Le salarié conteste. Le conseil de prud'hommes requalifie la faute grave en [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse). Vous devez payer le préavis et l'indemnité de licenciement. Soit plusieurs mois de salaire que vous n'aviez pas budgétés.
 
 La faute grave est un qualificatif que les employeurs utilisent fréquemment — et que les juges retoquent tout aussi fréquemment. Les arrêts de 2024-2025 ont encore resserré les critères.
 
@@ -20,7 +26,7 @@ La faute grave est un qualificatif que les employeurs utilisent fréquemment —
 
 La faute grave est celle qui rend impossible le maintien du salarié dans l'entreprise, même pendant la durée du préavis. C'est la définition classique, constante depuis des décennies. Mais son application concrète évolue au fil de la jurisprudence.
 
-La Cour de cassation contrôle la qualification de faute grave au regard de plusieurs facteurs : la gravité intrinsèque des faits, l'ancienneté du salarié, l'existence de sanctions antérieures, le contexte dans lequel les faits se sont produits, et la réaction de l'employeur.
+La [Cour de cassation](https://enclair.media/articles/obligation-reclassement-cour-cassation-2025) contrôle la qualification de faute grave au regard de plusieurs facteurs : la gravité intrinsèque des faits, l'ancienneté du salarié, l'existence de sanctions antérieures, le contexte dans lequel les faits se sont produits, et la réaction de l'employeur.
 
 ## L'ancienneté : un facteur de plus en plus déterminant
 
@@ -34,7 +40,7 @@ Cette tendance pousse les employeurs à calibrer la qualification en fonction du
 
 La faute grave impose une réaction immédiate de l'employeur. Si vous maintenez le salarié à son poste pendant plusieurs semaines après avoir eu connaissance des faits avant d'engager la procédure de licenciement, la qualification de faute grave sera contestée.
 
-La Cour de cassation a rappelé dans un arrêt du 18 octobre 2023 (n° 22-15.170) que le maintien du salarié dans l'entreprise après connaissance des faits est incompatible avec la qualification de faute grave, sauf si un temps raisonnable d'enquête interne est nécessaire.
+La [Cour de cassation](https://enclair.media/articles/faute-lourde-definition-etroite-cour-cassation) a rappelé dans un arrêt du 18 octobre 2023 (n° 22-15.170) que le maintien du salarié dans l'entreprise après connaissance des faits est incompatible avec la qualification de faute grave, sauf si un temps raisonnable d'enquête interne est nécessaire.
 
 Le délai acceptable pour une enquête interne est apprécié au cas par cas, mais au-delà de deux à trois semaines, la qualification de faute grave est fragilisée. Si votre enquête nécessite plus de temps, prononcez une mise à pied conservatoire dès le début.
 

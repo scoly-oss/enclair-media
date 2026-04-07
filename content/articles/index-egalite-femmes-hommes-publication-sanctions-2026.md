@@ -1,18 +1,24 @@
 ---
-title: "Index égalité F/H : publication et sanctions en 2026"
-excerpt: "L'index de l'égalité professionnelle doit être publié chaque année avant le 1er mars. Un score inférieur à 75 déclenche des obligations de correction. Un score inférieur à 85 impose des objectifs de progression. Où en êtes-vous ?"
-date: "2025-12-08"
-category: "decryptage"
-tags: ["égalité professionnelle", "index", "sanctions", "publication"]
-readTime: "6 min"
+title: 'Index égalité F/H : publication et sanctions en 2026'
+excerpt: >-
+  L'index de l'égalité professionnelle doit être publié chaque année avant le
+  1er mars. Un score inférieur à 75 déclenche des obligations de correction.
+date: '2025-12-08'
+category: decryptage
+tags:
+  - égalité professionnelle
+  - index
+  - sanctions
+  - publication
+readTime: 6 min
 sources:
-  - "Code du travail, articles L.1142-8 à L.1142-10"
-  - "Décret n° 2019-15 du 8 janvier 2019"
-  - "Code du travail, article D.1142-4 (calcul des indicateurs)"
-  - "Instruction DGT du 25 janvier 2023"
+  - 'Code du travail, articles L.1142-8 à L.1142-10'
+  - Décret n° 2019-15 du 8 janvier 2019
+  - 'Code du travail, article D.1142-4 (calcul des indicateurs)'
+  - Instruction DGT du 25 janvier 2023
 ---
 
-Le 1er mars 2026 approche. C'est la date limite de publication de l'index de l'égalité professionnelle femmes-hommes pour les entreprises de 50 salariés et plus. Si votre index n'est pas encore calculé, vous êtes en retard. Si votre score est inférieur à 75 points, vous avez un problème. Et si vous ne publiez pas, vous risquez une pénalité pouvant atteindre 1 % de votre masse salariale.
+Le 1er mars 2026 approche. C'est la date limite de publication de l'index de l'[égalité professionnelle](https://enclair.media/articles/nao-themes-obligatoires-risque-penal) femmes-hommes pour les entreprises de 50 salariés et plus. Si votre index n'est pas encore calculé, vous êtes en retard. Si votre score est inférieur à 75 points, vous avez un problème. Et si vous ne publiez pas, vous risquez une pénalité pouvant atteindre 1 % de votre masse salariale.
 
 ## L'obligation de publication
 
@@ -32,7 +38,7 @@ Si votre score reste inférieur à 75 points pendant trois années consécutives
 
 ## Les erreurs de calcul fréquentes
 
-Le calcul des indicateurs est technique et les erreurs sont courantes. L'écart de rémunération doit être calculé par tranche d'âge et par catégorie socioprofessionnelle (ou par niveau ou coefficient hiérarchique). Les primes liées à la performance individuelle sont incluses, les primes d'ancienneté et les heures supplémentaires sont exclues.
+Le calcul des indicateurs est technique et les erreurs sont courantes. L'écart de rémunération doit être calculé par tranche d'âge et par catégorie socioprofessionnelle (ou par niveau ou coefficient hiérarchique). Les primes liées à la performance individuelle sont incluses, les primes d'ancienneté et les [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif) sont exclues.
 
 L'indicateur retour de congé maternité est particulièrement piégeux : il mesure le pourcentage de salariées augmentées dans l'année suivant leur retour de congé maternité, lorsque des augmentations individuelles ont été accordées pendant leur absence. Si une seule salariée n'a pas été augmentée alors qu'elle aurait dû l'être, l'indicateur tombe à zéro.
 

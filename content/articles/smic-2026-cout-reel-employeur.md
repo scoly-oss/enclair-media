@@ -1,15 +1,22 @@
 ---
-title: "SMIC 2026 : le coût réel pour l'employeur, au-delà du chiffre officiel"
-excerpt: "Le SMIC brut mensuel atteint 1 801 euros en 2026. Mais combien coûte réellement un salarié au SMIC ? Charges, allègements, coût complet — les chiffres que tout employeur doit connaître."
-date: "2026-01-05"
-category: "economie"
-tags: ["SMIC", "cotisations", "coût-du-travail", "allègements", "masse-salariale"]
-readTime: "5 min"
+title: 'SMIC 2026 : le coût réel pour l''employeur, au-delà du chiffre officiel'
+excerpt: >-
+  Le SMIC brut mensuel atteint 1 801 euros en 2026. Mais combien coûte
+  réellement un salarié au SMIC ?
+date: '2026-01-05'
+category: economie
+tags:
+  - SMIC
+  - cotisations
+  - coût-du-travail
+  - allègements
+  - masse-salariale
+readTime: 5 min
 sources:
-  - "Décret n°2025-1390 du 23 décembre 2025 portant relèvement du SMIC"
-  - "URSSAF — Barème des cotisations sociales au 1er janvier 2026"
-  - "BOSS — Rubrique Allègements généraux, mise à jour janvier 2026"
-  - "DARES — Le coût du travail en France, édition 2025"
+  - Décret n°2025-1390 du 23 décembre 2025 portant relèvement du SMIC
+  - URSSAF — Barème des cotisations sociales au 1er janvier 2026
+  - 'BOSS — Rubrique Allègements généraux, mise à jour janvier 2026'
+  - 'DARES — Le coût du travail en France, édition 2025'
 ---
 
 Au 1er janvier 2026, le SMIC brut mensuel est passé à 1 801,80 euros (pour 35 heures hebdomadaires), soit un taux horaire de 11,88 euros. C'est le chiffre officiel. Mais si vous êtes employeur, ce n'est pas ce que vous payez. Le coût réel est ailleurs — et il a changé avec la réforme des allègements généraux.
@@ -25,7 +32,7 @@ Il faut distinguer trois niveaux :
 | **Coût total employeur** (avant allègements) | ~2 522 EUR |
 | **Coût total employeur** (après allègements) | ~1 900 EUR |
 
-L'écart entre le brut et le coût employeur total, c'est le poids des cotisations patronales : assurance maladie, retraite, chômage, accidents du travail, formation, etc. Elles représentent environ 40 % du salaire brut au niveau du SMIC.
+L'écart entre le brut et le coût employeur total, c'est le poids des [cotisations patronales](https://enclair.media/articles/reduction-generale-cotisations-formule-2026) : assurance maladie, retraite, chômage, accidents du travail, formation, etc. Elles représentent environ 40 % du salaire brut au niveau du SMIC.
 
 ## L'évolution sur trois ans
 
@@ -77,7 +84,7 @@ Attention : le coût employeur ne s'arrête pas aux cotisations sociales. Il fau
 - **La prévoyance** (si convention collective l'impose) : 15 à 40 euros/mois
 - **Les titres restaurant** (si vous en distribuez) : part employeur de 4 à 6 euros/jour
 - **Le coût de gestion paie** : 20 à 50 euros/mois par bulletin selon votre prestataire
-- **La formation professionnelle** : contribution légale incluse dans les cotisations, mais coût réel des formations en sus
+- **La [formation professionnelle](https://enclair.media/articles/contribution-formation-changements-france-competences)** : contribution légale incluse dans les cotisations, mais coût réel des formations en sus
 
 En intégrant ces coûts annexes, un salarié au SMIC revient plutôt à **2 050-2 150 euros/mois** tout compris.
 
@@ -95,7 +102,7 @@ C'est ce qu'on appelle la "trappe à bas salaires" : le système incite à maint
 
 2. **Recalculez votre masse salariale prévisionnelle.** Avec la hausse du SMIC et la modification des allègements, votre budget RH 2026 n'est plus celui de 2025. Faites tourner les chiffres.
 
-3. **Si vous envisagez des augmentations**, chiffrez le coût réel en tenant compte de la perte d'allègements. Les alternatives (prime de partage de la valeur, intéressement) peuvent être plus efficaces fiscalement.
+3. **Si vous envisagez des augmentations**, chiffrez le coût réel en tenant compte de la perte d'allègements. Les alternatives ([prime de partage de la valeur](https://enclair.media/articles/prime-partage-valeur-guide-complet-employeur), intéressement) peuvent être plus efficaces fiscalement.
 
 ## En résumé
 

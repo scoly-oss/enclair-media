@@ -1,14 +1,20 @@
 ---
-title: "Registre unique du personnel : les mentions obligatoires mises à jour"
-excerpt: "Le registre unique du personnel est obligatoire dès le premier salarié. Mais ses mentions obligatoires ont évolué, et la majorité des PME utilisent un registre incomplet."
-date: "2025-05-28"
-category: "decryptage"
-tags: ["registre unique", "mentions obligatoires", "inspection du travail", "conformité"]
-readTime: "5 min"
+title: 'Registre unique du personnel : les mentions obligatoires mises à jour'
+excerpt: >-
+  Le registre unique du personnel est obligatoire dès le premier salarié. Mais
+  ses mentions obligatoires ont évolué, et la majorité des PME utilisent un.
+date: '2025-05-28'
+category: decryptage
+tags:
+  - registre unique
+  - mentions obligatoires
+  - inspection du travail
+  - conformité
+readTime: 5 min
 sources:
-  - "Code du travail, articles L.1221-13 à L.1221-15-1"
-  - "Code du travail, article D.1221-23 (mentions obligatoires)"
-  - "Code du travail, article R.1227-7 (sanctions)"
+  - 'Code du travail, articles L.1221-13 à L.1221-15-1'
+  - 'Code du travail, article D.1221-23 (mentions obligatoires)'
+  - 'Code du travail, article R.1227-7 (sanctions)'
 ---
 
 ## L'inspecteur du travail arrive dans votre entreprise. Le premier document qu'il demande : le registre unique du personnel. L'avez-vous ?
@@ -39,7 +45,7 @@ L'article D.1221-23 du Code du travail impose les mentions suivantes :
 6. **Qualification** professionnelle
 7. **Date d'entrée** dans l'établissement
 8. **Date de sortie** de l'établissement (à compléter au départ)
-9. Pour les CDD : la mention **"contrat à durée déterminée"**
+9. Pour les CDD : la mention **"[contrat à durée déterminée](https://enclair.media/articles/rupture-anticipee-cdd-cas-legalement-admis)"**
 10. Pour les temps partiels : la mention **"salarié à temps partiel"**
 11. Pour les travailleurs étrangers : le **type et numéro d'autorisation de travail** et la copie des documents (à annexer ou tenir à disposition)
 12. Pour les apprentis : la mention **"apprenti"**
@@ -66,7 +72,7 @@ Les intérimaires figurent également dans une partie spécifique :
 
 Le registre peut être tenu sous forme **papier** (registre relié, à pages numérotées) ou sous forme **numérique**. Si le format numérique est choisi, il doit offrir des garanties de contrôle équivalentes au registre papier : traçabilité des modifications, impossibilité de suppression, horodatage.
 
-Un simple fichier Excel sans protection est considéré comme non conforme par l'inspection du travail.
+Un simple fichier Excel sans protection est considéré comme non conforme par l'[inspection du travail](https://enclair.media/articles/affichages-obligatoires-2025-liste-complete).
 
 ## Les sanctions
 
@@ -78,7 +84,7 @@ Le registre doit être **tenu à disposition** de l'inspecteur du travail, des a
 
 1. **Vérifiez l'existence** de votre registre unique du personnel. Si vous n'en avez pas, créez-en un immédiatement.
 
-2. **Contrôlez les mentions** : chaque salarié en poste figure-t-il avec toutes les mentions obligatoires ? Les dates de sortie des anciens salariés sont-elles renseignées ?
+2. **Contrôlez les mentions** : chaque salarié en poste figure-t-il avec toutes les [mentions obligatoires](https://enclair.media/articles/temps-partiel-mentions-obligatoires-oubliees) ? Les dates de sortie des anciens salariés sont-elles renseignées ?
 
 3. **Ajoutez les stagiaires et intérimaires** dans leurs parties spécifiques si ce n'est pas fait.
 

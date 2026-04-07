@@ -1,29 +1,35 @@
 ---
-title: "Temps de trajet : quand il devient du temps de travail effectif"
-excerpt: "Le temps de trajet entre le domicile et le lieu de travail n'est pas du temps de travail. Sauf quand il l'est. Les critères de distinction sont plus subtils que vous ne le pensez."
-date: "2025-05-15"
-category: "droit-social"
-tags: ["temps de trajet", "temps de travail effectif", "déplacement professionnel", "heures supplémentaires"]
-readTime: "6 min"
+title: 'Temps de trajet : quand il devient du temps de travail effectif'
+excerpt: >-
+  Le temps de trajet entre le domicile et le lieu de travail n'est pas du temps
+  de travail. Sauf quand il l'est.
+date: '2025-05-15'
+category: droit-social
+tags:
+  - temps de trajet
+  - temps de travail effectif
+  - déplacement professionnel
+  - heures supplémentaires
+readTime: 6 min
 sources:
-  - "Code du travail, article L.3121-4"
-  - "Cass. soc., 23 novembre 2022, n°20-20.040"
-  - "Cass. soc., 1er mars 2023, n°21-12.068"
+  - 'Code du travail, article L.3121-4'
+  - 'Cass. soc., 23 novembre 2022, n°20-20.040'
+  - 'Cass. soc., 1er mars 2023, n°21-12.068'
 ---
 
 ## Vos commerciaux partent de chez eux à 6h30 pour un rendez-vous client à 9h. Est-ce du temps de travail ?
 
-La réponse n'est pas aussi simple que vous le pensez. Et si vous vous trompez, ce sont des heures supplémentaires non payées qui s'accumulent depuis des années.
+La réponse n'est pas aussi simple que vous le pensez. Et si vous vous trompez, ce sont des [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif) non payées qui s'accumulent depuis des années.
 
 ## Le piège du "c'est normal, ils sont sur la route"
 
 Beaucoup de dirigeants considèrent que le temps passé sur la route par leurs salariés itinérants fait "partie du job" et ne nécessite aucune rémunération spécifique. C'est parfois vrai. C'est parfois faux. Et la distinction a un coût considérable.
 
-Un commercial qui effectue 2 heures de trajet quotidien non comptabilisé pendant 3 ans, c'est potentiellement **plus de 1 400 heures supplémentaires** à rattraper, majorées de 25 à 50 %. Faites le calcul.
+Un commercial qui effectue 2 heures de trajet quotidien non comptabilisé pendant 3 ans, c'est potentiellement **plus de 1 400 [heures supplémentaires](https://enclair.media/articles/duree-maximale-travail-trois-plafonds)** à rattraper, majorées de 25 à 50 %. Faites le calcul.
 
 ## Le principe : le trajet domicile-travail n'est pas du temps de travail
 
-L'article L.3121-4 du Code du travail est clair : **le temps de déplacement professionnel pour se rendre sur le lieu d'exécution du contrat de travail n'est pas un temps de travail effectif.**
+L'article L.3121-4 du Code du travail est clair : **le temps de [déplacement professionnel](https://enclair.media/articles/temps-deplacement-professionnel-contrepartie-obligatoire) pour se rendre sur le lieu d'exécution du contrat de travail n'est pas un temps de travail effectif.**
 
 Cela concerne le trajet classique domicile - lieu de travail habituel. Votre salarié met 45 minutes pour venir au bureau chaque matin ? Ce n'est pas du temps de travail.
 

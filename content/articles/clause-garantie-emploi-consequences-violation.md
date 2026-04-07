@@ -1,15 +1,21 @@
 ---
-title: "Clause de garantie d'emploi : les conséquences de sa violation"
-excerpt: "La clause de garantie d'emploi interdit le licenciement pendant une période déterminée. Sa violation expose l'employeur à des dommages-intérêts considérables, couvrant l'intégralité des salaires restant dus jusqu'au terme de la garantie."
-date: "2026-01-18"
-category: "jurisprudence"
-tags: ["garantie d'emploi", "clause contractuelle", "licenciement", "indemnisation"]
-readTime: "6 min"
+title: 'Clause de garantie d''emploi : les conséquences de sa violation'
+excerpt: >-
+  La clause de garantie d'emploi interdit le licenciement pendant une période
+  déterminée. Sa violation expose l'employeur à des dommages-intérêts.
+date: '2026-01-18'
+category: jurisprudence
+tags:
+  - garantie d'emploi
+  - clause contractuelle
+  - licenciement
+  - indemnisation
+readTime: 6 min
 sources:
-  - "Cass. soc., 13 février 2019, n° 17-18.259"
-  - "Cass. soc., 10 mai 2023, n° 21-25.104"
-  - "Cass. soc., 29 septembre 2021, n° 19-20.452"
-  - "Article 1231-1 du Code civil (responsabilité contractuelle)"
+  - 'Cass. soc., 13 février 2019, n° 17-18.259'
+  - 'Cass. soc., 10 mai 2023, n° 21-25.104'
+  - 'Cass. soc., 29 septembre 2021, n° 19-20.452'
+  - Article 1231-1 du Code civil (responsabilité contractuelle)
 ---
 
 La clause de garantie d'emploi est une stipulation contractuelle par laquelle l'employeur s'interdit de licencier le salarié pendant une période déterminée. Fréquente dans les contrats de cadres dirigeants et dans les opérations de fusion-acquisition, cette clause a des conséquences financières redoutables en cas de violation.
@@ -36,13 +42,13 @@ La durée de la garantie est librement fixée par les parties. Elle varie géné
 
 ### Le principe : l'indemnisation intégrale
 
-La Cour de cassation considère que la violation de la clause de garantie d'emploi oblige l'employeur à verser au salarié les **salaires restant dus jusqu'au terme de la garantie**, en plus des indemnités de rupture classiques (indemnité de licenciement, indemnité compensatrice de préavis, indemnité pour licenciement sans cause réelle et sérieuse).
+La Cour de cassation considère que la violation de la clause de garantie d'emploi oblige l'employeur à verser au salarié les **salaires restant dus jusqu'au terme de la garantie**, en plus des [indemnités de rupture](https://enclair.media/articles/indemnites-rupture-regime-social-fiscal-2026) classiques (indemnité de licenciement, indemnité compensatrice de préavis, indemnité pour licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher)).
 
 Cette indemnisation est calculée sur l'ensemble des salaires et avantages que le salarié aurait perçus s'il était resté en poste jusqu'au terme de la période garantie (Cass. soc., 13 février 2019, n° 17-18.259).
 
 ### Le cumul avec les indemnités de rupture
 
-L'indemnité pour violation de la clause de garantie d'emploi se **cumule** avec l'indemnité de licenciement et l'indemnité pour licenciement sans cause réelle et sérieuse. Le coût total peut être considérable.
+L'indemnité pour violation de la clause de garantie d'emploi se **cumule** avec l'indemnité de licenciement et l'indemnité pour licenciement sans [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse). Le coût total peut être considérable.
 
 ### L'absence de plafonnement par le barème Macron
 

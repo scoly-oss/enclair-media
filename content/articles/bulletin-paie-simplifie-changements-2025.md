@@ -1,14 +1,20 @@
 ---
-title: "Bulletin de paie simplifié : ce qui change en 2025"
-excerpt: "Le bulletin de paie évolue encore en 2025 avec de nouvelles lignes obligatoires et la clarification du montant net social. Votre logiciel de paie est-il à jour ?"
-date: "2025-07-20"
-category: "economie"
-tags: ["bulletin de paie", "montant net social", "DSN", "simplification"]
-readTime: "5 min"
+title: 'Bulletin de paie simplifié : ce qui change en 2025'
+excerpt: >-
+  Le bulletin de paie évolue encore en 2025 avec de nouvelles lignes
+  obligatoires et la clarification du montant net social.
+date: '2025-07-20'
+category: economie
+tags:
+  - bulletin de paie
+  - montant net social
+  - DSN
+  - simplification
+readTime: 5 min
 sources:
-  - "Code du travail, article R.3243-1"
-  - "Arrêté du 31 janvier 2023 relatif au montant net social"
-  - "BOSS, Bulletin officiel de la Sécurité sociale, rubrique bulletin de paie"
+  - 'Code du travail, article R.3243-1'
+  - Arrêté du 31 janvier 2023 relatif au montant net social
+  - 'BOSS, Bulletin officiel de la Sécurité sociale, rubrique bulletin de paie'
 ---
 
 ## Votre bulletin de paie affiche-t-il le montant net social ? Si non, vous êtes en infraction depuis 2 ans.
@@ -45,7 +51,7 @@ Chaque bloc affiche le total des cotisations salariales et patronales. Les ligne
 L'article R.3243-1 impose les mentions suivantes :
 - Nom et adresse de l'employeur, code APE, numéro SIRET
 - Nom, emploi et position dans la classification du salarié
-- Période et nombre d'heures de travail (en distinguant heures normales et heures supplémentaires)
+- Période et nombre d'heures de travail (en distinguant heures normales et [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif))
 - Nature et montant des accessoires de salaire soumis à cotisation
 - Montant de la rémunération brute
 - Montant et assiette des cotisations et contributions sociales
@@ -66,11 +72,11 @@ Les montants déclarés en DSN doivent être **parfaitement cohérents** avec ce
 
 2. **La part employeur de la mutuelle non intégrée** au montant net social alors qu'elle devrait l'être.
 
-3. **Les heures supplémentaires mal présentées** : elles doivent apparaître distinctement avec leur taux de majoration.
+3. **Les [heures supplémentaires](https://enclair.media/articles/duree-maximale-travail-trois-plafonds) mal présentées** : elles doivent apparaître distinctement avec leur taux de majoration.
 
 4. **Le taux de PAS incorrect** : le taux personnalisé transmis par l'administration fiscale doit être appliqué sans modification.
 
-5. **L'absence de mention de la convention collective** applicable : c'est une mention obligatoire souvent oubliée.
+5. **L'absence de mention de la [convention collective](https://enclair.media/articles/prime-anciennete-convention-collective-piege)** applicable : c'est une mention obligatoire souvent oubliée.
 
 ## Ce que vous devez faire lundi matin
 

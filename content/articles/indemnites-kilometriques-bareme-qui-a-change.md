@@ -1,18 +1,24 @@
 ---
-title: "Indemnités kilométriques : le barème qui a changé"
-excerpt: "Le barème des indemnités kilométriques a été revalorisé. Mais appliquez-vous le bon barème ? Avec les bonnes conditions ? Les erreurs sur les IK sont parmi les plus fréquentes lors des contrôles URSSAF."
-date: "2025-09-15"
-category: "economie"
-tags: ["indemnités kilométriques", "frais professionnels", "URSSAF", "barème fiscal"]
-readTime: "6 min"
+title: 'Indemnités kilométriques : le barème qui a changé'
+excerpt: >-
+  Le barème des indemnités kilométriques a été revalorisé. Mais appliquez-vous
+  le bon barème ? Avec les bonnes conditions ?
+date: '2025-09-15'
+category: economie
+tags:
+  - indemnités kilométriques
+  - frais professionnels
+  - URSSAF
+  - barème fiscal
+readTime: 6 min
 sources:
-  - "CGI, article 83-3°"
-  - "Arrêté du 27 mars 2025 fixant le barème kilométrique"
-  - "BOSS, Frais professionnels, §310 et suivants"
-  - "Cass. 2e civ., 12 mai 2022, n° 20-22.367"
+  - 'CGI, article 83-3°'
+  - Arrêté du 27 mars 2025 fixant le barème kilométrique
+  - 'BOSS, Frais professionnels, §310 et suivants'
+  - 'Cass. 2e civ., 12 mai 2022, n° 20-22.367'
 ---
 
-Votre commercial utilise son véhicule personnel pour ses déplacements professionnels. Vous lui remboursez des indemnités kilométriques sur la base d'un barème que vous pensez être à jour. Mais le barème a été revalorisé. Et les conditions de remboursement ont été précisées par le BOSS.
+Votre commercial utilise son véhicule personnel pour ses déplacements professionnels. Vous lui remboursez des [indemnités kilométriques](https://enclair.media/articles/frais-professionnels-limites-exoneration-urssaf) sur la base d'un barème que vous pensez être à jour. Mais le barème a été revalorisé. Et les conditions de remboursement ont été précisées par le BOSS.
 
 Si vous appliquez un ancien barème ou si vous remboursez sans les justificatifs requis, vous vous exposez à un redressement URSSAF pouvant porter sur trois ans de remboursements.
 
@@ -22,11 +28,11 @@ Le barème kilométrique fiscal est fixé chaque année par arrêté. Il varie s
 
 Ce barème couvre l'ensemble des frais liés à l'utilisation du véhicule : carburant, assurance, entretien, réparations, dépréciation du véhicule et pneumatiques. Il ne couvre pas les frais de péage et de stationnement, qui sont remboursés séparément sur justificatifs.
 
-L'URSSAF admet le remboursement des indemnités kilométriques dans la limite du barème fiscal sans réintégration dans l'assiette des cotisations sociales, sous réserve du respect des conditions détaillées dans le BOSS.
+L'URSSAF admet le remboursement des indemnités kilométriques dans la limite du barème fiscal sans réintégration dans l'assiette des [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025), sous réserve du respect des conditions détaillées dans le BOSS.
 
 ## Les conditions de l'exonération URSSAF
 
-Pour que les indemnités kilométriques soient exonérées de cotisations sociales, plusieurs conditions cumulatives doivent être remplies. Le salarié doit utiliser son véhicule personnel pour des déplacements professionnels. L'employeur ne doit pas mettre de véhicule de service à disposition du salarié. Les déplacements doivent être justifiés par des notes de frais détaillées mentionnant la date, le lieu de départ, le lieu d'arrivée, la distance parcourue et le motif du déplacement.
+Pour que les indemnités kilométriques soient exonérées de [cotisations sociales](https://enclair.media/articles/cotisations-sociales-2026-ce-qui-change-bulletins), plusieurs conditions cumulatives doivent être remplies. Le salarié doit utiliser son véhicule personnel pour des déplacements professionnels. L'employeur ne doit pas mettre de véhicule de service à disposition du salarié. Les déplacements doivent être justifiés par des notes de frais détaillées mentionnant la date, le lieu de départ, le lieu d'arrivée, la distance parcourue et le motif du déplacement.
 
 L'erreur la plus fréquente est le remboursement forfaitaire sans justificatifs détaillés. Un remboursement mensuel fixe de 500 euros « pour frais de déplacement » sans note de frais détaillée sera requalifié en complément de rémunération soumis à cotisations lors d'un contrôle URSSAF (Cass. 2e civ., 12 mai 2022, n° 20-22.367).
 

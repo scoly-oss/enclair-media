@@ -1,14 +1,21 @@
 ---
-title: "Licenciement pendant un arrêt maladie : ce que dit vraiment la Cour"
-excerpt: "Le licenciement d'un salarié en arrêt maladie n'est pas automatiquement interdit. Mais les conditions sont si strictes que la plupart des employeurs se trompent."
-date: "2025-04-22"
-category: "jurisprudence"
-tags: ["licenciement", "arrêt maladie", "discrimination", "désorganisation"]
-readTime: "6 min"
+title: 'Licenciement pendant un arrêt maladie : ce que dit vraiment la Cour'
+excerpt: >-
+  Le licenciement d'un salarié en arrêt maladie n'est pas automatiquement
+  interdit. Mais les conditions sont si strictes que la plupart des employeurs
+  se.
+date: '2025-04-22'
+category: jurisprudence
+tags:
+  - licenciement
+  - arrêt maladie
+  - discrimination
+  - désorganisation
+readTime: 6 min
 sources:
-  - "Code du travail, article L.1132-1 (discrimination)"
-  - "Cass. soc., 6 juillet 2022, n°21-10.261"
-  - "Cass. soc., 18 janvier 2023, n°21-20.311"
+  - 'Code du travail, article L.1132-1 (discrimination)'
+  - 'Cass. soc., 6 juillet 2022, n°21-10.261'
+  - 'Cass. soc., 18 janvier 2023, n°21-20.311'
 ---
 
 ## Votre salarié est en arrêt depuis 8 mois. Vous devez le remplacer définitivement. Pouvez-vous le licencier ?
@@ -50,13 +57,13 @@ La Cour de cassation a jugé qu'un remplacement par redistribution des tâches e
 
 ### Le piège de l'origine professionnelle
 
-Si l'arrêt maladie a une **origine professionnelle** (accident du travail, maladie professionnelle), le licenciement est interdit pendant toute la durée de la suspension du contrat, sauf faute grave du salarié ou impossibilité de maintenir le contrat pour un motif étranger à la maladie (article L.1226-9).
+Si l'arrêt maladie a une **origine professionnelle** (accident du travail, [maladie professionnelle](https://enclair.media/articles/licenciement-salarie-at-conditions-strictes)), le licenciement est interdit pendant toute la durée de la suspension du contrat, sauf faute grave du salarié ou impossibilité de maintenir le contrat pour un motif étranger à la maladie (article L.1226-9).
 
 La violation de cette interdiction entraîne la **nullité** du licenciement.
 
 ### Le piège de la convention collective
 
-Beaucoup de conventions collectives prévoient une **clause de garantie d'emploi** pendant l'arrêt maladie (par exemple : pas de licenciement pendant les 6 premiers mois d'arrêt). Cette clause s'ajoute aux conditions jurisprudentielles. Licencier pendant la période de garantie conventionnelle est sans cause réelle et sérieuse, même si les conditions de la jurisprudence sont remplies.
+Beaucoup de conventions collectives prévoient une **clause de garantie d'emploi** pendant l'arrêt maladie (par exemple : pas de licenciement pendant les 6 premiers mois d'arrêt). Cette clause s'ajoute aux conditions jurisprudentielles. Licencier pendant la période de garantie conventionnelle est [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher), même si les conditions de la jurisprudence sont remplies.
 
 ### Le piège de la discrimination déguisée
 
@@ -70,7 +77,7 @@ Les juges sont de plus en plus attentifs à la **discrimination indirecte**. Si 
 
 3. **Vérifiez l'origine de l'arrêt** : arrêt maladie simple ou accident du travail/maladie professionnelle ? Les régimes sont radicalement différents.
 
-4. **Lisez votre convention collective** : cherchez la clause de garantie d'emploi. Elle peut interdire le licenciement pendant une durée déterminée.
+4. **Lisez votre [convention collective](https://enclair.media/articles/heure-recherche-emploi-droit-convention-collective)** : cherchez la clause de garantie d'emploi. Elle peut interdire le licenciement pendant une durée déterminée.
 
 5. **Préparez le remplacement définitif** : publiez l'offre d'emploi, recrutez en CDI. Le remplacement doit être effectif et contemporain du licenciement.
 

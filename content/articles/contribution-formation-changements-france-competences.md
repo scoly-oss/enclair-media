@@ -19,7 +19,7 @@ Depuis 2019, la collecte de la contribution formation a été transférée aux U
 
 ### Les taux de contribution
 
-Chaque employeur doit verser une **contribution unique à la formation professionnelle et à l'alternance** (CUFPA) :
+Chaque employeur doit verser une **contribution unique à la [formation professionnelle](https://enclair.media/articles/clause-dedit-formation-conditions-validite) et à l'alternance** (CUFPA) :
 
 - **Entreprises de moins de 11 salariés** : 0,55 % de la masse salariale brute
 - **Entreprises de 11 salariés et plus** : 1 % de la masse salariale brute
@@ -60,11 +60,11 @@ Tout employeur, quelle que soit sa taille, a une obligation d'**adaptation des s
 
 Le non-respect de cette obligation peut être sanctionné par :
 - Des dommages et intérêts au salarié en cas de licenciement (défaut de formation = licenciement sans cause)
-- L'abondement correctif du CPF de 3 000 euros (si aucun entretien professionnel ni formation sur 6 ans)
+- L'abondement correctif du CPF de 3 000 euros (si aucun [entretien professionnel](https://enclair.media/articles/conge-parental-nouvelles-regles-retour-poste) ni formation sur 6 ans)
 
 ### L'entretien professionnel
 
-Tous les 2 ans, chaque salarié doit bénéficier d'un **entretien professionnel** consacré à ses perspectives d'évolution. Tous les 6 ans, un bilan récapitulatif vérifie que le salarié a bénéficié d'au moins une formation non obligatoire.
+Tous les 2 ans, chaque salarié doit bénéficier d'un **[entretien professionnel](https://enclair.media/articles/entretien-annuel-vs-entretien-professionnel)** consacré à ses perspectives d'évolution. Tous les 6 ans, un bilan récapitulatif vérifie que le salarié a bénéficié d'au moins une formation non obligatoire.
 
 ## Ce que vous devez faire lundi matin
 

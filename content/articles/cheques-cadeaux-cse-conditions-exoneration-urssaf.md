@@ -1,23 +1,29 @@
 ---
-title: "Chèques cadeaux CSE : les conditions d'exonération URSSAF"
-excerpt: "Les bons d'achat et chèques cadeaux distribués par le CSE peuvent être exonérés de cotisations sociales sous conditions strictes. Plafond de 5 % du PASS, événements éligibles, règles de cumul : le mode d'emploi complet."
-date: "2026-02-09"
-category: "economie"
-tags: ["chèques cadeaux", "CSE", "URSSAF", "exonération"]
-readTime: "6 min"
+title: 'Chèques cadeaux CSE : les conditions d''exonération URSSAF'
+excerpt: >-
+  Les bons d'achat et chèques cadeaux distribués par le CSE peuvent être
+  exonérés de cotisations sociales sous conditions strictes.
+date: '2026-02-09'
+category: economie
+tags:
+  - chèques cadeaux
+  - CSE
+  - URSSAF
+  - exonération
+readTime: 6 min
 sources:
-  - "Lettre circulaire ACOSS n° 2011-0000024"
-  - "Article L.242-1 du Code de la sécurité sociale"
-  - "Instruction BOSS du 24 mars 2022"
-  - "BOSS, fiche Avantages en nature §1100"
-  - "Article L.2312-78 du Code du travail"
+  - Lettre circulaire ACOSS n° 2011-0000024
+  - Article L.242-1 du Code de la sécurité sociale
+  - Instruction BOSS du 24 mars 2022
+  - 'BOSS, fiche Avantages en nature §1100'
+  - Article L.2312-78 du Code du travail
 ---
 
-Les chèques cadeaux, bons d'achat et cartes cadeaux distribués par le CSE aux salariés sont en principe soumis à cotisations sociales puisqu'ils constituent un avantage. Toutefois, une tolérance administrative de l'URSSAF permet leur exonération sous conditions strictes. Un dispositif avantageux mais technique dont le non-respect conduit à un redressement.
+Les chèques cadeaux, bons d'achat et cartes cadeaux distribués par le CSE aux salariés sont en principe soumis à [cotisations sociales](https://enclair.media/articles/controle-urssaf-10-points-plus-controles-2025) puisqu'ils constituent un avantage. Toutefois, une tolérance administrative de l'URSSAF permet leur exonération sous conditions strictes. Un dispositif avantageux mais technique dont le non-respect conduit à un redressement.
 
 ## Le principe : les bons d'achat sont soumis à cotisations
 
-Par principe, tout avantage accordé par le CSE ou l'employeur aux salariés est un avantage en nature soumis à cotisations sociales (article L.242-1 du Code de la sécurité sociale).
+Par principe, tout avantage accordé par le CSE ou l'employeur aux salariés est un avantage en nature soumis à [cotisations sociales](https://enclair.media/articles/cotisations-sociales-2026-ce-qui-change-bulletins) (article L.242-1 du Code de la sécurité sociale).
 
 Les chèques cadeaux, bons d'achat et cartes cadeaux n'échappent pas à cette règle. Ce n'est que par une **tolérance ministérielle**, consolidée par les instructions BOSS, qu'ils peuvent être exonérés.
 
@@ -78,7 +84,7 @@ Un bon d'achat utilisable sans restriction dans n'importe quel magasin et pour n
 
 ## Le régime fiscal
 
-Les bons d'achat exonérés de cotisations sociales sont également exonérés d'impôt sur le revenu dans les mêmes limites. Au-delà des seuils, ils sont imposables et doivent figurer sur la déclaration de revenus du salarié.
+Les bons d'achat exonérés de [cotisations sociales](https://enclair.media/articles/exonerations-urssaf-celles-que-vous-ne-demandez-pas) sont également exonérés d'impôt sur le revenu dans les mêmes limites. Au-delà des seuils, ils sont imposables et doivent figurer sur la déclaration de revenus du salarié.
 
 ## Ce qu'il faut retenir
 

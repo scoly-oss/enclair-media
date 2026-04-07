@@ -1,19 +1,27 @@
 ---
-title: "Obligation de reclassement en cas de licenciement économique : le périmètre réel"
-excerpt: "Avant tout licenciement économique, l'employeur doit rechercher un reclassement pour le salarié concerné. Le périmètre de cette recherche et les efforts attendus sont strictement encadrés par la loi et la jurisprudence."
-date: "2026-03-12"
-category: "droit-social"
-tags: ["licenciement économique", "reclassement", "obligation employeur", "groupe"]
-readTime: "7 min"
+title: >-
+  Obligation de reclassement en cas de licenciement économique : le périmètre
+  réel
+excerpt: >-
+  Avant tout licenciement économique, l'employeur doit rechercher un
+  reclassement pour le salarié concerné.
+date: '2026-03-12'
+category: droit-social
+tags:
+  - licenciement économique
+  - reclassement
+  - obligation employeur
+  - groupe
+readTime: 7 min
 sources:
-  - "Article L.1233-4 du Code du travail"
-  - "Article L.1233-4-1 du Code du travail"
-  - "Cass. soc., 4 mars 2020, n° 18-14.291"
-  - "Ordonnance n° 2017-1387 du 22 septembre 2017"
-  - "Cass. soc., 23 octobre 2019, n° 17-28.800"
+  - Article L.1233-4 du Code du travail
+  - Article L.1233-4-1 du Code du travail
+  - 'Cass. soc., 4 mars 2020, n° 18-14.291'
+  - Ordonnance n° 2017-1387 du 22 septembre 2017
+  - 'Cass. soc., 23 octobre 2019, n° 17-28.800'
 ---
 
-L'obligation de reclassement constitue l'un des piliers du droit du licenciement économique. Avant de procéder à la rupture du contrat, l'employeur doit démontrer qu'il a activement recherché des solutions alternatives pour maintenir le salarié dans l'emploi. Depuis les ordonnances Macron de 2017, le périmètre de cette obligation a été redéfini, mais son exigence demeure.
+L'obligation de reclassement constitue l'un des piliers du droit du [licenciement économique](https://enclair.media/articles/reclassement-interne-recherche-juges-verifient). Avant de procéder à la rupture du contrat, l'employeur doit démontrer qu'il a activement recherché des solutions alternatives pour maintenir le salarié dans l'emploi. Depuis les ordonnances Macron de 2017, le périmètre de cette obligation a été redéfini, mais son exigence demeure.
 
 ## Le cadre légal : l'article L.1233-4 du Code du travail
 
@@ -53,11 +61,11 @@ La Cour de cassation a jugé que l'employeur ne satisfait pas à son obligation 
 
 ## Les sanctions du non-respect
 
-Le manquement à l'obligation de reclassement prive le licenciement économique de **cause réelle et sérieuse**. Le salarié peut alors prétendre aux indemnités prévues par le barème de l'article L.1235-3 du Code du travail.
+Le manquement à l'obligation de reclassement prive le [licenciement économique](https://enclair.media/articles/licenciement-economique-5-etapes-obligatoires) de **cause réelle et sérieuse**. Le salarié peut alors prétendre aux indemnités prévues par le barème de l'article L.1235-3 du Code du travail.
 
 Pour un salarié ayant 10 ans d'ancienneté dans une entreprise de plus de 11 salariés, ces indemnités peuvent atteindre **10 mois de salaire brut** au maximum.
 
-L'insuffisance de la recherche de reclassement est le grief le plus fréquemment soulevé devant les conseils de prud'hommes en matière de licenciement économique. Les juges examinent avec attention le sérieux et l'exhaustivité des démarches entreprises.
+L'insuffisance de la recherche de reclassement est le grief le plus fréquemment soulevé devant les conseils de prud'hommes en matière de [licenciement économique](https://enclair.media/articles/ordre-licenciements-economiques-criteres-obligatoires). Les juges examinent avec attention le sérieux et l'exhaustivité des démarches entreprises.
 
 ## Comment sécuriser la procédure
 

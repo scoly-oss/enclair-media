@@ -1,26 +1,32 @@
 ---
-title: "Repos compensateur : le droit acquis que vous ne pouvez pas supprimer"
-excerpt: "Le repos compensateur de remplacement et la contrepartie obligatoire en repos sont des droits acquis des salariés que l'employeur ne peut supprimer unilatéralement. Régime juridique et conséquences du non-respect."
-date: "2025-12-16"
-category: "droit-social"
-tags: ["repos compensateur", "heures supplémentaires", "temps de travail", "contrepartie obligatoire"]
-readTime: "6 min"
+title: 'Repos compensateur : le droit acquis que vous ne pouvez pas supprimer'
+excerpt: >-
+  Le repos compensateur de remplacement et la contrepartie obligatoire en repos
+  sont des droits acquis des salariés que l'employeur ne peut supprimer.
+date: '2025-12-16'
+category: droit-social
+tags:
+  - repos compensateur
+  - heures supplémentaires
+  - temps de travail
+  - contrepartie obligatoire
+readTime: 6 min
 sources:
-  - "Articles L. 3121-28 à L. 3121-31 du Code du travail"
-  - "Articles L. 3121-33 et L. 3121-38 du Code du travail"
-  - "Article D. 3121-23 du Code du travail (information du salarié)"
-  - "Cass. soc., 18 mars 2020, n° 18-22.642"
+  - Articles L. 3121-28 à L. 3121-31 du Code du travail
+  - Articles L. 3121-33 et L. 3121-38 du Code du travail
+  - Article D. 3121-23 du Code du travail (information du salarié)
+  - 'Cass. soc., 18 mars 2020, n° 18-22.642'
 ---
 
-Le système des repos compensateurs liés aux heures supplémentaires est souvent méconnu des employeurs. Pourtant, ces repos constituent des droits acquis des salariés dont le non-respect expose à des indemnisations significatives.
+Le système des repos compensateurs liés aux [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif) est souvent méconnu des employeurs. Pourtant, ces repos constituent des droits acquis des salariés dont le non-respect expose à des indemnisations significatives.
 
 ## Les deux types de repos liés aux heures supplémentaires
 
 ### Le repos compensateur de remplacement (RCR)
 
-Le repos compensateur de remplacement permet de remplacer tout ou partie du paiement des heures supplémentaires par un repos équivalent. Sa mise en place nécessite un **accord collectif** (d'entreprise ou de branche) ou, dans les entreprises de moins de 50 salariés dépourvues de délégué syndical, une décision unilatérale de l'employeur sous réserve que le CSE ne s'y oppose pas.
+Le repos compensateur de remplacement permet de remplacer tout ou partie du paiement des [heures supplémentaires](https://enclair.media/articles/duree-maximale-travail-trois-plafonds) par un repos équivalent. Sa mise en place nécessite un **accord collectif** (d'entreprise ou de branche) ou, dans les entreprises de moins de 50 salariés dépourvues de délégué syndical, une décision unilatérale de l'employeur sous réserve que le CSE ne s'y oppose pas.
 
-Le RCR se substitue au paiement majoré. Ainsi, une heure supplémentaire majorée à 25 % donne droit à **1 heure et 15 minutes** de repos (et non 1 heure). L'avantage pour l'employeur : les heures supplémentaires remplacées par un repos ne s'imputent pas sur le contingent annuel d'heures supplémentaires.
+Le RCR se substitue au paiement majoré. Ainsi, une heure supplémentaire majorée à 25 % donne droit à **1 heure et 15 minutes** de repos (et non 1 heure). L'avantage pour l'employeur : les [heures supplémentaires](https://enclair.media/articles/heures-supplementaires-la-preuve-qui-manque-toujours) remplacées par un repos ne s'imputent pas sur le contingent annuel d'heures supplémentaires.
 
 ### La contrepartie obligatoire en repos (COR)
 

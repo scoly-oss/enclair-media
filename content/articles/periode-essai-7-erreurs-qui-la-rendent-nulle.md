@@ -1,15 +1,21 @@
 ---
-title: "Période d'essai : les 7 erreurs qui la rendent nulle"
-excerpt: "Votre période d'essai est peut-être invalide depuis le premier jour. Découvrez les 7 erreurs les plus fréquentes qui permettent au salarié de la contester — et ce que ça vous coûte."
-date: "2025-01-06"
-category: "droit-social"
-tags: ["période d'essai", "contrat de travail", "embauche", "nullité"]
-readTime: "7 min"
+title: 'Période d''essai : les 7 erreurs qui la rendent nulle'
+excerpt: >-
+  Votre période d'essai est peut-être invalide depuis le premier jour. Découvrez
+  les 7 erreurs les plus fréquentes qui permettent au salarié de la.
+date: '2025-01-06'
+category: droit-social
+tags:
+  - période d'essai
+  - contrat de travail
+  - embauche
+  - nullité
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.1221-19 à L.1221-26"
-  - "Cass. soc., 16 mars 2022, n° 20-21.774"
-  - "Cass. soc., 12 janvier 2022, n° 20-15.518"
-  - "Cass. soc., 5 novembre 2014, n° 13-18.114"
+  - 'Code du travail, articles L.1221-19 à L.1221-26'
+  - 'Cass. soc., 16 mars 2022, n° 20-21.774'
+  - 'Cass. soc., 12 janvier 2022, n° 20-15.518'
+  - 'Cass. soc., 5 novembre 2014, n° 13-18.114'
 ---
 
 Vous venez de recruter un collaborateur. Après trois mois, le poste ne convient pas. Vous décidez de rompre la période d'essai. Simple, rapide, sans motivation. C'est le principe même de l'essai. Sauf que le salarié conteste. Et il gagne. Parce que votre période d'essai n'a jamais été valable.
@@ -18,7 +24,7 @@ Ce scénario n'est pas théorique. Il se joue chaque semaine devant les conseils
 
 ## Erreur n°1 : la période d'essai n'est pas écrite dans le contrat
 
-C'est la règle fondamentale. L'article L.1221-23 du Code du travail est limpide : la période d'essai et sa durée doivent être expressément stipulées dans le contrat de travail ou la lettre d'engagement. Pas de clause écrite, pas de période d'essai. La convention collective ne suffit pas à elle seule.
+C'est la règle fondamentale. L'article L.1221-23 du Code du travail est limpide : la période d'essai et sa durée doivent être expressément stipulées dans le [contrat de travail](https://enclair.media/articles/clause-de-mobilite-quand-le-salarie-peut-refuser) ou la lettre d'engagement. Pas de clause écrite, pas de période d'essai. La convention collective ne suffit pas à elle seule.
 
 La Cour de cassation l'a rappelé dans un arrêt du 12 janvier 2022 (n° 20-15.518) : même si la convention collective prévoit une période d'essai, celle-ci ne s'applique pas automatiquement au salarié si le contrat ne la mentionne pas expressément.
 
@@ -40,7 +46,7 @@ En pratique, beaucoup d'employeurs se contentent d'envoyer un courrier informant
 
 Depuis 2008, la rupture de la période d'essai est soumise à un délai de prévenance prévu à l'article L.1221-25. Il varie de 24 heures (si moins de 8 jours de présence) à un mois (si plus de 3 mois de présence). Ne pas le respecter n'annule pas la rupture, mais ouvre droit à une indemnité compensatrice. Une facture que beaucoup d'employeurs découvrent aux prud'hommes.
 
-Point crucial : le délai de prévenance ne peut pas avoir pour effet de prolonger la période d'essai au-delà de son terme. Si vous rompez trop tard, vous êtes hors période d'essai. Et là, c'est un licenciement sans cause réelle et sérieuse.
+Point crucial : le délai de prévenance ne peut pas avoir pour effet de prolonger la période d'essai au-delà de son terme. Si vous rompez trop tard, vous êtes hors période d'essai. Et là, c'est un licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher).
 
 ## Erreur n°5 : rompre pour un motif discriminatoire ou disciplinaire déguisé
 
@@ -66,4 +72,4 @@ Pourtant, de nombreuses entreprises traitent une mobilité interne comme une nou
 
 Ouvrez vos modèles de contrats de travail. Vérifiez que la clause de période d'essai est présente, qu'elle mentionne la durée exacte, la possibilité de renouvellement si votre branche le permet, et les délais de prévenance. Vérifiez ensuite que vos dernières ruptures de période d'essai ont été notifiées dans les temps.
 
-Si vous avez le moindre doute, faites auditer vos contrats. Le coût d'un audit est dérisoire comparé à une condamnation prud'homale pour licenciement sans cause réelle et sérieuse — car c'est exactement ce que devient une rupture de période d'essai invalide.
+Si vous avez le moindre doute, faites auditer vos contrats. Le coût d'un audit est dérisoire comparé à une condamnation prud'homale pour licenciement sans [cause réelle et sérieuse](https://enclair.media/articles/licenciement-verbal-sans-cause-reelle-serieuse) — car c'est exactement ce que devient une rupture de période d'essai invalide.

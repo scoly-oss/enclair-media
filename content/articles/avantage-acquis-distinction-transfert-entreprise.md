@@ -1,19 +1,25 @@
 ---
-title: "Avantage acquis : la distinction qui change tout en cas de transfert"
-excerpt: "Lors d'un transfert d'entreprise, le sort des avantages des salariés dépend de leur source juridique : contrat, usage, accord collectif. Une distinction technique aux conséquences pratiques majeures pour le repreneur."
-date: "2026-02-12"
-category: "droit-social"
-tags: ["transfert entreprise", "avantage acquis", "article L.1224-1", "accord collectif"]
-readTime: "7 min"
+title: 'Avantage acquis : la distinction qui change tout en cas de transfert'
+excerpt: >-
+  Lors d'un transfert d'entreprise, le sort des avantages des salariés dépend de
+  leur source juridique : contrat, usage, accord collectif.
+date: '2026-02-12'
+category: droit-social
+tags:
+  - transfert entreprise
+  - avantage acquis
+  - article L.1224-1
+  - accord collectif
+readTime: 7 min
 sources:
-  - "Article L.1224-1 du Code du travail"
-  - "Article L.2261-14 du Code du travail"
-  - "Cass. soc., 12 septembre 2018, n° 17-10.492"
-  - "Cass. soc., 24 janvier 2007, n° 04-45.585"
-  - "Article L.2261-10 du Code du travail"
+  - Article L.1224-1 du Code du travail
+  - Article L.2261-14 du Code du travail
+  - 'Cass. soc., 12 septembre 2018, n° 17-10.492'
+  - 'Cass. soc., 24 janvier 2007, n° 04-45.585'
+  - Article L.2261-10 du Code du travail
 ---
 
-Le transfert d'entreprise, régi par l'article L.1224-1 du Code du travail, impose au repreneur de maintenir les contrats de travail en cours. Mais au-delà du contrat lui-même, quid des avantages dont bénéficiaient les salariés ? La réponse dépend de la source juridique de chaque avantage : contrat individuel, accord collectif, usage ou engagement unilatéral.
+Le [transfert d'entreprise](https://enclair.media/articles/transfert-entreprise-L1224-1-obligations-cachees), régi par l'article L.1224-1 du Code du travail, impose au repreneur de maintenir les contrats de travail en cours. Mais au-delà du contrat lui-même, quid des avantages dont bénéficiaient les salariés ? La réponse dépend de la source juridique de chaque avantage : contrat individuel, [accord collectif](https://enclair.media/articles/teletravail-avenant-que-personne-ne-signe), usage ou engagement unilatéral.
 
 ## Le principe du transfert automatique des contrats
 
@@ -55,7 +61,7 @@ Le repreneur peut procéder à cette dénonciation dès le transfert, sans avoir
 
 ## Les engagements unilatéraux de l'employeur
 
-Les engagements unilatéraux — décisions de l'employeur accordant un avantage aux salariés sans négociation collective — suivent un régime similaire aux usages. Ils sont transférés et peuvent être dénoncés par le nouvel employeur selon les mêmes modalités.
+Les engagements unilatéraux — décisions de l'employeur accordant un avantage aux salariés sans [négociation collective](https://enclair.media/articles/accord-entreprise-conditions-validite-ordonnances-macron) — suivent un régime similaire aux usages. Ils sont transférés et peuvent être dénoncés par le nouvel employeur selon les mêmes modalités.
 
 La Cour de cassation a confirmé que l'engagement unilatéral de l'ancien employeur s'impose au repreneur dans les mêmes conditions (Cass. soc., 12 septembre 2018, n° 17-10.492).
 

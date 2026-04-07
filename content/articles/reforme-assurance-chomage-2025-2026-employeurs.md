@@ -1,16 +1,25 @@
 ---
-title: "Réforme de l'assurance chômage : ce qui change pour les employeurs"
-excerpt: "Durcissement des conditions d'indemnisation, pérennisation du bonus-malus sur les contrats courts, impact sur le recours à l'intérim et aux CDD : décryptage des nouvelles règles et de ce que l'employeur doit adapter."
-date: "2026-01-20"
-category: "decryptage"
-tags: ["assurance-chômage", "bonus-malus", "CDD", "intérim", "cotisations"]
-readTime: "5 min"
+title: 'Réforme de l''assurance chômage : ce qui change pour les employeurs'
+excerpt: >-
+  Durcissement des conditions d'indemnisation, pérennisation du bonus-malus sur
+  les contrats courts, impact sur le recours à l'intérim et aux CDD :.
+date: '2026-01-20'
+category: decryptage
+tags:
+  - assurance-chômage
+  - bonus-malus
+  - CDD
+  - intérim
+  - cotisations
+readTime: 5 min
 sources:
-  - "Décret n° 2024-1139 du 4 décembre 2024 relatif au régime d'assurance chômage"
-  - "Article L. 5422-12 du Code du travail (bonus-malus)"
-  - "Convention d'assurance chômage du 15 novembre 2024"
-  - "Arrêté du 19 décembre 2024 portant agrément de la convention d'assurance chômage"
-  - "BOSS — Rubrique Exonérations, contributions chômage"
+  - Décret n° 2024-1139 du 4 décembre 2024 relatif au régime d'assurance chômage
+  - Article L. 5422-12 du Code du travail (bonus-malus)
+  - Convention d'assurance chômage du 15 novembre 2024
+  - >-
+    Arrêté du 19 décembre 2024 portant agrément de la convention d'assurance
+    chômage
+  - 'BOSS — Rubrique Exonérations, contributions chômage'
 ---
 
 La réforme de l'assurance chômage, entrée en vigueur par étapes depuis fin 2024, produit désormais ses pleins effets. Si les débats se sont focalisés sur les demandeurs d'emploi, les conséquences pour les employeurs sont tout aussi structurantes. Bonus-malus pérennisé, recalibrage des contributions, impact sur la gestion des CDD et de l'intérim : voici ce qu'il faut retenir.
@@ -21,8 +30,8 @@ Les nouvelles règles ont relevé la durée minimale d'affiliation à **6 mois t
 
 En quoi cela impacte l'employeur ?
 
-- **Les négociations de rupture conventionnelle changent.** Un salarié qui sait que son indemnisation chômage sera plus courte négotera différemment. Attendez-vous à des demandes d'indemnités supra-légales plus élevées pour compenser la perte d'allocation.
-- **Le turnover coûte plus cher indirectement.** Un ancien salarié qui retrouve moins facilement un emploi peut générer des contentieux (requalification, demande de dommages-intérêts) si les conditions de la rupture sont fragiles.
+- **Les négociations de [rupture conventionnelle](https://enclair.media/articles/nouveau-formulaire-rupture-conventionnelle-ce-qui-change) changent.** Un salarié qui sait que son indemnisation chômage sera plus courte négotera différemment. Attendez-vous à des demandes d'indemnités supra-légales plus élevées pour compenser la perte d'allocation.
+- **Le turnover coûte plus cher indirectement.** Un ancien salarié qui retrouve moins facilement un emploi peut générer des contentieux ([requalification](https://enclair.media/articles/requalification-cdi-cas-frequents-2025), demande de dommages-intérêts) si les conditions de la rupture sont fragiles.
 - **L'attractivité du CDI se renforce.** Côté salarié, la sécurisation de l'emploi redevient un critère majeur. C'est un levier RH à exploiter.
 
 ## Le bonus-malus : le mécanisme qui pénalise les contrats courts
@@ -47,7 +56,7 @@ L'écart maximal est de **2,05 points**. Sur une masse salariale de 500 000 euro
 
 ## L'impact sur le recours à l'intérim
 
-Le bonus-malus intègre les fins de missions d'intérim dans le calcul du taux de séparation de l'entreprise utilisatrice. C'est un changement de paradigme.
+Le bonus-malus intègre les fins de missions d'intérim dans le calcul du taux de séparation de l'[entreprise utilisatrice](https://enclair.media/articles/interim-responsabilite-entreprise-utilisatrice). C'est un changement de paradigme.
 
 Auparavant, recourir à l'intérim permettait d'externaliser le risque chômage chez l'agence d'emploi. Désormais, chaque fin de mission d'intérim est **comptabilisée dans votre taux de séparation**. Le signal est clair : le législateur veut dissuader le remplacement systématique des CDD par de l'intérim pour contourner le dispositif.
 

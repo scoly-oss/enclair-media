@@ -1,16 +1,23 @@
 ---
-title: "Loi pouvoir d'achat : les mesures encore en vigueur pour l'employeur"
-excerpt: "La loi du 16 août 2022 sur le pouvoir d'achat a introduit des mesures temporaires et pérennes. En 2026, certaines restent applicables et constituent des leviers pour les employeurs. Le tri entre ce qui a expiré et ce qui perdure."
-date: "2026-03-17"
-category: "alerte"
-tags: ["pouvoir d'achat", "PPV", "transport", "intéressement"]
-readTime: "6 min"
+title: 'Loi pouvoir d''achat : les mesures encore en vigueur pour l''employeur'
+excerpt: >-
+  La loi du 16 août 2022 sur le pouvoir d'achat a introduit des mesures
+  temporaires et pérennes. En 2026, certaines restent applicables et
+  constituent.
+date: '2026-03-17'
+category: alerte
+tags:
+  - pouvoir d'achat
+  - PPV
+  - transport
+  - intéressement
+readTime: 6 min
 sources:
-  - "Loi n° 2022-1158 du 16 août 2022"
-  - "Article L.3312-2 du Code du travail"
-  - "Article L.3261-3 du Code du travail"
-  - "Article 1er de la loi du 16 août 2022 (PPV)"
-  - "Loi n° 2023-1107 du 29 novembre 2023 (loi partage de la valeur)"
+  - Loi n° 2022-1158 du 16 août 2022
+  - Article L.3312-2 du Code du travail
+  - Article L.3261-3 du Code du travail
+  - Article 1er de la loi du 16 août 2022 (PPV)
+  - Loi n° 2023-1107 du 29 novembre 2023 (loi partage de la valeur)
 ---
 
 La loi du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat a introduit un arsenal de dispositions destinées à améliorer le revenu des salariés. Certaines étaient temporaires et ont expiré, d'autres ont été pérennisées. En 2026, voici ce qui reste applicable pour les employeurs.
@@ -43,7 +50,7 @@ La loi partage de la valeur du 29 novembre 2023 a étendu cette possibilité et 
 
 ## Les heures supplémentaires défiscalisées : maintenues
 
-La déduction forfaitaire de cotisations patronales sur les heures supplémentaires reste applicable en 2026 :
+La déduction forfaitaire de [cotisations patronales](https://enclair.media/articles/allegements-fillon-formule-calcul-mise-a-jour) sur les [heures supplémentaires](https://enclair.media/articles/astreinte-temps-de-travail-effectif) reste applicable en 2026 :
 - **1,50 €** par heure supplémentaire dans les entreprises de 20 à 249 salariés
 - **0,50 €** par heure supplémentaire dans les entreprises de 250 salariés et plus
 
@@ -55,7 +62,7 @@ L'exonération d'impôt sur le revenu des heures supplémentaires dans la limite
 
 **L'exonération fiscale de la PPV.** L'exonération d'impôt sur le revenu pour les salariés dont la rémunération est inférieure à 3 SMIC dans les entreprises de moins de 50 salariés a pris fin le 31 décembre 2023.
 
-**Le déblocage exceptionnel de l'épargne salariale.** La possibilité de débloquer jusqu'à 10 000 € d'épargne salariale a expiré le 31 décembre 2022.
+**Le déblocage exceptionnel de l'[épargne salariale](https://enclair.media/articles/ppv-vs-interessement-quel-dispositif-choisir-2026).** La possibilité de débloquer jusqu'à 10 000 € d'épargne salariale a expiré le 31 décembre 2022.
 
 ## Ce qui change avec la loi partage de la valeur
 

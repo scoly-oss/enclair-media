@@ -1,18 +1,25 @@
 ---
-title: "Obligation de reclassement : ce que la Cour exige vraiment en 2025"
-excerpt: "L'obligation de reclassement avant licenciement est un classique du contentieux social. La Cour de cassation a progressivement durci ses exigences. Recherche sérieuse, périmètre du groupe, adaptabilité : ce que les juges vérifient."
-date: "2025-10-10"
-category: "jurisprudence"
-tags: ["reclassement", "licenciement", "Cour de cassation", "obligation employeur"]
-readTime: "7 min"
+title: 'Obligation de reclassement : ce que la Cour exige vraiment en 2025'
+excerpt: >-
+  L'obligation de reclassement avant licenciement est un classique du
+  contentieux social. La Cour de cassation a progressivement durci ses
+  exigences.
+date: '2025-10-10'
+category: jurisprudence
+tags:
+  - reclassement
+  - licenciement
+  - Cour de cassation
+  - obligation employeur
+readTime: 7 min
 sources:
-  - "Article L. 1233-4 du Code du travail (reclassement économique)"
-  - "Article L. 1226-2 du Code du travail (reclassement inaptitude)"
-  - "Cass. soc., 22 mars 2023, n° 21-21.977"
-  - "Cass. soc., 18 janvier 2023, n° 21-19.675"
+  - Article L. 1233-4 du Code du travail (reclassement économique)
+  - Article L. 1226-2 du Code du travail (reclassement inaptitude)
+  - 'Cass. soc., 22 mars 2023, n° 21-21.977'
+  - 'Cass. soc., 18 janvier 2023, n° 21-19.675'
 ---
 
-L'obligation de reclassement est un pilier du droit du licenciement en France. Qu'il s'agisse d'un licenciement économique ou d'un licenciement pour inaptitude, l'employeur doit démontrer qu'il a cherché activement à reclasser le salarié avant de le licencier. La jurisprudence récente de la Cour de cassation fixe des exigences précises.
+L'obligation de reclassement est un pilier du droit du licenciement en France. Qu'il s'agisse d'un [licenciement économique](https://enclair.media/articles/obligation-reclassement-licenciement-economique-perimetre) ou d'un licenciement pour inaptitude, l'employeur doit démontrer qu'il a cherché activement à reclasser le salarié avant de le licencier. La jurisprudence récente de la [Cour de cassation](https://enclair.media/articles/faute-lourde-definition-etroite-cour-cassation) fixe des exigences précises.
 
 ## Le périmètre de la recherche
 
@@ -70,6 +77,6 @@ La charge de la preuve de l'exécution de l'obligation de reclassement incombe �
 
 ## Les conséquences du manquement
 
-Le défaut ou l'insuffisance de la recherche de reclassement rend le licenciement **sans cause réelle et sérieuse**. Le salarié a droit à des dommages-intérêts selon le barème Macron (articles L. 1235-3 et suivants du Code du travail), en plus de l'indemnité de licenciement et de l'indemnité compensatrice de préavis.
+Le défaut ou l'insuffisance de la recherche de reclassement rend le licenciement **[sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher)**. Le salarié a droit à des dommages-intérêts selon le barème Macron (articles L. 1235-3 et suivants du Code du travail), en plus de l'indemnité de licenciement et de l'indemnité compensatrice de préavis.
 
 L'obligation de reclassement n'est pas une formalité. C'est une obligation de moyens renforcée dont le juge vérifie l'exécution avec une rigueur croissante. Documenter chaque étape de la recherche est la meilleure protection contre un contentieux.

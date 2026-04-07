@@ -1,26 +1,33 @@
 ---
-title: "CSE : les moyens renforcés par la dernière réforme"
-excerpt: "Le CSE a vu ses moyens d'action évoluer : budgets, heures de délégation, recours à l'expertise, BDESE. Faites-vous le minimum légal ou êtes-vous en dessous ? La question mérite d'être posée."
-date: "2025-11-10"
-category: "decryptage"
-tags: ["CSE", "moyens", "budget", "heures de délégation", "BDESE"]
-readTime: "7 min"
+title: 'CSE : les moyens renforcés par la dernière réforme'
+excerpt: >-
+  Le CSE a vu ses moyens d'action évoluer : budgets, heures de délégation,
+  recours à l'expertise, BDESE.
+date: '2025-11-10'
+category: decryptage
+tags:
+  - CSE
+  - moyens
+  - budget
+  - heures de délégation
+  - BDESE
+readTime: 7 min
 sources:
-  - "Code du travail, articles L.2315-61 à L.2315-80"
-  - "Code du travail, article L.2312-36 (BDESE)"
-  - "Cass. soc., 22 mars 2023, n° 21-21.315"
-  - "Ordonnances Macron du 22 septembre 2017"
+  - 'Code du travail, articles L.2315-61 à L.2315-80'
+  - 'Code du travail, article L.2312-36 (BDESE)'
+  - 'Cass. soc., 22 mars 2023, n° 21-21.315'
+  - Ordonnances Macron du 22 septembre 2017
 ---
 
-Le comité social et économique (CSE) a remplacé les anciennes instances (CE, DP, CHSCT) depuis 2020. Six ans après, le bilan est contrasté. Beaucoup d'entreprises ont réduit les moyens accordés aux représentants du personnel sans toujours respecter les planchers légaux. Et les élus, insuffisamment formés, ne revendiquent pas toujours ce à quoi ils ont droit.
+Le comité social et économique (CSE) a remplacé les anciennes instances (CE, DP, CHSCT) depuis 2020. Six ans après, le bilan est contrasté. Beaucoup d'entreprises ont réduit les moyens accordés aux [représentants du personnel](https://enclair.media/articles/representants-personnel-heures-delegation-mode-emploi) sans toujours respecter les planchers légaux. Et les élus, insuffisamment formés, ne revendiquent pas toujours ce à quoi ils ont droit.
 
-Ce déséquilibre est un risque juridique. Le non-respect des moyens du CSE expose l'employeur au délit d'entrave, sanctionné pénalement.
+Ce déséquilibre est un risque juridique. Le non-respect des moyens du CSE expose l'employeur au [délit d'entrave](https://enclair.media/articles/bdese-contenu-obligatoire-personne-ne-met-a-jour), sanctionné pénalement.
 
 ## Le budget de fonctionnement : 0,20 % ou 0,22 %
 
 Le budget de fonctionnement du CSE est fixé à 0,20 % de la masse salariale brute pour les entreprises de 50 à 1 999 salariés, et à 0,22 % pour les entreprises de 2 000 salariés et plus (article L.2315-61).
 
-Ce budget finance le fonctionnement courant du CSE : frais de déplacement des élus, abonnements juridiques, formation économique, recours à un expert-comptable. Il ne peut pas être confondu avec le budget des activités sociales et culturelles (ASC), et inversement.
+Ce budget finance le fonctionnement courant du CSE : frais de déplacement des élus, abonnements juridiques, formation économique, recours à un expert-comptable. Il ne peut pas être confondu avec le budget des [activités sociales](https://enclair.media/articles/budget-cse-calcul-erreurs-frequentes) et culturelles (ASC), et inversement.
 
 L'erreur fréquente : calculer le budget sur la masse salariale comptable au lieu de la masse salariale brute au sens de la DSN. L'écart peut être significatif, et les élus peuvent réclamer un rappel sur trois ans (Cass. soc., 22 mars 2023, n° 21-21.315).
 

@@ -1,23 +1,29 @@
 ---
-title: "Convention collective : comment identifier celle qui s'applique"
-excerpt: "Déterminer la convention collective applicable est un enjeu majeur : elle conditionne les salaires minima, les indemnités et de nombreux droits. L'activité principale réelle de l'entreprise est le critère déterminant, pas le code NAF."
-date: "2026-02-18"
-category: "droit-social"
-tags: ["convention collective", "IDCC", "activité principale", "code NAF"]
-readTime: "6 min"
+title: 'Convention collective : comment identifier celle qui s''applique'
+excerpt: >-
+  Déterminer la convention collective applicable est un enjeu majeur : elle
+  conditionne les salaires minima, les indemnités et de nombreux droits.
+date: '2026-02-18'
+category: droit-social
+tags:
+  - convention collective
+  - IDCC
+  - activité principale
+  - code NAF
+readTime: 6 min
 sources:
-  - "Article L.2261-2 du Code du travail"
-  - "Article L.2261-1 du Code du travail"
-  - "Cass. soc., 18 novembre 2020, n° 19-13.269"
-  - "Article L.2261-3 du Code du travail"
-  - "Cass. soc., 5 avril 2023, n° 21-25.344"
+  - Article L.2261-2 du Code du travail
+  - Article L.2261-1 du Code du travail
+  - 'Cass. soc., 18 novembre 2020, n° 19-13.269'
+  - Article L.2261-3 du Code du travail
+  - 'Cass. soc., 5 avril 2023, n° 21-25.344'
 ---
 
-La convention collective applicable conditionne une part considérable des droits des salariés : grilles salariales, indemnités de licenciement, durée du préavis, congés supplémentaires, régimes de prévoyance. Identifier la bonne convention n'est pas un exercice théorique — c'est une question qui peut coûter très cher en cas d'erreur.
+La [convention collective](https://enclair.media/articles/jours-feries-obligations-employeur-convention-collective) applicable conditionne une part considérable des droits des salariés : grilles salariales, indemnités de licenciement, durée du préavis, congés supplémentaires, régimes de prévoyance. Identifier la bonne convention n'est pas un exercice théorique — c'est une question qui peut coûter très cher en cas d'erreur.
 
 ## Le critère légal : l'activité principale
 
-L'article L.2261-2 du Code du travail pose le principe : la convention collective applicable est celle dont relève l'**activité principale** exercée par l'employeur. Ce critère est objectif et s'apprécie au niveau de l'entreprise — non de l'établissement ni du groupe.
+L'article L.2261-2 du Code du travail pose le principe : la [convention collective](https://enclair.media/articles/prime-anciennete-convention-collective-piege) applicable est celle dont relève l'**activité principale** exercée par l'employeur. Ce critère est objectif et s'apprécie au niveau de l'entreprise — non de l'établissement ni du groupe.
 
 Pour déterminer l'activité principale, on distingue selon la nature de l'entreprise :
 
@@ -31,7 +37,7 @@ Pour déterminer l'activité principale, on distingue selon la nature de l'entre
 
 Le code NAF (nomenclature d'activités française) attribué par l'INSEE est souvent utilisé comme point de départ pour identifier la convention collective. Mais la Cour de cassation rappelle régulièrement qu'il ne constitue qu'une **présomption simple**, qui peut être renversée par la preuve de l'activité réellement exercée (Cass. soc., 18 novembre 2020, n° 19-13.269).
 
-Concrètement, une entreprise dont le code NAF correspond à l'informatique mais qui réalise principalement de la formation professionnelle peut se voir appliquer la convention collective de la formation plutôt que celle du numérique.
+Concrètement, une entreprise dont le code NAF correspond à l'informatique mais qui réalise principalement de la [formation professionnelle](https://enclair.media/articles/clause-dedit-formation-conditions-validite) peut se voir appliquer la convention collective de la formation plutôt que celle du numérique.
 
 Cette distinction est capitale : le code NAF peut être erroné ou obsolète, notamment lorsque l'entreprise a fait évoluer son activité sans demander la modification de son code.
 

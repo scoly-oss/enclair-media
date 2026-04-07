@@ -1,18 +1,25 @@
 ---
-title: "Taux directeurs BCE : ce que la baisse change pour votre entreprise"
-excerpt: "La BCE a engagé un cycle de baisse des taux depuis juin 2024. Crédit bancaire, immobilier d'entreprise, trésorerie — ce que ça change concrètement pour un dirigeant de PME en 2026."
-date: "2026-03-10"
-category: "economie"
-tags: ["BCE", "taux-directeurs", "crédit", "immobilier", "trésorerie"]
-readTime: "4 min"
+title: 'Taux directeurs BCE : ce que la baisse change pour votre entreprise'
+excerpt: >-
+  La BCE a engagé un cycle de baisse des taux depuis juin 2024. Crédit bancaire,
+  immobilier d'entreprise, trésorerie — ce que ça change concrètement pour.
+date: '2026-03-10'
+category: economie
+tags:
+  - BCE
+  - taux-directeurs
+  - crédit
+  - immobilier
+  - trésorerie
+readTime: 4 min
 sources:
-  - "Banque centrale européenne — Décisions de politique monétaire, 2024-2026"
-  - "Banque de France — Enquête sur le crédit aux entreprises, T4 2025"
-  - "INSEE — Note de conjoncture, mars 2026"
-  - "Observatoire du financement des entreprises — Rapport annuel 2025"
+  - 'Banque centrale européenne — Décisions de politique monétaire, 2024-2026'
+  - 'Banque de France — Enquête sur le crédit aux entreprises, T4 2025'
+  - 'INSEE — Note de conjoncture, mars 2026'
+  - Observatoire du financement des entreprises — Rapport annuel 2025
 ---
 
-Depuis juin 2024, la Banque centrale européenne (BCE) baisse ses taux directeurs. Après les avoir montés de 0 % à 4,5 % entre 2022 et 2023 pour combattre l'inflation, elle les a progressivement ramenés autour de 2,5 % début 2026. Pour un dirigeant de PME, cette évolution a des conséquences directes sur le coût du crédit, l'immobilier professionnel et la gestion de trésorerie.
+Depuis juin 2024, la Banque centrale européenne (BCE) baisse ses taux directeurs. Après les avoir montés de 0 % à 4,5 % entre 2022 et 2023 pour combattre l'[inflation](https://enclair.media/articles/inflation-salaires-negociation-annuelle-obligatoire), elle les a progressivement ramenés autour de 2,5 % début 2026. Pour un [dirigeant](https://enclair.media/articles/responsabilite-penale-employeur-infractions-poursuivies) de PME, cette évolution a des conséquences directes sur le coût du crédit, l'immobilier professionnel et la gestion de [trésorerie](https://enclair.media/articles/defaillances-entreprises-2025-2026-etat-des-lieux).
 
 ## Un rappel rapide : à quoi servent les taux directeurs
 

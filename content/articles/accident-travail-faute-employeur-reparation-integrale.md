@@ -1,22 +1,28 @@
 ---
-title: "Accident du travail et faute de l'employeur : la réparation intégrale"
-excerpt: "En cas de faute inexcusable de l'employeur, le salarié victime d'un accident du travail peut prétendre à une réparation intégrale de ses préjudices. Depuis 2010, le Conseil constitutionnel a élargi le champ des préjudices indemnisables."
-date: "2026-01-20"
-category: "jurisprudence"
-tags: ["accident du travail", "faute inexcusable", "réparation intégrale", "préjudice"]
-readTime: "7 min"
+title: 'Accident du travail et faute de l''employeur : la réparation intégrale'
+excerpt: >-
+  En cas de faute inexcusable de l'employeur, le salarié victime d'un accident
+  du travail peut prétendre à une réparation intégrale de ses préjudices.
+date: '2026-01-20'
+category: jurisprudence
+tags:
+  - accident du travail
+  - faute inexcusable
+  - réparation intégrale
+  - préjudice
+readTime: 7 min
 sources:
-  - "Articles L. 452-1 à L. 452-5 du Code de la sécurité sociale"
-  - "Cons. const., décision n° 2010-8 QPC du 18 juin 2010"
-  - "Cass. 2e civ., 20 janvier 2022, n° 20-17.962"
-  - "Cass. Ass. plén., 20 janvier 2023, n° 21-23.947"
+  - Articles L. 452-1 à L. 452-5 du Code de la sécurité sociale
+  - 'Cons. const., décision n° 2010-8 QPC du 18 juin 2010'
+  - 'Cass. 2e civ., 20 janvier 2022, n° 20-17.962'
+  - 'Cass. Ass. plén., 20 janvier 2023, n° 21-23.947'
 ---
 
-Le régime de réparation des accidents du travail repose sur un compromis historique : le salarié bénéficie d'une réparation forfaitaire automatique, mais ne peut pas poursuivre son employeur en responsabilité civile de droit commun. Ce principe connaît une exception majeure : la faute inexcusable, qui ouvre droit à une réparation complémentaire élargie depuis 2010.
+Le régime de réparation des accidents du travail repose sur un compromis historique : le salarié bénéficie d'une réparation forfaitaire automatique, mais ne peut pas poursuivre son employeur en responsabilité civile de droit commun. Ce principe connaît une exception majeure : la [faute inexcusable](https://enclair.media/articles/burnout-faute-inexcusable-reconnaissance-juges), qui ouvre droit à une réparation complémentaire élargie depuis 2010.
 
 ## Le principe : la réparation forfaitaire
 
-En cas d'accident du travail, le salarié bénéficie automatiquement des prestations de la sécurité sociale : prise en charge des soins, indemnités journalières (60 % puis 80 % du salaire), rente en cas d'incapacité permanente.
+En cas d'[accident du travail](https://enclair.media/articles/licenciement-salarie-at-conditions-strictes), le salarié bénéficie automatiquement des prestations de la sécurité sociale : prise en charge des soins, indemnités journalières (60 % puis 80 % du salaire), rente en cas d'incapacité permanente.
 
 En contrepartie, le salarié ne peut pas agir en responsabilité civile contre son employeur (article L. 451-1 du CSS), sauf faute intentionnelle ou faute inexcusable.
 
@@ -76,4 +82,4 @@ L'assurance responsabilité civile de l'entreprise ne couvre pas automatiquement
 5. **Souscrire une assurance** faute inexcusable adaptée
 6. **Traiter rapidement** tout signalement de danger par un salarié ou un représentant du personnel
 
-La réparation intégrale en cas de faute inexcusable représente un risque financier majeur pour l'employeur. La prévention des risques professionnels n'est pas seulement une obligation légale : c'est la meilleure protection contre ce risque.
+La réparation intégrale en cas de faute inexcusable représente un risque financier majeur pour l'employeur. La prévention des [risques professionnels](https://enclair.media/articles/compte-penibilite-c2p-obligations-declaratives) n'est pas seulement une obligation légale : c'est la meilleure protection contre ce risque.

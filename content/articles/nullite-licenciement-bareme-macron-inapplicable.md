@@ -1,19 +1,25 @@
 ---
-title: "Nullité du licenciement : les cas où le barème Macron ne s'applique pas"
-excerpt: "Le barème Macron plafonne les indemnités de licenciement sans cause. Mais dans certains cas, ce barème ne s'applique tout simplement pas. Connaître ces exceptions est crucial."
-date: "2025-08-07"
-category: "jurisprudence"
-tags: ["barème Macron", "nullité", "licenciement", "indemnités"]
-readTime: "6 min"
+title: 'Nullité du licenciement : les cas où le barème Macron ne s''applique pas'
+excerpt: >-
+  Le barème Macron plafonne les indemnités de licenciement sans cause. Mais dans
+  certains cas, ce barème ne s'applique tout simplement pas.
+date: '2025-08-07'
+category: jurisprudence
+tags:
+  - barème Macron
+  - nullité
+  - licenciement
+  - indemnités
+readTime: 6 min
 sources:
-  - "Code du travail, article L.1235-3-1"
-  - "Cass. soc., 11 mai 2022, n°21-14.490"
-  - "Conseil constitutionnel, décision n°2018-761 DC du 21 mars 2018"
+  - 'Code du travail, article L.1235-3-1'
+  - 'Cass. soc., 11 mai 2022, n°21-14.490'
+  - 'Conseil constitutionnel, décision n°2018-761 DC du 21 mars 2018'
 ---
 
 ## Vous avez budgété le coût d'un licenciement contesté sur la base du barème Macron. Et si ce barème ne s'appliquait pas ?
 
-Le barème d'indemnisation du licenciement sans cause réelle et sérieuse (dit "barème Macron") a été introduit par les ordonnances de 2017. Il fixe un plancher et un plafond d'indemnisation en fonction de l'ancienneté du salarié. Beaucoup d'employeurs s'en servent pour "budgéter" le coût d'un licenciement.
+Le barème d'indemnisation du licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher) (dit "barème Macron") a été introduit par les ordonnances de 2017. Il fixe un plancher et un plafond d'indemnisation en fonction de l'ancienneté du salarié. Beaucoup d'employeurs s'en servent pour "budgéter" le coût d'un licenciement.
 
 Mais dans certaines situations, le barème ne s'applique tout simplement pas. Et le coût explose.
 
@@ -73,7 +79,7 @@ S'il ne demande pas la réintégration, l'indemnité est d'au moins 6 mois de sa
 
 2. **Ne budgétez pas uniquement sur le barème** : si le motif de nullité existe, le coût est au minimum de 6 mois sans plafond. Le calcul de risque change radicalement.
 
-3. **Documentez le motif réel** du licenciement de manière irréprochable. Un licenciement pour "insuffisance professionnelle" prononcé 2 semaines après une dénonciation de harcèlement sera présumé nul.
+3. **Documentez le motif réel** du licenciement de manière irréprochable. Un licenciement pour "[insuffisance professionnelle](https://enclair.media/articles/insuffisance-professionnelle-criteres-objectifs)" prononcé 2 semaines après une dénonciation de harcèlement sera présumé nul.
 
 4. **Consultez un avocat** dès qu'un risque de nullité est identifié. Le coût du conseil est dérisoire comparé au coût d'un licenciement nul.
 

@@ -1,23 +1,29 @@
 ---
-title: "Régime social des indemnités de rupture : le tableau 2026"
-excerpt: "Le régime social des indemnités de rupture du contrat de travail est un labyrinthe pour les gestionnaires de paie. CSG, cotisations sociales, forfait social : chaque type de rupture obéit à des règles spécifiques."
-date: "2026-03-01"
-category: "economie"
-tags: ["indemnités rupture", "régime social", "exonération", "cotisations"]
-readTime: "7 min"
+title: 'Régime social des indemnités de rupture : le tableau 2026'
+excerpt: >-
+  Le régime social des indemnités de rupture du contrat de travail est un
+  labyrinthe pour les gestionnaires de paie.
+date: '2026-03-01'
+category: economie
+tags:
+  - indemnités rupture
+  - régime social
+  - exonération
+  - cotisations
+readTime: 7 min
 sources:
-  - "Article L.242-1 du Code de la sécurité sociale"
-  - "Article L.136-1-1 du Code de la sécurité sociale"
-  - "Lettre circulaire ACOSS n° 2025-0000015"
-  - "BOSS, fiche Indemnités de rupture §710"
-  - "Article 80 duodecies du CGI"
+  - Article L.242-1 du Code de la sécurité sociale
+  - Article L.136-1-1 du Code de la sécurité sociale
+  - Lettre circulaire ACOSS n° 2025-0000015
+  - 'BOSS, fiche Indemnités de rupture §710'
+  - Article 80 duodecies du CGI
 ---
 
 Le traitement social des indemnités versées à l'occasion de la rupture du contrat de travail est l'un des sujets les plus techniques de la gestion de paie. Cotisations de Sécurité sociale, CSG/CRDS, forfait social : chaque composante obéit à des règles propres, avec des seuils d'exonération qui varient selon la nature de la rupture. Ce tableau synthétique, actualisé pour 2026, est l'outil de référence du gestionnaire de paie et du DAF.
 
 ## Le principe général
 
-Les indemnités de rupture bénéficient d'une exonération de cotisations sociales et de CSG/CRDS dans certaines limites. L'exonération s'applique à la fraction de l'indemnité qui n'excède pas le montant prévu par la loi, la convention collective ou l'accord professionnel.
+Les [indemnités de rupture](https://enclair.media/articles/indemnites-rupture-regime-social-fiscal-2026) bénéficient d'une exonération de cotisations sociales et de CSG/CRDS dans certaines limites. L'exonération s'applique à la fraction de l'indemnité qui n'excède pas le montant prévu par la loi, la [convention collective](https://enclair.media/articles/mutuelle-entreprise-minimum-conventionnel) ou l'accord professionnel.
 
 Au-delà des seuils, les indemnités sont soumises à cotisations dès le premier euro si elles dépassent **2 PASS** (94 200 € en 2026) ou **10 PASS** (471 000 €) selon le régime applicable.
 
@@ -88,7 +94,7 @@ Lorsque le montant total des indemnités de rupture (toutes indemnités confondu
 
 **Confondre le régime fiscal et le régime social.** Les seuils d'exonération ne sont pas identiques en matière fiscale et sociale.
 
-**Omettre le forfait social sur la rupture conventionnelle.** Le forfait social de 20 % sur la part exonérée est un coût spécifique à la rupture conventionnelle, souvent oublié dans les simulations.
+**Omettre le forfait social sur la [rupture conventionnelle](https://enclair.media/articles/nouveau-formulaire-rupture-conventionnelle-ce-qui-change).** Le forfait social de 20 % sur la part exonérée est un coût spécifique à la rupture conventionnelle, souvent oublié dans les simulations.
 
 **Mal gérer le cumul d'indemnités.** Lorsque le salarié perçoit plusieurs indemnités (indemnité de licenciement + indemnité transactionnelle), elles doivent être cumulées pour apprécier les seuils d'exonération.
 

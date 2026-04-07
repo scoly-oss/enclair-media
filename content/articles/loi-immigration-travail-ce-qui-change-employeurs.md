@@ -1,15 +1,21 @@
 ---
-title: "Loi immigration et travail : ce qui change pour les employeurs"
-excerpt: "Vérification renforcée des titres de séjour, nouvelles sanctions, obligation de vigilance étendue — la loi immigration modifie significativement vos obligations en matière d'embauche de travailleurs étrangers."
-date: "2026-02-23"
-category: "decryptage"
-tags: ["immigration", "titre de séjour", "embauche étranger", "travail illégal"]
-readTime: "7 min"
+title: 'Loi immigration et travail : ce qui change pour les employeurs'
+excerpt: >-
+  Vérification renforcée des titres de séjour, nouvelles sanctions, obligation
+  de vigilance étendue — la loi immigration modifie significativement vos.
+date: '2026-02-23'
+category: decryptage
+tags:
+  - immigration
+  - titre de séjour
+  - embauche étranger
+  - travail illégal
+readTime: 7 min
 sources:
-  - "Loi n° 2024-42 du 26 janvier 2024 (loi immigration)"
-  - "Code du travail, articles L.8251-1 et L.8256-1"
-  - "Code de l'entrée et du séjour des étrangers, articles L.414-10 et suivants"
-  - "Décret n° 2024-814 du 10 juillet 2024"
+  - Loi n° 2024-42 du 26 janvier 2024 (loi immigration)
+  - 'Code du travail, articles L.8251-1 et L.8256-1'
+  - 'Code de l''entrée et du séjour des étrangers, articles L.414-10 et suivants'
+  - Décret n° 2024-814 du 10 juillet 2024
 ---
 
 Vous recrutez un ingénieur de nationalité étrangère titulaire d'un titre de séjour autorisant le travail. Vous avez vérifié le document lors de l'embauche. Mais savez-vous que vous devez effectuer cette vérification avant l'embauche, auprès de la préfecture, et que le délai de réponse conditionne votre droit d'embaucher ?
@@ -18,7 +24,7 @@ La loi du 26 janvier 2024, dite loi immigration, et ses décrets d'application o
 
 ## L'obligation de vérification préalable à l'embauche
 
-L'article L.8251-1 du Code du travail interdit à tout employeur d'embaucher un ressortissant étranger non muni d'un titre l'autorisant à travailler en France. Cette interdiction s'applique quels que soient la nationalité, le type de contrat (CDI, CDD, intérim) et la durée du travail.
+L'article L.8251-1 du Code du travail interdit à tout employeur d'embaucher un ressortissant étranger non muni d'un titre l'autorisant à travailler en France. Cette interdiction s'applique quels que soient la nationalité, le type de contrat (CDI, CDD, intérim) et la [durée du travail](https://enclair.media/articles/duree-maximale-travail-trois-plafonds).
 
 Avant l'embauche, l'employeur doit vérifier l'authenticité du titre de séjour auprès de la préfecture du lieu d'embauche ou du siège de l'entreprise. La demande de vérification doit être adressée au moins deux jours ouvrables avant la date d'effet du contrat. La préfecture dispose d'un délai de deux jours ouvrables pour répondre. À défaut de réponse dans ce délai, l'obligation de vérification est réputée accomplie.
 
@@ -36,9 +42,9 @@ La contribution spéciale due à l'OFII (Office français de l'immigration et de
 
 Tous les titres de séjour n'autorisent pas le travail. La carte de résident (10 ans) et la carte de séjour pluriannuelle « passeport talent » autorisent le travail de plein droit. La carte de séjour temporaire « salarié » ou « travailleur temporaire » autorise le travail dans les conditions mentionnées sur le titre.
 
-Le visa de long séjour valant titre de séjour (VLS-TS) autorise le travail s'il porte la mention « salarié » ou « vie privée et familiale ». L'autorisation provisoire de séjour (APS) ne permet le travail que dans les cas expressément prévus.
+Le visa de long séjour valant titre de séjour (VLS-TS) autorise le travail s'il porte la mention « salarié » ou « [vie privée](https://enclair.media/articles/droit-preuve-ecoutes-telephoniques-recevables) et familiale ». L'autorisation provisoire de séjour (APS) ne permet le travail que dans les cas expressément prévus.
 
-Vérifiez non seulement la validité du titre, mais aussi les mentions relatives à l'activité professionnelle. Un titre de séjour « étudiant » n'autorise le travail qu'à 60 % de la durée annuelle du travail.
+Vérifiez non seulement la [validité](https://enclair.media/articles/clause-non-concurrence-validite-conditions) du titre, mais aussi les mentions relatives à l'activité professionnelle. Un titre de séjour « étudiant » n'autorise le travail qu'à 60 % de la durée annuelle du travail.
 
 ## Le renouvellement du titre : une période à risque
 

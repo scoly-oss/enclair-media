@@ -1,22 +1,30 @@
 ---
-title: "Inaptitude et reclassement : 5 arrêts de 2025 que tout dirigeant devrait connaître"
-excerpt: "La Cour de cassation a rendu plusieurs décisions importantes en 2025 sur l'obligation de reclassement. Dispense, périmètre, clause de non-concurrence — le point complet."
-date: "2026-01-15"
-category: "jurisprudence"
-tags: ["inaptitude", "reclassement", "licenciement", "Cour-de-cassation"]
-readTime: "7 min"
+title: >-
+  Inaptitude et reclassement : 5 arrêts de 2025 que tout dirigeant devrait
+  connaître
+excerpt: >-
+  La Cour de cassation a rendu plusieurs décisions importantes en 2025 sur
+  l'obligation de reclassement.
+date: '2026-01-15'
+category: jurisprudence
+tags:
+  - inaptitude
+  - reclassement
+  - licenciement
+  - Cour-de-cassation
+readTime: 7 min
 sources:
-  - "Cass. soc., 12 février 2025, n°23-22.612, Publié au bulletin"
-  - "Cass. soc., 5 mars 2025, n°23-13.802, Publié au bulletin"
-  - "Cass. soc., 19 mars 2025, n°23-19.813, Publié au bulletin"
-  - "Cass. soc., 11 juin 2025, n°24-15.297, Publié au bulletin"
-  - "Cass. soc., 29 avril 2025, n°23-22.191, Publié au bulletin"
-  - "Articles L.1226-2-1 et L.1226-12 du Code du travail"
+  - 'Cass. soc., 12 février 2025, n°23-22.612, Publié au bulletin'
+  - 'Cass. soc., 5 mars 2025, n°23-13.802, Publié au bulletin'
+  - 'Cass. soc., 19 mars 2025, n°23-19.813, Publié au bulletin'
+  - 'Cass. soc., 11 juin 2025, n°24-15.297, Publié au bulletin'
+  - 'Cass. soc., 29 avril 2025, n°23-22.191, Publié au bulletin'
+  - Articles L.1226-2-1 et L.1226-12 du Code du travail
 ---
 
-Licencier un salarié inapte reste l'un des actes les plus risqués pour un employeur. Une erreur de procédure, une obligation de reclassement mal exécutée, et c'est le licenciement sans cause réelle et sérieuse — avec les indemnités qui vont avec.
+Licencier un salarié inapte reste l'un des actes les plus risqués pour un employeur. Une erreur de procédure, une obligation de reclassement mal exécutée, et c'est le licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher) — avec les indemnités qui vont avec.
 
-En 2025, la chambre sociale de la Cour de cassation a rendu plusieurs arrêts publiés au bulletin qui clarifient (et parfois durcissent) les règles du jeu. Voici ce qu'il faut retenir.
+En 2025, la chambre sociale de la [Cour de cassation](https://enclair.media/articles/obligation-reclassement-cour-cassation-2025) a rendu plusieurs arrêts publiés au bulletin qui clarifient (et parfois durcissent) les règles du jeu. Voici ce qu'il faut retenir.
 
 ## 1. La mention "obstacle à tout reclassement" doit être expresse
 
@@ -34,7 +42,7 @@ La Cour de cassation pose le principe : la mention qui dispense l'employeur de s
 
 Un employeur avait licencié un salarié déclaré inapte suite à un accident du travail sans consulter les délégués du personnel au préalable, au motif qu'il n'avait pas identifié de poste de reclassement disponible.
 
-La Cour casse : **l'obligation de consulter les représentants du personnel sur les possibilités de reclassement existe indépendamment du résultat de la recherche.** Même si vous pensez qu'il n'y a aucun poste, vous devez consulter.
+La Cour casse : **l'obligation de consulter les [représentants du personnel](https://enclair.media/articles/elections-cse-calendrier-etapes) sur les possibilités de reclassement existe indépendamment du résultat de la recherche.** Même si vous pensez qu'il n'y a aucun poste, vous devez consulter.
 
 **Ce que ça change pour vous** : la consultation du CSE sur le reclassement n'est pas une formalité subsidiaire. C'est un préalable obligatoire au licenciement pour inaptitude d'origine professionnelle. L'omettre, c'est un licenciement sans cause réelle et sérieuse.
 

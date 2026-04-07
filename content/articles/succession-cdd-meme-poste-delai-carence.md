@@ -1,18 +1,24 @@
 ---
-title: "Succession de CDD sur un même poste : le délai de carence expliqué"
-excerpt: "Le recours successif à des CDD sur un même poste est encadré par un délai de carence obligatoire. Sa violation entraîne la requalification en CDI. Les règles, les exceptions et les pièges à éviter."
-date: "2025-12-24"
-category: "droit-social"
-tags: ["CDD", "délai de carence", "requalification", "contrat de travail"]
-readTime: "6 min"
+title: 'Succession de CDD sur un même poste : le délai de carence expliqué'
+excerpt: >-
+  Le recours successif à des CDD sur un même poste est encadré par un délai de
+  carence obligatoire. Sa violation entraîne la requalification en CDI.
+date: '2025-12-24'
+category: droit-social
+tags:
+  - CDD
+  - délai de carence
+  - requalification
+  - contrat de travail
+readTime: 6 min
 sources:
-  - "Articles L. 1244-3 et L. 1244-4 du Code du travail"
-  - "Article L. 1245-1 du Code du travail (requalification)"
-  - "Cass. soc., 9 novembre 2022, n° 21-16.525"
-  - "Ordonnance n° 2017-1387 du 22 septembre 2017"
+  - Articles L. 1244-3 et L. 1244-4 du Code du travail
+  - Article L. 1245-1 du Code du travail (requalification)
+  - 'Cass. soc., 9 novembre 2022, n° 21-16.525'
+  - Ordonnance n° 2017-1387 du 22 septembre 2017
 ---
 
-La conclusion de CDD successifs sur un même poste est l'un des sujets les plus piégeux du droit du travail. Le délai de carence, souvent mal compris, est la clé de voûte du dispositif. Son non-respect entraîne automatiquement la requalification en CDI.
+La conclusion de CDD successifs sur un même poste est l'un des sujets les plus piégeux du droit du travail. Le délai de carence, souvent mal compris, est la clé de voûte du dispositif. Son non-respect entraîne automatiquement la [requalification](https://enclair.media/articles/temps-partiel-mentions-obligatoires-oubliees) en CDI.
 
 ## Le principe du délai de carence
 
@@ -68,7 +74,7 @@ La violation du délai de carence entraîne la **requalification du second CDD e
 La requalification en CDI implique :
 
 - Une **indemnité de requalification** au moins égale à un mois de salaire (article L. 1245-2)
-- Si le CDD requalifié a pris fin, la rupture produit les effets d'un **licenciement sans cause réelle et sérieuse** : indemnité de licenciement, indemnité compensatrice de préavis, dommages-intérêts selon le barème Macron
+- Si le CDD requalifié a pris fin, la rupture produit les effets d'un **licenciement [sans cause réelle et sérieuse](https://enclair.media/articles/licenciement-nul-vs-sans-cause-difference-qui-coute-cher)** : indemnité de licenciement, indemnité compensatrice de préavis, dommages-intérêts selon le barème Macron
 - Le remboursement de la **prime de précarité** (qui n'est plus due en CDI) peut être demandé par l'employeur, mais cette possibilité est rarement mise en œuvre
 
 ### La prescription
@@ -95,6 +101,6 @@ Le décompte se fait en **jours d'ouverture** de l'entreprise (jours où l'entre
 2. **Identifier clairement le motif** de chaque CDD et le poste concerné
 3. **Calculer précisément** le délai de carence avant chaque nouvelle embauche en CDD
 4. **Vérifier les dispositions conventionnelles** : votre convention de branche prévoit-elle des dérogations ?
-5. **En cas de doute**, privilégier le CDI de chantier ou le recours à l'intérim, qui ne sont pas soumis aux mêmes contraintes
+5. **En cas de doute**, privilégier le [CDI de chantier](https://enclair.media/articles/contrat-de-chantier-alternative-cdd) ou le recours à l'intérim, qui ne sont pas soumis aux mêmes contraintes
 
 La succession de CDD est une source majeure de contentieux de requalification. La rigueur dans le suivi des délais de carence est le meilleur rempart contre ce risque.
